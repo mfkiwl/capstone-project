@@ -2,15 +2,14 @@
 import socket
 # Select module gives operating level IO 
 import select
+from serverconfigs import *
 
-HEADER_LENGTH = 10
-IP = "127.0.0.1"
-PORT = 1234
+
 # initialize server socket and modify it to let us reuse address
 server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 # connect socket to IP and port and begin listening
-server_socket.bind((IP,PORT))
+server_socket.bind((SERVER_IP,SERVER_PORT))
 server_socket.listen()
 # Keep list of sockets to keep track of and begin dictionary of clients
 sockets_list = [server_socket]
