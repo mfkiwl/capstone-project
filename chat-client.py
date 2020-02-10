@@ -4,22 +4,24 @@ import select
 import errno
 import sys
 from serverconfigs import *
+# SERVER_IP and SERVER_PORT are the IP and port # of the chat server. Can be changed from serverconfigs.py
+# BYTE_FORMAT is the encoding format used. Currently UTF-8, can be changed from serverconfigs.py
 
 my_username = input("Username: ")
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect((SERVER_IP,SERVER_PORT))
 client_socket.setblocking(False)
 
-username = my_username.encode('utf-8')
-username_header = f"{len(username):<{HEADER_LENGTH}}".encode('utf-8')
+username = my_username.encode(BYTE_FORMAT)
+username_header = f"{len(username):<{HEADER_LENGTH}}".encode(BYTE_FORMAT)
 client_socket.send(username_header + username)
 
 while True:
     message = input(f"{my_username} > ")
 
     if message:
-        message = message.encode('utf-8')
-        message_header = f"{len(message):<{HEADER_LENGTH}}".encode('utf-8')
+        message = message.encode(BYTE_FORMAT)
+        message_header = f"{len(message):<{HEADER_LENGTH}}".encode(BYTE_FORMAT)
         client_socket.send(message_header + message)
 
     try:
@@ -29,13 +31,13 @@ while True:
                 print("connection closed by server")
                 sys.exit()
 
-            username_length = int(username_header.decode('utf-8').strip())
-            username = client_socket.recv(username_length).decode('utf-8')
+            username_length = int(username_header.decode(BYTE_FORMAT).strip())
+            username = client_socket.recv(username_length).decode(BYTE_FORMAT)
             # since server sends (user['header'] + user['data'] + message['header'] + message['data']),
             # we have already extracted username header & data
             message_header = client_socket.recv(HEADER_LENGTH)
-            message_length = int(message_header.decode('utf-8').strip())
-            message = client_socket.recv(message_length).decode('utf-8')
+            message_length = int(message_header.decode(BYTE_FORMAT).strip())
+            message = client_socket.recv(message_length).decode(BYTE_FORMAT)
 
             print(f"{username} > {message}")
 

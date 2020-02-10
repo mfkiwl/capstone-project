@@ -3,6 +3,7 @@ import socket
 # Select module gives operating level IO 
 import select
 from serverconfigs import *
+# SERVER_IP and SERVER_PORT are the IP and port # of the chat server. Can be changed from serverconfigs.py
 
 
 # initialize server socket and modify it to let us reuse address
@@ -22,7 +23,7 @@ def receive_message(client_socket):
         # if no header received, then client closed connection
         if not len(message_header): return False
         # Else, extract message length from header and return a dictionary containing header and message
-        message_length = int(message_header.decode('utf-8'))
+        message_length = int(message_header.decode(BYTE_FORMAT))
         return {"header":message_header,"data": client_socket.recv(message_length)}
 
     except: # if client sends absolute bonkers big message
@@ -41,18 +42,18 @@ def main():
                 # add new connection to list of client sockets
                 sockets_list.append(client_socket)
                 clients[client_socket] = user
-                print(f"Accepted new connection from {client_address[0]}:{client_address[1]} username:{user['data'].decode('utf-8')}")
+                print(f"Accepted new connection from {client_address[0]}:{client_address[1]} username:{user['data'].decode(BYTE_FORMAT)}")
             
             else:
                 message = receive_message(notified_socket)
                 if message is False:
-                    print(f"Closed section from {clients[notified_socket]['data'].decode('utf-8')}")
+                    print(f"Closed section from {clients[notified_socket]['data'].decode(BYTE_FORMAT)}")
                     sockets_list.remove(notified_socket)
                     del clients[notified_socket]
                     continue
 
                 user = clients[notified_socket]
-                print(f"Received message from {user['data'].decode('utf-8')}:{message['data'].decode('utf-8')}")
+                print(f"Received message from {user['data'].decode(BYTE_FORMAT)}:{message['data'].decode(BYTE_FORMAT)}")
 
                 # Relay message sent from one client to all others (except original sender)
                 for client_socket in clients:
