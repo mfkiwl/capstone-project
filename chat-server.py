@@ -42,7 +42,7 @@ def main():
                 # add new connection to list of client sockets
                 sockets_list.append(client_socket)
                 clients[client_socket] = user
-                print(f"Accepted new connection from {client_address[0]}:{client_address[1]} username:{user['data'].decode(BYTE_FORMAT)}")
+                print(f"Accepted new connection from {client_address[0]}:{client_address[1]} with username: {user['data'].decode(BYTE_FORMAT)}")
             
             else:
                 message = receive_message(notified_socket)
@@ -53,7 +53,7 @@ def main():
                     continue
 
                 user = clients[notified_socket]
-                print(f"Received message from {user['data'].decode(BYTE_FORMAT)}:{message['data'].decode(BYTE_FORMAT)}")
+                print(f"{user['data'].decode(BYTE_FORMAT)}:{message['data'].decode(BYTE_FORMAT)}")
 
                 # Relay message sent from one client to all others (except original sender)
                 for client_socket in clients:
