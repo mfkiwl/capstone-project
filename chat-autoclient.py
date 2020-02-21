@@ -1,10 +1,11 @@
 # Based on work by sentdex https://pythonprogramming.net/client-chatroom-sockets-tutorial-python-3/
-# Variant of chat-client.py that automatically sends a message
+# Variant of chat-client.py, that automatically sends a message
+# For load-testing and potentially the final product
 import socket
 import select
 import errno
 import sys
-from time import thread_time
+from time import time
 import timeit
 from serverconfigs import *
 # SERVER_IP and SERVER_PORT are the IP and port # of the chat server. Can be changed from serverconfigs.py
@@ -20,12 +21,12 @@ username_header = f"{len(username):<{HEADER_LENGTH}}".encode(BYTE_FORMAT)
 client_socket.send(username_header + username)
 
 timeSinceLastMsg = 0
-timerExecTime = timeit.timeit('thread_time()')
-print(f"thread_time executes in {timerExecTime} seconds")
+timerExecTime = timeit.timeit('time()')
+print(f"time executes in {timerExecTime} seconds")
 
 while True:
     message = f"timeSinceLastMsg:{timeSinceLastMsg}"
-    startTime = thread_time()
+    startTime = time()
 
     if message:
         message = message.encode(BYTE_FORMAT)
@@ -58,4 +59,5 @@ while True:
     except Exception as e:
         print('General error',str(e))
         sys.exit()
-    timeSinceLastMsg = thread_time() - timeSinceLastMsg - timerExecTime
+    # take current time, subtract start time, and subtract time for both time calls
+    timeSinceLastMsg = time() - startTime - 2*timerExecTime
