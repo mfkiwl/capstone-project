@@ -21,7 +21,7 @@ username_header = f"{len(username):<{HEADER_LENGTH}}".encode(BYTE_FORMAT)
 client_socket.send(username_header + username)
 
 timeSinceLastMsg = 0
-timerExecTime = timeit.timeit('time()')
+timerExecTime = timeit.timeit('time.time()')
 print(f"time executes in {timerExecTime} seconds")
 
 while True:
