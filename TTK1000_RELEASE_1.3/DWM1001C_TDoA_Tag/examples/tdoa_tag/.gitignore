@@ -1,0 +1,10 @@
+*.o
+*.d
+*.unstripped
+*.map
+*.bin
+*.o.cmd
+*.jlink
+*.emSession
+
+Output
