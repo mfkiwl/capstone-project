@@ -35,12 +35,13 @@
 #define RNG_DELAY_MS 250
 
 /* Frames used in the ranging process. See NOTE 1,2 below. */
-static uint8 tx_poll_msg[] = {0x41, 0x88, 0, 0xCA, 0xDE, 'W', 'A', 'V', 'E', 0xE0, 0, 0};
 static uint8 rx_resp_msg[] = {0x41, 0x88, 0, 0xCA, 0xDE, 'V', 'E', 'W', 'A', 0xE1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 /* Length of the common part of the message (up to and including the function code, see NOTE 1 below). */
 #define ALL_MSG_COMMON_LEN 10
 /* Indexes to access some of the fields in the frames defined above. */
 #define ALL_MSG_SN_IDX 2
+#define TAG_ID_IDX_0 7
+#define TAG_ID_IDX_1 8
 #define RESP_MSG_POLL_RX_TS_IDX 10
 #define RESP_MSG_RESP_TX_TS_IDX 14
 #define RESP_MSG_TS_LEN 4
@@ -113,34 +114,32 @@ int ss_init_run(void)
       dwt_readrxdata(rx_buffer, frame_len, 0);
     }
 
-    /* Check that the frame is the expected response from the companion "SS TWR responder" example.
-    * As the sequence number field of the frame is not relevant, it is cleared to simplify the validation of the frame. */
+    /* As the sequence number field of the frame is not relevant, it is cleared to simplify the validation of the frame. */
     rx_buffer[ALL_MSG_SN_IDX] = 0;
-    if (memcmp(rx_buffer, rx_resp_msg, ALL_MSG_COMMON_LEN) == 0)
-    {	
-      rx_count++;
-      printf("Reception # : %d\r\n",rx_count);
-      float reception_rate = (float) rx_count / (float) tx_count * 100;
-      printf("Reception rate # : %f\r\n",reception_rate);
-      uint32 poll_tx_ts, resp_rx_ts, poll_rx_ts, resp_tx_ts;
-      int32 rtd_init, rtd_resp;
-      float clockOffsetRatio ;
 
-      /* Read timestamp of reception */
-      resp_rx_ts = dwt_readrxtimestamplo32();
+    rx_count++;
+    printf("Reception # : %d\r\n",rx_count);
+    float reception_rate = (float) rx_count / (float) tx_count * 100;
+    printf("Reception rate # : %f\r\n",reception_rate);
+    uint32 poll_tx_ts, resp_rx_ts, poll_rx_ts, resp_tx_ts;
+    int32 rtd_init, rtd_resp;
+    float clockOffsetRatio ;
 
-      /* Get timestamp of transmission. */
-      resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
+    /* Read timestamp of reception */
+    resp_rx_ts = dwt_readrxtimestamplo32();
 
-      /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
-      clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
+    /* Get timestamp of transmission. */
+    resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
 
-      printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
-      printf("resp_rx_ts: %lu\r\n",resp_rx_ts);
+    /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
+    clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-      /*Reseting receive interrupt flag*/
-      rx_int_flag = 0; 
-    }
+    printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
+    printf("resp_rx_ts: %lu\r\n",resp_rx_ts);
+    printf("tag id: '%c','%c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
+
+    /*Reseting receive interrupt flag*/
+    rx_int_flag = 0; 
    }
 
   if (to_int_flag || er_int_flag)
