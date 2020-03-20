@@ -92,30 +92,8 @@ static volatile int rx_count = 0 ; // Successful receive counter
 int ss_init_run(void)
 {
 
-  /* Loop forever initiating ranging exchanges. */
-
-
-  /* Write frame data to DW1000 and prepare transmission. See NOTE 3 below. */
-  tx_poll_msg[ALL_MSG_SN_IDX] = frame_seq_nb;
-  dwt_writetxdata(sizeof(tx_poll_msg), tx_poll_msg, 0); /* Zero offset in TX buffer. */
-  dwt_writetxfctrl(sizeof(tx_poll_msg), 0, 1); /* Zero offset in TX buffer, ranging. */
-
-  /* Start transmission, indicating that a response is expected so that reception is enabled automatically after the frame is sent and the delay
-  * set by dwt_setrxaftertxdelay() has elapsed. */
-  dwt_starttx(DWT_START_TX_IMMEDIATE | DWT_RESPONSE_EXPECTED);
-
-  /*Waiting for transmission success flag*/
-  while (!(tx_int_flag))
-  {};
-
-  if (tx_int_flag)
-  {
-    tx_count++;
-    printf("Transmission # : %d\r\n",tx_count);
-
-    /*Reseting tx interrupt flag*/
-    tx_int_flag = 0 ;
-  }
+  // start reception immediately
+  dwt_rxenable(DWT_START_RX_IMMEDIATE);
 
   /* Wait for reception, timeout or error interrupt flag*/
   while (!(rx_int_flag || to_int_flag|| er_int_flag))
@@ -148,24 +126,17 @@ int ss_init_run(void)
       int32 rtd_init, rtd_resp;
       float clockOffsetRatio ;
 
-      /* Retrieve poll transmission and response reception timestamps. See NOTE 4 below. */
-      poll_tx_ts = dwt_readtxtimestamplo32();
+      /* Read timestamp of reception */
       resp_rx_ts = dwt_readrxtimestamplo32();
+
+      /* Get timestamp of transmission. */
+      resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
 
       /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
       clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-      /* Get timestamps embedded in response message. */
-      resp_msg_get_ts(&rx_buffer[RESP_MSG_POLL_RX_TS_IDX], &poll_rx_ts);
-      resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
-
-      /* Compute time of flight and distance, using clock offset ratio to correct for differing local and remote clock rates */
-      rtd_init = resp_rx_ts - poll_tx_ts;
-      rtd_resp = resp_tx_ts - poll_rx_ts;
-
-      tof = ((rtd_init - rtd_resp * (1.0f - clockOffsetRatio)) / 2.0f) * DWT_TIME_UNITS; // Specifying 1.0f and 2.0f are floats to clear warning 
-      distance = tof * SPEED_OF_LIGHT;
-      printf("Distance : %f\r\n",distance);
+      printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
+      printf("resp_rx_ts: %lu\r\n",resp_rx_ts);
 
       /*Reseting receive interrupt flag*/
       rx_int_flag = 0; 
