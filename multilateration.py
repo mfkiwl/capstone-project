@@ -1,9 +1,10 @@
+# Implementation of 
+# https://en.wikipedia.org/wiki/Multilateration#Cartesian_solution_with_limited_computational_resources
+
 import numpy as np
 
 v = 299702547 #speed of light in air (meters/second)
 dim = 3 # number of dimensions we are solving for
-
-
 
 ''' Calculates the time difference of a wavefront touching two receivers given the wavefront's speed
 Ta: time of arrival at receiver A
@@ -15,9 +16,9 @@ def GetVTM(Ta, Tb, vel = v):
 
 ''' Calculates one of the first three coefficients in Ax + By + Cz + D = 0
 Pm, P1,: (Axis coordinate of receivers M & 1 -- must be the same axis)
-    P = X-coord -> returns Am
-    P = Y-coord -> returns Bm
-    P = Z-coord -> returns Cm
+    P = X-coord -> returns A
+    P = Y-coord -> returns B
+    P = Z-coord -> returns C
 Tm, T1, T0: (signal's time of arrival @ receiver M, 1, & 0 respectively)'''
 def GetCoeffABC(Pm, P1, Tm, T1, T0):
     vtM = GetVTM(Tm,T0)
@@ -46,10 +47,9 @@ def GetXYZEquations(Xm, Ym, Zm, X1, Y1, Z1, Tm, T1, T0):
     D = GetCoeffD(Xm, Ym, Zm, X1, Y1, Z1, Tm, T1, T0)
     return (A,B,C,D)
 
-'''
 
-'''
-def LocateTag(*args):
+def LocateTag(*args): # generates Equation 7 from the wikipedia article
+
     # Make a list of the timestamps
     timestamps = list(args)
 
