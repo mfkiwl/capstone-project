@@ -51,10 +51,10 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="116" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="97" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="32" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_resp_main.c" debugPath="../ss_resp_main.c" selected="1" top="13" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="116" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="1" top="23" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="32" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_resp_main.c" debugPath="../ss_resp_main.c" selected="0" top="38" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1222" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" debugPath="../../../deca_driver/deca_device_api.h" selected="0" top="1193" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/external/fprintf/nrf_fprintf.c" debugPath="../../../nRF5_SDK_14.2.0/external/fprintf/nrf_fprintf.c" selected="0" top="44" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ss_twr_resp" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="C:/WorkArea/Repositories/dwm1001-keil-examples/nRF5_SDK_14.2.0/components/toolchain/ses" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ss_twr_resp" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="C:/WorkArea/Repositories/dwm1001-keil-examples/nRF5_SDK_14.2.0/components/toolchain/ses" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
