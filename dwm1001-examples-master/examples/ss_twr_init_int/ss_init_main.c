@@ -123,13 +123,13 @@ int ss_init_run(void)
     // printf("Reception rate # : %f\r\n",reception_rate);
     uint32 poll_tx_ts, resp_rx_ts, poll_rx_ts, resp_tx_ts;
     int32 rtd_init, rtd_resp;
-    // long double resp_rx_ts_sec;
+    long double resp_rx_ts_sec;
     float clockOffsetRatio ;
 
     /* Read timestamp of reception & convert to seconds */
     
     resp_rx_ts = dwt_readrxtimestamphi32();
-    // resp_rx_ts_sec = (resp_rx_ts * 1.0) * 499.2 * 128;
+    resp_rx_ts_sec = (resp_rx_ts * 1.0) / (499.2 * 128);
 
     /* Get timestamp of transmission. */
     resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
@@ -137,9 +137,9 @@ int ss_init_run(void)
     /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-    // printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
+    //printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
     printf("reception timestamp (DTU): %lu\r\n",resp_rx_ts);
-    // printf("reception timestamp (S): %le\r\n",resp_rx_ts_sec);
+    printf("reception timestamp (S): %le\r\n",resp_rx_ts_sec);
     printf("anchor id: RED\r\n");
     printf("tag id: '%c','%c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("\n");
