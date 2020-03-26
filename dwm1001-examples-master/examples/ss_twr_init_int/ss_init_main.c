@@ -123,10 +123,13 @@ int ss_init_run(void)
     // printf("Reception rate # : %f\r\n",reception_rate);
     uint32 poll_tx_ts, resp_rx_ts, poll_rx_ts, resp_tx_ts;
     int32 rtd_init, rtd_resp;
+    // long double resp_rx_ts_sec;
     float clockOffsetRatio ;
 
-    /* Read timestamp of reception */
-    resp_rx_ts = dwt_readrxtimestamplo32();
+    /* Read timestamp of reception & convert to seconds */
+    
+    resp_rx_ts = dwt_readrxtimestamphi32();
+    // resp_rx_ts_sec = (resp_rx_ts * 1.0) * 499.2 * 128;
 
     /* Get timestamp of transmission. */
     resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
@@ -135,7 +138,8 @@ int ss_init_run(void)
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
     // printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
-    printf("reception timestamp: %lu\r\n",resp_rx_ts);
+    printf("reception timestamp (DTU): %lu\r\n",resp_rx_ts);
+    // printf("reception timestamp (S): %le\r\n",resp_rx_ts_sec);
     printf("anchor id: RED\r\n");
     printf("tag id: '%c','%c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("\n");
@@ -296,9 +300,7 @@ void ss_initiator_task_function (void * pvParameter)
 * 3. dwt_writetxdata() takes the full size of the message as a parameter but only copies (size - 2) bytes as the check-sum at the end of the frame is
 *    automatically appended by the DW1000. This means that our variable could be two bytes shorter without losing any data (but the sizeof would not
 *    work anymore then as we would still have to indicate the full length of the frame to dwt_writetxdata()).
-* 4. The high order byte of each 40-bit time-stamps is discarded here. This is acceptable as, on each device, those time-stamps are not separated by
-*    more than 2**32 device time units (which is around 67 ms) which means that the calculation of the round-trip delays can be handled by a 32-bit
-*    subtraction.
+* 4. [ELIMINATED, was justification for using readrxtimestamplo32 instead of readrxtimestamphi32]
 * 5. The user is referred to DecaRanging ARM application (distributed with EVK1000 product) for additional practical example of usage, and to the
 *     DW1000 API Guide for more details on the DW1000 driver functions.
 * 6. The use of the carrier integrator value to correct the TOF calculation, was added Feb 2017 for v1.3 of this example.  This significantly
