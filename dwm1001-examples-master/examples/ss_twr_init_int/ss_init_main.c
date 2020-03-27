@@ -24,6 +24,7 @@
 #include <string.h>
 #include "FreeRTOS.h"
 #include "task.h"
+#include "inttypes.h"
 #include "deca_device_api.h"
 #include "deca_regs.h"
 #include "port_platform.h"
@@ -69,6 +70,7 @@ static double distance;
 
 /* Declaration of static functions. */
 static void resp_msg_get_ts(uint8 *ts_field, uint32 *ts);
+static uint64_t get_rx_timestamp_u64(void);
 
 /*Interrupt flag*/
 static volatile int tx_int_flag = 0 ; // Transmit success interrupt flag
@@ -121,15 +123,17 @@ int ss_init_run(void)
     printf("Reception # : %d\r\n",rx_count);
     float reception_rate = (float) rx_count / (float) tx_count * 100;
     // printf("Reception rate # : %f\r\n",reception_rate);
-    uint32 poll_tx_ts, resp_rx_ts, poll_rx_ts, resp_tx_ts;
-    int32 rtd_init, rtd_resp;
+    uint32 resp_rx_ts_lo, resp_rx_ts_hi, resp_tx_ts;
+    uint64_t resp_rx_ts;
     long double resp_rx_ts_sec;
     float clockOffsetRatio ;
 
     /* Read timestamp of reception & convert to seconds */
     
-    resp_rx_ts = dwt_readrxtimestamphi32();
-    resp_rx_ts_sec = (resp_rx_ts * 1.0) / (499.2 * 128);
+    resp_rx_ts_lo = dwt_readrxtimestamplo32();
+    resp_rx_ts_hi = dwt_readrxtimestamphi32();
+    resp_rx_ts = get_rx_timestamp_u64();
+    // resp_rx_ts_sec = (resp_rx_ts * 1.0f) / (499.2 * 128);
 
     /* Get timestamp of transmission. */
     resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
@@ -138,8 +142,9 @@ int ss_init_run(void)
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
     //printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
-    printf("reception timestamp (DTU): %lu\r\n",resp_rx_ts);
-    printf("reception timestamp (S): %le\r\n",resp_rx_ts_sec);
+    printf("resp_rx_ts_hi: %lx\r\n", resp_rx_ts_hi);
+    printf("resp_rx_ts_lo: %lx\r\n", resp_rx_ts_lo);
+    printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
     printf("anchor id: RED\r\n");
     printf("tag id: '%c','%c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("\n");
@@ -161,6 +166,30 @@ int ss_init_run(void)
     /* Execute a delay between ranging exchanges. */
     //     deca_sleep(RNG_DELAY_MS);
     //	return(1);
+}
+
+/*! ------------------------------------------------------------------------------------------------------------------
+* @fn get_rx_timestamp_u64()
+*
+* @brief Get the RX time-stamp in a 64-bit variable.
+*        /!\ This function assumes that length of time-stamps is 40 bits, for both TX and RX!
+*
+* @param  none
+*
+* @return  64-bit value of the read time-stamp.
+*/
+static uint64_t get_rx_timestamp_u64(void)
+{
+  uint8 ts_tab[5];
+  uint64_t ts = 0;
+  int i;
+  dwt_readrxtimestamp(ts_tab);
+  for (i = 4; i >= 0; i--)
+  {
+    ts <<= 8;
+    ts |= ts_tab[i];
+  }
+  return ts;
 }
 
 /*! ------------------------------------------------------------------------------------------------------------------

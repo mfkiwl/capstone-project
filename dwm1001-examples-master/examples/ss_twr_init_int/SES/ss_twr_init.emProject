@@ -114,5 +114,6 @@
     inherited_configurations="Internal"
     linker_additional_options=""
     linker_printf_fp_enabled="Float"
+    linker_printf_fmt_level="long long"
     linker_section_placement_file="$(ProjectDir)/RTE/flash_placement.xml" />
 </solution>
