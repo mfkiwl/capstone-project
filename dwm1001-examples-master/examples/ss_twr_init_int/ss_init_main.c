@@ -122,18 +122,21 @@ int ss_init_run(void)
     rx_count++;
     printf("Reception # : %d\r\n",rx_count);
     float reception_rate = (float) rx_count / (float) tx_count * 100;
-    // printf("Reception rate # : %f\r\n",reception_rate);
     uint32 resp_rx_ts_lo, resp_rx_ts_hi, resp_tx_ts;
     uint64_t resp_rx_ts;
     long double resp_rx_ts_sec;
+    long long resp_rx_ts_nanosec;
     float clockOffsetRatio ;
 
     /* Read timestamp of reception & convert to seconds */
     
-    resp_rx_ts_lo = dwt_readrxtimestamplo32();
-    resp_rx_ts_hi = dwt_readrxtimestamphi32();
+    // resp_rx_ts_lo = dwt_readrxtimestamplo32();
+    // resp_rx_ts_hi = dwt_readrxtimestamphi32();
+
     resp_rx_ts = get_rx_timestamp_u64();
-    // resp_rx_ts_sec = (resp_rx_ts * 1.0f) / (499.2 * 128);
+    resp_rx_ts_sec = (long double) resp_rx_ts  / (499.2 * 128);
+    resp_rx_ts_nanosec = resp_rx_ts_sec * (1.0e3);
+    resp_rx_ts_sec = resp_rx_ts_sec / (1.0e6);
 
     /* Get timestamp of transmission. */
     resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
@@ -141,10 +144,11 @@ int ss_init_run(void)
     /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-    //printf("resp_tx_ts: %lu\r\n",resp_tx_ts);
-    printf("resp_rx_ts_hi: %lx\r\n", resp_rx_ts_hi);
-    printf("resp_rx_ts_lo: %lx\r\n", resp_rx_ts_lo);
+    // printf("resp_rx_ts_hi: %lx\r\n", resp_rx_ts_hi);
+    // printf("resp_rx_ts_lo: %lx\r\n", resp_rx_ts_lo);
     printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
+    printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
+    printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
     printf("anchor id: RED\r\n");
     printf("tag id: '%c','%c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("\n");
