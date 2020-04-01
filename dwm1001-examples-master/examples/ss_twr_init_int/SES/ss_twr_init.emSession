@@ -2,8 +2,8 @@
 <session>
  <Bookmarks/>
  <Breakpoints groups="Breakpoints" active_group="Breakpoints">
-  <BreakpointListItem trigger="" line="65" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../main.c" useHWbreakpoint="false"/>
-  <BreakpointListItem trigger="" line="66" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="65" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../main.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="66" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../main.c" useHWbreakpoint="false"/>
  </Breakpoints>
  <ExecutionProfileWindow/>
  <FrameBufferWindow>
@@ -57,8 +57,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="185" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="166" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="132" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="1" top="112" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="82" y="128" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="1" top="82" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="120" y="150" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="0" top="121" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="574" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" debugPath="../../../deca_driver/deca_device_api.h" selected="0" top="555" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" debugPath="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" selected="0" top="81" codecName="Default"/>
  </Files>

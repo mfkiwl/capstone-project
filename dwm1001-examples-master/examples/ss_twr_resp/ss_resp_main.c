@@ -82,6 +82,7 @@ static void resp_msg_set_ts(uint8 *ts_field, const uint64 ts);
 typedef unsigned long long uint64;
 static uint64 sys_ts;
 static uint64 resp_tx_ts;
+uint8 resp_tx_ts_hi;
 
 /*! ------------------------------------------------------------------------------------------------------------------
 * @fn main()
@@ -103,14 +104,16 @@ int ss_resp_run(void)
   sys_ts = get_sys_timestamp_u64();
 
   /* Compute final message transmission time. See NOTE 7 below. */
-  resp_tx_time = (sys_ts + (POLL_RX_TO_RESP_TX_DLY_UUS * UUS_TO_DWT_TIME)) >> 8;
+  resp_tx_time = sys_ts >> 8;
   dwt_setdelayedtrxtime(resp_tx_time);
 
   /* Response TX timestamp is the transmission time we programmed plus the antenna delay. */
   resp_tx_ts = (((uint64)(resp_tx_time & 0xFFFFFFFEUL)) << 8) + TX_ANT_DLY;
 
+
   /* Write all timestamps in the final message. See NOTE 8 below. */
   resp_msg_set_ts(&tx_resp_msg[RESP_MSG_RESP_TX_TS_IDX], resp_tx_ts);
+  tx_resp_msg[8] = resp_tx_ts_hi;
 
   /* Write and send the response message. See NOTE 9 below. */
   tx_resp_msg[ALL_MSG_SN_IDX] = frame_seq_nb;
@@ -210,7 +213,8 @@ static void resp_msg_set_ts(uint8 *ts_field, const uint64 ts)
   int i;
   for (i = 0; i < RESP_MSG_TS_LEN; i++)
   {
-    ts_field[i] = (ts >> (i * 8)) & 0xFF;
+    // ts_field[i] = (ts >> (i * 8)) & 0xFF;
+    ts_field[i] = (ts >> ((i+1) * 8)) & 0xFF;
   }
 }
 
@@ -277,9 +281,11 @@ void ss_responder_task_function (void * pvParameter)
 *    response RX timestamp to get final transmission time. The delayed transmission time resolution is 512 device time units which means that the
 *    lower 9 bits of the obtained value must be zeroed. This also allows to encode the 40-bit value in a 32-bit words by shifting the all-zero lower
 *    8 bits.
-* 8. In this operation, the high order byte of each 40-bit timestamps is discarded. This is acceptable as those time-stamps are not separated by
-*    more than 2**32 device time units (which is around 67 ms) which means that the calculation of the round-trip delays (needed in the
-*    time-of-flight computation) can be handled by a 32-bit subtraction.
+* 8 NOW. In this operation, the low order byte of each 40-bit timestamps is discarded. This is to compare the difference in transmission & reception timestamps
+         with an inaccuracy of only 8 ns.
+* 8 FORMER. In this operation, the high order byte of each 40-bit timestamps is discarded. This is acceptable as those time-stamps are not separated by
+*          more than 2** device time units (which is around 67 ms) which means that the calculation of the round-trip delays (needed in the
+*          time-of-flight computation) can be handled by a 32-bit subtraction.
 * 9. dwt_writetxdata() takes the full size of the message as a parameter but only copies (size - 2) bytes as the check-sum at the end of the frame is
 *    automatically appended by the DW1000. This means that our variable could be two bytes shorter without losing any data (but the sizeof would not
 *    work anymore then as we would still have to indicate the full length of the frame to dwt_writetxdata()).
