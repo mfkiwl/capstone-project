@@ -7,10 +7,10 @@ from timeit import timeit
 #forwards line from SIO to FH. if it spots a line that starts with pointMarker, then writes additional line 
 def forwardLine(fh,sio, pointMarker): 
     line = sio.readline()
-    fh.write(line)
     if line.startswith(pointMarker):
+        fh.write(line)
         systime = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
-        fh.write("RPI_rx_ts_nanosec:" + str(systime) + "\r\n")
+        fh.write("RPI_rx_ts_nanosec:" + str(systime))
     else:
         fh.write(line)
 
