@@ -16,7 +16,7 @@ def main(filename,pointMarker="Reception"):
     print("filename opened!")
     try:
         with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
-            sio = io.TextIOWrapper(io.BufferedReader(ser))
+            sio = io.TextIOWrapper(io.BufferedRandom(ser, ser))
             while True:
                 forwardLine(fh,sio,pointMarker)
     except KeyboardInterrupt:
