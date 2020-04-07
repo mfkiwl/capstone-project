@@ -4,12 +4,12 @@ import time
 import sys
 from timeit import timeit
 
-#forwards line from SIO to FH. writes additional line if it spots a line that starts with pointMarker
+#forwards line from SIO to FH. if it spots a line that starts with pointMarker, then writes additional line 
 def forwardLine(fh,sio, pointMarker): 
     line = sio.readline()
-    fh.write(line + "\r\n")
+    fh.write(line)
     if line.startswith(pointMarker):
-        fh.write("RPI_rx_ts_nanosec:" + str(time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)) + "\r\n")
+        fh.write("RPI_rx_ts_nanosec:" + str(time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)))
 
 def main(filename,pointMarker="Reception"):
     fh = open(filename,'w+')
