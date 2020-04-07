@@ -1,0 +1,392 @@
+Reception_#: 16
+resp_rx_ts: 422f4d6e8e
+resp_rx_ts_sec: 4.448703
+resp_rx_ts_nanosec: 4448703007
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 17
+resp_rx_ts: 469323dbaa
+resp_rx_ts_sec: 4.743783
+resp_rx_ts_nanosec: 4743782418
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 18
+resp_rx_ts: 4af6ef0ccc
+resp_rx_ts_sec: 5.038850
+resp_rx_ts_nanosec: 5038850307
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 19
+resp_rx_ts: 4f5aba6c29
+resp_rx_ts_sec: 5.333919
+resp_rx_ts_nanosec: 5333918382
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 20
+resp_rx_ts: 53be83af41
+resp_rx_ts_sec: 5.628984
+resp_rx_ts_nanosec: 5628984291
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 21
+resp_rx_ts: 58224c728d
+resp_rx_ts_sec: 5.924050
+resp_rx_ts_nanosec: 5924049689
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 22
+resp_rx_ts: 5c860d61d0
+resp_rx_ts_sec: 6.219107
+resp_rx_ts_nanosec: 6219107058
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 23
+resp_rx_ts: 60e9cb8907
+resp_rx_ts_sec: 6.514162
+resp_rx_ts_nanosec: 6514161574
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 24
+resp_rx_ts: 654d870840
+resp_rx_ts_sec: 6.809213
+resp_rx_ts_nanosec: 6809213366
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 25
+resp_rx_ts: 69b14cfbca
+resp_rx_ts_sec: 7.104276
+resp_rx_ts_nanosec: 7104275880
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 26
+resp_rx_ts: 6e153712e7
+resp_rx_ts_sec: 7.399375
+resp_rx_ts_nanosec: 7399375460
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 27
+resp_rx_ts: 7278cf7850
+resp_rx_ts_sec: 7.694391
+resp_rx_ts_nanosec: 7694391251
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 28
+resp_rx_ts: 76dc877daf
+resp_rx_ts_sec: 7.989439
+resp_rx_ts_nanosec: 7989439477
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 29
+resp_rx_ts: 7b4040daef
+resp_rx_ts_sec: 8.284489
+resp_rx_ts_nanosec: 8284489082
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 30
+resp_rx_ts: 7fa3fa1c4e
+resp_rx_ts_sec: 8.579539
+resp_rx_ts_nanosec: 8579538574
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 31
+resp_rx_ts: 8407bc49d1
+resp_rx_ts_sec: 8.874598
+resp_rx_ts_nanosec: 8874597218
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 32
+resp_rx_ts: 886b7d3704
+resp_rx_ts_sec: 9.169655
+resp_rx_ts_nanosec: 9169654579
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 33
+resp_rx_ts: 8ccf3fd876
+resp_rx_ts_sec: 9.464715
+resp_rx_ts_nanosec: 9464713687
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 34
+resp_rx_ts: 9133099a0c
+resp_rx_ts_sec: 9.759780
+resp_rx_ts_nanosec: 9759780104
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 35
+resp_rx_ts: 9596c56346
+resp_rx_ts_sec: 10.054833
+resp_rx_ts_nanosec: 10054832192
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 36
+resp_rx_ts: 99fa8136c6
+resp_rx_ts_sec: 10.349885
+resp_rx_ts_nanosec: 10349884322
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 37
+resp_rx_ts: 9e5e412c6b
+resp_rx_ts_sec: 10.644941
+resp_rx_ts_nanosec: 10644940690
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 38
+resp_rx_ts: a2c1fa8bc5
+resp_rx_ts_sec: 10.939991
+resp_rx_ts_nanosec: 10939990303
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 39
+resp_rx_ts: a725b89b47
+resp_rx_ts_sec: 11.235045
+resp_rx_ts_nanosec: 11235044724
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 40
+resp_rx_ts: ab897c0ef5
+resp_rx_ts_sec: 11.530105
+resp_rx_ts_nanosec: 11530104675
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 41
+resp_rx_ts: afed40c041
+resp_rx_ts_sec: 11.825166
+resp_rx_ts_nanosec: 11825165898
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 42
+resp_rx_ts: b4510051c8
+resp_rx_ts_sec: 12.120223
+resp_rx_ts_nanosec: 12120221866
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 43
+resp_rx_ts: b8b4c4d589
+resp_rx_ts_sec: 12.415284
+resp_rx_ts_nanosec: 12415282906
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 44
+resp_rx_ts: bd18798906
+resp_rx_ts_sec: 12.710329
+resp_rx_ts_nanosec: 12710327728
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 45
+resp_rx_ts: c17c18a49f
+resp_rx_ts_sec: 13.005351
+resp_rx_ts_nanosec: 13005350403
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 46
+resp_rx_ts: c5dfb57286
+resp_rx_ts_sec: 13.300372
+resp_rx_ts_nanosec: 13300370715
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 47
+resp_rx_ts: ca4358bc17
+resp_rx_ts_sec: 13.595398
+resp_rx_ts_nanosec: 13595397676
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 48
+resp_rx_ts: cea701c3d6
+resp_rx_ts_sec: 13.890431
+resp_rx_ts_nanosec: 13890430528
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 49
+resp_rx_ts: d30aaeddbf
+resp_rx_ts_sec: 14.185468
+resp_rx_ts_nanosec: 14185467555
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 50
+resp_rx_ts: d76e6ae94a
+resp_rx_ts_sec: 14.480521
+resp_rx_ts_nanosec: 14480519909
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 51
+resp_rx_ts: dbd24e32ee
+resp_rx_ts_sec: 14.775613
+resp_rx_ts_nanosec: 14775612511
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 52
+resp_rx_ts: e035eb64cc
+resp_rx_ts_sec: 15.070633
+resp_rx_ts_nanosec: 15070633224
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 53
+resp_rx_ts: e499b74e4a
+resp_rx_ts_sec: 15.365702
+resp_rx_ts_nanosec: 15365701852
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 54
+resp_rx_ts: e8fd86dbe4
+resp_rx_ts_sec: 15.660775
+resp_rx_ts_nanosec: 15660774214
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 55
+resp_rx_ts: ed615311c1
+resp_rx_ts_sec: 15.955843
+resp_rx_ts_nanosec: 15955843148
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 56
+resp_rx_ts: f1c51ccf42
+resp_rx_ts_sec: 16.250909
+resp_rx_ts_nanosec: 16250909548
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 57
+resp_rx_ts: f628e2fceb
+resp_rx_ts_sec: 16.545972
+resp_rx_ts_nanosec: 16545972295
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 58
+resp_rx_ts: fa8ca012b7
+resp_rx_ts_sec: 16.841026
+resp_rx_ts_nanosec: 16841025716
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 59
+resp_rx_ts: fef0598449
+resp_rx_ts_sec: 17.136075
+resp_rx_ts_nanosec: 17136075401
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 60
+resp_rx_ts: 354157409
+resp_rx_ts_sec: 0.223727
+resp_rx_ts_nanosec: 223726618
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 61
+resp_rx_ts: 7b7cb440b
+resp_rx_ts_sec: 0.518773
+resp_rx_ts_nanosec: 518772580
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 62
+resp_rx_ts: c1b8137be
+resp_rx_ts_sec: 0.813819
+resp_rx_ts_nanosec: 813818684
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 63
+resp_rx_ts: 107f344596
+resp_rx_ts_sec: 1.108862
+resp_rx_ts_nanosec: 1108861817
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 64
+resp_rx_ts: 14e2ea6fbc
+resp_rx_ts_sec: 1.403908
+resp_rx_ts_nanosec: 1403908139
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 65
+resp_rx_ts: 1946a60984
+resp_rx_ts_sec: 1.698960
+resp_rx_ts_nanosec: 1698960038
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 66
+resp_rx_ts: 1daa62618b
+resp_rx_ts_sec: 1.994013
+resp_rx_ts_nanosec: 1994012698
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 67
+resp_rx_ts: 220e20f784
+resp_rx_ts_sec: 2.289068
+resp_rx_ts_nanosec: 2289067658
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 68
+resp_rx_ts: 2671e5257f
+resp_rx_ts_sec: 2.584128
+resp_rx_ts_nanosec: 2584128355
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 69
+resp_rx_ts: 2ad5ad116b
+resp_rx_ts_sec: 2.879193
+resp_rx_ts_nanosec: 2879192890
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 70
+resp_rx_ts: 2f39706b93
+resp_rx_ts_sec: 3.174253
+resp_rx_ts_nanosec: 3174252738
+anchor id: MAGENTA
+tag id: 'B','L'
+
+Reception_#: 71
+resp_rx_ts: 339d2e637a
+resp_rx_ts_sec: 3.469307
+resp_rx_ts_nanosec: 3469307065
+anchor id: MAGENTA
+tag id: 'B','L'
+

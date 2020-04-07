@@ -1,0 +1,588 @@
+Reception_#: 10
+resp_rx_ts: 28756eb151
+resp_rx_ts_sec: 2.719490
+resp_rx_ts_nanosec: 2719489941
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 11
+resp_rx_ts: 2cd948fee2
+resp_rx_ts_sec: 3.014573
+resp_rx_ts_nanosec: 3014573328
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 12
+resp_rx_ts: 313d51266c
+resp_rx_ts_sec: 3.309704
+resp_rx_ts_nanosec: 3309703743
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 13
+resp_rx_ts: 35a111a9b9
+resp_rx_ts_sec: 3.604761
+resp_rx_ts_nanosec: 3604760679
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 14
+resp_rx_ts: 3a04f468ec
+resp_rx_ts_sec: 3.899853
+resp_rx_ts_nanosec: 3899852728
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 15
+resp_rx_ts: 3e68dc681f
+resp_rx_ts_sec: 4.194950
+resp_rx_ts_nanosec: 4194950160
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 16
+resp_rx_ts: 42ccd30f00
+resp_rx_ts_sec: 4.490063
+resp_rx_ts_nanosec: 4490062624
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 17
+resp_rx_ts: 4730c5efeb
+resp_rx_ts_sec: 4.785171
+resp_rx_ts_nanosec: 4785171217
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 18
+resp_rx_ts: 4b94bba0b4
+resp_rx_ts_sec: 5.080283
+resp_rx_ts_nanosec: 5080282695
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 19
+resp_rx_ts: 4ff8b4374f
+resp_rx_ts_sec: 5.375397
+resp_rx_ts_nanosec: 5375397144
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 20
+resp_rx_ts: 545ca9c5b9
+resp_rx_ts_sec: 5.670508
+resp_rx_ts_nanosec: 5670508484
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 21
+resp_rx_ts: 58c0968643
+resp_rx_ts_sec: 5.965611
+resp_rx_ts_nanosec: 5965610794
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 22
+resp_rx_ts: 5d248dd26f
+resp_rx_ts_sec: 6.260724
+resp_rx_ts_nanosec: 6260723920
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 23
+resp_rx_ts: 618882e696
+resp_rx_ts_sec: 6.555835
+resp_rx_ts_nanosec: 6555834769
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 24
+resp_rx_ts: 65ec7474de
+resp_rx_ts_sec: 6.850942
+resp_rx_ts_nanosec: 6850942006
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 25
+resp_rx_ts: 6a50688ec1
+resp_rx_ts_sec: 7.146052
+resp_rx_ts_nanosec: 7146051853
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 26
+resp_rx_ts: 6eb45f549e
+resp_rx_ts_sec: 7.441164
+resp_rx_ts_nanosec: 7441164441
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 27
+resp_rx_ts: 73185b7a67
+resp_rx_ts_sec: 7.736282
+resp_rx_ts_nanosec: 7736282541
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 28
+resp_rx_ts: 777c5367e6
+resp_rx_ts_sec: 8.031396
+resp_rx_ts_nanosec: 8031396313
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 29
+resp_rx_ts: 7be04b4f70
+resp_rx_ts_sec: 8.326511
+resp_rx_ts_nanosec: 8326510061
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 30
+resp_rx_ts: 80444910e6
+resp_rx_ts_sec: 8.621630
+resp_rx_ts_nanosec: 8621629811
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 31
+resp_rx_ts: 84a84087f0
+resp_rx_ts_sec: 8.916744
+resp_rx_ts_nanosec: 8916743108
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 32
+resp_rx_ts: 890c3208fe
+resp_rx_ts_sec: 9.211851
+resp_rx_ts_nanosec: 9211850292
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 33
+resp_rx_ts: 8d7020861c
+resp_rx_ts_sec: 9.506955
+resp_rx_ts_nanosec: 9506954383
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 34
+resp_rx_ts: 91d417a4da
+resp_rx_ts_sec: 9.802068
+resp_rx_ts_nanosec: 9802067327
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 35
+resp_rx_ts: 963814a991
+resp_rx_ts_sec: 10.097187
+resp_rx_ts_nanosec: 10097186320
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 36
+resp_rx_ts: 9a9c12cc24
+resp_rx_ts_sec: 10.392307
+resp_rx_ts_nanosec: 10392306458
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 37
+resp_rx_ts: 9f002f06a3
+resp_rx_ts_sec: 10.687458
+resp_rx_ts_nanosec: 10687457462
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 38
+resp_rx_ts: a363ffd91c
+resp_rx_ts_sec: 10.982532
+resp_rx_ts_nanosec: 10982531126
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 39
+resp_rx_ts: a7c7f7e97a
+resp_rx_ts_sec: 11.277646
+resp_rx_ts_nanosec: 11277645037
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 40
+resp_rx_ts: ac2befd182
+resp_rx_ts_sec: 11.572759
+resp_rx_ts_nanosec: 11572758788
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 41
+resp_rx_ts: b08fe8599f
+resp_rx_ts_sec: 11.867874
+resp_rx_ts_nanosec: 11867873179
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 42
+resp_rx_ts: b4f3e57da4
+resp_rx_ts_sec: 12.162993
+resp_rx_ts_nanosec: 12162992298
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 43
+resp_rx_ts: b957d86f6d
+resp_rx_ts_sec: 12.458102
+resp_rx_ts_nanosec: 12458100959
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 44
+resp_rx_ts: bdbbd0bf22
+resp_rx_ts_sec: 12.753215
+resp_rx_ts_nanosec: 12753215124
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 45
+resp_rx_ts: c21fcd92df
+resp_rx_ts_sec: 13.048335
+resp_rx_ts_nanosec: 13048333921
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 46
+resp_rx_ts: c683c3a656
+resp_rx_ts_sec: 13.343446
+resp_rx_ts_nanosec: 13343445794
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 47
+resp_rx_ts: cae7b1dba9
+resp_rx_ts_sec: 13.638550
+resp_rx_ts_nanosec: 13638549597
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 48
+resp_rx_ts: cf4b9d011d
+resp_rx_ts_sec: 13.933651
+resp_rx_ts_nanosec: 13933650260
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 49
+resp_rx_ts: d3af856021
+resp_rx_ts_sec: 14.228749
+resp_rx_ts_nanosec: 14228748077
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 50
+resp_rx_ts: d813745f29
+resp_rx_ts_sec: 14.523853
+resp_rx_ts_nanosec: 14523852688
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 51
+resp_rx_ts: dc77690238
+resp_rx_ts_sec: 14.818964
+resp_rx_ts_nanosec: 14818963085
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 52
+resp_rx_ts: e0db606ced
+resp_rx_ts_sec: 15.114077
+resp_rx_ts_nanosec: 15114076333
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 53
+resp_rx_ts: e53f5fcfa2
+resp_rx_ts_sec: 15.409198
+resp_rx_ts_nanosec: 15409197754
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 54
+resp_rx_ts: e9a356002c
+resp_rx_ts_sec: 15.704310
+resp_rx_ts_nanosec: 15704309744
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 55
+resp_rx_ts: ee0749f67f
+resp_rx_ts_sec: 15.999420
+resp_rx_ts_nanosec: 15999419449
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 56
+resp_rx_ts: f26b47d0d4
+resp_rx_ts_sec: 16.294538
+resp_rx_ts_nanosec: 16294539298
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 57
+resp_rx_ts: f6cf3ee322
+resp_rx_ts_sec: 16.589653
+resp_rx_ts_nanosec: 16589652192
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 58
+resp_rx_ts: fb33360f02
+resp_rx_ts_sec: 16.884765
+resp_rx_ts_nanosec: 16884765188
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 59
+resp_rx_ts: ff97327d08
+resp_rx_ts_sec: 17.179883
+resp_rx_ts_nanosec: 17179883577
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 60
+resp_rx_ts: 3fb3138e3
+resp_rx_ts_sec: 0.267603
+resp_rx_ts_nanosec: 267603304
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 61
+resp_rx_ts: 85f20f4b3
+resp_rx_ts_sec: 0.562709
+resp_rx_ts_nanosec: 562708672
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 62
+resp_rx_ts: cc3425470
+resp_rx_ts_sec: 0.857865
+resp_rx_ts_nanosec: 857864953
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 63
+resp_rx_ts: 11271ac22c
+resp_rx_ts_sec: 1.152946
+resp_rx_ts_nanosec: 1152946418
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 64
+resp_rx_ts: 158b1697a4
+resp_rx_ts_sec: 1.448064
+resp_rx_ts_nanosec: 1448064197
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 65
+resp_rx_ts: 19ef2a330d
+resp_rx_ts_sec: 1.743206
+resp_rx_ts_nanosec: 1743206358
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 66
+resp_rx_ts: 1e53400869
+resp_rx_ts_sec: 2.038351
+resp_rx_ts_nanosec: 2038350802
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 67
+resp_rx_ts: 22b7511757
+resp_rx_ts_sec: 2.333490
+resp_rx_ts_nanosec: 2333490349
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 68
+resp_rx_ts: 271b575e61
+resp_rx_ts_sec: 2.628619
+resp_rx_ts_nanosec: 2628618839
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 69
+resp_rx_ts: 2b7f495b62
+resp_rx_ts_sec: 2.923727
+resp_rx_ts_nanosec: 2923726519
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 70
+resp_rx_ts: 2fe33a7a24
+resp_rx_ts_sec: 3.218833
+resp_rx_ts_nanosec: 3218833309
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 71
+resp_rx_ts: 3447334eea
+resp_rx_ts_sec: 3.513948
+resp_rx_ts_nanosec: 3513948008
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 72
+resp_rx_ts: 38ab28498b
+resp_rx_ts_sec: 3.809059
+resp_rx_ts_nanosec: 3809058756
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 73
+resp_rx_ts: 3d0f131ffd
+resp_rx_ts_sec: 4.104159
+resp_rx_ts_nanosec: 4104159102
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 74
+resp_rx_ts: 417309a861
+resp_rx_ts_sec: 4.399271
+resp_rx_ts_nanosec: 4399271443
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 75
+resp_rx_ts: 45d6fc76dd
+resp_rx_ts_sec: 4.694380
+resp_rx_ts_nanosec: 4694379963
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 76
+resp_rx_ts: 4a3af43cd6
+resp_rx_ts_sec: 4.989493
+resp_rx_ts_nanosec: 4989493577
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 77
+resp_rx_ts: 4e9eec40e4
+resp_rx_ts_sec: 5.284607
+resp_rx_ts_nanosec: 5284607439
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 78
+resp_rx_ts: 5302e272ea
+resp_rx_ts_sec: 5.579720
+resp_rx_ts_nanosec: 5579719434
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 79
+resp_rx_ts: 5766d254a8
+resp_rx_ts_sec: 5.874825
+resp_rx_ts_nanosec: 5874824954
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 80
+resp_rx_ts: 5bcac7ae69
+resp_rx_ts_sec: 6.169936
+resp_rx_ts_nanosec: 6169936083
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 81
+resp_rx_ts: 602eba402e
+resp_rx_ts_sec: 6.465044
+resp_rx_ts_nanosec: 6465044359
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 82
+resp_rx_ts: 6492ae73a6
+resp_rx_ts_sec: 6.760154
+resp_rx_ts_nanosec: 6760154309
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 83
+resp_rx_ts: 68f6a5151e
+resp_rx_ts_sec: 7.055267
+resp_rx_ts_nanosec: 7055266751
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 84
+resp_rx_ts: 6d5a9a109a
+resp_rx_ts_sec: 7.350378
+resp_rx_ts_nanosec: 7350377502
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 85
+resp_rx_ts: 71be8e09e5
+resp_rx_ts_sec: 7.645487
+resp_rx_ts_nanosec: 7645487219
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 86
+resp_rx_ts: 76226d8317
+resp_rx_ts_sec: 7.940576
+resp_rx_ts_nanosec: 7940575909
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 87
+resp_rx_ts: 7a866c9e4f
+resp_rx_ts_sec: 8.235697
+resp_rx_ts_nanosec: 8235697044
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 88
+resp_rx_ts: 7eea23f740
+resp_rx_ts_sec: 8.530745
+resp_rx_ts_nanosec: 8530744580
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 89
+resp_rx_ts: 834dfe281f
+resp_rx_ts_sec: 8.825828
+resp_rx_ts_nanosec: 8825827853
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 90
+resp_rx_ts: 87b1eb24f7
+resp_rx_ts_sec: 9.120931
+resp_rx_ts_nanosec: 9120930404
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 91
+resp_rx_ts: 8c15d8797a
+resp_rx_ts_sec: 9.416034
+resp_rx_ts_nanosec: 9416033307
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 92
+resp_rx_ts: 9079bc53f9
+resp_rx_ts_sec: 9.711127
+resp_rx_ts_nanosec: 9711126490
+anchor_id: RED
+tag_id: 'B','L'
+
+Reception_#: 93
+resp_rx_ts: 94ddadc09d
+resp_rx_ts_sec: 10.006234
+resp_rx_ts_nanosec: 10006233592
+anchor_id: RED
+tag_id: 'B','L'
+
