@@ -23,11 +23,11 @@ def main(filename,pointMarker="Reception"):
     try:
         with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
-            timeForwardLine = wrapper(forwardLine,fh,sio,pointMarker) # wrapper to time how long it takes to forwardLine
+            # timeForwardLine = wrapper(forwardLine,fh,sio,pointMarker) # wrapper to time how long it takes to forwardLine
             while True:
                 print("butts!")
-                print(str(timeit(timeForwardLine)))
-                #forwardLine(fh,sio,pointMarker)
+                # print(str(timeit(timeForwardLine)))
+                forwardLine(fh,sio,pointMarker)
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
