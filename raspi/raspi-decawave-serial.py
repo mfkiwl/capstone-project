@@ -3,7 +3,7 @@ import io
 import time
 import sys
 
-def main(filename,pointMarker="Reception #"):
+def main(filename,pointMarker="Reception"):
     fh = open(filename,"w+")
     try:
         with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
@@ -16,7 +16,7 @@ def main(filename,pointMarker="Reception #"):
         fh.close()
         print(filename + "closed!")
 
-filename = sys.argv[1]
-pointMarker = sys.argv[2]
+filename = str(sys.argv[1])
+pointMarker = str(sys.argv[2])
 main(filename,pointMarker)
 
