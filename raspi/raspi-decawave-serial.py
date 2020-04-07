@@ -25,7 +25,8 @@ def main(filename,pointMarker="Reception"):
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             timeForwardLine = wrapper(forwardLine,fh,sio,pointMarker) # wrapper to time how long it takes to forwardLine
             while True:
-                print("time:" + str(timeit(timeForwardLine)))
+                print("butts!")
+                print(str(timeit(timeForwardLine)))
                 #forwardLine(fh,sio,pointMarker)
     except KeyboardInterrupt:
         fh.close()
