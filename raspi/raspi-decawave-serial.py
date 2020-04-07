@@ -4,7 +4,7 @@ import time
 import sys
 
 def main(filename,pointMarker="Reception"):
-    fh = open(filename,"w+")
+    fh = open(filename,'w+')
     try:
         with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
