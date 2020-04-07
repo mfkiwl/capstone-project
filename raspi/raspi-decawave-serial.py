@@ -1,6 +1,7 @@
 import serial
 import io
 import time
+import sys
 
 def main(filename,pointMarker="Reception #"):
     fh = open(filename,"w+")
@@ -13,7 +14,7 @@ def main(filename,pointMarker="Reception #"):
                 fh.write(sio.readline())
     except KeyboardInterrupt:
         fh.close()
-        printf(filename + "closed!")
+        print(filename + "closed!")
 
 filename = sys.argv[1]
 pointMarker = sys.argv[2]
