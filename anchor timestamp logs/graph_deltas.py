@@ -13,7 +13,7 @@ notes:
         but we assume that one colon is the only non-whitespace char before the variable value
     i.e. reception_#: 13
 '''
-def main(filename,variableX, variableY):
+def main(filename,variableX, variableY,rollover=17.2):
     list_x = list()
     list_y = list()
     print("collecting", variableY, "!\n")
@@ -30,7 +30,8 @@ def main(filename,variableX, variableY):
     print("calculating ")
     x = np.asarray(list_x)
     y = np.asarray(list_y)
-    delta_y = np.ediff1d(y,to_begin=0)
+    delta_y = np.ediff1d(y,to_end=y[-1])
+    delta_y[delta_y < 0] += rollover
 
     print("graphing", variableY, "...\n")
     plt.plot(x,y,"ob")
@@ -41,10 +42,17 @@ def main(filename,variableX, variableY):
     plt.plot(x,delta_y,"ob")
     plt.xlabel(variableX)
     plt.ylabel("delta " + variableY) 
-    plt.title("average delta = " + str(np.average(delta_y)) + variableY)
+    plt.title("average delta = " + str(np.average(delta_y)) + " " + variableY.split("_")[-1])
     plt.show()
+
+    stDev = np.std(delta_y)
+    print("standard deviation of",variableY, "=",stDev,variableY.split("_")[-1],"\n")
 
 filename = sys.argv[1]
 variableX = sys.argv[2]
 variableY = sys.argv[3]
-main(filename,variableX,variableY)
+if len(sys.argv) > 4:
+    rollover = sys.argv[4]
+    main(filename,variableX,variableY,rollover)
+else:
+    main(filename,variableX,variableY)
