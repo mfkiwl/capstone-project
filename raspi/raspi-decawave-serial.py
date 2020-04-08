@@ -9,9 +9,10 @@ def forwardLine(fh,sio, pointMarker):
     line = sio.readline()
     fh.write(line)
     if line.startswith(pointMarker):
-        fh.write("RPI_rx_ts_nanosec:" + str(time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)))
+        systime = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
+        fh.write("RPI_rx_ts_nanosec:" + str(systime))
 
-def main(filename,pointMarker="Reception"):
+def main(filename,pointMarker="R"):
     fh = open(filename,'w+')
     print("filename opened!")
     try:
