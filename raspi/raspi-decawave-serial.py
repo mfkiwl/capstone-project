@@ -27,7 +27,7 @@ def main(filename,pointMarker="R"):
         print(filename + " closed!")
 
 filename = str(sys.argv[1])
-if len(sys.argv > 2):
+if len(sys.argv) > 2:
     pointMarker = str(sys.argv[2])
     main(filename,pointMarker)
 else:
