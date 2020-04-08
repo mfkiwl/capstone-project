@@ -27,10 +27,10 @@
 #include "port_platform.h"
 
 /* Inter-ranging delay period, in milliseconds. See NOTE 1*/
-#define RNG_DELAY_MS 80
+#define RNG_DELAY_MS 100
 
 /* Frames used in the ranging process. See NOTE 2,3 below. */
-static uint8 tx_resp_msg[] = {0x41, 0x88, 0, 0xCA, 0xDE, '0', '0', 'M', 'G', 0xE1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+static uint8 tx_resp_msg[] = {0x41, 0x88, 0, 0xCA, 0xDE, '0', '0', 'B', 'L', 0xE1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
 /* Length of the common part of the message (up to and including the function code, see NOTE 3 below). */
 #define ALL_MSG_COMMON_LEN 10
