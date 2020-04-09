@@ -86,7 +86,7 @@ static uint64 resp_tx_ts;
 uint8 resp_tx_ts_hi;
 long double resp_tx_ts_sec, resp_tx_ts_microsec;
 long long resp_tx_ts_nanosec;
-static volatile int tx_count = 0;
+static volatile uint64_t tx_count = 0;
 
 /*! ------------------------------------------------------------------------------------------------------------------
 * @fn main()
@@ -126,8 +126,12 @@ int ss_resp_run(void)
     tx_count++;
     SEGGER_RTT_printf(0,"Transmission # : %d\r\n",tx_count);
     SEGGER_RTT_printf(0,"resp_tx_ts: %llx\r\n",resp_tx_ts);
-    SEGGER_RTT_printf(0,"resp_tx_ts_sec: %llf\r\n",resp_tx_ts_sec);
-    SEGGER_RTT_printf(0,"resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
+    /*If advanced functionality is required, use sprintf() into a buffer and output it via SEGGER_RTT_WriteString(). */
+    char resp_tx_buf[100];
+    sprintf(resp_tx_buf,"resp_tx_ts_sec: %llf\r\n",resp_tx_ts_sec);
+    SEGGER_RTT_WriteString(0,resp_tx_buf);
+    sprintf(resp_tx_buf,"resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
+    SEGGER_RTT_WriteString(0,resp_tx_buf);
     SEGGER_RTT_printf(0,"tag id: '%c %c'\r\n",tx_resp_msg[7],tx_resp_msg[8]);
     SEGGER_RTT_printf(0,"\n");
 
