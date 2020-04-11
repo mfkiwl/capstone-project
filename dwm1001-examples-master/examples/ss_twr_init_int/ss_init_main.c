@@ -32,6 +32,18 @@
 
 #define APP_NAME "SS TWR INIT v1.3"
 
+/* 12 octets for Minimum IEEE ID blink used by tdoa_tag */
+#define EUI64_ADDR_SIZE        (8)
+typedef struct
+{
+    uint8 frameCtrl;                         //  frame control bytes 00
+    uint8 seqNum;                            //  sequence_number 01
+    uint8 tagID[EUI64_ADDR_SIZE];            //  02-09 64 bit addresses
+    /*  10-11  we allow space for the CRC as it is logically part of the
+        message. However DW1000 TX calculates and adds these bytes */
+    uint8 fcs[2] ;
+} iso_IEEE_EUI64_blink_msg ;
+
 /* Inter-ranging delay period, in milliseconds. */
 #define RNG_DELAY_MS 0
 
@@ -51,8 +63,8 @@ static uint8 frame_seq_nb = 0;
 
 /* Buffer to store received response message.
 * Its size is adjusted to longest frame that this example code is supposed to handle. */
-#define RX_BUF_LEN 20
-static uint8 rx_buffer[RX_BUF_LEN];
+#define RX_BUF_LEN 12
+iso_IEEE_EUI64_blink_msg rx_buffer;
 
 /* Hold copy of status register state here for reference so that it can be examined at a debug breakpoint. */
 static uint32 status_reg = 0;
@@ -107,58 +119,41 @@ int ss_init_run(void)
 
   if (rx_int_flag)
   {		
-    uint32 frame_len;
-
+    uint16 frame_len;
     /* A frame has been received, read it into the local buffer. */
-    frame_len = dwt_read32bitreg(RX_FINFO_ID) & RX_FINFO_RXFLEN_MASK;
+    frame_len = 12;
     if (frame_len <= RX_BUF_LEN)
     {
-      dwt_readrxdata(rx_buffer, frame_len, 0);
+      dwt_readrxdata(&rx_buffer, frame_len, 0);
     }
 
-    /* As the sequence number field of the frame is not relevant, it is cleared to simplify the validation of the frame. */
-    rx_buffer[ALL_MSG_SN_IDX] = 0;
 
     rx_count++;
     printf("Reception # : %d\r\n",rx_count);
-    float reception_rate = (float) rx_count / (float) tx_count * 100;
     uint32 resp_rx_ts_lo, resp_rx_ts_hi;
     uint64_t resp_rx_ts, resp_tx_ts;
-    long double resp_rx_ts_sec, resp_tx_ts_sec;
-    long long resp_rx_ts_nanosec, resp_tx_ts_nanosec;
+    long double resp_rx_ts_sec, resp_rx_ts_microsec;
+    long long resp_rx_ts_nanosec;
     float clockOffsetRatio ;
 
-    /* Read timestamp of reception & convert to seconds */
-    
-    // resp_rx_ts_lo = dwt_readrxtimestamplo32();
-    // resp_rx_ts_hi = dwt_readrxtimestamphi32();
-
     resp_rx_ts = get_rx_timestamp_u64();
-    resp_rx_ts_sec = (long double) resp_rx_ts  / (499.2 * 128);
-    resp_rx_ts_nanosec = resp_rx_ts_sec * (1.0e3);
-    resp_rx_ts_sec = resp_rx_ts_sec / (1.0e6);
-
-    /* Get timestamp of transmission. 
-    resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
-    resp_tx_ts = (resp_tx_ts << 8) & 0xFFFFFFFF00UL;
-
-    resp_tx_ts_sec = (long double) resp_tx_ts  / (499.2 * 128);
-    resp_tx_ts_nanosec = resp_tx_ts_sec * (1.0e3);
-    resp_tx_ts_sec = resp_tx_ts_sec / (1.0e6);
-    */
-
+    resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
+    resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
+    resp_rx_ts_sec = resp_rx_ts_microsec / (1.0e6);
 
     /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
     // printf("resp_tx_ts: %llx\r\n",resp_tx_ts);
     printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
-    // printf("resp_tx_ts_sec: %llf\r\n",resp_tx_ts_sec);
-    printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
-    // printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
     printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
-    printf("anchor id: RED\r\n");
-    printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
+    printf("anchor id: MGT\r\n");
+     printf("tag id: ");
+    //
+    for (int i = 0; i < EUI64_ADDR_SIZE; i++){
+      printf("%c",rx_buffer.tagID[i]);
+    }
+    printf("\r\n");
     printf("\n");
 
     /*Reseting receive interrupt flag*/
@@ -168,6 +163,7 @@ int ss_init_run(void)
   if (to_int_flag || er_int_flag)
   {
     /* Reset RX to properly reinitialise LDE operation. */
+    printf("Reception error :(\n");
     dwt_rxreset();
 
     /*Reseting interrupt flag*/

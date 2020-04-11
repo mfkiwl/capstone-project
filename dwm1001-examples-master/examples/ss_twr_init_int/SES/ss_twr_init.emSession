@@ -57,11 +57,12 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="94" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="35" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="1" top="30" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="135" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="1" top="121" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="574" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" debugPath="../../../deca_driver/deca_device_api.h" selected="0" top="555" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" debugPath="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" selected="0" top="81" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ss_twr_init/UART/UART.h" debugPath="../../ss_twr_init/UART/UART.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="116" useTextEdit="1" useBinaryEdit="0" left="0" path="ss_twr_init.emProject" debugPath="ss_twr_init.emProject" selected="0" top="0" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

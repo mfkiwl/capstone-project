@@ -257,7 +257,6 @@ int testapprun(instance_data_t *inst, int message)
             dwt_writetxfctrl(length, 0, 0);
 
             dwt_starttx(DWT_START_TX_IMMEDIATE); //always using immediate TX
-
             inst->done = 2; //don't sleep here but kick off the TagTimeoutTimer
             inst->testAppState = TA_SLEEP_DONE;
 
