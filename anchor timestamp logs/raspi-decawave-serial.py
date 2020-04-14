@@ -29,8 +29,8 @@ def main(filename):
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1]
                 if line.startswith("\n"):
-                    fh.write("Reception #: {} Anchor ID: {} \n Tag ID: {} \n RPI Time(NS): {} \n DECAWAVE Time(NS): {} \n",
-                    receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS)
+                    fh.write("Reception #: {} Anchor ID: {} \n Tag ID: {} \n RPI Time(NS): {} \n DECAWAVE Time(NS): {} \n".format(
+                    receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
