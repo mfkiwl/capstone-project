@@ -39,7 +39,7 @@ def main(filename, serial_port):
                     # print("tagID:" + str(tagID))
 
                 if line.startswith("END"): # Reached end of frame, write fields & reset 
-                    fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
+                    fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
                     receptionNum = ""
                     RPItimeNS = -1
                     DECAtime = -1
