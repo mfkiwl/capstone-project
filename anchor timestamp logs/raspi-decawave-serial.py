@@ -11,6 +11,12 @@ def main(filename):
         with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             while True:
+                receptionNum = "\n"
+                RPItimeNS = 0
+                DECAtime = 0
+                DECAtimeNS = 0
+                anchorID = "\n"
+                tagID = "\n"
                 line = sio.readline()
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1])
