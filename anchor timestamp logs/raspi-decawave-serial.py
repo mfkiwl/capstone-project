@@ -24,17 +24,18 @@ def main(filename, serial_port):
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1])
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
-                    print("receptionNum:" + str(receptionNum) + "RPItimeNS:" + str(RPItimeNS) + "\n")
+                    print("receptionNum:" + str(receptionNum))
+                    print("RPItimeNS:" + str(RPItimeNS))
                 if line.startswith("resp_rx_ts"): # Retrieve the decawave time (automatically converting from a HEX string to INT)
                     DECAtime = int(line.split(":")[1],16)
                     DECAtimeNS = DECAtime * 1.0 * (10**3) / (499.2 * 128)
-                    print("DECAtimeNS:" + str(DECAtimeNS) + "\n")
+                    print("DECAtimeNS:" + str(DECAtimeNS))
                 if line.startswith("anchor"): # Retrieve the anchor ID as a STRING
                     anchorID = line.split(":")[1]
-                    print("anchorID:" + anchorID + "\n")
+                    print("anchorID:" + anchorID)
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1]
-                    print("tagID:" + tagID + "\n")
+                    print("tagID:" + tagID)
                     # fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
     except KeyboardInterrupt:
         fh.close()
