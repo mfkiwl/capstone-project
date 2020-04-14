@@ -116,11 +116,9 @@ int ss_init_run(void)
       dwt_readrxdata(rx_buffer, frame_len, 0);
     }
 
-    /* As the sequence number field of the frame is not relevant, it is cleared to simplify the validation of the frame. */
-    rx_buffer[ALL_MSG_SN_IDX] = 0;
-
     rx_count++;
     printf("Reception #: %d\n",rx_count);
+    printf("Pulse #: %d\n",rx_buffer[ALL_MSG_SN_IDX]);
     float reception_rate = (float) rx_count / (float) tx_count * 100;
     uint32 resp_rx_ts_lo, resp_rx_ts_hi;
     uint64_t resp_rx_ts;
@@ -149,7 +147,7 @@ int ss_init_run(void)
     printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
     printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
     */
-    printf("anchor id: RED\n");
+    printf("anchor id: MAGENTA\n");
     printf("tag id: '%c %c'\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("END frame\n"); 
 

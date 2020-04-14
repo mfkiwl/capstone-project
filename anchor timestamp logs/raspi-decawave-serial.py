@@ -11,6 +11,7 @@ def main(filename, serial_port):
         with serial.Serial(serial_port, 115200, timeout=1) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             receptionNum = "N/A"
+            pulseNum = -1
             RPItimeNS = -1
             DECAtime = -1
             DECAtimeNS = -1
@@ -25,8 +26,8 @@ def main(filename, serial_port):
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1].strip())
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
-                    # print("receptionNum:" + str(receptionNum))
-                    # print("RPItimeNS:" + str(RPItimeNS))
+                if line.startswith("Pulse"): # Retrieve the tag pulse number as an INT for synchronization
+                    pulseNum = int(line.split(":")[1].strip())
                 if line.startswith("resp_rx_ts"): # Retrieve the decawave time (automatically converting from a HEX string to INT)
                     DECAtime = int(line.split(":")[1].strip(),16)
                     DECAtimeNS = DECAtime * 1.0 * (10**3) / (499.2 * 128)
@@ -39,7 +40,8 @@ def main(filename, serial_port):
                     # print("tagID:" + str(tagID))
 
                 if line.startswith("END"): # Reached end of frame, write fields & reset 
-                    fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
+                    fh.write("Reception #: {}\nPulse #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n\n".format(
+                        receptionNum, pulseNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
                     receptionNum = ""
                     RPItimeNS = -1
                     DECAtime = -1
