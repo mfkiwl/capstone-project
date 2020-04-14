@@ -11,12 +11,6 @@ def main(filename, serial_port):
         with serial.Serial(serial_port, 115200, timeout=1) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             while True:
-                receptionNum = "N/A"
-                RPItimeNS = -1
-                DECAtime = -1
-                DECAtimeNS = -1
-                anchorID = "N/A"
-                tagID = "N/A"
                 line = sio.readline()
 
                 if line.startswith("TimeOut"): continue
@@ -36,8 +30,14 @@ def main(filename, serial_port):
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1].strip()
                     print("tagID:" + str(tagID))
-                if line.startswith("END"): # Reached end of frame
+                if line.startswith("END"): # Reached end of frame, reset 
                     fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
+                    receptionNum = "N/A"
+                    RPItimeNS = -1
+                    DECAtime = -1
+                    DECAtimeNS = -1
+                    anchorID = "N/A"
+                    tagID = "N/A"
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
