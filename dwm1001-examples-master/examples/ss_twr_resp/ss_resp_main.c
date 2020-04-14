@@ -116,17 +116,18 @@ int ss_resp_run(void)
   dwt_writetxfctrl(sizeof(tx_resp_msg), 0, 1); /* Zero offset in TX buffer, ranging. */
   resp_tx_ts = get_sys_timestamp_u64();
   ret = dwt_starttx(DWT_START_TX_IMMEDIATE);
-  resp_tx_ts_microsec = (long double) resp_tx_ts  / (499.2 * 128);
-  resp_tx_ts_nanosec = resp_tx_ts_microsec * (1.0e3);
-  resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
 
   /* If dwt_starttx() returns an error, abandon this ranging exchange and proceed to the next one. */
   if (ret == DWT_SUCCESS)
   {
     tx_count++;
+    /*
+    resp_tx_ts_microsec = (long double) resp_tx_ts  / (499.2 * 128);
+    resp_tx_ts_nanosec = resp_tx_ts_microsec * (1.0e3);
+    resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
     SEGGER_RTT_printf(0,"Transmission # : %d\r\n",tx_count);
-    SEGGER_RTT_printf(0,"resp_tx_ts: %llx\r\n",resp_tx_ts);
-    /*If advanced functionality is required, use sprintf() into a buffer and output it via SEGGER_RTT_WriteString(). */
+    SEGGER_RTT_printf(0,"resp_tx_ts: %llx\r\n",resp_tx_ts)
+    // If advanced functionality is required, use sprintf() into a buffer and output it via SEGGER_RTT_WriteString().
     char resp_tx_buf[100];
     sprintf(resp_tx_buf,"resp_tx_ts_sec: %llf\r\n",resp_tx_ts_sec);
     SEGGER_RTT_WriteString(0,resp_tx_buf);
@@ -134,6 +135,7 @@ int ss_resp_run(void)
     SEGGER_RTT_WriteString(0,resp_tx_buf);
     SEGGER_RTT_printf(0,"tag id: '%c %c'\r\n",tx_resp_msg[7],tx_resp_msg[8]);
     SEGGER_RTT_printf(0,"\n");
+    */
 
   /* Clear TXFRS event. */
   dwt_write32bitreg(SYS_STATUS_ID, SYS_STATUS_TXFRS);
