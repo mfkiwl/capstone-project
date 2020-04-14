@@ -11,12 +11,12 @@ def main(filename, serial_port):
         with serial.Serial(serial_port, 115200, timeout=1) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             while True:
-                receptionNum = "\n"
-                RPItimeNS = 0
-                DECAtime = 0
-                DECAtimeNS = 0
-                anchorID = "\n"
-                tagID = "\n"
+                receptionNum = "N/A"
+                RPItimeNS = -1
+                DECAtime = -1
+                DECAtimeNS = -1
+                anchorID = "N/A"
+                tagID = "N/A"
                 line = sio.readline()
                 print(line)
 
