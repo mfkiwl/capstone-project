@@ -10,11 +10,18 @@ def main(filename, serial_port):
     try:
         with serial.Serial(serial_port, 115200, timeout=1) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
+            receptionNum = "N/A"
+            RPItimeNS = -1
+            DECAtime = -1
+            DECAtimeNS = -1
+            anchorID = "N/A"
+            tagID = "N/A"
             while True:
                 line = sio.readline()
 
                 if line.startswith("TimeOut"): continue
                 if "Error" in line: continue
+
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1].strip())
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
@@ -30,14 +37,15 @@ def main(filename, serial_port):
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1].strip()
                     print("tagID:" + str(tagID))
-                if line.startswith("END"): # Reached end of frame, reset 
+
+                if line.startswith("END"): # Reached end of frame, write fields & reset 
                     fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
-                    receptionNum = "N/A"
+                    receptionNum = ""
                     RPItimeNS = -1
                     DECAtime = -1
                     DECAtimeNS = -1
-                    anchorID = "N/A"
-                    tagID = "N/A"
+                    anchorID = ""
+                    tagID = ""
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
