@@ -32,7 +32,7 @@ def main(filename, serial_port):
                     anchorID = line.split(":")[1]
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1]
-                    fh.write("Reception #: {} \n Anchor ID: {} \n Tag ID: {} \n RPI Time(NS): {} \n DECAWAVE Time(NS): {} \n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
+                    fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
