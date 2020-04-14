@@ -134,17 +134,21 @@ int ss_init_run(void)
     // resp_rx_ts_hi = dwt_readrxtimestamphi32();
 
     resp_rx_ts = get_rx_timestamp_u64();
+    /*
     resp_rx_ts_sec = (long double) resp_rx_ts  / (499.2 * 128);
     resp_rx_ts_nanosec = resp_rx_ts_sec * (1.0e3);
     resp_rx_ts_sec = resp_rx_ts_sec / (1.0e6);
+    */
 
     /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
     printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
-    // printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
-    // printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
-    // printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
+    /*
+    printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
+    printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
+    printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
+    */
     printf("anchor id: RED\r\n");
     printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("\n");
