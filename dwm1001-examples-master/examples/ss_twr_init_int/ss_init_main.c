@@ -151,7 +151,7 @@ int ss_init_run(void)
     */
     printf("anchor id: RED\n");
     printf("tag id: '%c %c'\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
-    printf("END frame\n");
+    printf("END frame\n"); 
 
     /*Reseting receive interrupt flag*/
     rx_int_flag = 0; 

@@ -25,18 +25,18 @@ def main(filename, serial_port):
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1].strip())
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
-                    print("receptionNum:" + str(receptionNum))
-                    print("RPItimeNS:" + str(RPItimeNS))
+                    # print("receptionNum:" + str(receptionNum))
+                    # print("RPItimeNS:" + str(RPItimeNS))
                 if line.startswith("resp_rx_ts"): # Retrieve the decawave time (automatically converting from a HEX string to INT)
                     DECAtime = int(line.split(":")[1].strip(),16)
                     DECAtimeNS = DECAtime * 1.0 * (10**3) / (499.2 * 128)
-                    print("DECAtimeNS:" + str(DECAtimeNS))
+                    # print("DECAtimeNS:" + str(DECAtimeNS))
                 if line.startswith("anchor"): # Retrieve the anchor ID as a STRING
                     anchorID = line.split(":")[1].strip()
-                    print("anchorID:" + str(anchorID))
+                    # print("anchorID:" + str(anchorID))
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1].strip()
-                    print("tagID:" + str(tagID))
+                    # print("tagID:" + str(tagID))
 
                 if line.startswith("END"): # Reached end of frame, write fields & reset 
                     fh.write("Reception #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
