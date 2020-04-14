@@ -4,11 +4,11 @@ import time
 import sys
 from timeit import timeit
 
-def main(filename):
+def main(filename, serial_port):
     fh = open(filename,'w+')
     print("filename opened!")
     try:
-        with serial.Serial('/dev/ttyACM0', 115200, timeout=0) as ser:
+        with serial.Serial(serial_port, 115200, timeout=1) as ser:
             sio = io.TextIOWrapper(io.BufferedRWPair(ser, ser))
             while True:
                 receptionNum = "\n"
@@ -18,6 +18,10 @@ def main(filename):
                 anchorID = "\n"
                 tagID = "\n"
                 line = sio.readline()
+                print(line)
+
+                if line.startswith("TimeOut"): continue
+                if "Error" in line: continue
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & get the RPI current time
                     receptionNum = int(line.split(":")[1])
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
@@ -29,12 +33,12 @@ def main(filename):
                 if line.startswith("tag"):  # Retrieve the tag ID as a STRING
                     tagID = line.split(":")[1]
                 if line.startswith("\n"):
-                    fh.write("Reception #: {} Anchor ID: {} \n Tag ID: {} \n RPI Time(NS): {} \n DECAWAVE Time(NS): {} \n".format(
-                    receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
+                    fh.write("Reception #: {} Anchor ID: {} \n Tag ID: {} \n RPI Time(NS): {} \n DECAWAVE Time(NS): {} \n".format(receptionNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
     except KeyboardInterrupt:
         fh.close()
         print(filename + " closed!")
 
 filename = str(sys.argv[1])
-main(filename)
+serial_port = str(sys.argv[2])
+main(filename,serial_port)
 
