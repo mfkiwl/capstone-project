@@ -43,6 +43,7 @@ def main(filename, serial_port):
                     fh.write("Reception #: {}\nPulse #: {}\nAnchor ID: {}\nTag ID: {}\nRPI Time(NS): {}\nDECAWAVE Time(NS): {}\n\n".format(
                         receptionNum, pulseNum, anchorID, tagID, RPItimeNS, DECAtimeNS))
                     receptionNum = ""
+                    pulseNum = -1
                     RPItimeNS = -1
                     DECAtime = -1
                     DECAtimeNS = -1
