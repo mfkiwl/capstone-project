@@ -120,7 +120,7 @@ int ss_init_run(void)
     rx_buffer[ALL_MSG_SN_IDX] = 0;
 
     rx_count++;
-    printf("Reception # : %d\r\n",rx_count);
+    printf("Reception #: %d\n",rx_count);
     float reception_rate = (float) rx_count / (float) tx_count * 100;
     uint32 resp_rx_ts_lo, resp_rx_ts_hi;
     uint64_t resp_rx_ts;
@@ -143,15 +143,15 @@ int ss_init_run(void)
     /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
     clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-    printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
+    printf("resp_rx_ts: %llx\n",resp_rx_ts);
     /*
     printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
     printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
     printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
     */
-    printf("anchor id: RED\r\n");
-    printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
-    printf("\r\n");
+    printf("anchor id: RED\n");
+    printf("tag id: '%c %c'\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
+    printf("END frame\n");
 
     /*Reseting receive interrupt flag*/
     rx_int_flag = 0; 
