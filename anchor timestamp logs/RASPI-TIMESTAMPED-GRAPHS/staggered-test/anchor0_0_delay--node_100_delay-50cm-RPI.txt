@@ -1,0 +1,2212 @@
+Reception #: 54
+Pulse #: 53
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902114181
+DECAWAVE Time(NS): 11687697936.636118
+
+Reception #: 55
+Pulse #: 54
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902316316
+DECAWAVE Time(NS): 11779879790.774614
+
+Reception #: 56
+Pulse #: 55
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902430691
+DECAWAVE Time(NS): 11872059819.116837
+
+Reception #: 57
+Pulse #: 56
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902541576
+DECAWAVE Time(NS): 11964235786.617964
+
+Reception #: 58
+Pulse #: 57
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902649806
+DECAWAVE Time(NS): 12056412805.285332
+
+Reception #: 59
+Pulse #: 58
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902757566
+DECAWAVE Time(NS): 12148590570.929111
+
+Reception #: 60
+Pulse #: 59
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902865274
+DECAWAVE Time(NS): 12240770950.849485
+
+Reception #: 61
+Pulse #: 60
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324902973243
+DECAWAVE Time(NS): 12332987542.99066
+
+Reception #: 62
+Pulse #: 61
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324903081160
+DECAWAVE Time(NS): 12425131943.891478
+
+Reception #: 63
+Pulse #: 62
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324903189858
+DECAWAVE Time(NS): 12517313199.10294
+
+Reception #: 64
+Pulse #: 63
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840324903296681
+DECAWAVE Time(NS): 12609495290.715145
+
+Reception #: 65
+Pulse #: 64
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325903752253
+DECAWAVE Time(NS): 12701676633.457281
+
+Reception #: 66
+Pulse #: 65
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325904040066
+DECAWAVE Time(NS): 12793852467.166216
+
+Reception #: 67
+Pulse #: 66
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325904264284
+DECAWAVE Time(NS): 12886027417.039139
+
+Reception #: 68
+Pulse #: 67
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325904481941
+DECAWAVE Time(NS): 12978204799.851639
+
+Reception #: 69
+Pulse #: 68
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325904699389
+DECAWAVE Time(NS): 13070382876.446064
+
+Reception #: 70
+Pulse #: 69
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325904915951
+DECAWAVE Time(NS): 13162563514.310396
+
+Reception #: 71
+Pulse #: 70
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325905134909
+DECAWAVE Time(NS): 13254743780.220228
+
+Reception #: 72
+Pulse #: 71
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325905350430
+DECAWAVE Time(NS): 13346924092.954979
+
+Reception #: 73
+Pulse #: 72
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325905566576
+DECAWAVE Time(NS): 13439096694.601988
+
+Reception #: 74
+Pulse #: 73
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325905782461
+DECAWAVE Time(NS): 13531270943.587866
+
+Reception #: 75
+Pulse #: 74
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840325905998243
+DECAWAVE Time(NS): 13623442167.96875
+
+Reception #: 76
+Pulse #: 75
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326906593190
+DECAWAVE Time(NS): 13715613212.671524
+
+Reception #: 77
+Pulse #: 76
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326906889388
+DECAWAVE Time(NS): 13807784623.553936
+
+Reception #: 78
+Pulse #: 77
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326907113294
+DECAWAVE Time(NS): 13899957448.198368
+
+Reception #: 79
+Pulse #: 78
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326907331680
+DECAWAVE Time(NS): 13992131446.188902
+
+Reception #: 80
+Pulse #: 79
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326907550690
+DECAWAVE Time(NS): 14084307770.651793
+
+Reception #: 81
+Pulse #: 80
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326907767409
+DECAWAVE Time(NS): 14176517967.967499
+
+Reception #: 82
+Pulse #: 81
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326907984649
+DECAWAVE Time(NS): 14268650908.969976
+
+Reception #: 83
+Pulse #: 82
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326908201263
+DECAWAVE Time(NS): 14360822482.096355
+
+Reception #: 84
+Pulse #: 83
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326908417461
+DECAWAVE Time(NS): 14452990506.544847
+
+Reception #: 85
+Pulse #: 84
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326908632878
+DECAWAVE Time(NS): 14545160062.47496
+
+Reception #: 86
+Pulse #: 85
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840326908848815
+DECAWAVE Time(NS): 14637334908.024715
+
+Reception #: 87
+Pulse #: 86
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327909424909
+DECAWAVE Time(NS): 14729509265.90357
+
+Reception #: 88
+Pulse #: 87
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327909745742
+DECAWAVE Time(NS): 14821686917.192509
+
+Reception #: 89
+Pulse #: 88
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327909974232
+DECAWAVE Time(NS): 14913861747.765175
+
+Reception #: 90
+Pulse #: 89
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327910328294
+DECAWAVE Time(NS): 15006036705.259666
+
+Reception #: 91
+Pulse #: 90
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327910550429
+DECAWAVE Time(NS): 15098212006.554237
+
+Reception #: 92
+Pulse #: 91
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327910767982
+DECAWAVE Time(NS): 15190390408.669497
+
+Reception #: 93
+Pulse #: 92
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327910985117
+DECAWAVE Time(NS): 15282566550.52772
+
+Reception #: 94
+Pulse #: 93
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327911200377
+DECAWAVE Time(NS): 15374744132.048779
+
+Reception #: 95
+Pulse #: 94
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327911418138
+DECAWAVE Time(NS): 15466923434.651693
+
+Reception #: 96
+Pulse #: 95
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327911635221
+DECAWAVE Time(NS): 15559108455.982698
+
+Reception #: 97
+Pulse #: 96
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840327911851523
+DECAWAVE Time(NS): 15651289662.209536
+
+Reception #: 98
+Pulse #: 97
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328912543242
+DECAWAVE Time(NS): 15743472212.070562
+
+Reception #: 99
+Pulse #: 98
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328912771679
+DECAWAVE Time(NS): 15835653917.330229
+
+Reception #: 100
+Pulse #: 99
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328912990533
+DECAWAVE Time(NS): 15927835499.502329
+
+Reception #: 101
+Pulse #: 100
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328913211210
+DECAWAVE Time(NS): 16020052150.581556
+
+Reception #: 102
+Pulse #: 101
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328913433971
+DECAWAVE Time(NS): 16112196371.538212
+
+Reception #: 103
+Pulse #: 102
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328913650429
+DECAWAVE Time(NS): 16204381038.239307
+
+Reception #: 104
+Pulse #: 103
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328913867356
+DECAWAVE Time(NS): 16296564634.962816
+
+Reception #: 105
+Pulse #: 104
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328914083814
+DECAWAVE Time(NS): 16388750415.555513
+
+Reception #: 106
+Pulse #: 105
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328914300637
+DECAWAVE Time(NS): 16480940567.016602
+
+Reception #: 107
+Pulse #: 106
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840328914517460
+DECAWAVE Time(NS): 16573125603.543795
+
+Reception #: 108
+Pulse #: 107
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329915155897
+DECAWAVE Time(NS): 16665314987.057417
+
+Reception #: 109
+Pulse #: 108
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329915521731
+DECAWAVE Time(NS): 16757502105.759842
+
+Reception #: 110
+Pulse #: 109
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329915775637
+DECAWAVE Time(NS): 16849688291.234726
+
+Reception #: 111
+Pulse #: 110
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329916022460
+DECAWAVE Time(NS): 16941872965.698242
+
+Reception #: 112
+Pulse #: 111
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329916281991
+DECAWAVE Time(NS): 17034054888.430864
+
+Reception #: 113
+Pulse #: 112
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329916545116
+DECAWAVE Time(NS): 17126240812.39358
+
+Reception #: 114
+Pulse #: 113
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329916802512
+DECAWAVE Time(NS): 11022324.641301082
+
+Reception #: 115
+Pulse #: 114
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329917064595
+DECAWAVE Time(NS): 103204440.80841847
+
+Reception #: 116
+Pulse #: 115
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329917309543
+DECAWAVE Time(NS): 195390021.48750502
+
+Reception #: 117
+Pulse #: 116
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329917542043
+DECAWAVE Time(NS): 287579084.00315505
+
+Reception #: 118
+Pulse #: 117
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840329917798450
+DECAWAVE Time(NS): 379764398.92891127
+
+Reception #: 119
+Pulse #: 118
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330918851782
+DECAWAVE Time(NS): 471949692.63321316
+
+Reception #: 120
+Pulse #: 119
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330919182824
+DECAWAVE Time(NS): 564133522.7927184
+
+Reception #: 121
+Pulse #: 120
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330919407772
+DECAWAVE Time(NS): 656354535.4129107
+
+Reception #: 122
+Pulse #: 121
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330919626262
+DECAWAVE Time(NS): 748500238.5379107
+
+Reception #: 123
+Pulse #: 122
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330919842303
+DECAWAVE Time(NS): 840683604.7989283
+
+Reception #: 124
+Pulse #: 123
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330920125897
+DECAWAVE Time(NS): 932868840.1285808
+
+Reception #: 125
+Pulse #: 124
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330920345741
+DECAWAVE Time(NS): 1025049286.2329727
+
+Reception #: 126
+Pulse #: 125
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330920564022
+DECAWAVE Time(NS): 1117233100.335537
+
+Reception #: 127
+Pulse #: 126
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330920780949
+DECAWAVE Time(NS): 1209414537.2126653
+
+Reception #: 128
+Pulse #: 127
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330920999074
+DECAWAVE Time(NS): 1301596537.7416368
+
+Reception #: 129
+Pulse #: 128
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840330921216782
+DECAWAVE Time(NS): 1393779052.9221754
+
+Reception #: 130
+Pulse #: 129
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331921822147
+DECAWAVE Time(NS): 1485956113.3751502
+
+Reception #: 131
+Pulse #: 130
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331922127095
+DECAWAVE Time(NS): 1578132671.461839
+
+Reception #: 132
+Pulse #: 131
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331922352199
+DECAWAVE Time(NS): 1670310449.985602
+
+Reception #: 133
+Pulse #: 132
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331922571105
+DECAWAVE Time(NS): 1762484881.3100963
+
+Reception #: 134
+Pulse #: 133
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331922789074
+DECAWAVE Time(NS): 1854660820.8446014
+
+Reception #: 135
+Pulse #: 134
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331923006678
+DECAWAVE Time(NS): 1946833685.2870843
+
+Reception #: 136
+Pulse #: 135
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331923224647
+DECAWAVE Time(NS): 2039008306.571765
+
+Reception #: 137
+Pulse #: 136
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331923439230
+DECAWAVE Time(NS): 2131184620.8934295
+
+Reception #: 138
+Pulse #: 137
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331923656574
+DECAWAVE Time(NS): 2223358822.193635
+
+Reception #: 139
+Pulse #: 138
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331923872095
+DECAWAVE Time(NS): 2315536710.549379
+
+Reception #: 140
+Pulse #: 139
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840331924088761
+DECAWAVE Time(NS): 2407715914.8700423
+
+Reception #: 141
+Pulse #: 140
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332924692042
+DECAWAVE Time(NS): 2499931450.805664
+
+Reception #: 142
+Pulse #: 141
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332924988969
+DECAWAVE Time(NS): 2592073832.334861
+
+Reception #: 143
+Pulse #: 142
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332925217198
+DECAWAVE Time(NS): 2684251351.56876
+
+Reception #: 144
+Pulse #: 143
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332925435115
+DECAWAVE Time(NS): 2776430803.2852564
+
+Reception #: 145
+Pulse #: 144
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332925656313
+DECAWAVE Time(NS): 2868609246.888772
+
+Reception #: 146
+Pulse #: 145
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332925872511
+DECAWAVE Time(NS): 2960789551.0942507
+
+Reception #: 147
+Pulse #: 146
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332926090323
+DECAWAVE Time(NS): 3052969881.200546
+
+Reception #: 148
+Pulse #: 147
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332926306261
+DECAWAVE Time(NS): 3145146992.14055
+
+Reception #: 149
+Pulse #: 148
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332926521678
+DECAWAVE Time(NS): 3237324905.5363584
+
+Reception #: 150
+Pulse #: 149
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332926738084
+DECAWAVE Time(NS): 3329505047.8578224
+
+Reception #: 151
+Pulse #: 150
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840332926956261
+DECAWAVE Time(NS): 3421683172.0127206
+
+Reception #: 152
+Pulse #: 151
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333927557511
+DECAWAVE Time(NS): 3513859736.030774
+
+Reception #: 153
+Pulse #: 152
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333927863136
+DECAWAVE Time(NS): 3606036253.3960586
+
+Reception #: 154
+Pulse #: 153
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333928090844
+DECAWAVE Time(NS): 3698211601.9068007
+
+Reception #: 155
+Pulse #: 154
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333928311208
+DECAWAVE Time(NS): 3790387368.1640625
+
+Reception #: 156
+Pulse #: 155
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333928532302
+DECAWAVE Time(NS): 3882567190.1605067
+
+Reception #: 157
+Pulse #: 156
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333928750896
+DECAWAVE Time(NS): 3974745427.167844
+
+Reception #: 158
+Pulse #: 157
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333928967823
+DECAWAVE Time(NS): 4066928065.310747
+
+Reception #: 159
+Pulse #: 158
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333929182719
+DECAWAVE Time(NS): 4159114005.5495043
+
+Reception #: 160
+Pulse #: 159
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333929399646
+DECAWAVE Time(NS): 4251296164.2064805
+
+Reception #: 161
+Pulse #: 160
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333929616573
+DECAWAVE Time(NS): 4343513140.61874
+
+Reception #: 162
+Pulse #: 161
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840333929832979
+DECAWAVE Time(NS): 4435653924.294497
+
+Reception #: 163
+Pulse #: 162
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334930504177
+DECAWAVE Time(NS): 4527832802.718725
+
+Reception #: 164
+Pulse #: 163
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334930793239
+DECAWAVE Time(NS): 4620009478.165064
+
+Reception #: 165
+Pulse #: 164
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334931016521
+DECAWAVE Time(NS): 4712188982.825646
+
+Reception #: 166
+Pulse #: 165
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334931237666
+DECAWAVE Time(NS): 4804373248.353616
+
+Reception #: 167
+Pulse #: 166
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334931454489
+DECAWAVE Time(NS): 4896553060.318384
+
+Reception #: 168
+Pulse #: 167
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334931669802
+DECAWAVE Time(NS): 4988730638.412085
+
+Reception #: 169
+Pulse #: 168
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334931884489
+DECAWAVE Time(NS): 5080909346.689077
+
+Reception #: 170
+Pulse #: 169
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334932100375
+DECAWAVE Time(NS): 5173087158.234426
+
+Reception #: 171
+Pulse #: 170
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334932315375
+DECAWAVE Time(NS): 5265264538.527268
+
+Reception #: 172
+Pulse #: 171
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334932530479
+DECAWAVE Time(NS): 5357441319.345327
+
+Reception #: 173
+Pulse #: 172
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840334932745114
+DECAWAVE Time(NS): 5449621947.444036
+
+Reception #: 174
+Pulse #: 173
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335933327666
+DECAWAVE Time(NS): 5541797760.072366
+
+Reception #: 175
+Pulse #: 174
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335933778812
+DECAWAVE Time(NS): 5633977708.129883
+
+Reception #: 176
+Pulse #: 175
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335934074281
+DECAWAVE Time(NS): 5726157897.964869
+
+Reception #: 177
+Pulse #: 176
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335934298239
+DECAWAVE Time(NS): 5818336863.29377
+
+Reception #: 178
+Pulse #: 177
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335934518499
+DECAWAVE Time(NS): 5910513041.006235
+
+Reception #: 179
+Pulse #: 178
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335934736260
+DECAWAVE Time(NS): 6002692143.992888
+
+Reception #: 180
+Pulse #: 179
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335934953551
+DECAWAVE Time(NS): 6094874733.119867
+
+Reception #: 181
+Pulse #: 180
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335935167978
+DECAWAVE Time(NS): 6187092868.167192
+
+Reception #: 182
+Pulse #: 181
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335935383187
+DECAWAVE Time(NS): 6279234089.5902195
+
+Reception #: 183
+Pulse #: 182
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335935601728
+DECAWAVE Time(NS): 6371415199.647561
+
+Reception #: 184
+Pulse #: 183
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840335936155583
+DECAWAVE Time(NS): 6463594651.755309
+
+Reception #: 185
+Pulse #: 184
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336936783916
+DECAWAVE Time(NS): 6555772333.201873
+
+Reception #: 186
+Pulse #: 185
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336937023603
+DECAWAVE Time(NS): 6647949823.592749
+
+Reception #: 187
+Pulse #: 186
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336937242666
+DECAWAVE Time(NS): 6740125183.684521
+
+Reception #: 188
+Pulse #: 187
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336937459593
+DECAWAVE Time(NS): 6832303982.7473955
+
+Reception #: 189
+Pulse #: 188
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336937678916
+DECAWAVE Time(NS): 6924481011.1021385
+
+Reception #: 190
+Pulse #: 189
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336937895218
+DECAWAVE Time(NS): 7016659249.690129
+
+Reception #: 191
+Pulse #: 190
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336938109749
+DECAWAVE Time(NS): 7108841343.54029
+
+Reception #: 192
+Pulse #: 191
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336938324020
+DECAWAVE Time(NS): 7201019840.917343
+
+Reception #: 193
+Pulse #: 192
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336938540374
+DECAWAVE Time(NS): 7293199957.431891
+
+Reception #: 194
+Pulse #: 193
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840336938756572
+DECAWAVE Time(NS): 7385380779.716296
+
+Reception #: 195
+Pulse #: 194
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337939332978
+DECAWAVE Time(NS): 7477558965.688852
+
+Reception #: 196
+Pulse #: 195
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337939636624
+DECAWAVE Time(NS): 7569742633.713943
+
+Reception #: 197
+Pulse #: 196
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337939859540
+DECAWAVE Time(NS): 7661930397.855319
+
+Reception #: 198
+Pulse #: 197
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337940145478
+DECAWAVE Time(NS): 7754118242.6570015
+
+Reception #: 199
+Pulse #: 198
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337940367405
+DECAWAVE Time(NS): 7846304388.928535
+
+Reception #: 200
+Pulse #: 199
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337940585269
+DECAWAVE Time(NS): 7938488075.4832735
+
+Reception #: 201
+Pulse #: 200
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337940806571
+DECAWAVE Time(NS): 8030709479.526618
+
+Reception #: 202
+Pulse #: 201
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337941023603
+DECAWAVE Time(NS): 8122860964.934521
+
+Reception #: 203
+Pulse #: 202
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337941240217
+DECAWAVE Time(NS): 8215049125.507062
+
+Reception #: 204
+Pulse #: 203
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337941455582
+DECAWAVE Time(NS): 8307238039.550781
+
+Reception #: 205
+Pulse #: 204
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840337941671311
+DECAWAVE Time(NS): 8399426344.886193
+
+Reception #: 206
+Pulse #: 205
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338942259748
+DECAWAVE Time(NS): 8491614739.113832
+
+Reception #: 207
+Pulse #: 206
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338942561988
+DECAWAVE Time(NS): 8583806892.637595
+
+Reception #: 208
+Pulse #: 207
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338942785217
+DECAWAVE Time(NS): 8675996234.30301
+
+Reception #: 209
+Pulse #: 208
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338943002300
+DECAWAVE Time(NS): 8768186249.311398
+
+Reception #: 210
+Pulse #: 209
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338943223134
+DECAWAVE Time(NS): 8860376352.664263
+
+Reception #: 211
+Pulse #: 210
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338943439852
+DECAWAVE Time(NS): 8952566585.020409
+
+Reception #: 212
+Pulse #: 211
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338943656154
+DECAWAVE Time(NS): 9044750456.464718
+
+Reception #: 213
+Pulse #: 212
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338943872196
+DECAWAVE Time(NS): 9136937621.428661
+
+Reception #: 214
+Pulse #: 213
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338944088863
+DECAWAVE Time(NS): 9229120195.32815
+
+Reception #: 215
+Pulse #: 214
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338944305009
+DECAWAVE Time(NS): 9321301663.67751
+
+Reception #: 216
+Pulse #: 215
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840338944524748
+DECAWAVE Time(NS): 9413484126.289564
+
+Reception #: 217
+Pulse #: 216
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339945181258
+DECAWAVE Time(NS): 9505667046.80614
+
+Reception #: 218
+Pulse #: 217
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339945491206
+DECAWAVE Time(NS): 9597850825.289213
+
+Reception #: 219
+Pulse #: 218
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339945716362
+DECAWAVE Time(NS): 9690034363.51287
+
+Reception #: 220
+Pulse #: 219
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339945938654
+DECAWAVE Time(NS): 9782220081.36456
+
+Reception #: 221
+Pulse #: 220
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339946155842
+DECAWAVE Time(NS): 9874438892.931816
+
+Reception #: 222
+Pulse #: 221
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339946371935
+DECAWAVE Time(NS): 9966583578.788563
+
+Reception #: 223
+Pulse #: 222
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339946588394
+DECAWAVE Time(NS): 10058769322.775816
+
+Reception #: 224
+Pulse #: 223
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339946806467
+DECAWAVE Time(NS): 10150951869.632036
+
+Reception #: 225
+Pulse #: 224
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339947022717
+DECAWAVE Time(NS): 10243135971.789238
+
+Reception #: 226
+Pulse #: 225
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339947238758
+DECAWAVE Time(NS): 10335319657.264122
+
+Reception #: 227
+Pulse #: 226
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840339947454279
+DECAWAVE Time(NS): 10427502887.11939
+
+Reception #: 228
+Pulse #: 227
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340948052456
+DECAWAVE Time(NS): 10519687279.882187
+
+Reception #: 229
+Pulse #: 228
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340948352404
+DECAWAVE Time(NS): 10611871752.397587
+
+Reception #: 230
+Pulse #: 229
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340948576831
+DECAWAVE Time(NS): 10704055656.47223
+
+Reception #: 231
+Pulse #: 230
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340948797716
+DECAWAVE Time(NS): 10796237148.67225
+
+Reception #: 232
+Pulse #: 231
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340949015008
+DECAWAVE Time(NS): 10888416927.349384
+
+Reception #: 233
+Pulse #: 232
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340949231049
+DECAWAVE Time(NS): 10980596346.638998
+
+Reception #: 234
+Pulse #: 233
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340949449070
+DECAWAVE Time(NS): 11072778689.982096
+
+Reception #: 235
+Pulse #: 234
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340949666622
+DECAWAVE Time(NS): 11164963870.129707
+
+Reception #: 236
+Pulse #: 235
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340949882716
+DECAWAVE Time(NS): 11257145404.913486
+
+Reception #: 237
+Pulse #: 236
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340950241154
+DECAWAVE Time(NS): 11349328967.676407
+
+Reception #: 238
+Pulse #: 237
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840340950461102
+DECAWAVE Time(NS): 11441511938.304413
+
+Reception #: 239
+Pulse #: 238
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341951067560
+DECAWAVE Time(NS): 11533695990.897938
+
+Reception #: 240
+Pulse #: 239
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341951365737
+DECAWAVE Time(NS): 11625875964.77802
+
+Reception #: 241
+Pulse #: 240
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341951589955
+DECAWAVE Time(NS): 11718090730.653421
+
+Reception #: 242
+Pulse #: 241
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341951808080
+DECAWAVE Time(NS): 11810236290.971806
+
+Reception #: 243
+Pulse #: 242
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341952027768
+DECAWAVE Time(NS): 11902417140.017778
+
+Reception #: 244
+Pulse #: 243
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341952244278
+DECAWAVE Time(NS): 11994596707.26287
+
+Reception #: 245
+Pulse #: 244
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341952459278
+DECAWAVE Time(NS): 12086778975.000626
+
+Reception #: 246
+Pulse #: 245
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341952676049
+DECAWAVE Time(NS): 12178962717.159956
+
+Reception #: 247
+Pulse #: 246
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341952892091
+DECAWAVE Time(NS): 12271146028.145033
+
+Reception #: 248
+Pulse #: 247
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341953108966
+DECAWAVE Time(NS): 12363328706.117289
+
+Reception #: 249
+Pulse #: 248
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840341955135216
+DECAWAVE Time(NS): 12455504460.87177
+
+Reception #: 250
+Pulse #: 249
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342955805684
+DECAWAVE Time(NS): 12547684013.828375
+
+Reception #: 251
+Pulse #: 250
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342956137351
+DECAWAVE Time(NS): 12639865009.969076
+
+Reception #: 252
+Pulse #: 251
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342956365632
+DECAWAVE Time(NS): 12732047240.725786
+
+Reception #: 253
+Pulse #: 252
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342956592195
+DECAWAVE Time(NS): 12824231867.675781
+
+Reception #: 254
+Pulse #: 253
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342956813705
+DECAWAVE Time(NS): 12916414098.761143
+
+Reception #: 255
+Pulse #: 254
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342957038809
+DECAWAVE Time(NS): 13008596362.085587
+
+Reception #: 256
+Pulse #: 255
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342957268392
+DECAWAVE Time(NS): 13100780115.998096
+
+Reception #: 257
+Pulse #: 0
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342957488184
+DECAWAVE Time(NS): 13192962837.227064
+
+Reception #: 258
+Pulse #: 1
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342957715111
+DECAWAVE Time(NS): 13285149116.617838
+
+Reception #: 259
+Pulse #: 2
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342957938549
+DECAWAVE Time(NS): 13377335011.17413
+
+Reception #: 260
+Pulse #: 3
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840342958168392
+DECAWAVE Time(NS): 13469518662.297176
+
+Reception #: 261
+Pulse #: 4
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343958852038
+DECAWAVE Time(NS): 13561740158.300156
+
+Reception #: 262
+Pulse #: 5
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343959174538
+DECAWAVE Time(NS): 13653888073.307919
+
+Reception #: 263
+Pulse #: 6
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343959404173
+DECAWAVE Time(NS): 13746068913.339468
+
+Reception #: 264
+Pulse #: 7
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343959626361
+DECAWAVE Time(NS): 13838252838.479067
+
+Reception #: 265
+Pulse #: 8
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343959845475
+DECAWAVE Time(NS): 13930439143.129007
+
+Reception #: 266
+Pulse #: 9
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343960153653
+DECAWAVE Time(NS): 14022618348.811224
+
+Reception #: 267
+Pulse #: 10
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343960378548
+DECAWAVE Time(NS): 14114804246.528822
+
+Reception #: 268
+Pulse #: 11
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343960604382
+DECAWAVE Time(NS): 14206987348.006811
+
+Reception #: 269
+Pulse #: 12
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343960824850
+DECAWAVE Time(NS): 14299173389.736078
+
+Reception #: 270
+Pulse #: 13
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343961049850
+DECAWAVE Time(NS): 14391358702.329979
+
+Reception #: 271
+Pulse #: 14
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840343961275788
+DECAWAVE Time(NS): 14483544856.598682
+
+Reception #: 272
+Pulse #: 15
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344961918235
+DECAWAVE Time(NS): 14575729906.13106
+
+Reception #: 273
+Pulse #: 16
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344962403913
+DECAWAVE Time(NS): 14667916318.453276
+
+Reception #: 274
+Pulse #: 17
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344962757350
+DECAWAVE Time(NS): 14760099260.566908
+
+Reception #: 275
+Pulse #: 18
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344963114277
+DECAWAVE Time(NS): 14852284702.93094
+
+Reception #: 276
+Pulse #: 19
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344963466100
+DECAWAVE Time(NS): 14944469279.941656
+
+Reception #: 277
+Pulse #: 20
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344963853652
+DECAWAVE Time(NS): 15036652696.204552
+
+Reception #: 278
+Pulse #: 21
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344964165371
+DECAWAVE Time(NS): 15128838556.784605
+
+Reception #: 279
+Pulse #: 22
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344964516985
+DECAWAVE Time(NS): 15221026211.954754
+
+Reception #: 280
+Pulse #: 23
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344964851256
+DECAWAVE Time(NS): 15313212705.015526
+
+Reception #: 281
+Pulse #: 24
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344965215267
+DECAWAVE Time(NS): 15405436322.052784
+
+Reception #: 282
+Pulse #: 25
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840344965538288
+DECAWAVE Time(NS): 15497583746.00924
+
+Reception #: 283
+Pulse #: 26
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345966309277
+DECAWAVE Time(NS): 15589764151.047928
+
+Reception #: 284
+Pulse #: 27
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345966543964
+DECAWAVE Time(NS): 15681951727.294922
+
+Reception #: 285
+Pulse #: 28
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345966771360
+DECAWAVE Time(NS): 15774132684.717422
+
+Reception #: 286
+Pulse #: 29
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345966989225
+DECAWAVE Time(NS): 15866316294.899965
+
+Reception #: 287
+Pulse #: 30
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345967218443
+DECAWAVE Time(NS): 15958501620.7025
+
+Reception #: 288
+Pulse #: 31
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345967439798
+DECAWAVE Time(NS): 16050684094.066132
+
+Reception #: 289
+Pulse #: 32
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345967661829
+DECAWAVE Time(NS): 16142867040.092274
+
+Reception #: 290
+Pulse #: 33
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345967885214
+DECAWAVE Time(NS): 16235050739.370493
+
+Reception #: 291
+Pulse #: 34
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345968109120
+DECAWAVE Time(NS): 16327233356.855345
+
+Reception #: 292
+Pulse #: 35
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840345968332402
+DECAWAVE Time(NS): 16419417602.523413
+
+Reception #: 293
+Pulse #: 36
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346968921985
+DECAWAVE Time(NS): 16511602536.746294
+
+Reception #: 294
+Pulse #: 37
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346969245526
+DECAWAVE Time(NS): 16603790812.47183
+
+Reception #: 295
+Pulse #: 38
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346969475214
+DECAWAVE Time(NS): 16695978839.54953
+
+Reception #: 296
+Pulse #: 39
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346969701203
+DECAWAVE Time(NS): 16788166049.820337
+
+Reception #: 297
+Pulse #: 40
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346969920474
+DECAWAVE Time(NS): 16880351874.420948
+
+Reception #: 298
+Pulse #: 41
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346970223495
+DECAWAVE Time(NS): 16972540183.62192
+
+Reception #: 299
+Pulse #: 42
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346970447766
+DECAWAVE Time(NS): 17064733171.68407
+
+Reception #: 300
+Pulse #: 43
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346970668651
+DECAWAVE Time(NS): 17156919877.757538
+
+Reception #: 301
+Pulse #: 44
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346970891047
+DECAWAVE Time(NS): 41744404.75072616
+
+Reception #: 302
+Pulse #: 45
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346971113495
+DECAWAVE Time(NS): 133895270.10404147
+
+Reception #: 303
+Pulse #: 46
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840346971339433
+DECAWAVE Time(NS): 226082322.3407452
+
+Reception #: 304
+Pulse #: 47
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347971948443
+DECAWAVE Time(NS): 318267082.1439303
+
+Reception #: 305
+Pulse #: 48
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347972268755
+DECAWAVE Time(NS): 410452154.290615
+
+Reception #: 306
+Pulse #: 49
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347972494016
+DECAWAVE Time(NS): 502636297.6230719
+
+Reception #: 307
+Pulse #: 50
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347972715578
+DECAWAVE Time(NS): 594820040.8935547
+
+Reception #: 308
+Pulse #: 51
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347972945370
+DECAWAVE Time(NS): 687005018.4200971
+
+Reception #: 309
+Pulse #: 52
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347973180318
+DECAWAVE Time(NS): 779190123.791817
+
+Reception #: 310
+Pulse #: 53
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347973400057
+DECAWAVE Time(NS): 871377456.7589393
+
+Reception #: 311
+Pulse #: 54
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347973617661
+DECAWAVE Time(NS): 963564165.0860126
+
+Reception #: 312
+Pulse #: 55
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347973835891
+DECAWAVE Time(NS): 1055749487.9619892
+
+Reception #: 313
+Pulse #: 56
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347974064068
+DECAWAVE Time(NS): 1147937607.3436248
+
+Reception #: 314
+Pulse #: 57
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840347976461932
+DECAWAVE Time(NS): 1240122481.2199519
+
+Reception #: 315
+Pulse #: 58
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348977156046
+DECAWAVE Time(NS): 1332304598.9207733
+
+Reception #: 316
+Pulse #: 59
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348977455265
+DECAWAVE Time(NS): 1424487453.488081
+
+Reception #: 317
+Pulse #: 60
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348977683755
+DECAWAVE Time(NS): 1516670397.3545172
+
+Reception #: 318
+Pulse #: 61
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348977906203
+DECAWAVE Time(NS): 1608852331.5742688
+
+Reception #: 319
+Pulse #: 62
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348978141463
+DECAWAVE Time(NS): 1701034193.334335
+
+Reception #: 320
+Pulse #: 63
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348978360161
+DECAWAVE Time(NS): 1793216544.3616035
+
+Reception #: 321
+Pulse #: 64
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348978584953
+DECAWAVE Time(NS): 1885432869.8260968
+
+Reception #: 322
+Pulse #: 65
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348978804744
+DECAWAVE Time(NS): 1977578722.8628306
+
+Reception #: 323
+Pulse #: 66
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348979029849
+DECAWAVE Time(NS): 2069760337.1331632
+
+Reception #: 324
+Pulse #: 67
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348979256567
+DECAWAVE Time(NS): 2161947841.2178235
+
+Reception #: 325
+Pulse #: 68
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840348979481046
+DECAWAVE Time(NS): 2254135144.6846204
+
+Reception #: 326
+Pulse #: 69
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349980148286
+DECAWAVE Time(NS): 2346314836.237981
+
+Reception #: 327
+Pulse #: 70
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349980440786
+DECAWAVE Time(NS): 2438484351.978791
+
+Reception #: 328
+Pulse #: 71
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349980673181
+DECAWAVE Time(NS): 2530657609.9728317
+
+Reception #: 329
+Pulse #: 72
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349980897296
+DECAWAVE Time(NS): 2622827991.160857
+
+Reception #: 330
+Pulse #: 73
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349981123181
+DECAWAVE Time(NS): 2714999774.154272
+
+Reception #: 331
+Pulse #: 74
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349981352713
+DECAWAVE Time(NS): 2807170195.641151
+
+Reception #: 332
+Pulse #: 75
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349981570681
+DECAWAVE Time(NS): 2899343101.6501403
+
+Reception #: 333
+Pulse #: 76
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349981789900
+DECAWAVE Time(NS): 2991515711.1847706
+
+Reception #: 334
+Pulse #: 77
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349982019952
+DECAWAVE Time(NS): 3083686846.1413264
+
+Reception #: 335
+Pulse #: 78
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349982243598
+DECAWAVE Time(NS): 3175853558.1148586
+
+Reception #: 336
+Pulse #: 79
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840349982468390
+DECAWAVE Time(NS): 3268020790.8591247
+
+Reception #: 337
+Pulse #: 80
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350983074535
+DECAWAVE Time(NS): 3360193000.2065806
+
+Reception #: 338
+Pulse #: 81
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350983380264
+DECAWAVE Time(NS): 3452364168.372521
+
+Reception #: 339
+Pulse #: 82
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350983611983
+DECAWAVE Time(NS): 3544535600.5076876
+
+Reception #: 340
+Pulse #: 83
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350983837660
+DECAWAVE Time(NS): 3636718362.583258
+
+Reception #: 341
+Pulse #: 84
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350984065681
+DECAWAVE Time(NS): 3728940820.1246996
+
+Reception #: 342
+Pulse #: 85
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350984290369
+DECAWAVE Time(NS): 3821087942.191882
+
+Reception #: 343
+Pulse #: 86
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350984510212
+DECAWAVE Time(NS): 3913271530.526968
+
+Reception #: 344
+Pulse #: 87
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350984728598
+DECAWAVE Time(NS): 4005454093.1897287
+
+Reception #: 345
+Pulse #: 88
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350984949535
+DECAWAVE Time(NS): 4097638434.088291
+
+Reception #: 346
+Pulse #: 89
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350985183077
+DECAWAVE Time(NS): 4189825732.1088743
+
+Reception #: 347
+Pulse #: 90
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840350985403025
+DECAWAVE Time(NS): 4282010162.3535156
+
+Reception #: 348
+Pulse #: 91
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351986014274
+DECAWAVE Time(NS): 4374191580.090645
+
+Reception #: 349
+Pulse #: 92
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351986328389
+DECAWAVE Time(NS): 4466376539.02494
+
+Reception #: 350
+Pulse #: 93
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351986559899
+DECAWAVE Time(NS): 4558560223.748623
+
+Reception #: 351
+Pulse #: 94
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351986786514
+DECAWAVE Time(NS): 4650745991.836939
+
+Reception #: 352
+Pulse #: 95
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351987005056
+DECAWAVE Time(NS): 4742932129.062751
+
+Reception #: 353
+Pulse #: 96
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351987233493
+DECAWAVE Time(NS): 4835117281.2124405
+
+Reception #: 354
+Pulse #: 97
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351987455629
+DECAWAVE Time(NS): 4927302417.054788
+
+Reception #: 355
+Pulse #: 98
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351987678910
+DECAWAVE Time(NS): 5019484700.223483
+
+Reception #: 356
+Pulse #: 99
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351987899639
+DECAWAVE Time(NS): 5111663818.124624
+
+Reception #: 357
+Pulse #: 100
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351988131202
+DECAWAVE Time(NS): 5203846702.97476
+
+Reception #: 358
+Pulse #: 101
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840351988350785
+DECAWAVE Time(NS): 5296031286.652394
+
+Reception #: 359
+Pulse #: 102
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352988962503
+DECAWAVE Time(NS): 5388221711.284931
+
+Reception #: 360
+Pulse #: 103
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352989289326
+DECAWAVE Time(NS): 5480409972.64373
+
+Reception #: 361
+Pulse #: 104
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352989522972
+DECAWAVE Time(NS): 5572633393.977239
+
+Reception #: 362
+Pulse #: 105
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352989750055
+DECAWAVE Time(NS): 5664782793.516501
+
+Reception #: 363
+Pulse #: 106
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352989969587
+DECAWAVE Time(NS): 5756967890.4685
+
+Reception #: 364
+Pulse #: 107
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352990274014
+DECAWAVE Time(NS): 5849154854.3450775
+
+Reception #: 365
+Pulse #: 108
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352990501462
+DECAWAVE Time(NS): 5941338957.03438
+
+Reception #: 366
+Pulse #: 109
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352990722399
+DECAWAVE Time(NS): 6033523524.9211235
+
+Reception #: 367
+Pulse #: 110
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352990942659
+DECAWAVE Time(NS): 6125711450.743064
+
+Reception #: 368
+Pulse #: 111
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352991167087
+DECAWAVE Time(NS): 6217898247.054663
+
+Reception #: 369
+Pulse #: 112
+Anchor ID: RED
+Tag ID: 'B L'
+RPI Time(NS): 840352991386253
+DECAWAVE Time(NS): 6310082262.354142
+
