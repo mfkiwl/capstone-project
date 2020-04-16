@@ -60,38 +60,41 @@ def main(filestring,variableX, variableY):
         y[files.index(filename)] = np.asarray(list_y)
 
     # calculate the variable Y deltas using the DIFF operator
-    # remove all Y deltas less than 0 (caused by rollover)
     delta_x = np.diff(x,axis=1)
     delta_y = np.diff(y,axis=1)
-    delta_x = delta_x [delta_y >= 0]
-    delta_y = delta_y [delta_y >= 0]
+    # delta_x = delta_x [delta_y >= 0]
+    # delta_y = delta_y [delta_y >= 0]
     delta_y_diffs = np.diff(delta_y,axis=0)
 
-    print("dimensions of x:" + str(x.shape))
-    print("dimensions of y:" + str(y.shape))
-    print("dimensions of delta_x:" + str(delta_x.shape))
-    print("dimensions of delta_y:" + str(delta_y.shape))
-    print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
-    
-    mean_delta_diff = np.mean(delta_y_diffs)
-    print("for",variableY, "the mean delta difference is", str(mean_delta_diff))
+    # print("dimensions of x:" + str(x.shape))
+    # print("dimensions of y:" + str(y.shape))
+    # print("dimensions of delta_x:" + str(delta_x.shape))
+    # print("dimensions of delta_y:" + str(delta_y.shape))
+    # print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
 
-'''
     # Plot variableY
     print("graphing", variableY, "...\n")
     for i in range(y.shape[0]):
         plt.scatter(x[i],y[i])
     plt.xlabel(variableX)
     plt.ylabel(variableY) 
+    plt.title("Plot of Anchor " + variableY + " over " + variableX)
     plt.show()
 
-    # Plot the delta of variableY
+    # Plot the deltas of variableY & show their mean, STDEV
     print("graphing the delta of", variableY, "...\n")
     for i in range(delta_y.shape[0]):
-        plt.scatter(delta_x[i],delta_y[i])
-    plt.xlabel(variableX)
-    plt.ylabel("delta " + variableY) 
+        plt.scatter(np.arange(delta_y.shape[1]),delta_y[i])
+        print("Anchor {} Timestamp Deltas in {}: Mean = {}, St. Dev = {}".format(i, variableY, np.mean(delta_y[i]), np.std(delta_y[i])))
+    plt.xlabel("between each " + variableX)
+    plt.ylabel("delta" + variableY) 
+    plt.title("Plot of Anchor Deltas in " + variableY + " against " + variableX)
     plt.show()
+
+
+
+'''
+
 
     # Plot the delta of variableY
     print("graphing the differences in deltas of", variableY, "...\n")
