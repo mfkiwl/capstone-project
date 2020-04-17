@@ -16,6 +16,10 @@ notes:
         i.e. reception_#: 13
     Each ROW in the variableY array contains the Y values from ONE log file
 '''
+
+def reject_outliers(data, m=2):
+    return data[abs(data - np.mean(data)) < m * np.std(data)]
+
 def main(filestring,variableX, variableY):
     list_x = list()
     list_y = list()
@@ -66,19 +70,20 @@ def main(filestring,variableX, variableY):
     # delta_y = delta_y [delta_y >= 0]
     delta_y_diffs = np.diff(delta_y,axis=0)
 
-    # print("dimensions of x:" + str(x.shape))
-    # print("dimensions of y:" + str(y.shape))
-    # print("dimensions of delta_x:" + str(delta_x.shape))
-    # print("dimensions of delta_y:" + str(delta_y.shape))
-    # print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
-
+    print("dimensions of x:" + str(x.shape))
+    print("dimensions of y:" + str(y.shape))
+    print("dimensions of delta_x:" + str(delta_x.shape))
+    print("dimensions of delta_y:" + str(delta_y.shape))
+    print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
+    
+    '''
     # Plot variableY
     print("graphing", variableY, "...\n")
     for i in range(y.shape[0]):
         plt.scatter(x[i],y[i])
     plt.xlabel(variableX)
     plt.ylabel(variableY) 
-    plt.title("Plot of Anchor " + variableY + " over " + variableX)
+    plt.title("Anchor " + variableY + " over " + variableX)
     plt.show()
 
     # Plot the deltas of variableY & show their mean, STDEV
@@ -90,20 +95,19 @@ def main(filestring,variableX, variableY):
     plt.ylabel("delta" + variableY) 
     plt.title("Plot of Anchor Deltas in " + variableY + " against " + variableX)
     plt.show()
+    '''
+    # Plot the difference in corresponding deltas of variableY
 
+    delta_y_diffs = reject_outliers(delta_y_diffs, m=1)
 
-
-'''
-
-
-    # Plot the delta of variableY
-    print("graphing the differences in deltas of", variableY, "...\n")
-    plt.scatter(delta_x[0],delta_y_diffs)
+    print("graphing the difference between deltas of", variableY, "...\n")
+    print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, St. Dev = {}".format(variableY,np.mean(delta_y_diffs), np.std(delta_y_diffs)))
+    plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
     plt.xlabel(variableX)
-    plt.ylabel("differences in delta" + variableY)
+    plt.ylabel("difference in corresponding delta" + variableY) 
+    plt.title("Differences of Corresponding Anchor Deltas in" + variableY + " over " + variableX)
     plt.show()
 
-'''
 
 # Run the function.
 files = sys.argv[1]
