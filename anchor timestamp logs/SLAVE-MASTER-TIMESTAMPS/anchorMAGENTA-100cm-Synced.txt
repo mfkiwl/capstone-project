@@ -1,0 +1,2198 @@
+Reception #: N/A
+Pulse #: 23
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): -1
+DECAWAVE Synced Time(NS): 13572322370
+
+Reception #: 0
+Pulse #: 120
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663459745249
+DECAWAVE Synced Time(NS): 10707430246
+
+Reception #: 0
+Pulse #: 121
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663459972697
+DECAWAVE Synced Time(NS): 10799568945
+
+Reception #: 0
+Pulse #: 122
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663460293426
+DECAWAVE Synced Time(NS): 10891744544
+
+Reception #: 0
+Pulse #: 123
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663460513270
+DECAWAVE Synced Time(NS): 10983919810
+
+Reception #: 0
+Pulse #: 124
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663460728322
+DECAWAVE Synced Time(NS): 11076098109
+
+Reception #: 0
+Pulse #: 125
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663460947176
+DECAWAVE Synced Time(NS): 11168275431
+
+Reception #: 0
+Pulse #: 126
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663461163270
+DECAWAVE Synced Time(NS): 11260453590
+
+Reception #: 0
+Pulse #: 127
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663461373999
+DECAWAVE Synced Time(NS): 11352631046
+
+Reception #: 0
+Pulse #: 128
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663461593582
+DECAWAVE Synced Time(NS): 11444804422
+
+Reception #: 0
+Pulse #: 129
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663461809989
+DECAWAVE Synced Time(NS): 11536973386
+
+Reception #: 0
+Pulse #: 130
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022663462019884
+DECAWAVE Synced Time(NS): 11629144850
+
+Reception #: 0
+Pulse #: 131
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664462634363
+DECAWAVE Synced Time(NS): 11721320213
+
+Reception #: 0
+Pulse #: 132
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664462909311
+DECAWAVE Synced Time(NS): 11813497165
+
+Reception #: 0
+Pulse #: 133
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664463124780
+DECAWAVE Synced Time(NS): 11905669349
+
+Reception #: 0
+Pulse #: 134
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664463344519
+DECAWAVE Synced Time(NS): 11997844664
+
+Reception #: 0
+Pulse #: 135
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664463561342
+DECAWAVE Synced Time(NS): 12090023715
+
+Reception #: 0
+Pulse #: 136
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664463776238
+DECAWAVE Synced Time(NS): 12182201501
+
+Reception #: 0
+Pulse #: 137
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664463993374
+DECAWAVE Synced Time(NS): 12274379044
+
+Reception #: 0
+Pulse #: 138
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664464211394
+DECAWAVE Synced Time(NS): 12366557382
+
+Reception #: 0
+Pulse #: 139
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664464430822
+DECAWAVE Synced Time(NS): 12458734775
+
+Reception #: 0
+Pulse #: 140
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664464648165
+DECAWAVE Synced Time(NS): 12550949064
+
+Reception #: 0
+Pulse #: 141
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022664464859051
+DECAWAVE Synced Time(NS): 12643096257
+
+Reception #: 0
+Pulse #: 142
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665465467540
+DECAWAVE Synced Time(NS): 12735278457
+
+Reception #: 0
+Pulse #: 143
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665465740248
+DECAWAVE Synced Time(NS): 12827460063
+
+Reception #: 0
+Pulse #: 144
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665465959259
+DECAWAVE Synced Time(NS): 12919633969
+
+Reception #: 0
+Pulse #: 145
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665466182071
+DECAWAVE Synced Time(NS): 13011806811
+
+Reception #: 0
+Pulse #: 146
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665466401134
+DECAWAVE Synced Time(NS): 13103980844
+
+Reception #: 0
+Pulse #: 147
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665466613738
+DECAWAVE Synced Time(NS): 13196155280
+
+Reception #: 0
+Pulse #: 148
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665466832384
+DECAWAVE Synced Time(NS): 13288331559
+
+Reception #: 0
+Pulse #: 149
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665467049988
+DECAWAVE Synced Time(NS): 13380507395
+
+Reception #: 0
+Pulse #: 150
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665467259779
+DECAWAVE Synced Time(NS): 13472681543
+
+Reception #: 0
+Pulse #: 151
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665467476290
+DECAWAVE Synced Time(NS): 13564856009
+
+Reception #: 0
+Pulse #: 152
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022665467692748
+DECAWAVE Synced Time(NS): 13657030444
+
+Reception #: 0
+Pulse #: 153
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666468311029
+DECAWAVE Synced Time(NS): 13749202805
+
+Reception #: 0
+Pulse #: 154
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666468604258
+DECAWAVE Synced Time(NS): 13841373962
+
+Reception #: 0
+Pulse #: 155
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666468830352
+DECAWAVE Synced Time(NS): 13933542628
+
+Reception #: 0
+Pulse #: 156
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666469044779
+DECAWAVE Synced Time(NS): 14025713161
+
+Reception #: 0
+Pulse #: 157
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666469264935
+DECAWAVE Synced Time(NS): 14117879278
+
+Reception #: 0
+Pulse #: 158
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666469484206
+DECAWAVE Synced Time(NS): 14210050573
+
+Reception #: 0
+Pulse #: 159
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666469696081
+DECAWAVE Synced Time(NS): 14302221219
+
+Reception #: 0
+Pulse #: 160
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666469915092
+DECAWAVE Synced Time(NS): 14394424146
+
+Reception #: 0
+Pulse #: 161
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666470208217
+DECAWAVE Synced Time(NS): 14486555482
+
+Reception #: 0
+Pulse #: 162
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666470428112
+DECAWAVE Synced Time(NS): 14578723724
+
+Reception #: 0
+Pulse #: 163
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022666470646289
+DECAWAVE Synced Time(NS): 14670890947
+
+Reception #: 0
+Pulse #: 164
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667471282279
+DECAWAVE Synced Time(NS): 14763063299
+
+Reception #: 0
+Pulse #: 165
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667471509570
+DECAWAVE Synced Time(NS): 14855234080
+
+Reception #: 0
+Pulse #: 166
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667471729935
+DECAWAVE Synced Time(NS): 14947406391
+
+Reception #: 0
+Pulse #: 167
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667471942487
+DECAWAVE Synced Time(NS): 15039577798
+
+Reception #: 0
+Pulse #: 168
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667472160560
+DECAWAVE Synced Time(NS): 15131745223
+
+Reception #: 0
+Pulse #: 169
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667472377331
+DECAWAVE Synced Time(NS): 15223915675
+
+Reception #: 0
+Pulse #: 170
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667472588477
+DECAWAVE Synced Time(NS): 15316087088
+
+Reception #: 0
+Pulse #: 171
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667472805560
+DECAWAVE Synced Time(NS): 15408258495
+
+Reception #: 0
+Pulse #: 172
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667473022852
+DECAWAVE Synced Time(NS): 15500425807
+
+Reception #: 0
+Pulse #: 173
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022667473234362
+DECAWAVE Synced Time(NS): 15592595675
+
+Reception #: 0
+Pulse #: 174
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668473886757
+DECAWAVE Synced Time(NS): 15684762794
+
+Reception #: 0
+Pulse #: 175
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668474180820
+DECAWAVE Synced Time(NS): 15776932654
+
+Reception #: 0
+Pulse #: 176
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668474398320
+DECAWAVE Synced Time(NS): 15869107377
+
+Reception #: 0
+Pulse #: 177
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668474618528
+DECAWAVE Synced Time(NS): 15961277894
+
+Reception #: 0
+Pulse #: 178
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668474840299
+DECAWAVE Synced Time(NS): 16053445759
+
+Reception #: 0
+Pulse #: 179
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668475055820
+DECAWAVE Synced Time(NS): 16145616965
+
+Reception #: 0
+Pulse #: 180
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668475274935
+DECAWAVE Synced Time(NS): 16237819774
+
+Reception #: 0
+Pulse #: 181
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668475493216
+DECAWAVE Synced Time(NS): 16329955258
+
+Reception #: 0
+Pulse #: 182
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668476063372
+DECAWAVE Synced Time(NS): 16422124621
+
+Reception #: 0
+Pulse #: 183
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668476288320
+DECAWAVE Synced Time(NS): 16514293006
+
+Reception #: 0
+Pulse #: 184
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022668476508007
+DECAWAVE Synced Time(NS): 16606464749
+
+Reception #: 0
+Pulse #: 185
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669477127955
+DECAWAVE Synced Time(NS): 16698638390
+
+Reception #: 0
+Pulse #: 186
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669477419830
+DECAWAVE Synced Time(NS): 16790809900
+
+Reception #: 0
+Pulse #: 188
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669477650455
+DECAWAVE Synced Time(NS): 16975156055
+
+Reception #: 0
+Pulse #: 189
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669477870038
+DECAWAVE Synced Time(NS): 17067329801
+
+Reception #: 0
+Pulse #: 190
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669478082226
+DECAWAVE Synced Time(NS): 17159500950
+
+Reception #: 0
+Pulse #: 191
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669478299882
+DECAWAVE Synced Time(NS): 31974058
+
+Reception #: 0
+Pulse #: 192
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669478518632
+DECAWAVE Synced Time(NS): 31974058
+
+Reception #: 0
+Pulse #: 193
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669478728424
+DECAWAVE Synced Time(NS): 228617333
+
+Reception #: 0
+Pulse #: 194
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669478946184
+DECAWAVE Synced Time(NS): 320790148
+
+Reception #: 0
+Pulse #: 195
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022669479163476
+DECAWAVE Synced Time(NS): 412962156
+
+Reception #: 0
+Pulse #: 196
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670479815871
+DECAWAVE Synced Time(NS): 505138305
+
+Reception #: 0
+Pulse #: 198
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670480231028
+DECAWAVE Synced Time(NS): 689488314
+
+Reception #: 0
+Pulse #: 199
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670480448475
+DECAWAVE Synced Time(NS): 781664078
+
+Reception #: 0
+Pulse #: 200
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670480667069
+DECAWAVE Synced Time(NS): 873882023
+
+Reception #: 0
+Pulse #: 201
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670480888475
+DECAWAVE Synced Time(NS): 966026835
+
+Reception #: 0
+Pulse #: 202
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670481101288
+DECAWAVE Synced Time(NS): 1058205612
+
+Reception #: 0
+Pulse #: 203
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670481320350
+DECAWAVE Synced Time(NS): 1150381515
+
+Reception #: 0
+Pulse #: 204
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670481539830
+DECAWAVE Synced Time(NS): 1242556863
+
+Reception #: 0
+Pulse #: 205
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670481751600
+DECAWAVE Synced Time(NS): 1334732691
+
+Reception #: 0
+Pulse #: 206
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022670481969361
+DECAWAVE Synced Time(NS): 1426909772
+
+Reception #: 0
+Pulse #: 207
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671482604413
+DECAWAVE Synced Time(NS): 1519084526
+
+Reception #: 0
+Pulse #: 208
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671482881288
+DECAWAVE Synced Time(NS): 1611259161
+
+Reception #: 0
+Pulse #: 209
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671483106183
+DECAWAVE Synced Time(NS): 1703434791
+
+Reception #: 0
+Pulse #: 210
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671483329777
+DECAWAVE Synced Time(NS): 1795610027
+
+Reception #: 0
+Pulse #: 211
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671483550038
+DECAWAVE Synced Time(NS): 1887784237
+
+Reception #: 0
+Pulse #: 212
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671483768058
+DECAWAVE Synced Time(NS): 1979952631
+
+Reception #: 0
+Pulse #: 213
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671483979621
+DECAWAVE Synced Time(NS): 2072127049
+
+Reception #: 0
+Pulse #: 214
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671484196965
+DECAWAVE Synced Time(NS): 2164302924
+
+Reception #: 0
+Pulse #: 215
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671484413683
+DECAWAVE Synced Time(NS): 2256479749
+
+Reception #: 0
+Pulse #: 216
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671484624621
+DECAWAVE Synced Time(NS): 2348655531
+
+Reception #: 0
+Pulse #: 217
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022671484841913
+DECAWAVE Synced Time(NS): 2440831775
+
+Reception #: 0
+Pulse #: 218
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672485473787
+DECAWAVE Synced Time(NS): 2533003679
+
+Reception #: 0
+Pulse #: 219
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672485749256
+DECAWAVE Synced Time(NS): 2625180004
+
+Reception #: 0
+Pulse #: 220
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672485976339
+DECAWAVE Synced Time(NS): 2717393724
+
+Reception #: 0
+Pulse #: 221
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672486194673
+DECAWAVE Synced Time(NS): 2809535237
+
+Reception #: 0
+Pulse #: 222
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672486406287
+DECAWAVE Synced Time(NS): 2901713341
+
+Reception #: 0
+Pulse #: 223
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672486623318
+DECAWAVE Synced Time(NS): 2993893171
+
+Reception #: 0
+Pulse #: 224
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672486841652
+DECAWAVE Synced Time(NS): 3086074079
+
+Reception #: 0
+Pulse #: 225
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672487052641
+DECAWAVE Synced Time(NS): 3178253240
+
+Reception #: 0
+Pulse #: 226
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672487269933
+DECAWAVE Synced Time(NS): 3270429825
+
+Reception #: 0
+Pulse #: 227
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672487485558
+DECAWAVE Synced Time(NS): 3362604947
+
+Reception #: 0
+Pulse #: 228
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022672487696287
+DECAWAVE Synced Time(NS): 3454781200
+
+Reception #: 0
+Pulse #: 229
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673488322537
+DECAWAVE Synced Time(NS): 3546959251
+
+Reception #: 0
+Pulse #: 230
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673488603787
+DECAWAVE Synced Time(NS): 3639140574
+
+Reception #: 0
+Pulse #: 231
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673488821651
+DECAWAVE Synced Time(NS): 3731318830
+
+Reception #: 0
+Pulse #: 232
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673489041078
+DECAWAVE Synced Time(NS): 3823497057
+
+Reception #: 0
+Pulse #: 233
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673489258891
+DECAWAVE Synced Time(NS): 3915677156
+
+Reception #: 0
+Pulse #: 234
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673489476495
+DECAWAVE Synced Time(NS): 4007852752
+
+Reception #: 0
+Pulse #: 235
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673489692797
+DECAWAVE Synced Time(NS): 4100029112
+
+Reception #: 0
+Pulse #: 236
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673489903266
+DECAWAVE Synced Time(NS): 4192207280
+
+Reception #: 0
+Pulse #: 237
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673490212537
+DECAWAVE Synced Time(NS): 4284386969
+
+Reception #: 0
+Pulse #: 238
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673490431599
+DECAWAVE Synced Time(NS): 4376563033
+
+Reception #: 0
+Pulse #: 239
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022673490642641
+DECAWAVE Synced Time(NS): 4468735199
+
+Reception #: 0
+Pulse #: 240
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674491502380
+DECAWAVE Synced Time(NS): 4560942605
+
+Reception #: 0
+Pulse #: 241
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674492041599
+DECAWAVE Synced Time(NS): 4653073790
+
+Reception #: 0
+Pulse #: 242
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674492526651
+DECAWAVE Synced Time(NS): 4745246595
+
+Reception #: 0
+Pulse #: 243
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674493015141
+DECAWAVE Synced Time(NS): 4837417807
+
+Reception #: 0
+Pulse #: 244
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674493505349
+DECAWAVE Synced Time(NS): 4929591932
+
+Reception #: 0
+Pulse #: 245
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674493918214
+DECAWAVE Synced Time(NS): 5021766718
+
+Reception #: 0
+Pulse #: 246
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674494411443
+DECAWAVE Synced Time(NS): 5113941829
+
+Reception #: 0
+Pulse #: 247
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674494885453
+DECAWAVE Synced Time(NS): 5206119251
+
+Reception #: 0
+Pulse #: 248
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674495926599
+DECAWAVE Synced Time(NS): 5298294189
+
+Reception #: 0
+Pulse #: 249
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674496212120
+DECAWAVE Synced Time(NS): 5390465951
+
+Reception #: 0
+Pulse #: 250
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022674496438839
+DECAWAVE Synced Time(NS): 5482637987
+
+Reception #: 0
+Pulse #: 251
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675497207901
+DECAWAVE Synced Time(NS): 5574813575
+
+Reception #: 0
+Pulse #: 252
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675497456963
+DECAWAVE Synced Time(NS): 5666989039
+
+Reception #: 0
+Pulse #: 253
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675497762692
+DECAWAVE Synced Time(NS): 5759163631
+
+Reception #: 0
+Pulse #: 254
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675498294984
+DECAWAVE Synced Time(NS): 5851339676
+
+Reception #: 0
+Pulse #: 255
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675498790036
+DECAWAVE Synced Time(NS): 5943511541
+
+Reception #: 0
+Pulse #: 0
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675499290192
+DECAWAVE Synced Time(NS): 6035684147
+
+Reception #: 0
+Pulse #: 1
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675499778994
+DECAWAVE Synced Time(NS): 6127857707
+
+Reception #: 0
+Pulse #: 2
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675500525296
+DECAWAVE Synced Time(NS): 6220029244
+
+Reception #: 0
+Pulse #: 3
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675500999151
+DECAWAVE Synced Time(NS): 6312204470
+
+Reception #: 0
+Pulse #: 4
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022675501418161
+DECAWAVE Synced Time(NS): 6404413919
+
+Reception #: 0
+Pulse #: 5
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676502383265
+DECAWAVE Synced Time(NS): 6496554583
+
+Reception #: 0
+Pulse #: 6
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676502673421
+DECAWAVE Synced Time(NS): 6588730025
+
+Reception #: 0
+Pulse #: 7
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676502958213
+DECAWAVE Synced Time(NS): 6680904025
+
+Reception #: 0
+Pulse #: 8
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676503209723
+DECAWAVE Synced Time(NS): 6773080531
+
+Reception #: 0
+Pulse #: 9
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676503428004
+DECAWAVE Synced Time(NS): 6865259354
+
+Reception #: 0
+Pulse #: 10
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676503654046
+DECAWAVE Synced Time(NS): 6957434549
+
+Reception #: 0
+Pulse #: 11
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676503878004
+DECAWAVE Synced Time(NS): 7049610101
+
+Reception #: 0
+Pulse #: 12
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676504134150
+DECAWAVE Synced Time(NS): 7141785238
+
+Reception #: 0
+Pulse #: 13
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676504396181
+DECAWAVE Synced Time(NS): 7233956543
+
+Reception #: 0
+Pulse #: 14
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676504620088
+DECAWAVE Synced Time(NS): 7326130776
+
+Reception #: 0
+Pulse #: 15
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022676504836806
+DECAWAVE Synced Time(NS): 7418304544
+
+Reception #: 0
+Pulse #: 16
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677505507744
+DECAWAVE Synced Time(NS): 7510479047
+
+Reception #: 0
+Pulse #: 17
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677505843004
+DECAWAVE Synced Time(NS): 7602657230
+
+Reception #: 0
+Pulse #: 18
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677506101598
+DECAWAVE Synced Time(NS): 7694833071
+
+Reception #: 0
+Pulse #: 19
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677506328004
+DECAWAVE Synced Time(NS): 7787008367
+
+Reception #: 0
+Pulse #: 20
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677506549879
+DECAWAVE Synced Time(NS): 7879182392
+
+Reception #: 0
+Pulse #: 21
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677506794983
+DECAWAVE Synced Time(NS): 7971355527
+
+Reception #: 0
+Pulse #: 22
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677507080973
+DECAWAVE Synced Time(NS): 8063526824
+
+Reception #: 0
+Pulse #: 23
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677507321858
+DECAWAVE Synced Time(NS): 8155703308
+
+Reception #: 0
+Pulse #: 24
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677507542900
+DECAWAVE Synced Time(NS): 8247910664
+
+Reception #: 0
+Pulse #: 25
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677507767744
+DECAWAVE Synced Time(NS): 8340046337
+
+Reception #: 0
+Pulse #: 26
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022677508016233
+DECAWAVE Synced Time(NS): 8432220649
+
+Reception #: 0
+Pulse #: 27
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678508696649
+DECAWAVE Synced Time(NS): 8524394954
+
+Reception #: 0
+Pulse #: 28
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678509019202
+DECAWAVE Synced Time(NS): 8616568559
+
+Reception #: 0
+Pulse #: 29
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678509287639
+DECAWAVE Synced Time(NS): 8708739938
+
+Reception #: 0
+Pulse #: 30
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678509531806
+DECAWAVE Synced Time(NS): 8800911021
+
+Reception #: 0
+Pulse #: 31
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678509755712
+DECAWAVE Synced Time(NS): 8893078232
+
+Reception #: 0
+Pulse #: 32
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678509997118
+DECAWAVE Synced Time(NS): 8985245846
+
+Reception #: 0
+Pulse #: 33
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678510332327
+DECAWAVE Synced Time(NS): 9077407762
+
+Reception #: 0
+Pulse #: 34
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678510596441
+DECAWAVE Synced Time(NS): 9169572601
+
+Reception #: 0
+Pulse #: 35
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678510815972
+DECAWAVE Synced Time(NS): 9261736288
+
+Reception #: 0
+Pulse #: 36
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678511073889
+DECAWAVE Synced Time(NS): 9353897827
+
+Reception #: 0
+Pulse #: 37
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022678511296597
+DECAWAVE Synced Time(NS): 9446057491
+
+Reception #: 0
+Pulse #: 38
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679512007014
+DECAWAVE Synced Time(NS): 9538220073
+
+Reception #: 0
+Pulse #: 39
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679512330972
+DECAWAVE Synced Time(NS): 9630380995
+
+Reception #: 0
+Pulse #: 40
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679512558264
+DECAWAVE Synced Time(NS): 9722541845
+
+Reception #: 0
+Pulse #: 41
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679512775139
+DECAWAVE Synced Time(NS): 9814703985
+
+Reception #: 0
+Pulse #: 42
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679513018420
+DECAWAVE Synced Time(NS): 9906865420
+
+Reception #: 0
+Pulse #: 43
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679513294930
+DECAWAVE Synced Time(NS): 9999027816
+
+Reception #: 0
+Pulse #: 44
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679513512743
+DECAWAVE Synced Time(NS): 10091227762
+
+Reception #: 0
+Pulse #: 45
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679513739201
+DECAWAVE Synced Time(NS): 10183353948
+
+Reception #: 0
+Pulse #: 46
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679513979670
+DECAWAVE Synced Time(NS): 10275517707
+
+Reception #: 0
+Pulse #: 47
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679514231493
+DECAWAVE Synced Time(NS): 10367681601
+
+Reception #: 0
+Pulse #: 48
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022679514495660
+DECAWAVE Synced Time(NS): 10459844623
+
+Reception #: 0
+Pulse #: 49
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680515153367
+DECAWAVE Synced Time(NS): 10552011531
+
+Reception #: 0
+Pulse #: 50
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680515477899
+DECAWAVE Synced Time(NS): 10644177157
+
+Reception #: 0
+Pulse #: 51
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680515749097
+DECAWAVE Synced Time(NS): 10736340723
+
+Reception #: 0
+Pulse #: 52
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680516005920
+DECAWAVE Synced Time(NS): 10828499538
+
+Reception #: 0
+Pulse #: 53
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680516250242
+DECAWAVE Synced Time(NS): 10920663096
+
+Reception #: 0
+Pulse #: 54
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680516474409
+DECAWAVE Synced Time(NS): 11012826622
+
+Reception #: 0
+Pulse #: 55
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680516702274
+DECAWAVE Synced Time(NS): 11104990188
+
+Reception #: 0
+Pulse #: 56
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680517317222
+DECAWAVE Synced Time(NS): 11197158155
+
+Reception #: 0
+Pulse #: 57
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680517545034
+DECAWAVE Synced Time(NS): 11289323644
+
+Reception #: 0
+Pulse #: 58
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680517763315
+DECAWAVE Synced Time(NS): 11381490007
+
+Reception #: 0
+Pulse #: 59
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022680518012378
+DECAWAVE Synced Time(NS): 11473661875
+
+Reception #: 0
+Pulse #: 60
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681518711752
+DECAWAVE Synced Time(NS): 11565835890
+
+Reception #: 0
+Pulse #: 61
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681518984617
+DECAWAVE Synced Time(NS): 11658008742
+
+Reception #: 0
+Pulse #: 62
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681519209044
+DECAWAVE Synced Time(NS): 11750178102
+
+Reception #: 0
+Pulse #: 63
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681519426909
+DECAWAVE Synced Time(NS): 11842352477
+
+Reception #: 0
+Pulse #: 64
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681519638627
+DECAWAVE Synced Time(NS): 11934562574
+
+Reception #: 0
+Pulse #: 65
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681519856492
+DECAWAVE Synced Time(NS): 12026701862
+
+Reception #: 0
+Pulse #: 66
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681520138680
+DECAWAVE Synced Time(NS): 12118876341
+
+Reception #: 0
+Pulse #: 67
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681520351284
+DECAWAVE Synced Time(NS): 12211051951
+
+Reception #: 0
+Pulse #: 68
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681520571232
+DECAWAVE Synced Time(NS): 12303225269
+
+Reception #: 0
+Pulse #: 69
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681520787117
+DECAWAVE Synced Time(NS): 12395399348
+
+Reception #: 0
+Pulse #: 70
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022681520998575
+DECAWAVE Synced Time(NS): 12487570054
+
+Reception #: 0
+Pulse #: 71
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682521590919
+DECAWAVE Synced Time(NS): 12579743805
+
+Reception #: 0
+Pulse #: 73
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682521868992
+DECAWAVE Synced Time(NS): 12764085455
+
+Reception #: 0
+Pulse #: 74
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682522093471
+DECAWAVE Synced Time(NS): 12856256498
+
+Reception #: 0
+Pulse #: 75
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682522303783
+DECAWAVE Synced Time(NS): 12948432757
+
+Reception #: 0
+Pulse #: 76
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682522522325
+DECAWAVE Synced Time(NS): 13040605113
+
+Reception #: 0
+Pulse #: 77
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682522739669
+DECAWAVE Synced Time(NS): 13132778007
+
+Reception #: 0
+Pulse #: 78
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682522951127
+DECAWAVE Synced Time(NS): 13224947493
+
+Reception #: 0
+Pulse #: 79
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682523167013
+DECAWAVE Synced Time(NS): 13317116579
+
+Reception #: 0
+Pulse #: 80
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682523383627
+DECAWAVE Synced Time(NS): 13409288849
+
+Reception #: 0
+Pulse #: 81
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022682523593940
+DECAWAVE Synced Time(NS): 13501456109
+
+Reception #: 0
+Pulse #: 82
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683524311491
+DECAWAVE Synced Time(NS): 13593627527
+
+Reception #: 0
+Pulse #: 83
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683524702741
+DECAWAVE Synced Time(NS): 13685795822
+
+Reception #: 0
+Pulse #: 84
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683524990710
+DECAWAVE Synced Time(NS): 13778002432
+
+Reception #: 0
+Pulse #: 85
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683525296387
+DECAWAVE Synced Time(NS): 13870138708
+
+Reception #: 0
+Pulse #: 86
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683525578470
+DECAWAVE Synced Time(NS): 13962310157
+
+Reception #: 0
+Pulse #: 87
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683525889356
+DECAWAVE Synced Time(NS): 14054483386
+
+Reception #: 0
+Pulse #: 88
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683526174408
+DECAWAVE Synced Time(NS): 14146655479
+
+Reception #: 0
+Pulse #: 89
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683526455085
+DECAWAVE Synced Time(NS): 14238828733
+
+Reception #: 0
+Pulse #: 90
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683526733783
+DECAWAVE Synced Time(NS): 14331000302
+
+Reception #: 0
+Pulse #: 91
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683527040085
+DECAWAVE Synced Time(NS): 14423175240
+
+Reception #: 0
+Pulse #: 92
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022683527325450
+DECAWAVE Synced Time(NS): 14515351730
+
+Reception #: 0
+Pulse #: 93
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684528070397
+DECAWAVE Synced Time(NS): 14607526008
+
+Reception #: 0
+Pulse #: 94
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684528299772
+DECAWAVE Synced Time(NS): 14692297893
+
+Reception #: 0
+Pulse #: 95
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684528518731
+DECAWAVE Synced Time(NS): 14791873967
+
+Reception #: 0
+Pulse #: 96
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684528736960
+DECAWAVE Synced Time(NS): 14884051106
+
+Reception #: 0
+Pulse #: 97
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684528953053
+DECAWAVE Synced Time(NS): 14976224289
+
+Reception #: 0
+Pulse #: 98
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684529164928
+DECAWAVE Synced Time(NS): 15068397798
+
+Reception #: 0
+Pulse #: 99
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684529382585
+DECAWAVE Synced Time(NS): 15160569344
+
+Reception #: 0
+Pulse #: 100
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684529599981
+DECAWAVE Synced Time(NS): 15252745035
+
+Reception #: 0
+Pulse #: 101
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684529811074
+DECAWAVE Synced Time(NS): 15344921036
+
+Reception #: 0
+Pulse #: 102
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022684530102741
+DECAWAVE Synced Time(NS): 15437099144
+
+Reception #: 0
+Pulse #: 103
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685530708782
+DECAWAVE Synced Time(NS): 15529277696
+
+Reception #: 0
+Pulse #: 104
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685530994511
+DECAWAVE Synced Time(NS): 15621488889
+
+Reception #: 0
+Pulse #: 105
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685531217376
+DECAWAVE Synced Time(NS): 15713626965
+
+Reception #: 0
+Pulse #: 106
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685531436699
+DECAWAVE Synced Time(NS): 15805800822
+
+Reception #: 0
+Pulse #: 107
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685531648886
+DECAWAVE Synced Time(NS): 15897979483
+
+Reception #: 0
+Pulse #: 108
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685531867116
+DECAWAVE Synced Time(NS): 15990156537
+
+Reception #: 0
+Pulse #: 109
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685532084616
+DECAWAVE Synced Time(NS): 16082332528
+
+Reception #: 0
+Pulse #: 110
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685532296282
+DECAWAVE Synced Time(NS): 16174507031
+
+Reception #: 0
+Pulse #: 111
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685532514199
+DECAWAVE Synced Time(NS): 16266680912
+
+Reception #: 0
+Pulse #: 112
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685532730553
+DECAWAVE Synced Time(NS): 16358855744
+
+Reception #: 0
+Pulse #: 113
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022685532941230
+DECAWAVE Synced Time(NS): 16451031303
+
+Reception #: 0
+Pulse #: 114
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686533546699
+DECAWAVE Synced Time(NS): 16543209983
+
+Reception #: 0
+Pulse #: 115
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686533835032
+DECAWAVE Synced Time(NS): 16635383492
+
+Reception #: 0
+Pulse #: 116
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686534054146
+DECAWAVE Synced Time(NS): 16727558675
+
+Reception #: 0
+Pulse #: 117
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686534276178
+DECAWAVE Synced Time(NS): 16819731426
+
+Reception #: 0
+Pulse #: 118
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686534543834
+DECAWAVE Synced Time(NS): 16911908773
+
+Reception #: 0
+Pulse #: 119
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686534820449
+DECAWAVE Synced Time(NS): 17004086000
+
+Reception #: 0
+Pulse #: 120
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686535352167
+DECAWAVE Synced Time(NS): 17096260306
+
+Reception #: 0
+Pulse #: 121
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686535571594
+DECAWAVE Synced Time(NS): 17188433038
+
+Reception #: 0
+Pulse #: 122
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686535789876
+DECAWAVE Synced Time(NS): 58019947
+
+Reception #: 0
+Pulse #: 123
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686536006386
+DECAWAVE Synced Time(NS): 58019947
+
+Reception #: 0
+Pulse #: 124
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022686536217115
+DECAWAVE Synced Time(NS): 257595545
+
+Reception #: 0
+Pulse #: 125
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687536814302
+DECAWAVE Synced Time(NS): 349737026
+
+Reception #: 0
+Pulse #: 126
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687537083000
+DECAWAVE Synced Time(NS): 441914409
+
+Reception #: 0
+Pulse #: 127
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687537299250
+DECAWAVE Synced Time(NS): 534088792
+
+Reception #: 0
+Pulse #: 128
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687537518729
+DECAWAVE Synced Time(NS): 626264664
+
+Reception #: 0
+Pulse #: 129
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687537739198
+DECAWAVE Synced Time(NS): 718438265
+
+Reception #: 0
+Pulse #: 130
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687537950969
+DECAWAVE Synced Time(NS): 810612333
+
+Reception #: 0
+Pulse #: 131
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687538168677
+DECAWAVE Synced Time(NS): 902789027
+
+Reception #: 0
+Pulse #: 132
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687538384823
+DECAWAVE Synced Time(NS): 994962568
+
+Reception #: 0
+Pulse #: 133
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687538596854
+DECAWAVE Synced Time(NS): 1087138239
+
+Reception #: 0
+Pulse #: 134
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687538813990
+DECAWAVE Synced Time(NS): 1179313531
+
+Reception #: 0
+Pulse #: 135
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022687539031646
+DECAWAVE Synced Time(NS): 1271487920
+
+Reception #: 0
+Pulse #: 136
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688539619094
+DECAWAVE Synced Time(NS): 1363661540
+
+Reception #: 0
+Pulse #: 137
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688539907427
+DECAWAVE Synced Time(NS): 1455833723
+
+Reception #: 0
+Pulse #: 138
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688540205760
+DECAWAVE Synced Time(NS): 1548006046
+
+Reception #: 0
+Pulse #: 139
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688540421541
+DECAWAVE Synced Time(NS): 1640181117
+
+Reception #: 0
+Pulse #: 140
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688540641177
+DECAWAVE Synced Time(NS): 1732355615
+
+Reception #: 0
+Pulse #: 141
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688540858104
+DECAWAVE Synced Time(NS): 1824529957
+
+Reception #: 0
+Pulse #: 142
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688541076073
+DECAWAVE Synced Time(NS): 1916707704
+
+Reception #: 0
+Pulse #: 143
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688541293469
+DECAWAVE Synced Time(NS): 2008884966
+
+Reception #: 0
+Pulse #: 144
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688541503989
+DECAWAVE Synced Time(NS): 2101098899
+
+Reception #: 0
+Pulse #: 145
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688541720344
+DECAWAVE Synced Time(NS): 2193241158
+
+Reception #: 0
+Pulse #: 146
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022688541938052
+DECAWAVE Synced Time(NS): 2285417387
+
+Reception #: 0
+Pulse #: 147
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689542520395
+DECAWAVE Synced Time(NS): 2377591696
+
+Reception #: 0
+Pulse #: 148
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689542804822
+DECAWAVE Synced Time(NS): 2469767480
+
+Reception #: 0
+Pulse #: 149
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689543029614
+DECAWAVE Synced Time(NS): 2561946233
+
+Reception #: 0
+Pulse #: 150
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689543241906
+DECAWAVE Synced Time(NS): 2654122826
+
+Reception #: 0
+Pulse #: 151
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689543461124
+DECAWAVE Synced Time(NS): 2746299411
+
+Reception #: 0
+Pulse #: 152
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689543679406
+DECAWAVE Synced Time(NS): 2838469591
+
+Reception #: 0
+Pulse #: 153
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689543892166
+DECAWAVE Synced Time(NS): 2930641176
+
+Reception #: 0
+Pulse #: 154
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689544109822
+DECAWAVE Synced Time(NS): 3022812902
+
+Reception #: 0
+Pulse #: 155
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689544325864
+DECAWAVE Synced Time(NS): 3114987419
+
+Reception #: 0
+Pulse #: 156
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689544537999
+DECAWAVE Synced Time(NS): 3207161416
+
+Reception #: 0
+Pulse #: 157
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022689544755135
+DECAWAVE Synced Time(NS): 3299337990
+
+Reception #: 0
+Pulse #: 158
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690545418468
+DECAWAVE Synced Time(NS): 3391513292
+
+Reception #: 0
+Pulse #: 159
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690545715239
+DECAWAVE Synced Time(NS): 3483687890
+
+Reception #: 0
+Pulse #: 160
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690545963728
+DECAWAVE Synced Time(NS): 3575858567
+
+Reception #: 0
+Pulse #: 161
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690546208780
+DECAWAVE Synced Time(NS): 3668033405
+
+Reception #: 0
+Pulse #: 162
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690546450447
+DECAWAVE Synced Time(NS): 3760212553
+
+Reception #: 0
+Pulse #: 163
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690546715239
+DECAWAVE Synced Time(NS): 3852388839
+
+Reception #: 0
+Pulse #: 164
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690546956749
+DECAWAVE Synced Time(NS): 3944601088
+
+Reception #: 0
+Pulse #: 165
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690547215551
+DECAWAVE Synced Time(NS): 4036744492
+
+Reception #: 0
+Pulse #: 166
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690547440916
+DECAWAVE Synced Time(NS): 4128921243
+
+Reception #: 0
+Pulse #: 167
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690547667270
+DECAWAVE Synced Time(NS): 4221100608
+
+Reception #: 0
+Pulse #: 168
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022690547950291
+DECAWAVE Synced Time(NS): 4313275333
+
+Reception #: 0
+Pulse #: 169
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691548595395
+DECAWAVE Synced Time(NS): 4405451675
+
+Reception #: 0
+Pulse #: 170
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691548866749
+DECAWAVE Synced Time(NS): 4497623693
+
+Reception #: 0
+Pulse #: 171
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691549138259
+DECAWAVE Synced Time(NS): 4589797352
+
+Reception #: 0
+Pulse #: 172
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691549404770
+DECAWAVE Synced Time(NS): 4681970281
+
+Reception #: 0
+Pulse #: 173
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691549625915
+DECAWAVE Synced Time(NS): 4774142538
+
+Reception #: 0
+Pulse #: 174
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691549850395
+DECAWAVE Synced Time(NS): 4866313721
+
+Reception #: 0
+Pulse #: 175
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691550201228
+DECAWAVE Synced Time(NS): 4958490416
+
+Reception #: 0
+Pulse #: 176
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691550456540
+DECAWAVE Synced Time(NS): 5050663042
+
+Reception #: 0
+Pulse #: 177
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691550699040
+DECAWAVE Synced Time(NS): 5142834577
+
+Reception #: 0
+Pulse #: 178
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691550920082
+DECAWAVE Synced Time(NS): 5235006352
+
+Reception #: 0
+Pulse #: 179
+Anchor ID: MAGENTA
+Tag ID: 'B L'
+RPI Time(NS): 1022691551176697
+DECAWAVE Synced Time(NS): 5327181472
+
