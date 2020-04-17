@@ -1,0 +1,1279 @@
+nchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 113
+sync_ts_nanosec: 15177381493
+masterFramesReceived: 460
+anchor id: WHITE
+taTimeOut
+Reception #: 0
+Pulse #: 168
+sync_ts_nanosec: 3040708636
+masterFramesReceived: 494
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 169
+sync_ts_nanosec: 3132897050
+masterFramesReceived: 495
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 170
+sync_ts_nanosec: 3225085107
+masterFramesReceived: 495
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 171
+sync_ts_nanosec: 3317277957
+masterFramesReceived: 496
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 172
+sync_ts_nanosec: 3409473219
+masterFramesReceived: 497
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 173
+sync_ts_nanosec: 3501662253
+masterFramesReceived: 497
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 174
+sync_ts_nanosec: 3593855632
+masterFramesReceived: 498
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 175
+sync_ts_nanosec: 3686043522
+masterFramesReceived: 499
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 176
+sync_ts_nanosec: 3778231179
+masterFramesReceived: 499
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 177
+sync_ts_nanosec: 3870422130
+masterFramesReceived: 500
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 178
+sync_ts_nanosec: 3962616670
+masterFramesReceived: 501
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 179
+sync_ts_nanosec: 4054810088
+masterFramesReceived: 501
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 180
+sync_ts_nanosec: 4147002553
+masterFramesReceived: 502
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 181
+sync_ts_nanosec: 4239194930
+masterFramesReceived: 502
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 182
+sync_ts_nanosec: 4331390127
+masterFramesReceived: 503
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 183
+sync_ts_nanosec: 4423584203
+masterFramesReceived: 504
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 184
+sync_ts_nanosec: 4515815473
+masterFramesReceived: 504
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 185
+sync_ts_nanosec: 4607973580
+masterFramesReceived: 505
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 186
+sync_ts_nanosec: 4700164154
+masterFramesReceived: 506
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 187
+sync_ts_nanosec: 4792356570
+masterFramesReceived: 506
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 188
+sync_ts_nanosec: 4884546567
+masterFramesReceived: 507
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 189
+sync_ts_nanosec: 4976738456
+masterFramesReceived: 508
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 190
+sync_ts_nanosec: 5068921745
+masterFramesReceived: 508
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 191
+sync_ts_nanosec: 5161107609
+masterFramesReceived: 509
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 192
+sync_ts_nanosec: 5253299337
+masterFramesReceived: 510
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 193
+sync_ts_nanosec: 5345491384
+masterFramesReceived: 510
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 194
+sync_ts_nanosec: 5437682502
+masterFramesReceived: 511
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 195
+sync_ts_nanosec: 5529871467
+masterFramesReceived: 512
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 196
+sync_ts_nanosec: 5622060438
+masterFramesReceived: 512
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 197
+sync_ts_nanosec: 5714246637
+masterFramesReceived: 513
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 198
+sync_ts_nanosec: 5806433694
+masterFramesReceived: 514
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 199
+sync_ts_nanosec: 5898619203
+masterFramesReceived: 514
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 200
+sync_ts_nanosec: 5990808631
+masterFramesReceived: 515
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 201
+sync_ts_nanosec: 6082998283
+masterFramesReceived: 516
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 202
+sync_ts_nanosec: 6175184897
+masterFramesReceived: 516
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 203
+sync_ts_nanosec: 6267371602
+masterFramesReceived: 517
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 204
+sync_ts_nanosec: 6359599394
+masterFramesReceived: 517
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 205
+sync_ts_nanosec: 6451754158
+masterFramesReceived: 517
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 206
+sync_ts_nanosec: 6543947210
+masterFramesReceived: 518
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 207
+sync_ts_nanosec: 6636136036
+masterFramesReceived: 518
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 208
+sync_ts_nanosec: 6728327299
+masterFramesReceived: 519
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 209
+sync_ts_nanosec: 6820520247
+masterFramesReceived: 520
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 210
+sync_ts_nanosec: 6912709441
+masterFramesReceived: 520
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 211
+sync_ts_nanosec: 7004901827
+masterFramesReceived: 521
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 212
+sync_ts_nanosec: 7097097071
+masterFramesReceived: 522
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 213
+sync_ts_nanosec: 7189291048
+masterFramesReceived: 522
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 214
+sync_ts_nanosec: 7281486670
+masterFramesReceived: 523
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 215
+sync_ts_nanosec: 7373677571
+masterFramesReceived: 523
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 216
+sync_ts_nanosec: 7465872014
+masterFramesReceived: 523
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+TimeOut
+Reception #: 0
+Pulse #: 218
+sync_ts_nanosec: 7650257669
+masterFramesReceived: 525
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 219
+sync_ts_nanosec: 7742450918
+masterFramesReceived: 525
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 220
+sync_ts_nanosec: 7834639225
+masterFramesReceived: 526
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 221
+sync_ts_nanosec: 7926830881
+masterFramesReceived: 527
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 222
+sync_ts_nanosec: 8019024009
+masterFramesReceived: 527
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 223
+sync_ts_nanosec: 8111218365
+masterFramesReceived: 528
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 224
+sync_ts_nanosec: 8203447009
+masterFramesReceived: 529
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 225
+sync_ts_nanosec: 8295600410
+masterFramesReceived: 529
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 226
+sync_ts_nanosec: 8387794677
+masterFramesReceived: 530
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+TimeOut
+Reception #: 0
+Pulse #: 228
+sync_ts_nanosec: 8572172676
+masterFramesReceived: 531
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 229
+sync_ts_nanosec: 8664365533
+masterFramesReceived: 532
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 230
+sync_ts_nanosec: 8756558589
+masterFramesReceived: 532
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 231
+sync_ts_nanosec: 8848751527
+masterFramesReceived: 533
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 232
+sync_ts_nanosec: 8940943665
+masterFramesReceived: 534
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 233
+sync_ts_nanosec: 9033139292
+masterFramesReceived: 534
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 234
+sync_ts_nanosec: 9125335516
+masterFramesReceived: 535
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 235
+sync_ts_nanosec: 9217528526
+masterFramesReceived: 536
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 236
+sync_ts_nanosec: 9309719178
+masterFramesReceived: 536
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 237
+sync_ts_nanosec: 9401913230
+masterFramesReceived: 537
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 238
+sync_ts_nanosec: 9494107411
+masterFramesReceived: 538
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 239
+sync_ts_nanosec: 9586294769
+masterFramesReceived: 538
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 240
+sync_ts_nanosec: 9678485609
+masterFramesReceived: 539
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 241
+sync_ts_nanosec: 9770678003
+masterFramesReceived: 540
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 242
+sync_ts_nanosec: 9862869720
+masterFramesReceived: 540
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 243
+sync_ts_nanosec: 9955060045
+masterFramesReceived: 541
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 244
+sync_ts_nanosec: 10047288224
+masterFramesReceived: 542
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 245
+sync_ts_nanosec: 10139448283
+masterFramesReceived: 542
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 246
+sync_ts_nanosec: 10231643650
+masterFramesReceived: 543
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 247
+sync_ts_nanosec: 10323840058
+masterFramesReceived: 544
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 248
+sync_ts_nanosec: 10416032721
+masterFramesReceived: 544
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 249
+sync_ts_nanosec: 10508224841
+masterFramesReceived: 545
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 250
+sync_ts_nanosec: 10600414414
+masterFramesReceived: 546
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 251
+sync_ts_nanosec: 10692604192
+masterFramesReceived: 546
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 252
+sync_ts_nanosec: 10784793236
+masterFramesReceived: 547
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 253
+sync_ts_nanosec: 10876985402
+masterFramesReceived: 547
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 254
+sync_ts_nanosec: 10969178060
+masterFramesReceived: 548
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 255
+sync_ts_nanosec: 11061370806
+masterFramesReceived: 549
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 0
+sync_ts_nanosec: 11153565287
+masterFramesReceived: 549
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 1
+sync_ts_nanosec: 11245759684
+masterFramesReceived: 550
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 2
+sync_ts_nanosec: 11337950957
+masterFramesReceived: 551
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 3
+sync_ts_nanosec: 11430138050
+masterFramesReceived: 551
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 4
+sync_ts_nanosec: 11522325708
+masterFramesReceived: 552
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 5
+sync_ts_nanosec: 11614505482
+masterFramesReceived: 553
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 6
+sync_ts_nanosec: 11706676886
+masterFramesReceived: 553
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 7
+sync_ts_nanosec: 11798852422
+masterFramesReceived: 554
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 8
+sync_ts_nanosec: 11891063669
+masterFramesReceived: 555
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 9
+sync_ts_nanosec: 11983200098
+masterFramesReceived: 555
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 10
+sync_ts_nanosec: 12075371835
+masterFramesReceived: 556
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 11
+sync_ts_nanosec: 12167549605
+masterFramesReceived: 557
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 12
+sync_ts_nanosec: 12259735160
+masterFramesReceived: 557
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 13
+sync_ts_nanosec: 12351919661
+masterFramesReceived: 558
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 14
+sync_ts_nanosec: 12444105540
+masterFramesReceived: 559
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 15
+sync_ts_nanosec: 12536285590
+masterFramesReceived: 559
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 16
+sync_ts_nanosec: 12628470516
+masterFramesReceived: 560
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 17
+sync_ts_nanosec: 12720657950
+masterFramesReceived: 561
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 18
+sync_ts_nanosec: 12812845996
+masterFramesReceived: 561
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 19
+sync_ts_nanosec: 12905033703
+masterFramesReceived: 562
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 20
+sync_ts_nanosec: 12997218721
+masterFramesReceived: 562
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 21
+sync_ts_nanosec: 13089406316
+masterFramesReceived: 563
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 22
+sync_ts_nanosec: 13181599566
+masterFramesReceived: 564
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 23
+sync_ts_nanosec: 13273791923
+masterFramesReceived: 564
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 24
+sync_ts_nanosec: 13365983211
+masterFramesReceived: 565
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 25
+sync_ts_nanosec: 13458173705
+masterFramesReceived: 566
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 26
+sync_ts_nanosec: 13550365005
+masterFramesReceived: 566
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 27
+sync_ts_nanosec: 13642558825
+masterFramesReceived: 567
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 28
+sync_ts_nanosec: 13734785355
+masterFramesReceived: 568
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 29
+sync_ts_nanosec: 13826940436
+masterFramesReceived: 568
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 30
+sync_ts_nanosec: 13919137790
+masterFramesReceived: 569
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 31
+sync_ts_nanosec: 14011333913
+masterFramesReceived: 569
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 32
+sync_ts_nanosec: 14103529771
+masterFramesReceived: 569
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 33
+sync_ts_nanosec: 14195724830
+masterFramesReceived: 570
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 34
+sync_ts_nanosec: 14287918492
+masterFramesReceived: 571
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 35
+sync_ts_nanosec: 14380112635
+masterFramesReceived: 571
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 36
+sync_ts_nanosec: 14472307167
+masterFramesReceived: 572
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 37
+sync_ts_nanosec: 14564503023
+masterFramesReceived: 573
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 38
+sync_ts_nanosec: 14656700059
+masterFramesReceived: 573
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 39
+sync_ts_nanosec: 14748898559
+masterFramesReceived: 574
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 40
+sync_ts_nanosec: 14841096979
+masterFramesReceived: 575
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 41
+sync_ts_nanosec: 14933290626
+masterFramesReceived: 575
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 42
+sync_ts_nanosec: 15025487795
+masterFramesReceived: 576
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Transmission Error : may receive package from different UWB device
+TimeOut
+Reception #: 0
+Pulse #: 44
+sync_ts_nanosec: 15209883902
+masterFramesReceived: 576
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 45
+sync_ts_nanosec: 15302080869
+masterFramesReceived: 577
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 46
+sync_ts_nanosec: 15394277720
+masterFramesReceived: 577
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 47
+sync_ts_nanosec: 15486470972
+masterFramesReceived: 578
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 48
+sync_ts_nanosec: 15578702573
+masterFramesReceived: 579
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 49
+sync_ts_nanosec: 15670858599
+masterFramesReceived: 579
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 50
+sync_ts_nanosec: 15763053797
+masterFramesReceived: 580
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 51
+sync_ts_nanosec: 15855248291
+masterFramesReceived: 581
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 52
+sync_ts_nanosec: 15947436457
+masterFramesReceived: 581
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 53
+sync_ts_nanosec: 16039628891
+masterFramesReceived: 582
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 54
+sync_ts_nanosec: 16131822158
+masterFramesReceived: 583
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 55
+sync_ts_nanosec: 16224012023
+masterFramesReceived: 583
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 56
+sync_ts_nanosec: 16316204425
+masterFramesReceived: 584
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 57
+sync_ts_nanosec: 16408395449
+masterFramesReceived: 585
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 58
+sync_ts_nanosec: 16500586811
+masterFramesReceived: 585
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 59
+sync_ts_nanosec: 16592777130
+masterFramesReceived: 586
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 60
+sync_ts_nanosec: 16684969677
+masterFramesReceived: 587
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 61
+sync_ts_nanosec: 16777162498
+masterFramesReceived: 587
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 62
+sync_ts_nanosec: 16869356157
+masterFramesReceived: 588
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 63
+sync_ts_nanosec: 16961548279
+masterFramesReceived: 589
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 64
+sync_ts_nanosec: 17053739000
+masterFramesReceived: 589
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 65
+sync_ts_nanosec: 17145932203
+masterFramesReceived: 590
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 66
+sync_ts_nanosec: -179415555
+masterFramesReceived: 591
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 67
+sync_ts_nanosec: -11243264595
+masterFramesReceived: 591
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 68
+sync_ts_nanosec: 215148281
+masterFramesReceived: 592
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 69
+sync_ts_nanosec: -16900093265
+masterFramesReceived: 592
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 70
+sync_ts_nanosec: 311479122
+masterFramesReceived: 593
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 71
+sync_ts_nanosec: 491696131
+masterFramesReceived: 594
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 72
+sync_ts_nanosec: 583891139
+masterFramesReceived: 594
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 73
+sync_ts_nanosec: 676086666
+masterFramesReceived: 595
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 74
+sync_ts_nanosec: 768285575
+masterFramesReceived: 596
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 75
+sync_ts_nanosec: 860484605
+masterFramesReceived: 596
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 76
+sync_ts_nanosec: 952680709
+masterFramesReceived: 597
+anchor id: WHITE
+tag id: 'B L'
+END frame
+Reception #: 0
+Pulse #: 77
+sync_ts_nanosec: 1044880507
+masterFramesReceived: 598
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 78
+sync_ts_nanosec: 1137082141
+masterFramesReceived: 598
+anchor id: WHITE
+tag id: 'B L'
+END frame
+TimeOut
+Reception #: 0
+Pulse #: 79
+sync_ts_nanosec: 12
