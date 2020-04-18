@@ -69,6 +69,8 @@ static uint32 status_reg = 0;
 static double dist = 1;
 #define TOF (dist * 1e9 / SPEED_OF_LIGHT);
 
+#define rollover (17.2 * 1e9) //nanoseconds
+
 static long long R, tS, tM;
 static uint64 masterFramesReceived = 0;
 char masterID[] = "MS";
@@ -143,10 +145,17 @@ int ss_init_run(void)
       // resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
 
       long long tmN = resp_tx_ts_nanosec - TOF;
+      if (tmN < 0) tmN += rollover;
 
       if (masterFramesReceived >= 2)
       {
-        R = (tmN - tM) / (resp_rx_ts_nanosec - tS);
+        long long tempTM = tmN - tM;
+        if (tempTM < 0) tempTM += rollover;
+
+        long long tempTS = resp_rx_ts_nanosec - tS;
+        if (tempTS < 0) tempTS += rollover;
+
+        R = (tempTM) / (tempTS);
       }
       tS = resp_rx_ts_nanosec;
       tM = tmN;
@@ -169,7 +178,10 @@ int ss_init_run(void)
       resp_rx_ts = get_rx_timestamp_u64();
       resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
       resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
-      long long syncT = R * (resp_rx_ts_nanosec - tS) + tM;
+
+      long long tempTS = resp_rx_ts_nanosec - tS;
+      if (tempTS < 0) tempTS += rollover;
+      long long syncT = (R * tempTS) + tM;
 
       printf("Reception #: %d\r\n",rx_count);
       printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
