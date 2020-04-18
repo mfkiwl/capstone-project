@@ -24,6 +24,7 @@
 #include <string.h>
 #include "FreeRTOS.h"
 #include "task.h"
+#include "string.h"
 #include "inttypes.h"
 #include "deca_device_api.h"
 #include "deca_regs.h"
@@ -64,9 +65,14 @@ static uint32 status_reg = 0;
 /* Speed of light in air, in metres per second. */
 #define SPEED_OF_LIGHT 299702547
 
-/* Hold copies of computed time of flight and distance here for reference so that it can be examined at a debug breakpoint. */
-static double tof;
-static double distance;
+/* Hold time of flight (in nanoseconds) and distance (in meters) from master anchor here*/
+static double dist = 1;
+#define TOF (dist * 1e9 / SPEED_OF_LIGHT);
+
+static long long R, tS, tM;
+static uint64 masterFramesReceived = 0;
+char masterID[] = "MS";
+char frameID[2];
 
 /* Declaration of static functions. */
 static void resp_msg_get_ts(uint8 *ts_field, uint64 *ts);
@@ -105,6 +111,11 @@ int ss_init_run(void)
   if (rx_int_flag)
   {		
     uint32 frame_len;
+    uint64_t resp_rx_ts, resp_tx_ts;
+    long double resp_rx_ts_microsec, resp_rx_ts_sec;
+    long double resp_tx_ts_microsec, resp_tx_ts_sec;
+    long long resp_rx_ts_nanosec, resp_tx_ts_nanosec;
+    float clockOffsetRatio ;
 
     /* A frame has been received, read it into the local buffer. */
     frame_len = dwt_read32bitreg(RX_FINFO_ID) & RX_FINFO_RXFLEN_MASK;
@@ -112,46 +123,56 @@ int ss_init_run(void)
     {
       dwt_readrxdata(rx_buffer, frame_len, 0);
     }
+  
+    frameID[0] = rx_buffer[TAG_ID_IDX_0];
+    frameID[1] = rx_buffer[TAG_ID_IDX_1];
 
     printf("Reception #: %d\r\n",rx_count);
     printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
-    float reception_rate = (float) rx_count / (float) tx_count * 100;
-    uint32 resp_rx_ts_lo, resp_rx_ts_hi;
-    uint64_t resp_rx_ts, resp_tx_ts;
-    long double resp_rx_ts_sec, resp_rx_ts_microsec, resp_tx_ts_microsec, resp_tx_ts_sec;
-    long long resp_rx_ts_nanosec, resp_tx_ts_nanosec;
-    float clockOffsetRatio ;
 
-    /* Read timestamp of reception & convert to seconds */
-    
-    // resp_rx_ts_lo = dwt_readrxtimestamplo32();
-    // resp_rx_ts_hi = dwt_readrxtimestamphi32();
+    if (strcmp(frameID,masterID) == 0)
+    {
+      masterFramesReceived++;
 
-    resp_rx_ts = get_rx_timestamp_u64();
-    resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
-    
-    resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
-    resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
-    resp_rx_ts_sec = resp_rx_ts_microsec / (1.0e6);
+      /* Read timestamp of reception & convert to seconds */
+      resp_rx_ts = get_rx_timestamp_u64();
+      resp_msg_get_ts(&rx_buffer[RESP_MSG_RESP_TX_TS_IDX], &resp_tx_ts);
+      //
+      resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
+      resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
+      // resp_rx_ts_sec = resp_rx_ts_microsec / (1.0e6);
+      resp_tx_ts_microsec = (long double) resp_tx_ts  / (499.2 * 128);
+      resp_tx_ts_nanosec = resp_tx_ts_microsec * (1.0e3);
+      // resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
 
-    resp_tx_ts_microsec = (long double) resp_tx_ts  / (499.2 * 128);
-    resp_tx_ts_nanosec = resp_tx_ts_microsec * (1.0e3);
-    resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
-    
+      long long tmN = resp_tx_ts_nanosec - TOF;
+      if (masterFramesReceived >= 2)
+      {
+        R = (tmN - tM) / (resp_tx_ts_nanosec - tS);
+      }
+      tS = resp_rx_ts_nanosec;
+      tM = tmN;
 
-    /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
-    clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
+      /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
+      // clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
 
-    printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
-    printf("resp_tx_ts: %llx\r\n",resp_tx_ts);
-    /*
-    printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
-   
-    */
-    printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
-    printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
+      // printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
+      // printf("resp_tx_ts: %llx\r\n",resp_tx_ts);
+      /*
+      printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
+      */
+      // printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
+      // printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
+    }
 
-    printf("anchor id: MAGENTA\r\n");
+    else if (masterFramesReceived >= 2)
+    {
+      resp_rx_ts = get_rx_timestamp_u64();
+      long long syncT = R * (resp_rx_ts - tS) + tM;
+      printf("sync_ts_nanosec: %lli\r\n",syncT);
+    }
+    printf("masterFramesReceived: %lli\r\n",masterFramesReceived);
+    printf("anchor id: WHITE\r\n");
     printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
     printf("END frame\r\n"); 
 

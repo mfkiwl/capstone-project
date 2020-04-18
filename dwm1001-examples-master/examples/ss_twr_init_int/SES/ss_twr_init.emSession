@@ -58,11 +58,8 @@
  </Watch4>
  <Files>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="94" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="94" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="289" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="1" top="266" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="574" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" debugPath="../../../deca_driver/deca_device_api.h" selected="0" top="555" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="106" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" debugPath="../../../nRF5_SDK_14.2.0/components/libraries/uart/retarget.c" selected="0" top="81" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ss_twr_init/UART/UART.h" debugPath="../../ss_twr_init/UART/UART.h" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="15" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_init_main.h" debugPath="../ss_init_main.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="160" useTextEdit="1" useBinaryEdit="0" left="2" path="../ss_init_main.c" debugPath="../ss_init_main.c" selected="1" top="134" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="146" useTextEdit="1" useBinaryEdit="0" left="0" path="../../ss_twr_resp/ss_resp_main.c" debugPath="../../ss_twr_resp/ss_resp_main.c" selected="0" top="11" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
 </session>
