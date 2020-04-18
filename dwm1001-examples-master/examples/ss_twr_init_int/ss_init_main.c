@@ -127,9 +127,6 @@ int ss_init_run(void)
     frameID[0] = rx_buffer[TAG_ID_IDX_0];
     frameID[1] = rx_buffer[TAG_ID_IDX_1];
 
-    printf("Reception #: %d\r\n",rx_count);
-    printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
-
     if (strcmp(frameID,masterID) == 0)
     {
       masterFramesReceived++;
@@ -146,9 +143,10 @@ int ss_init_run(void)
       // resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
 
       long long tmN = resp_tx_ts_nanosec - TOF;
+
       if (masterFramesReceived >= 2)
       {
-        R = (tmN - tM) / (resp_tx_ts_nanosec - tS);
+        R = (tmN - tM) / (resp_rx_ts_nanosec - tS);
       }
       tS = resp_rx_ts_nanosec;
       tM = tmN;
@@ -167,14 +165,20 @@ int ss_init_run(void)
 
     else if (masterFramesReceived >= 2)
     {
+      // get resp_rx_ts_nanosec & calculate syncT
       resp_rx_ts = get_rx_timestamp_u64();
-      long long syncT = R * (resp_rx_ts - tS) + tM;
+      resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
+      resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
+      long long syncT = R * (resp_rx_ts_nanosec - tS) + tM;
+
+      printf("Reception #: %d\r\n",rx_count);
+      printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
       printf("sync_ts_nanosec: %lli\r\n",syncT);
+      printf("masterFramesReceived: %lli\r\n",masterFramesReceived);
+      printf("anchor id: MAGENTA\r\n");
+      printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
+      printf("END frame\r\n"); 
     }
-    printf("masterFramesReceived: %lli\r\n",masterFramesReceived);
-    printf("anchor id: WHITE\r\n");
-    printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
-    printf("END frame\r\n"); 
 
     /*Reseting receive interrupt flag*/
     rx_int_flag = 0; 
