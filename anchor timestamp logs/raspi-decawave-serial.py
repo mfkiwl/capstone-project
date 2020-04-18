@@ -13,7 +13,7 @@ def main(filename, serial_port):
             receptionNum = "N/A"
             pulseNum = -1
             RPItimeNS = -1
-            DECAtime = -1
+            # DECAtime = -1
             DECAtimeNS = -1
             anchorID = "N/A"
             tagID = "N/A"
@@ -28,9 +28,8 @@ def main(filename, serial_port):
                     RPItimeNS = time.clock_gettime_ns(time.CLOCK_MONOTONIC_RAW)
                 if line.startswith("Pulse"): # Retrieve the tag pulse number as an INT for synchronization
                     pulseNum = int(line.split(":")[1].strip())
-                if line.startswith("resp_rx_ts"): # Retrieve the decawave time (automatically converting from a HEX string to INT)
-                    DECAtime = int(line.split(":")[1].strip(),16)
-                    DECAtimeNS = DECAtime * 1.0 * (10**3) / (499.2 * 128)
+                if line.startswith("sync_ts_nanosec"): # Retrieve the synchronized decawave time
+                    DECAtimeNS = int(line.split(":")[1].strip())
                     # print("DECAtimeNS:" + str(DECAtimeNS))
                 if line.startswith("anchor"): # Retrieve the anchor ID as a STRING
                     anchorID = line.split(":")[1].strip()
