@@ -23,6 +23,7 @@
   <ProjectSessionItem path="ss_twr_resp;ss_twr_resp"/>
   <ProjectSessionItem path="ss_twr_resp;ss_twr_resp;Application"/>
   <ProjectSessionItem path="ss_twr_resp;ss_twr_resp;Freertos"/>
+  <ProjectSessionItem path="ss_twr_resp;ss_twr_resp;nRF_Libraries"/>
   <ProjectSessionItem path="ss_twr_resp;ss_twr_resp;nRF_Segger_RTT"/>
  </Project>
  <Register1>
@@ -53,15 +54,9 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="18" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="11" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="60" y="126" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_resp_main.c" debugPath="../ss_resp_main.c" selected="0" top="101" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1222" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device_api.h" debugPath="../../../deca_driver/deca_device_api.h" selected="0" top="118" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/external/fprintf/nrf_fprintf.c" debugPath="../../../nRF5_SDK_14.2.0/external/fprintf/nrf_fprintf.c" selected="0" top="44" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="3884" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" debugPath="../config/sdk_config.h" selected="0" top="3865" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="76" useTextEdit="1" useBinaryEdit="0" left="0" path="ss_twr_resp.emProject" debugPath="ss_twr_resp.emProject" selected="1" top="78" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="44" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../deca_driver/port/port_platform.h" debugPath="../../../deca_driver/port/port_platform.h" selected="0" top="25" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="131" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/external/segger_rtt/SEGGER_RTT_Syscalls_KEIL.c" debugPath="../../../nRF5_SDK_14.2.0/external/segger_rtt/SEGGER_RTT_Syscalls_KEIL.c" selected="0" top="96" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="3784" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/external/freertos/source/tasks.c" debugPath="../../../nRF5_SDK_14.2.0/external/freertos/source/tasks.c" selected="0" top="3754" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="51" y="119" useTextEdit="1" useBinaryEdit="0" left="0" path="../main.c" debugPath="../main.c" selected="0" top="87" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="128" useTextEdit="1" useBinaryEdit="0" left="0" path="../ss_resp_main.c" debugPath="../ss_resp_main.c" selected="0" top="105" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="139" useTextEdit="1" useBinaryEdit="0" left="50" path="../../ss_twr_init_int/ss_init_main.c" debugPath="../../ss_twr_init_int/ss_init_main.c" selected="1" top="119" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="ss_twr_resp" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" debugSearchFileMap="" fileDialogInitialDirectory="C:/WorkArea/Repositories/dwm1001-keil-examples/nRF5_SDK_14.2.0/components/toolchain/ses" debugSearchPath="" autoConnectCapabilities="3711"/>
 </session>
