@@ -1,10 +1,3 @@
-Reception #: N/A
-Pulse #: 23
-Anchor ID: MAGENTA
-Tag ID: 'B L'
-RPI Time(NS): -1
-DECAWAVE Synced Time(NS): 13572322370
-
 Reception #: 0
 Pulse #: 120
 Anchor ID: MAGENTA
