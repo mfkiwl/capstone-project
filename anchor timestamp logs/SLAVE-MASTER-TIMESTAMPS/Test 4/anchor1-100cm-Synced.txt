@@ -1,17 +1,3 @@
-Tag Pulse
-Reception: -1
-Pulse: -1
-anchorT: -1
-dT: -1
-syncT: -1
-
-Tag Pulse
-Reception: 2658
-Pulse: 100
-anchorT: 6490859909
-dT: 60138765
-syncT: 9492895000
-
 Master Sync
 Reception: 2659
 Sync: 208
@@ -4645,24 +4631,3 @@ Pulse: 127
 anchorT: 15369040198
 dT: 70900078
 syncT: 1163872714
-
-Master Sync
-Reception: 3204
-Sync: 229
-tS: 15298140120
-tSnew: 15392242752
-tM: 1092972095
-tMnew: 1187075500
-tMraw: 1187075504
-R: 536874244
-
-Master Sync
-Reception: 3205
-Sync: 230
-tS: 15392242752
-tSnew: 15486380761
-tM: 1187075500
-tMnew: 1281214178
-tMraw: 1281214182
-R: 536874244
-
