@@ -75,7 +75,7 @@ def main(filename, serial_port):
                         fh.write("Master Sync\nReception: {}\nSync: {}\ntS: {}\ntSnew: {}\ntM: {}\ntMnew: {}\ntMraw: {}\nR: {}\n\n".format(
                         receptionNum, syncNum, tS, tSnew, tM, tMnew, tMraw, R))
                     if (switch == "Tag"):
-                        fh.write("Tag Pulse\nReception: {}\nPulse: {}\nT: {}\ndT: {}\nsyncT: {}\n\n".format(
+                        fh.write("Tag Pulse\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
                         receptionNum, pulseNum, DECAtime, dT, syncT))
                     receptionNum = -1
                     pulseNum = -1
