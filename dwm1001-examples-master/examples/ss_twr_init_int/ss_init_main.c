@@ -69,7 +69,7 @@ static uint32 status_reg = 0;
 static double dist = 1;
 #define TOF (dist * 1e9 / SPEED_OF_LIGHT);
 
-#define rollover (17.2 * 1e9) //nanoseconds
+static long long int rollover = 17.2 * 1e9;
 
 static long long R, tS, tM;
 static uint64 masterFramesReceived = 0;
@@ -126,9 +126,11 @@ int ss_init_run(void)
       dwt_readrxdata(rx_buffer, frame_len, 0);
     }
   
+    // Check the frame's ID
     frameID[0] = rx_buffer[TAG_ID_IDX_0];
     frameID[1] = rx_buffer[TAG_ID_IDX_1];
 
+    // if the frame is from the master anchor, synchronize timestamps
     if (strcmp(frameID,masterID) == 0)
     {
       masterFramesReceived++;
@@ -139,11 +141,10 @@ int ss_init_run(void)
       //
       resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
       resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
-      // resp_rx_ts_sec = resp_rx_ts_microsec / (1.0e6);
+      //
       resp_tx_ts_microsec = (long double) resp_tx_ts  / (499.2 * 128);
       resp_tx_ts_nanosec = resp_tx_ts_microsec * (1.0e3);
-      // resp_tx_ts_sec = resp_tx_ts_microsec / (1.0e6);
-
+      //
       long long tmN = resp_tx_ts_nanosec - TOF;
       if (tmN < 0) tmN += rollover;
 
@@ -156,41 +157,45 @@ int ss_init_run(void)
         if (tempTS < 0) tempTS += rollover;
 
         R = (tempTM) / (tempTS);
+
+        //Print values to serial
+        printf("Master Sync\r\n");
+        printf("Reception #: %d\r\n",rx_count);
+        printf("Sync #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
+        printf("tS: %lli\r\n",tS);
+        printf("tSnew: %lli\r\n",resp_rx_ts_nanosec);
+        printf("tM: %lli\r\n",tM);
+        printf("tMnew: %lli\r\n",tmN);
+        printf("tMraw: %lli\r\n",resp_tx_ts_nanosec);
+        printf("R: %lli\r\n",R);
       }
+
       tS = resp_rx_ts_nanosec;
       tM = tmN;
 
-      /* Read carrier integrator value and calculate clock offset ratio. See NOTE 6 below. */
-      // clockOffsetRatio = dwt_readcarrierintegrator() * (FREQ_OFFSET_MULTIPLIER * HERTZ_TO_PPM_MULTIPLIER_CHAN_5 / 1.0e6) ;
-
-      // printf("resp_rx_ts: %llx\r\n",resp_rx_ts);
-      // printf("resp_tx_ts: %llx\r\n",resp_tx_ts);
-      /*
-      printf("resp_rx_ts_sec: %llf\r\n",resp_rx_ts_sec);
-      */
-      // printf("resp_rx_ts_nanosec: %lli\r\n",resp_rx_ts_nanosec);
-      // printf("resp_tx_ts_nanosec: %lli\r\n",resp_tx_ts_nanosec);
     }
 
-    else if (masterFramesReceived >= 2)
+    //Else if we get a frame from a TAG, pass along the synced reception timestamps
+    else if (masterFramesReceived >= 2) 
     {
       // get resp_rx_ts_nanosec & calculate syncT
       resp_rx_ts = get_rx_timestamp_u64();
       resp_rx_ts_microsec = (long double) resp_rx_ts  / (499.2 * 128);
       resp_rx_ts_nanosec = resp_rx_ts_microsec * (1.0e3);
-
+      //
       long long tempTS = resp_rx_ts_nanosec - tS;
       if (tempTS < 0) tempTS += rollover;
-      long long syncT = (R * tempTS) + tM;
-
+      long long syncT = ((R * tempTS) + tM) % rollover;
+  
+      //Print values to serial
+      printf("Tag Pulse\r\n");
       printf("Reception #: %d\r\n",rx_count);
       printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
-      printf("sync_ts_nanosec: %lli\r\n",syncT);
-      printf("masterFramesReceived: %lli\r\n",masterFramesReceived);
-      printf("anchor id: MAGENTA\r\n");
-      printf("tag id: '%c %c'\r\n",rx_buffer[TAG_ID_IDX_0],rx_buffer[TAG_ID_IDX_1]);
-      printf("END frame\r\n"); 
+      printf("T: %lli\r\n",resp_rx_ts_nanosec);
+      printf("dT: %lli\r\n",tempTS);
+      printf("syncT: %lli\r\n",syncT);
     }
+    printf("END frame\r\n"); 
 
     /*Reseting receive interrupt flag*/
     rx_int_flag = 0; 
