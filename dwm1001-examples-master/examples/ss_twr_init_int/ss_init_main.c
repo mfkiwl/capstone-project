@@ -71,7 +71,8 @@ static double dist = 1;
 
 static long long int rollover = 17.2 * 1e9;
 
-static long long R, tS, tM;
+static long long tS, tM;
+static double R;
 static uint64 masterFramesReceived = 0;
 char masterID[] = "MS";
 char frameID[2];
@@ -112,6 +113,9 @@ int ss_init_run(void)
 
   if (rx_int_flag)
   {		
+
+    rx_count++;
+
     uint32 frame_len;
     uint64_t resp_rx_ts, resp_tx_ts;
     long double resp_rx_ts_microsec, resp_rx_ts_sec;
@@ -156,7 +160,7 @@ int ss_init_run(void)
         long long tempTS = resp_rx_ts_nanosec - tS;
         if (tempTS < 0) tempTS += rollover;
 
-        R = (tempTM) / (tempTS);
+        R = (tempTM * 1.0) / (tempTS * 1.0);
 
         //Print values to serial
         printf("Master Sync\r\n");
@@ -167,7 +171,7 @@ int ss_init_run(void)
         printf("tM: %lli\r\n",tM);
         printf("tMnew: %lli\r\n",tmN);
         printf("tMraw: %lli\r\n",resp_tx_ts_nanosec);
-        printf("R: %lli\r\n",R);
+        printf("R: %ld\r\n",R);
       }
 
       tS = resp_rx_ts_nanosec;
@@ -185,7 +189,7 @@ int ss_init_run(void)
       //
       long long tempTS = resp_rx_ts_nanosec - tS;
       if (tempTS < 0) tempTS += rollover;
-      long long syncT = ((R * tempTS) + tM) % rollover;
+      long long syncT = ((R * tempTS) + tM); // % rollover;
   
       //Print values to serial
       printf("Tag Pulse\r\n");
