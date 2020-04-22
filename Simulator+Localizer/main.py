@@ -8,6 +8,7 @@ import pprint
 import numpy as np
 import scipy.optimize as spo
 from filterpy.kalman import ExtendedKalmanFilter
+from filterpy.common import Q_discrete_white_noise
 import sympy
 import matplotlib.pyplot as plt
 import random
@@ -17,7 +18,7 @@ ANCHORS = None
 ##TEST SIMULATION PARAMETERS#########
 WITH_ERROR = True
 NOISE_STD_DEV = 2.5 #nanoseconds
-PULSE_FREQ = 2
+PULSE_FREQ = 10
 tagColor = 'black'
 anchorColor = 'red'
 linColor = 'purple'
@@ -203,7 +204,7 @@ def jacobian(state):
     return np.array(H.subs([(x, state[0][0]), (y, state[1][0])])).astype(float)
     
 def initFilter(app):
-    app.f = ExtendedKalmanFilter(dim_x=2, dim_z=3)
+    app.f = ExtendedKalmanFilter(dim_x=2, dim_z=len(ANCHORS)-1)
     # The estimate
     app.f.x = np.array([[1.],
                         [1.]])
@@ -211,10 +212,10 @@ def initFilter(app):
     app.f.F = np.array([[1., 0.],
                         [0., 1.]])
     # Measurement function, values from linear localization
-    app.f.P = np.eye(2) * 100      # Covaraince, large number since our initial guess is (0, 0)
-    app.f.R = np.eye(3) * 1        # Measurement uncertainty, making it low since we want to weight sensor data
-    app.f.Q = np.eye(2) * 100      # System noise, making it big since we're just using the last location as our prediction
-
+    app.f.P = np.eye(2) * 1000              # Covaraince, large number since our initial guess is (1, 1)
+    app.f.R = np.eye(len(ANCHORS)-1) * 50   # Measurement uncertainty, making it low since we want to weight sensor data
+    app.f.Q = np.eye(2) * 1                 # System noise, making it big since we're just using the last location as our prediction
+    
 def extendedKalmanEst(app, timestamps):
     # z = np.array(timestamps)
     T = [None]*len(app.anchors)
@@ -265,6 +266,8 @@ def appStarted(app):
     app.anchors.append(Anchor(app.rows-1, 0, 1))
     app.anchors.append(Anchor(0, app.cols-1, 2))
     app.anchors.append(Anchor(app.rows-1, app.cols-1, 3))
+    # app.anchors.append(Anchor(0, app.cols//2, 4))
+    # app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
     global ANCHORS
     ANCHORS = [None]*len(app.anchors)
     app.xs = [None]*len(app.anchors)
@@ -325,6 +328,7 @@ def appStopped(app):
     print("Lin RMSE:", linRMSE)
     print("nonLin RMSE:", nonLinRMSE)
     print("filter RMSE:", filterRMSE)
+    print("nonLin / filter RMSE:", nonLinRMSE/filterRMSE)
     print("END Report", "\n"+"*"*40)
 
     plt.show()
