@@ -266,8 +266,8 @@ def appStarted(app):
     app.anchors.append(Anchor(app.rows-1, 0, 1))
     app.anchors.append(Anchor(0, app.cols-1, 2))
     app.anchors.append(Anchor(app.rows-1, app.cols-1, 3))
-    # app.anchors.append(Anchor(0, app.cols//2, 4))
-    # app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
+    app.anchors.append(Anchor(0, app.cols//2, 4))
+    app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
     global ANCHORS
     ANCHORS = [None]*len(app.anchors)
     app.xs = [None]*len(app.anchors)
