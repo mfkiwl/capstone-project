@@ -16,7 +16,7 @@ pp = pprint.PrettyPrinter()
 ANCHORS = None 
 
 ##TEST SIMULATION PARAMETERS#########
-WITH_ERROR = True
+WITH_NOISE = True
 NOISE_STD_DEV = 2.5 #nanoseconds
 PULSE_FREQ = 10
 tagColor = 'black'
@@ -64,7 +64,7 @@ def coordToGrid(x, y): #coord to row/col number
 
 def generateTestDesc(app):
     pathDesc = app.getUserInput("Path Description?")
-    desc = f"{len(ANCHORS)}A-Err:{WITH_ERROR}-Path:{pathDesc}"
+    desc = f"{len(ANCHORS)}A-Err:{WITH_NOISE}-Path:{pathDesc}"
     return desc
 
 class Tag(object):
@@ -103,7 +103,7 @@ def pulseAndStamp(app):
         d = distanceBetween(app.tag, anchor)
         t = metersToNanosec(d)
         noise = 0
-        if WITH_ERROR:
+        if WITH_NOISE:
             noise = np.random.normal(0, NOISE_STD_DEV)
         tof=round(t+noise)
         timeStampTuples.append((app.tag.id, anchor.id, round(t), anchorSyncTime+tof))
