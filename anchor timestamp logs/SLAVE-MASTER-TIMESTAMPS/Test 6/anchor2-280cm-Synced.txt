@@ -1,0 +1,2058 @@
+Tag Pulse
+Reception: 25920
+Pulse: 57
+anchorT: 15162335501
+dT: 4116705671
+syncT: 4593024273
+
+Tag Pulse
+Reception: 25921
+Pulse: 58
+anchorT: 15254524762
+dT: 4208894932
+syncT: 4685214125
+
+Tag Pulse
+Reception: 25922
+Pulse: 59
+anchorT: 15346715745
+dT: 4301085915
+syncT: 4777405698
+
+Tag Pulse
+Reception: 25923
+Pulse: 60
+anchorT: 15438905254
+dT: 4393275424
+syncT: 4869595798
+
+Tag Pulse
+Reception: 25924
+Pulse: 61
+anchorT: 15531095397
+dT: 4485465567
+syncT: 4961786531
+
+Tag Pulse
+Reception: 25925
+Pulse: 62
+anchorT: 15623285065
+dT: 4577655235
+syncT: 5053976790
+
+Tag Pulse
+Reception: 25926
+Pulse: 63
+anchorT: 15715472491
+dT: 4669842661
+syncT: 5146164806
+
+Tag Pulse
+Reception: 25927
+Pulse: 64
+anchorT: 15807695926
+dT: 4762066096
+syncT: 5238388832
+
+Tag Pulse
+Reception: 25928
+Pulse: 65
+anchorT: 15899845708
+dT: 4854215878
+syncT: 5330539204
+
+Tag Pulse
+Reception: 25929
+Pulse: 66
+anchorT: 15992033647
+dT: 4946403817
+syncT: 5422727734
+
+Tag Pulse
+Reception: 25930
+Pulse: 67
+anchorT: 16084223717
+dT: 5038593887
+syncT: 5514918394
+
+Tag Pulse
+Reception: 25931
+Pulse: 68
+anchorT: 16176414716
+dT: 5130784886
+syncT: 5607109984
+
+Tag Pulse
+Reception: 25932
+Pulse: 69
+anchorT: 16268613512
+dT: 5222983682
+syncT: 5699309371
+
+Tag Pulse
+Reception: 25933
+Pulse: 70
+anchorT: 16360810536
+dT: 5315180706
+syncT: 5791506985
+
+Tag Pulse
+Reception: 25934
+Pulse: 71
+anchorT: 16453008700
+dT: 5407378870
+syncT: 5883705740
+
+Tag Pulse
+Reception: 25935
+Pulse: 72
+anchorT: 16545208369
+dT: 5499578539
+syncT: 5975905999
+
+Tag Pulse
+Reception: 25936
+Pulse: 73
+anchorT: 16637404560
+dT: 5591774730
+syncT: 6068102781
+
+Tag Pulse
+Reception: 25937
+Pulse: 74
+anchorT: 16729601329
+dT: 5683971499
+syncT: 6160300141
+
+Tag Pulse
+Reception: 25938
+Pulse: 75
+anchorT: 16821796864
+dT: 5776167034
+syncT: 6252496266
+
+Tag Pulse
+Reception: 25939
+Pulse: 76
+anchorT: 16913988448
+dT: 5868358618
+syncT: 6344688441
+
+Tag Pulse
+Reception: 25940
+Pulse: 77
+anchorT: 17006177067
+dT: 5960547237
+syncT: 6436877650
+
+Tag Pulse
+Reception: 25941
+Pulse: 78
+anchorT: 17098370967
+dT: 6052741137
+syncT: 6529072141
+
+Tag Pulse
+Reception: 25942
+Pulse: 79
+anchorT: 17190568185
+dT: 6144938355
+syncT: 6621269949
+
+Tag Pulse
+Reception: 25943
+Pulse: 80
+anchorT: 75362598
+dT: 6229732768
+syncT: 6706064905
+
+Tag Pulse
+Reception: 25944
+Pulse: 81
+anchorT: 167561810
+dT: 6321931980
+syncT: 6798264708
+
+Tag Pulse
+Reception: 25945
+Pulse: 82
+anchorT: 259760782
+dT: 6414130952
+syncT: 6890464271
+
+Tag Pulse
+Reception: 25946
+Pulse: 83
+anchorT: 351954017
+dT: 6506324187
+syncT: 6982658096
+
+Tag Pulse
+Reception: 25947
+Pulse: 84
+anchorT: 444186082
+dT: 6598556252
+syncT: 7074890752
+
+Tag Pulse
+Reception: 25948
+Pulse: 85
+anchorT: 536348019
+dT: 6690718189
+syncT: 7167053279
+
+Tag Pulse
+Reception: 25949
+Pulse: 86
+anchorT: 628545189
+dT: 6782915359
+syncT: 7259251040
+
+Tag Pulse
+Reception: 25950
+Pulse: 87
+anchorT: 720738888
+dT: 6875109058
+syncT: 7351445329
+
+Tag Pulse
+Reception: 25951
+Pulse: 88
+anchorT: 812934255
+dT: 6967304425
+syncT: 7443641287
+
+Tag Pulse
+Reception: 25952
+Pulse: 89
+anchorT: 905132297
+dT: 7059502467
+syncT: 7535839920
+
+Tag Pulse
+Reception: 25953
+Pulse: 90
+anchorT: 997328786
+dT: 7151698956
+syncT: 7628036999
+
+Tag Pulse
+Reception: 25954
+Pulse: 91
+anchorT: 1089527197
+dT: 7243897367
+syncT: 7720236001
+
+Tag Pulse
+Reception: 25955
+Pulse: 92
+anchorT: 1181725704
+dT: 7336095874
+syncT: 7812435098
+
+Tag Pulse
+Reception: 25956
+Pulse: 93
+anchorT: 1273924388
+dT: 7428294558
+syncT: 7904634373
+
+Tag Pulse
+Reception: 25957
+Pulse: 94
+anchorT: 1366123344
+dT: 7520493514
+syncT: 7996833919
+
+Tag Pulse
+Reception: 25958
+Pulse: 95
+anchorT: 1458320818
+dT: 7612690988
+syncT: 8089031984
+
+Tag Pulse
+Reception: 25959
+Pulse: 96
+anchorT: 1550520263
+dT: 7704890433
+syncT: 8181232020
+
+Tag Pulse
+Reception: 25960
+Pulse: 97
+anchorT: 1642722512
+dT: 7797092682
+syncT: 8273434859
+
+Tag Pulse
+Reception: 25961
+Pulse: 98
+anchorT: 1734923375
+dT: 7889293545
+syncT: 8365636313
+
+Tag Pulse
+Reception: 25962
+Pulse: 99
+anchorT: 1827123845
+dT: 7981494015
+syncT: 8457837373
+
+Tag Pulse
+Reception: 25963
+Pulse: 100
+anchorT: 1919324012
+dT: 8073694182
+syncT: 8550038131
+
+Tag Pulse
+Reception: 25964
+Pulse: 101
+anchorT: 2011523329
+dT: 8165893499
+syncT: 8642238039
+
+Tag Pulse
+Reception: 25965
+Pulse: 102
+anchorT: 2103721323
+dT: 8258091493
+syncT: 8734436623
+
+Tag Pulse
+Reception: 25966
+Pulse: 103
+anchorT: 2195918821
+dT: 8350288991
+syncT: 8826634712
+
+Tag Pulse
+Reception: 25967
+Pulse: 104
+anchorT: 2288153385
+dT: 8442523555
+syncT: 8918869867
+
+Tag Pulse
+Reception: 25968
+Pulse: 105
+anchorT: 2380314626
+dT: 8534684796
+syncT: 9011031698
+
+Tag Pulse
+Reception: 25969
+Pulse: 106
+anchorT: 2472513750
+dT: 8626883920
+syncT: 9103231412
+
+Tag Pulse
+Reception: 25970
+Pulse: 107
+anchorT: 2564711817
+dT: 8719081987
+syncT: 9195430070
+
+Tag Pulse
+Reception: 25971
+Pulse: 108
+anchorT: 2656912239
+dT: 8811282409
+syncT: 9287631083
+
+Tag Pulse
+Reception: 25972
+Pulse: 109
+anchorT: 2749110274
+dT: 8903480444
+syncT: 9379829708
+
+Tag Pulse
+Reception: 25973
+Pulse: 110
+anchorT: 2841310921
+dT: 8995681091
+syncT: 9472030946
+
+Tag Pulse
+Reception: 25974
+Pulse: 111
+anchorT: 2933513346
+dT: 9087883516
+syncT: 9564233961
+
+Tag Pulse
+Reception: 25975
+Pulse: 112
+anchorT: 3025716445
+dT: 9180086615
+syncT: 9656437651
+
+Tag Pulse
+Reception: 25976
+Pulse: 113
+anchorT: 3117916667
+dT: 9272286837
+syncT: 9748638464
+
+Tag Pulse
+Reception: 25977
+Pulse: 114
+anchorT: 3210117185
+dT: 9364487355
+syncT: 9840839572
+
+Tag Pulse
+Reception: 25978
+Pulse: 115
+anchorT: 3302317312
+dT: 9456687482
+syncT: 9933040290
+
+Tag Pulse
+Reception: 25979
+Pulse: 116
+anchorT: 3394517181
+dT: 9548887351
+syncT: 10025240749
+
+Tag Pulse
+Reception: 25980
+Pulse: 117
+anchorT: 3486716490
+dT: 9641086660
+syncT: 10117440649
+
+Tag Pulse
+Reception: 25981
+Pulse: 118
+anchorT: 3578915350
+dT: 9733285520
+syncT: 10209640100
+
+Tag Pulse
+Reception: 25982
+Pulse: 119
+anchorT: 3671113657
+dT: 9825483827
+syncT: 10301838997
+
+Tag Pulse
+Reception: 25983
+Pulse: 120
+anchorT: 3763316660
+dT: 9917686830
+syncT: 10394042591
+
+Tag Pulse
+Reception: 25984
+Pulse: 121
+anchorT: 3855512515
+dT: 10009882685
+syncT: 10486239036
+
+Tag Pulse
+Reception: 25985
+Pulse: 122
+anchorT: 3947712513
+dT: 10102082683
+syncT: 10578439625
+
+Tag Pulse
+Reception: 25986
+Pulse: 123
+anchorT: 4039908200
+dT: 10194278370
+syncT: 10670635903
+
+Tag Pulse
+Reception: 25987
+Pulse: 124
+anchorT: 4132143373
+dT: 10286513543
+syncT: 10762871666
+
+Tag Pulse
+Reception: 25988
+Pulse: 125
+anchorT: 4224307330
+dT: 10378677500
+syncT: 10855036214
+
+Tag Pulse
+Reception: 25989
+Pulse: 126
+anchorT: 4316504587
+dT: 10470874757
+syncT: 10947234061
+
+Tag Pulse
+Reception: 25990
+Pulse: 127
+anchorT: 4408701252
+dT: 10563071422
+syncT: 11039431317
+
+Tag Pulse
+Reception: 25991
+Pulse: 128
+anchorT: 4500896882
+dT: 10655267052
+syncT: 11131627537
+
+Tag Pulse
+Reception: 25992
+Pulse: 129
+anchorT: 4593091616
+dT: 10747461786
+syncT: 11223822862
+
+Tag Pulse
+Reception: 25993
+Pulse: 130
+anchorT: 4685285460
+dT: 10839655630
+syncT: 11316017297
+
+Tag Pulse
+Reception: 25994
+Pulse: 131
+anchorT: 4777479304
+dT: 10931849474
+syncT: 11408211731
+
+Tag Pulse
+Reception: 25995
+Pulse: 132
+anchorT: 4869677451
+dT: 11024047621
+syncT: 11500410469
+
+Tag Pulse
+Reception: 25996
+Pulse: 133
+anchorT: 4961872753
+dT: 11116242923
+syncT: 11592606361
+
+Tag Pulse
+Reception: 25997
+Pulse: 134
+anchorT: 5054064153
+dT: 11208434323
+syncT: 11684798352
+
+Tag Pulse
+Reception: 25998
+Pulse: 135
+anchorT: 5146256450
+dT: 11300626620
+syncT: 11776991239
+
+Tag Pulse
+Reception: 25999
+Pulse: 136
+anchorT: 5238448324
+dT: 11392818494
+syncT: 11869183704
+
+Tag Pulse
+Reception: 26000
+Pulse: 137
+anchorT: 5330640829
+dT: 11485010999
+syncT: 11961376799
+
+Tag Pulse
+Reception: 26001
+Pulse: 138
+anchorT: 5422835843
+dT: 11577206013
+syncT: 12053572404
+
+Tag Pulse
+Reception: 26002
+Pulse: 139
+anchorT: 5515031410
+dT: 11669401580
+syncT: 12145768562
+
+Tag Pulse
+Reception: 26003
+Pulse: 140
+anchorT: 5607223483
+dT: 11761593653
+syncT: 12237961225
+
+Tag Pulse
+Reception: 26004
+Pulse: 141
+anchorT: 5699417039
+dT: 11853787209
+syncT: 12330155372
+
+Tag Pulse
+Reception: 26005
+Pulse: 142
+anchorT: 5791611412
+dT: 11945981582
+syncT: 12422350335
+
+Tag Pulse
+Reception: 26006
+Pulse: 143
+anchorT: 5883806714
+dT: 12038176884
+syncT: 12514546228
+
+Tag Pulse
+Reception: 26007
+Pulse: 144
+anchorT: 5976040277
+dT: 12130410447
+syncT: 12606780382
+
+Tag Pulse
+Reception: 26008
+Pulse: 145
+anchorT: 6068197126
+dT: 12222567296
+syncT: 12698937821
+
+Tag Pulse
+Reception: 26009
+Pulse: 146
+anchorT: 6160390049
+dT: 12314760219
+syncT: 12791131334
+
+Tag Pulse
+Reception: 26010
+Pulse: 147
+anchorT: 6252583973
+dT: 12406954143
+syncT: 12883325849
+
+Tag Pulse
+Reception: 26011
+Pulse: 148
+anchorT: 6344777328
+dT: 12499147498
+syncT: 12975519794
+
+Tag Pulse
+Reception: 26012
+Pulse: 149
+anchorT: 6436973399
+dT: 12591343569
+syncT: 13067716456
+
+Tag Pulse
+Reception: 26013
+Pulse: 150
+anchorT: 6529170881
+dT: 12683541051
+syncT: 13159914529
+
+Tag Pulse
+Reception: 26014
+Pulse: 151
+anchorT: 6621363267
+dT: 12775733437
+syncT: 13252107505
+
+Tag Pulse
+Reception: 26015
+Pulse: 152
+anchorT: 6713562591
+dT: 12867932761
+syncT: 13344307420
+
+Tag Pulse
+Reception: 26016
+Pulse: 153
+anchorT: 6805754168
+dT: 12960124338
+syncT: 13436499587
+
+Tag Pulse
+Reception: 26017
+Pulse: 154
+anchorT: 6897945552
+dT: 13052315722
+syncT: 13528691562
+
+Tag Pulse
+Reception: 26018
+Pulse: 155
+anchorT: 6990140558
+dT: 13144510728
+syncT: 13620887158
+
+Tag Pulse
+Reception: 26019
+Pulse: 156
+anchorT: 7082336365
+dT: 13236706535
+syncT: 13713083556
+
+Tag Pulse
+Reception: 26020
+Pulse: 157
+anchorT: 7174530362
+dT: 13328900532
+syncT: 13805278144
+
+Tag Pulse
+Reception: 26021
+Pulse: 158
+anchorT: 7266725952
+dT: 13421096122
+syncT: 13897474324
+
+Tag Pulse
+Reception: 26022
+Pulse: 159
+anchorT: 7358919740
+dT: 13513289910
+syncT: 13989668703
+
+Tag Pulse
+Reception: 26023
+Pulse: 160
+anchorT: 7451115370
+dT: 13605485540
+syncT: 14081864923
+
+Tag Pulse
+Reception: 26024
+Pulse: 161
+anchorT: 7543315337
+dT: 13697685507
+syncT: 14174065481
+
+Tag Pulse
+Reception: 26025
+Pulse: 162
+anchorT: 7635512874
+dT: 13789883044
+syncT: 14266263608
+
+Tag Pulse
+Reception: 26026
+Pulse: 163
+anchorT: 7727697992
+dT: 13882068162
+syncT: 14358449317
+
+Tag Pulse
+Reception: 26027
+Pulse: 164
+anchorT: 7819914728
+dT: 13974284898
+syncT: 14450666644
+
+Tag Pulse
+Reception: 26028
+Pulse: 165
+anchorT: 7912063300
+dT: 14066433470
+syncT: 14542815806
+
+Tag Pulse
+Reception: 26029
+Pulse: 166
+anchorT: 8004243891
+dT: 14158614061
+syncT: 14634996987
+
+Tag Pulse
+Reception: 26030
+Pulse: 167
+anchorT: 8096428312
+dT: 14250798482
+syncT: 14727181999
+
+Tag Pulse
+Reception: 26031
+Pulse: 168
+anchorT: 8188614087
+dT: 14342984257
+syncT: 14819368364
+
+Tag Pulse
+Reception: 26032
+Pulse: 169
+anchorT: 8280796128
+dT: 14435166298
+syncT: 14911550996
+
+Tag Pulse
+Reception: 26033
+Pulse: 170
+anchorT: 8372976703
+dT: 14527346873
+syncT: 15003732161
+
+Tag Pulse
+Reception: 26034
+Pulse: 171
+anchorT: 8465159297
+dT: 14619529467
+syncT: 15095915346
+
+Tag Pulse
+Reception: 26035
+Pulse: 172
+anchorT: 8557343069
+dT: 14711713239
+syncT: 15188099708
+
+Tag Pulse
+Reception: 26036
+Pulse: 173
+anchorT: 8649526248
+dT: 14803896418
+syncT: 15280283478
+
+Tag Pulse
+Reception: 26037
+Pulse: 174
+anchorT: 8741710325
+dT: 14896080495
+syncT: 15372468145
+
+Tag Pulse
+Reception: 26038
+Pulse: 175
+anchorT: 8833893936
+dT: 14988264106
+syncT: 15464652347
+
+Tag Pulse
+Reception: 26039
+Pulse: 176
+anchorT: 8926081162
+dT: 15080451332
+syncT: 15556840163
+
+Tag Pulse
+Reception: 26040
+Pulse: 177
+anchorT: 9018263988
+dT: 15172634158
+syncT: 15649023580
+
+Tag Pulse
+Reception: 26041
+Pulse: 178
+anchorT: 9110447135
+dT: 15264817305
+syncT: 15741207317
+
+Tag Pulse
+Reception: 26042
+Pulse: 179
+anchorT: 9202630763
+dT: 15357000933
+syncT: 15833391536
+
+Tag Pulse
+Reception: 26043
+Pulse: 180
+anchorT: 9294812147
+dT: 15449182317
+syncT: 15925573510
+
+Tag Pulse
+Reception: 26044
+Pulse: 181
+anchorT: 9386997553
+dT: 15541367723
+syncT: 16017759507
+
+Tag Pulse
+Reception: 26045
+Pulse: 182
+anchorT: 9479184066
+dT: 15633554236
+syncT: 16109946610
+
+Tag Pulse
+Reception: 26046
+Pulse: 183
+anchorT: 9571368655
+dT: 15725738825
+syncT: 16202131790
+
+Tag Pulse
+Reception: 26047
+Pulse: 184
+anchorT: 9663585159
+dT: 15817955329
+syncT: 16294348884
+
+Tag Pulse
+Reception: 26048
+Pulse: 185
+anchorT: 9755729155
+dT: 15910099325
+syncT: 16386493471
+
+Tag Pulse
+Reception: 26049
+Pulse: 186
+anchorT: 9847911036
+dT: 16002281206
+syncT: 16478675942
+
+Tag Pulse
+Reception: 26050
+Pulse: 187
+anchorT: 9940091307
+dT: 16094461477
+syncT: 16570856803
+
+Tag Pulse
+Reception: 26051
+Pulse: 188
+anchorT: 10032268388
+dT: 16186638558
+syncT: 16663034475
+
+Tag Pulse
+Reception: 26052
+Pulse: 189
+anchorT: 10124448450
+dT: 16278818620
+syncT: 16755215127
+
+Tag Pulse
+Reception: 26053
+Pulse: 190
+anchorT: 10216629353
+dT: 16370999523
+syncT: 16847396621
+
+Tag Pulse
+Reception: 26054
+Pulse: 191
+anchorT: 10308810577
+dT: 16463180747
+syncT: 16939578435
+
+Tag Pulse
+Reception: 26055
+Pulse: 192
+anchorT: 10400991889
+dT: 16555362059
+syncT: 17031760338
+
+Tag Pulse
+Reception: 26056
+Pulse: 193
+anchorT: 10493176534
+dT: 16647546704
+syncT: 17123945573
+
+Tag Pulse
+Reception: 26057
+Pulse: 194
+anchorT: 10585367846
+dT: 16739738016
+syncT: 17216137476
+
+Tag Pulse
+Reception: 26058
+Pulse: 195
+anchorT: 10677565696
+dT: 16831935866
+syncT: 17308335916
+
+Tag Pulse
+Reception: 26059
+Pulse: 196
+anchorT: 10769764348
+dT: 16924134518
+syncT: 17400535159
+
+Tag Pulse
+Reception: 26060
+Pulse: 197
+anchorT: 10861960972
+dT: 17016331142
+syncT: 17492732374
+
+Tag Pulse
+Reception: 26061
+Pulse: 198
+anchorT: 10954159047
+dT: 17108529217
+syncT: 17584931039
+
+Tag Pulse
+Reception: 26062
+Pulse: 199
+anchorT: 11046360768
+dT: 730938
+syncT: 477023175
+
+Tag Pulse
+Reception: 26063
+Pulse: 200
+anchorT: 11138558514
+dT: 92928684
+syncT: 569221512
+
+Tag Pulse
+Reception: 26064
+Pulse: 201
+anchorT: 11230757462
+dT: 185127632
+syncT: 661421050
+
+Tag Pulse
+Reception: 26065
+Pulse: 202
+anchorT: 11322956226
+dT: 277326396
+syncT: 753620405
+
+Tag Pulse
+Reception: 26066
+Pulse: 203
+anchorT: 11415154228
+dT: 369524398
+syncT: 845818998
+
+Tag Pulse
+Reception: 26067
+Pulse: 204
+anchorT: 11507391317
+dT: 461761487
+syncT: 938056677
+
+Tag Pulse
+Reception: 26068
+Pulse: 205
+anchorT: 11599559336
+dT: 553929506
+syncT: 1030225287
+
+Tag Pulse
+Reception: 26069
+Pulse: 206
+anchorT: 11691759342
+dT: 646129512
+syncT: 1122425883
+
+Tag Pulse
+Reception: 26070
+Pulse: 207
+anchorT: 11783953771
+dT: 738323941
+syncT: 1214620903
+
+Tag Pulse
+Reception: 26071
+Pulse: 208
+anchorT: 11876153504
+dT: 830523674
+syncT: 1306821226
+
+Tag Pulse
+Reception: 26072
+Pulse: 209
+anchorT: 11968353366
+dT: 922723536
+syncT: 1399021679
+
+Tag Pulse
+Reception: 26073
+Pulse: 210
+anchorT: 12060548836
+dT: 1014919006
+syncT: 1491217740
+
+Tag Pulse
+Reception: 26074
+Pulse: 211
+anchorT: 12152745821
+dT: 1107115991
+syncT: 1583415315
+
+Tag Pulse
+Reception: 26075
+Pulse: 212
+anchorT: 12244945971
+dT: 1199316141
+syncT: 1675616056
+
+Tag Pulse
+Reception: 26076
+Pulse: 213
+anchorT: 12337145432
+dT: 1291515602
+syncT: 1767816107
+
+Tag Pulse
+Reception: 26077
+Pulse: 214
+anchorT: 12429348298
+dT: 1383718468
+syncT: 1860019564
+
+Tag Pulse
+Reception: 26078
+Pulse: 215
+anchorT: 12521548473
+dT: 1475918643
+syncT: 1952220330
+
+Tag Pulse
+Reception: 26079
+Pulse: 216
+anchorT: 12613748366
+dT: 1568118536
+syncT: 2044420813
+
+Tag Pulse
+Reception: 26080
+Pulse: 217
+anchorT: 12705948276
+dT: 1660318446
+syncT: 2136621314
+
+Tag Pulse
+Reception: 26081
+Pulse: 218
+anchorT: 12798146936
+dT: 1752517106
+syncT: 2228820564
+
+Tag Pulse
+Reception: 26082
+Pulse: 219
+anchorT: 12890346589
+dT: 1844716759
+syncT: 2321020808
+
+Tag Pulse
+Reception: 26083
+Pulse: 220
+anchorT: 12982548181
+dT: 1936918351
+syncT: 2413222991
+
+Tag Pulse
+Reception: 26084
+Pulse: 221
+anchorT: 13074749733
+dT: 2029119903
+syncT: 2505425133
+
+Tag Pulse
+Reception: 26085
+Pulse: 222
+anchorT: 13166953289
+dT: 2121323459
+syncT: 2597629280
+
+Tag Pulse
+Reception: 26086
+Pulse: 223
+anchorT: 13259151516
+dT: 2213521686
+syncT: 2689828097
+
+Tag Pulse
+Reception: 26087
+Pulse: 224
+anchorT: 13351389150
+dT: 2305759320
+syncT: 2782066322
+
+Tag Pulse
+Reception: 26088
+Pulse: 225
+anchorT: 13443555029
+dT: 2397925199
+syncT: 2874232792
+
+Tag Pulse
+Reception: 26089
+Pulse: 226
+anchorT: 13535757743
+dT: 2490127913
+syncT: 2966436096
+
+Tag Pulse
+Reception: 26090
+Pulse: 227
+anchorT: 13627958623
+dT: 2582328793
+syncT: 3058637567
+
+Tag Pulse
+Reception: 26091
+Pulse: 228
+anchorT: 13720159069
+dT: 2674529239
+syncT: 3150838603
+
+Tag Pulse
+Reception: 26092
+Pulse: 229
+anchorT: 13812358401
+dT: 2766728571
+syncT: 3243038526
+
+Tag Pulse
+Reception: 26093
+Pulse: 230
+anchorT: 13904557726
+dT: 2858927896
+syncT: 3335238442
+
+Tag Pulse
+Reception: 26094
+Pulse: 231
+anchorT: 13996754527
+dT: 2951124697
+syncT: 3427435833
+
+Tag Pulse
+Reception: 26095
+Pulse: 232
+anchorT: 14088950238
+dT: 3043320408
+syncT: 3519632135
+
+Tag Pulse
+Reception: 26096
+Pulse: 233
+anchorT: 14181146478
+dT: 3135516648
+syncT: 3611828965
+
+Tag Pulse
+Reception: 26097
+Pulse: 234
+anchorT: 14273344584
+dT: 3227714754
+syncT: 3704027662
+
+Tag Pulse
+Reception: 26098
+Pulse: 235
+anchorT: 14365543621
+dT: 3319913791
+syncT: 3796227289
+
+Tag Pulse
+Reception: 26099
+Pulse: 236
+anchorT: 14457740694
+dT: 3412110864
+syncT: 3888424953
+
+Tag Pulse
+Reception: 26100
+Pulse: 237
+anchorT: 14549938440
+dT: 3504308610
+syncT: 3980623290
+
+Tag Pulse
+Reception: 26101
+Pulse: 238
+anchorT: 14642136971
+dT: 3596507141
+syncT: 4072822411
+
+Tag Pulse
+Reception: 26102
+Pulse: 239
+anchorT: 14734336432
+dT: 3688706602
+syncT: 4165022463
+
+Tag Pulse
+Reception: 26103
+Pulse: 240
+anchorT: 14826536654
+dT: 3780906824
+syncT: 4257223275
+
+Tag Pulse
+Reception: 26104
+Pulse: 241
+anchorT: 14918737189
+dT: 3873107359
+syncT: 4349424401
+
+Tag Pulse
+Reception: 26105
+Pulse: 242
+anchorT: 15010938541
+dT: 3965308711
+syncT: 4441626344
+
+Tag Pulse
+Reception: 26106
+Pulse: 243
+anchorT: 15103136095
+dT: 4057506265
+syncT: 4533824488
+
+Tag Pulse
+Reception: 26107
+Pulse: 244
+anchorT: 15195368112
+dT: 4149738282
+syncT: 4626057096
+
+Tag Pulse
+Reception: 26108
+Pulse: 245
+anchorT: 15287530554
+dT: 4241900724
+syncT: 4718220128
+
+Tag Pulse
+Reception: 26109
+Pulse: 246
+anchorT: 15379733460
+dT: 4334103630
+syncT: 4810423625
+
+Tag Pulse
+Reception: 26110
+Pulse: 247
+anchorT: 15471934716
+dT: 4426304886
+syncT: 4902625471
+
+Tag Pulse
+Reception: 26111
+Pulse: 248
+anchorT: 15564136156
+dT: 4518506326
+syncT: 4994827502
+
+Tag Pulse
+Reception: 26112
+Pulse: 249
+anchorT: 15656336514
+dT: 4610706684
+syncT: 5087028451
+
+Tag Pulse
+Reception: 26113
+Pulse: 250
+anchorT: 15748537658
+dT: 4702907828
+syncT: 5179230185
+
+Tag Pulse
+Reception: 26114
+Pulse: 251
+anchorT: 15840740372
+dT: 4795110542
+syncT: 5271433490
+
+Tag Pulse
+Reception: 26115
+Pulse: 252
+anchorT: 15932939248
+dT: 4887309418
+syncT: 5363632956
+
+Tag Pulse
+Reception: 26116
+Pulse: 253
+anchorT: 16025138597
+dT: 4979508767
+syncT: 5455832896
+
+Tag Pulse
+Reception: 26117
+Pulse: 254
+anchorT: 16117339220
+dT: 5071709390
+syncT: 5548034110
+
+Tag Pulse
+Reception: 26118
+Pulse: 255
+anchorT: 16209541133
+dT: 5163911303
+syncT: 5640236613
+
+Tag Pulse
+Reception: 26119
+Pulse: 0
+anchorT: 16301743310
+dT: 5256113480
+syncT: 5732439381
+
+Tag Pulse
+Reception: 26120
+Pulse: 1
+anchorT: 16393939413
+dT: 5348309583
+syncT: 5824636074
+
+Tag Pulse
+Reception: 26121
+Pulse: 2
+anchorT: 16486138457
+dT: 5440508627
+syncT: 5916835709
+
+Tag Pulse
+Reception: 26122
+Pulse: 3
+anchorT: 16578334890
+dT: 5532705060
+syncT: 6009032733
+
+Tag Pulse
+Reception: 26123
+Pulse: 4
+anchorT: 16670533678
+dT: 5624903848
+syncT: 6101232111
+
+Tag Pulse
+Reception: 26124
+Pulse: 5
+anchorT: 16762734725
+dT: 5717104895
+syncT: 6193433749
+
+Tag Pulse
+Reception: 26125
+Pulse: 6
+anchorT: 16854936606
+dT: 5809306776
+syncT: 6285636220
+
+Tag Pulse
+Reception: 26126
+Pulse: 7
+anchorT: 16947137453
+dT: 5901507623
+syncT: 6377837658
+
+Tag Pulse
+Reception: 26127
+Pulse: 8
+anchorT: 17039369686
+dT: 5993739856
+syncT: 6470070482
+
+Tag Pulse
+Reception: 26128
+Pulse: 9
+anchorT: 17131532200
+dT: 6085902370
+syncT: 6562233586
+
+Tag Pulse
+Reception: 26129
+Pulse: 10
+anchorT: 16331124
+dT: 6170701294
+syncT: 6647033053
+
+Tag Pulse
+Reception: 26130
+Pulse: 11
+anchorT: 108533446
+dT: 6262903616
+syncT: 6739235966
+
+Tag Pulse
+Reception: 26131
+Pulse: 12
+anchorT: 200734765
+dT: 6355104935
+syncT: 6831437875
+
+Tag Pulse
+Reception: 26132
+Pulse: 13
+anchorT: 292936278
+dT: 6447306448
+syncT: 6923639979
+
+Tag Pulse
+Reception: 26133
+Pulse: 14
+anchorT: 385137317
+dT: 6539507487
+syncT: 7015841609
+
+Tag Pulse
+Reception: 26134
+Pulse: 15
+anchorT: 477332195
+dT: 6631702365
+syncT: 7108037077
+
+Tag Pulse
+Reception: 26135
+Pulse: 16
+anchorT: 569526432
+dT: 6723896602
+syncT: 7200231905
+
+Tag Pulse
+Reception: 26136
+Pulse: 17
+anchorT: 661723561
+dT: 6816093731
+syncT: 7292429624
+
+Tag Pulse
+Reception: 26137
+Pulse: 18
+anchorT: 753918775
+dT: 6908288945
+syncT: 7384625429
+
+Tag Pulse
+Reception: 26138
+Pulse: 19
+anchorT: 846115239
+dT: 7000485409
+syncT: 7476822484
+
+Tag Pulse
+Reception: 26139
+Pulse: 20
+anchorT: 938310446
+dT: 7092680616
+syncT: 7569018281
+
+Tag Pulse
+Reception: 26140
+Pulse: 21
+anchorT: 1030505771
+dT: 7184875941
+syncT: 7661214197
+
+Tag Pulse
+Reception: 26141
+Pulse: 22
+anchorT: 1122699944
+dT: 7277070114
+syncT: 7753408960
+
+Tag Pulse
+Reception: 26142
+Pulse: 23
+anchorT: 1214892266
+dT: 7369262436
+syncT: 7845601873
+
+Tag Pulse
+Reception: 26143
+Pulse: 24
+anchorT: 1307088914
+dT: 7461459084
+syncT: 7937799111
+
+Tag Pulse
+Reception: 26144
+Pulse: 25
+anchorT: 1399287958
+dT: 7553658128
+syncT: 8029998746
+
+Tag Pulse
+Reception: 26145
+Pulse: 26
+anchorT: 1491485849
+dT: 7645856019
+syncT: 8122197227
+
+Tag Pulse
+Reception: 26146
+Pulse: 27
+anchorT: 1583686471
+dT: 7738056641
+syncT: 8214398440
+
+Tag Pulse
+Reception: 26147
+Pulse: 28
+anchorT: 1675921204
+dT: 7830291374
+syncT: 8306633764
+
+Tag Pulse
+Reception: 26148
+Pulse: 29
+anchorT: 1768086106
+dT: 7922456276
+syncT: 8398799256
+
+Tag Pulse
+Reception: 26149
+Pulse: 30
+anchorT: 1860286865
+dT: 8014657035
+syncT: 8491000606
+
+Tag Pulse
+Reception: 26150
+Pulse: 31
+anchorT: 1952489988
+dT: 8106860158
+syncT: 8583204319
+
+Tag Pulse
+Reception: 26151
+Pulse: 32
+anchorT: 2044693800
+dT: 8199063970
+syncT: 8675408722
+
+Tag Pulse
+Reception: 26152
+Pulse: 33
+anchorT: 2136895007
+dT: 8291265177
+syncT: 8767610520
+
+Tag Pulse
+Reception: 26153
+Pulse: 34
+anchorT: 2229094476
+dT: 8383464646
+syncT: 8859810579
+
+Tag Pulse
+Reception: 26154
+Pulse: 35
+anchorT: 2321294306
+dT: 8475664476
+syncT: 8952011000
+
+Tag Pulse
+Reception: 26155
+Pulse: 36
+anchorT: 2413491451
+dT: 8567861621
+syncT: 9044208735
+
+Tag Pulse
+Reception: 26156
+Pulse: 37
+anchorT: 2505688701
+dT: 8660058871
+syncT: 9136406576
+
+Tag Pulse
+Reception: 26157
+Pulse: 38
+anchorT: 2597886847
+dT: 8752257017
+syncT: 9228605313
+
+Tag Pulse
+Reception: 26158
+Pulse: 39
+anchorT: 2690085555
+dT: 8844455725
+syncT: 9320804611
+
+Tag Pulse
+Reception: 26159
+Pulse: 40
+anchorT: 2782283798
+dT: 8936653968
+syncT: 9413003445
+
+Tag Pulse
+Reception: 26160
+Pulse: 41
+anchorT: 2874480575
+dT: 9028850745
+syncT: 9505200812
+
+Tag Pulse
+Reception: 26161
+Pulse: 42
+anchorT: 2966676117
+dT: 9121046287
+syncT: 9597396945
+
+Tag Pulse
+Reception: 26162
+Pulse: 43
+anchorT: 3058874304
+dT: 9213244474
+syncT: 9689595722
+
+Tag Pulse
+Reception: 26163
+Pulse: 44
+anchorT: 3151069158
+dT: 9305439328
+syncT: 9781791167
+
+Tag Pulse
+Reception: 26164
+Pulse: 45
+anchorT: 3243265469
+dT: 9397635639
+syncT: 9873988069
+
+Tag Pulse
+Reception: 26165
+Pulse: 46
+anchorT: 3335462286
+dT: 9489832456
+syncT: 9966185476
+
+Tag Pulse
+Reception: 26166
+Pulse: 47
+anchorT: 3427658205
+dT: 9582028375
+syncT: 10058381986
+
+Tag Pulse
+Reception: 26167
+Pulse: 48
+anchorT: 3519892955
+dT: 9674263125
+syncT: 10150617327
+
+Tag Pulse
+Reception: 26168
+Pulse: 49
+anchorT: 3612053169
+dT: 9766423339
+syncT: 10242778131
+
+Tag Pulse
+Reception: 26169
+Pulse: 50
+anchorT: 3704248728
+dT: 9858618898
+syncT: 10334974280
+
+Tag Pulse
+Reception: 26170
+Pulse: 51
+anchorT: 3796448966
+dT: 9950819136
+syncT: 10427175109
+
+Tag Pulse
+Reception: 26171
+Pulse: 52
+anchorT: 3888649741
+dT: 10043019911
+syncT: 10519376475
+
+Tag Pulse
+Reception: 26172
+Pulse: 53
+anchorT: 3980846109
+dT: 10135216279
+syncT: 10611573433
+
+Tag Pulse
+Reception: 26173
+Pulse: 54
+anchorT: 4073049913
+dT: 10227420083
+syncT: 10703777828
+
+Tag Pulse
+Reception: 26174
+Pulse: 55
+anchorT: 4165248869
+dT: 10319619039
+syncT: 10795977374
+
+Tag Pulse
+Reception: 26175
+Pulse: 56
+anchorT: 4257446350
+dT: 10411816520
+syncT: 10888175446
+
+Tag Pulse
+Reception: 26176
+Pulse: 57
+anchorT: 4349645403
+dT: 10504015573
+syncT: 10980375090
+
+Tag Pulse
+Reception: 26177
+Pulse: 58
+anchorT: 4441842075
+dT: 10596212245
+syncT: 11072572352
+
+Tag Pulse
+Reception: 26178
+Pulse: 59
+anchorT: 4534038403
+dT: 10688408573
+syncT: 11164769271
+
+Tag Pulse
+Reception: 26179
+Pulse: 60
+anchorT: 4626238962
+dT: 10780609132
+syncT: 11256970420
+
+Tag Pulse
+Reception: 26180
+Pulse: 61
+anchorT: 4718437629
+dT: 10872807799
+syncT: 11349169678
+
+Tag Pulse
+Reception: 26181
+Pulse: 62
+anchorT: 4810637955
+dT: 10965008125
+syncT: 11441370594
+
+Tag Pulse
+Reception: 26182
+Pulse: 63
+anchorT: 4902839724
+dT: 11057209894
+syncT: 11533572954
+
+Tag Pulse
+Reception: 26183
+Pulse: 64
+anchorT: 4995040435
+dT: 11149410605
+syncT: 11625774256
+
+Tag Pulse
+Reception: 26184
+Pulse: 65
+anchorT: 5087241602
+dT: 11241611772
+syncT: 11717976013
+
+Tag Pulse
+Reception: 26185
+Pulse: 66
+anchorT: 5179441047
+dT: 11333811217
+syncT: 11810176049
+
+Tag Pulse
+Reception: 26186
+Pulse: 67
+anchorT: 5271640444
+dT: 11426010614
+syncT: 11902376036
+
+Tag Pulse
+Reception: 26187
+Pulse: 68
+anchorT: 5363875281
+dT: 11518245451
+syncT: 11994611464
+
+Tag Pulse
+Reception: 26188
+Pulse: 69
+anchorT: 5456039726
+dT: 11610409896
+syncT: 12086776500
+
+Tag Pulse
+Reception: 26189
+Pulse: 70
+anchorT: 5548242264
+dT: 11702612434
+syncT: 12178979628
+
+Tag Pulse
+Reception: 26190
+Pulse: 71
+anchorT: 5640444850
+dT: 11794815020
+syncT: 12271182805
+
+Tag Pulse
+Reception: 26191
+Pulse: 72
+anchorT: 5732646490
+dT: 11887016660
+syncT: 12363385035
+
+Tag Pulse
+Reception: 26192
+Pulse: 73
+anchorT: 5824845542
+dT: 11979215712
+syncT: 12455584678
+
+Tag Pulse
+Reception: 26193
+Pulse: 74
+anchorT: 5917043312
+dT: 12071413482
+syncT: 12547783039
+
+Tag Pulse
+Reception: 26194
+Pulse: 75
+anchorT: 6009244208
+dT: 12163614378
+syncT: 12639984525
+
+Tag Pulse
+Reception: 26195
+Pulse: 76
+anchorT: 6101442555
+dT: 12255812725
+syncT: 12732183463
+
+Tag Pulse
+Reception: 26196
+Pulse: 77
+anchorT: 6193640461
+dT: 12348010631
+syncT: 12824381959
+
+Tag Pulse
+Reception: 26197
+Pulse: 78
+anchorT: 6285839906
+dT: 12440210076
+syncT: 12916581995
+
+Tag Pulse
+Reception: 26198
+Pulse: 79
+anchorT: 6378037524
+dT: 12532407694
+syncT: 13008780204
+
+Tag Pulse
+Reception: 26199
+Pulse: 80
+anchorT: 6470235952
+dT: 12624606122
+syncT: 13100979222
+
+Tag Pulse
+Reception: 26200
+Pulse: 81
+anchorT: 6562436782
+dT: 12716806952
+syncT: 13193180643
+
+Tag Pulse
+Reception: 26201
+Pulse: 82
+anchorT: 6654637750
+dT: 12809007920
+syncT: 13285382201
+
+Tag Pulse
+Reception: 26202
+Pulse: 83
+anchorT: 6746841353
+dT: 12901211523
+syncT: 13377586395
+
+Tag Pulse
+Reception: 26203
+Pulse: 84
+anchorT: 6839042096
+dT: 12993412266
+syncT: 13469787729
+
+Tag Pulse
+Reception: 26204
+Pulse: 85
+anchorT: 6931242182
+dT: 13085612352
+syncT: 13561988405
+
+Tag Pulse
+Reception: 26205
+Pulse: 86
+anchorT: 7023442556
+dT: 13177812726
+syncT: 13654189370
+
+Tag Pulse
+Reception: 26206
+Pulse: 87
+anchorT: 7115641424
+dT: 13270011594
+syncT: 13746388828
+
+Tag Pulse
+Reception: 26207
+Pulse: 88
+anchorT: 7207880348
+dT: 13362250518
+syncT: 13838628343
+
+Tag Pulse
+Reception: 26208
+Pulse: 89
+anchorT: 7300045466
+dT: 13454415636
+syncT: 13930794052
+
+Tag Pulse
+Reception: 26209
+Pulse: 90
+anchorT: 7392245327
+dT: 13546615497
+syncT: 14022994503
+
+Tag Pulse
+Reception: 26210
+Pulse: 91
+anchorT: 7484446086
+dT: 13638816256
+syncT: 14115195853
+
+Tag Pulse
+Reception: 26211
+Pulse: 92
+anchorT: 7576645370
+dT: 13731015540
+syncT: 14207395727
+
+Tag Pulse
+Reception: 26212
+Pulse: 93
+anchorT: 7668843790
+dT: 13823213960
+syncT: 14299594738
+
+Tag Pulse
+Reception: 26213
+Pulse: 94
+anchorT: 7761043011
+dT: 13915413181
+syncT: 14391794549
+
