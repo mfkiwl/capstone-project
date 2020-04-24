@@ -1,0 +1,9883 @@
+Tag Pulse
+Reception: -1
+Pulse: -1
+anchorT: -1
+dT: -1
+syncT: -1
+
+Tag Pulse
+Reception: 44051
+Pulse: 34
+anchorT: 4504146455
+dT: 37647310
+syncT: 4517945999
+
+Tag Pulse
+Reception: 45806
+Pulse: -1
+anchorT: -1
+dT: -1
+syncT: -1
+
+Tag Pulse
+Reception: 45807
+Pulse: 178
+anchorT: 2555171543
+dT: 27531887
+syncT: 2569465230
+
+Master Sync
+Reception: 45808
+Sync: 194
+tS: 2527639656
+tSnew: 2621816591
+tM: 2541933211
+tMnew: 2636110711
+tMraw: 2636110721
+R: 536874244
+
+Tag Pulse
+Reception: 45809
+Pulse: 179
+anchorT: 2647374425
+dT: 25557834
+syncT: 2661668698
+
+Master Sync
+Reception: 45810
+Sync: 195
+tS: 2621816591
+tSnew: 2715992734
+tM: 2636110711
+tMnew: 2730287441
+tMraw: 2730287451
+R: 536874244
+
+Tag Pulse
+Reception: 45811
+Pulse: 180
+anchorT: 2739580489
+dT: 23587755
+syncT: 2753875343
+
+Master Sync
+Reception: 45812
+Sync: 196
+tS: 2715992734
+tSnew: 2810165095
+tM: 2730287441
+tMnew: 2824460382
+tMraw: 2824460392
+R: 536874244
+
+Tag Pulse
+Reception: 45813
+Pulse: 181
+anchorT: 2831783965
+dT: 21618870
+syncT: 2846079385
+
+Master Sync
+Reception: 45814
+Sync: 197
+tS: 2810165095
+tSnew: 2904339115
+tM: 2824460382
+tMnew: 2918634933
+tMraw: 2918634943
+R: 536874244
+
+Tag Pulse
+Reception: 45815
+Pulse: 182
+anchorT: 2923987616
+dT: 19648501
+syncT: 2938283544
+
+Master Sync
+Reception: 45816
+Sync: 198
+tS: 2904339115
+tSnew: 2998516227
+tM: 2918634933
+tMnew: 3012812538
+tMraw: 3012812548
+R: 536874244
+
+Tag Pulse
+Reception: 45817
+Pulse: 183
+anchorT: 3016186565
+dT: 17670338
+syncT: 3030482968
+
+Master Sync
+Reception: 45818
+Sync: 199
+tS: 2998516227
+tSnew: 3092693188
+tM: 3012812538
+tMnew: 3106990110
+tMraw: 3106990120
+R: 536874244
+
+Tag Pulse
+Reception: 45819
+Pulse: 184
+anchorT: 3108386010
+dT: 15692822
+syncT: 3122683033
+
+Master Sync
+Reception: 45820
+Sync: 200
+tS: 3092693188
+tSnew: 3186906862
+tM: 3106990110
+tMnew: 3201204276
+tMraw: 3201204286
+R: 536874244
+
+Tag Pulse
+Reception: 45821
+Pulse: 185
+anchorT: 3200590030
+dT: 13683168
+syncT: 3214887515
+
+Master Sync
+Reception: 45822
+Sync: 201
+tS: 3186906862
+tSnew: 3281051403
+tM: 3201204276
+tMnew: 3295349348
+tMraw: 3295349358
+R: 536874244
+
+Tag Pulse
+Reception: 45823
+Pulse: 186
+anchorT: 3292795581
+dT: 11744178
+syncT: 3307093592
+
+Master Sync
+Reception: 45824
+Sync: 202
+tS: 3281051403
+tSnew: 3375230511
+tM: 3295349348
+tMnew: 3389529044
+tMraw: 3389529054
+R: 536874244
+
+Tag Pulse
+Reception: 45825
+Pulse: 187
+anchorT: 3385001901
+dT: 9771390
+syncT: 3399300495
+
+Master Sync
+Reception: 45826
+Sync: 203
+tS: 3375230511
+tSnew: 3469410148
+tM: 3389529044
+tMnew: 3483709140
+tMraw: 3483709150
+R: 536874244
+
+Tag Pulse
+Reception: 45827
+Pulse: 188
+anchorT: 3477241851
+dT: 7831703
+syncT: 3491540881
+
+Master Sync
+Reception: 45828
+Sync: 204
+tS: 3469410148
+tSnew: 3563589239
+tM: 3483709140
+tMnew: 3577888812
+tMraw: 3577888822
+R: 536874244
+
+Tag Pulse
+Reception: 45829
+Pulse: 189
+anchorT: 3569415039
+dT: 5825800
+syncT: 3583714647
+
+Master Sync
+Reception: 45830
+Sync: 205
+tS: 3563589239
+tSnew: 3657766360
+tM: 3577888812
+tMnew: 3672066536
+tMraw: 3672066546
+R: 536874244
+
+Tag Pulse
+Reception: 45831
+Pulse: 190
+anchorT: 3661623354
+dT: 3856994
+syncT: 3675923554
+
+Master Sync
+Reception: 45832
+Sync: 206
+tS: 3657766360
+tSnew: 3751943080
+tM: 3672066536
+tMnew: 3766243756
+tMraw: 3766243766
+R: 536874244
+
+Tag Pulse
+Reception: 45833
+Pulse: 191
+anchorT: 3753824947
+dT: 1881867
+syncT: 3768125632
+
+Tag Pulse
+Reception: 45834
+Pulse: 192
+anchorT: 3846029064
+dT: 94085984
+syncT: 3860330239
+
+Tag Pulse
+Reception: 45835
+Pulse: 193
+anchorT: 3938233693
+dT: 186290613
+syncT: 3952535358
+
+Master Sync
+Reception: 45836
+Sync: 208
+tS: 3751943080
+tSnew: 3940295647
+tM: 3766243756
+tMnew: 3954597538
+tMraw: 3954597548
+R: 536874244
+
+Tag Pulse
+Reception: 45837
+Pulse: 194
+anchorT: 4030441352
+dT: 90145705
+syncT: 4044743824
+
+Master Sync
+Reception: 45838
+Sync: 209
+tS: 3940295647
+tSnew: 4034475156
+tM: 3954597538
+tMnew: 4048777554
+tMraw: 4048777564
+R: 536874244
+
+Tag Pulse
+Reception: 45839
+Pulse: 195
+anchorT: 4122649924
+dT: 88174768
+syncT: 4136952796
+
+Master Sync
+Reception: 45840
+Sync: 210
+tS: 4034475156
+tSnew: 4128650995
+tM: 4048777554
+tMnew: 4142953844
+tMraw: 4142953854
+R: 536874244
+
+Tag Pulse
+Reception: 45841
+Pulse: 196
+anchorT: 4214854401
+dT: 86203406
+syncT: 4229157662
+
+Master Sync
+Reception: 45842
+Sync: 211
+tS: 4128650995
+tSnew: 4222825560
+tM: 4142953844
+tMnew: 4237129004
+tMraw: 4237129014
+R: 536874244
+
+Tag Pulse
+Reception: 45843
+Pulse: 197
+anchorT: 4307057469
+dT: 84231909
+syncT: 4321361445
+
+Master Sync
+Reception: 45844
+Sync: 212
+tS: 4222825560
+tSnew: 4316999203
+tM: 4237129004
+tMnew: 4331303323
+tMraw: 4331303333
+R: 536874244
+
+Tag Pulse
+Reception: 45845
+Pulse: 198
+anchorT: 4399262796
+dT: 82263593
+syncT: 4413567506
+
+Master Sync
+Reception: 45846
+Sync: 213
+tS: 4316999203
+tSnew: 4411177807
+tM: 4331303323
+tMnew: 4425482377
+tMraw: 4425482387
+R: 536874244
+
+Tag Pulse
+Reception: 45847
+Pulse: 199
+anchorT: 4491468099
+dT: 80290292
+syncT: 4505773052
+
+Master Sync
+Reception: 45848
+Sync: 214
+tS: 4411177807
+tSnew: 4505356746
+tM: 4425482377
+tMnew: 4519661744
+tMraw: 4519661754
+R: 536874244
+
+Tag Pulse
+Reception: 45849
+Pulse: 200
+anchorT: 4583673210
+dT: 78316464
+syncT: 4597978563
+
+Master Sync
+Reception: 45850
+Sync: 215
+tS: 4505356746
+tSnew: 4599531015
+tM: 4519661744
+tMnew: 4613836584
+tMraw: 4613836594
+R: 536874244
+
+Tag Pulse
+Reception: 45851
+Pulse: 201
+anchorT: 4675877190
+dT: 76346175
+syncT: 4690183221
+
+Master Sync
+Reception: 45852
+Sync: 216
+tS: 4599531015
+tSnew: 4693698240
+tM: 4613836584
+tMnew: 4708004413
+tMraw: 4708004423
+R: 536874244
+
+Tag Pulse
+Reception: 45853
+Pulse: 202
+anchorT: 4768077702
+dT: 74379462
+syncT: 4782384352
+
+Master Sync
+Reception: 45854
+Sync: 217
+tS: 4693698240
+tSnew: 4787861828
+tM: 4708004413
+tMnew: 4802168515
+tMraw: 4802168525
+R: 536874244
+
+Tag Pulse
+Reception: 45855
+Pulse: 203
+anchorT: 4860279223
+dT: 72417395
+syncT: 4874586305
+
+Master Sync
+Reception: 45856
+Sync: 218
+tS: 4787861828
+tSnew: 4882025985
+tM: 4802168515
+tMnew: 4896333131
+tMraw: 4896333141
+R: 536874244
+
+Tag Pulse
+Reception: 45857
+Pulse: 204
+anchorT: 4952480993
+dT: 70455008
+syncT: 4966788482
+
+Master Sync
+Reception: 45858
+Sync: 219
+tS: 4882025985
+tSnew: 4976193618
+tM: 4896333131
+tMnew: 4990501288
+tMraw: 4990501298
+R: 536874244
+
+Master Sync
+Reception: 45859
+Sync: 220
+tS: 4976193618
+tSnew: 5070395563
+tM: 4990501288
+tMnew: 5084703812
+tMraw: 5084703822
+R: 536874244
+
+Tag Pulse
+Reception: 45860
+Pulse: 206
+anchorT: 5136884131
+dT: 66488568
+syncT: 5151192788
+
+Master Sync
+Reception: 45861
+Sync: 221
+tS: 5070395563
+tSnew: 5164529328
+tM: 5084703812
+tMnew: 5178838098
+tMraw: 5178838108
+R: 536874244
+
+Tag Pulse
+Reception: 45862
+Pulse: 207
+anchorT: 5229087383
+dT: 64558055
+syncT: 5243396510
+
+Master Sync
+Reception: 45863
+Sync: 222
+tS: 5164529328
+tSnew: 5258703845
+tM: 5178838098
+tMnew: 5273013163
+tMraw: 5273013173
+R: 536874244
+
+Tag Pulse
+Reception: 45864
+Pulse: 208
+anchorT: 5321327261
+dT: 62623416
+syncT: 5335636943
+
+Master Sync
+Reception: 45865
+Sync: 223
+tS: 5258703845
+tSnew: 5352873242
+tM: 5273013163
+tMnew: 5367182986
+tMraw: 5367182996
+R: 536874244
+
+Tag Pulse
+Reception: 45866
+Pulse: 209
+anchorT: 5413491900
+dT: 60618658
+syncT: 5427801918
+
+Master Sync
+Reception: 45867
+Sync: 224
+tS: 5352873242
+tSnew: 5447041405
+tM: 5367182986
+tMnew: 5461351736
+tMraw: 5461351746
+R: 536874244
+
+Tag Pulse
+Reception: 45868
+Pulse: 210
+anchorT: 5505691627
+dT: 58650222
+syncT: 5520002323
+
+Master Sync
+Reception: 45869
+Sync: 225
+tS: 5447041405
+tSnew: 5541207909
+tM: 5461351736
+tMnew: 5555518932
+tMraw: 5555518942
+R: 536874244
+
+Tag Pulse
+Reception: 45870
+Pulse: 211
+anchorT: 5597897475
+dT: 56689566
+syncT: 5612208914
+
+Master Sync
+Reception: 45871
+Sync: 226
+tS: 5541207909
+tSnew: 5635388172
+tM: 5555518932
+tMnew: 5649699781
+tMraw: 5649699791
+R: 536874244
+
+Tag Pulse
+Reception: 45872
+Pulse: 212
+anchorT: 5690101007
+dT: 54712835
+syncT: 5704412956
+
+Master Sync
+Reception: 45873
+Sync: 227
+tS: 5635388172
+tSnew: 5729572577
+tM: 5649699781
+tMnew: 5743884685
+tMraw: 5743884695
+R: 536874244
+
+Tag Pulse
+Reception: 45874
+Pulse: 213
+anchorT: 5782307280
+dT: 52734703
+syncT: 5796619667
+
+Master Sync
+Reception: 45875
+Sync: 228
+tS: 5729572577
+tSnew: 5823754490
+tM: 5743884685
+tMnew: 5838067041
+tMraw: 5838067051
+R: 536874244
+
+Tag Pulse
+Reception: 45876
+Pulse: 214
+anchorT: 5874513305
+dT: 50758815
+syncT: 5888826094
+
+Master Sync
+Reception: 45877
+Sync: 229
+tS: 5823754490
+tSnew: 5917936924
+tM: 5838067041
+tMnew: 5932250046
+tMraw: 5932250056
+R: 536874244
+
+Tag Pulse
+Reception: 45878
+Pulse: 215
+anchorT: 5966715860
+dT: 48778936
+syncT: 5981029277
+
+Master Sync
+Reception: 45879
+Sync: 230
+tS: 5917936924
+tSnew: 6012119814
+tM: 5932250046
+tMnew: 6026433419
+tMraw: 6026433429
+R: 536874244
+
+Tag Pulse
+Reception: 45880
+Pulse: 216
+anchorT: 6058921083
+dT: 46801269
+syncT: 6073234928
+
+Master Sync
+Reception: 45881
+Sync: 231
+tS: 6012119814
+tSnew: 6106303603
+tM: 6026433419
+tMnew: 6120617634
+tMraw: 6120617644
+R: 536874244
+
+Tag Pulse
+Reception: 45882
+Pulse: 217
+anchorT: 6151123879
+dT: 44820276
+syncT: 6165438112
+
+Master Sync
+Reception: 45883
+Sync: 232
+tS: 6106303603
+tSnew: 6200486373
+tM: 6120617634
+tMnew: 6214801135
+tMraw: 6214801145
+R: 536874244
+
+Tag Pulse
+Reception: 45884
+Pulse: 218
+anchorT: 6243328133
+dT: 42841760
+syncT: 6257643227
+
+Master Sync
+Reception: 45885
+Sync: 233
+tS: 6200486373
+tSnew: 6294662533
+tM: 6214801135
+tMnew: 6308977738
+tMraw: 6308977748
+R: 536874244
+
+Tag Pulse
+Reception: 45886
+Pulse: 219
+anchorT: 6335532499
+dT: 40869966
+syncT: 6349847896
+
+Master Sync
+Reception: 45887
+Sync: 234
+tS: 6294662533
+tSnew: 6388834447
+tM: 6308977738
+tMnew: 6403150118
+tMraw: 6403150128
+R: 536874244
+
+Tag Pulse
+Reception: 45888
+Pulse: 220
+anchorT: 6427740118
+dT: 38905671
+syncT: 6442055981
+
+Master Sync
+Reception: 45889
+Sync: 235
+tS: 6388834447
+tSnew: 6483007826
+tM: 6403150118
+tMnew: 6497324156
+tMraw: 6497324166
+R: 536874244
+
+Tag Pulse
+Reception: 45890
+Pulse: 221
+anchorT: 6519945598
+dT: 36937772
+syncT: 6534262186
+
+Master Sync
+Reception: 45891
+Sync: 236
+tS: 6483007826
+tSnew: 6577180092
+tM: 6497324156
+tMnew: 6591497041
+tMraw: 6591497051
+R: 536874244
+
+Tag Pulse
+Reception: 45892
+Pulse: 222
+anchorT: 6612150485
+dT: 34970393
+syncT: 6626467663
+
+Master Sync
+Reception: 45893
+Sync: 237
+tS: 6577180092
+tSnew: 6671348103
+tM: 6591497041
+tMnew: 6685665502
+tMraw: 6685665512
+R: 536874244
+
+Tag Pulse
+Reception: 45894
+Pulse: 223
+anchorT: 6704352527
+dT: 33004424
+syncT: 6718670083
+
+Master Sync
+Reception: 45895
+Sync: 238
+tS: 6671348103
+tSnew: 6765515562
+tM: 6685665502
+tMnew: 6779833547
+tMraw: 6779833557
+R: 536874244
+
+Tag Pulse
+Reception: 45896
+Pulse: 224
+anchorT: 6796554562
+dT: 31039000
+syncT: 6810872740
+
+Master Sync
+Reception: 45897
+Sync: 239
+tS: 6765515562
+tSnew: 6859685015
+tM: 6779833547
+tMnew: 6874003611
+tMraw: 6874003621
+R: 536874244
+
+Tag Pulse
+Reception: 45898
+Pulse: 225
+anchorT: 6888757333
+dT: 29072318
+syncT: 6903076117
+
+Master Sync
+Reception: 45899
+Sync: 240
+tS: 6859685015
+tSnew: 6953896375
+tM: 6874003611
+tMnew: 6968215518
+tMraw: 6968215528
+R: 536874244
+
+Tag Pulse
+Reception: 45900
+Pulse: 226
+anchorT: 6980961876
+dT: 27065501
+syncT: 6995281176
+
+Master Sync
+Reception: 45901
+Sync: 241
+tS: 6953896375
+tSnew: 7048045020
+tM: 6968215518
+tMnew: 7062364701
+tMraw: 7062364711
+R: 536874244
+
+Tag Pulse
+Reception: 45902
+Pulse: 227
+anchorT: 7073168029
+dT: 25123009
+syncT: 7087487853
+
+Master Sync
+Reception: 45903
+Sync: 242
+tS: 7048045020
+tSnew: 7142226613
+tM: 7062364701
+tMnew: 7156546720
+tMraw: 7156546730
+R: 536874244
+
+Tag Pulse
+Reception: 45904
+Pulse: 228
+anchorT: 7165411538
+dT: 23184925
+syncT: 7179731749
+
+Master Sync
+Reception: 45905
+Sync: 243
+tS: 7142226613
+tSnew: 7236407669
+tM: 7156546720
+tMnew: 7250728347
+tMraw: 7250728357
+R: 536874244
+
+Tag Pulse
+Reception: 45906
+Pulse: 229
+anchorT: 7257582515
+dT: 21174846
+syncT: 7271903321
+
+Master Sync
+Reception: 45907
+Sync: 244
+tS: 7236407669
+tSnew: 7330587691
+tM: 7250728347
+tMnew: 7344908924
+tMraw: 7344908934
+R: 536874244
+
+Tag Pulse
+Reception: 45908
+Pulse: 230
+anchorT: 7349787899
+dT: 19200208
+syncT: 7364109245
+
+Master Sync
+Reception: 45909
+Sync: 245
+tS: 7330587691
+tSnew: 7424766535
+tM: 7344908924
+tMnew: 7439088307
+tMraw: 7439088317
+R: 536874244
+
+Tag Pulse
+Reception: 45910
+Pulse: 231
+anchorT: 7441994966
+dT: 17228431
+syncT: 7456316836
+
+Master Sync
+Reception: 45911
+Sync: 246
+tS: 7424766535
+tSnew: 7518941198
+tM: 7439088307
+tMnew: 7533263451
+tMraw: 7533263461
+R: 536874244
+
+Tag Pulse
+Reception: 45912
+Pulse: 232
+anchorT: 7534201655
+dT: 15260457
+syncT: 7548523985
+
+Master Sync
+Reception: 45913
+Sync: 247
+tS: 7518941198
+tSnew: 7613114049
+tM: 7533263451
+tMnew: 7627436881
+tMraw: 7627436891
+R: 536874244
+
+Tag Pulse
+Reception: 45914
+Pulse: 233
+anchorT: 7626406671
+dT: 13292622
+syncT: 7640729584
+
+Master Sync
+Reception: 45915
+Sync: 248
+tS: 7613114049
+tSnew: 7707286644
+tM: 7627436881
+tMnew: 7721610038
+tMraw: 7721610048
+R: 536874244
+
+Tag Pulse
+Reception: 45916
+Pulse: 234
+anchorT: 7718613858
+dT: 11327214
+syncT: 7732937319
+
+Master Sync
+Reception: 45917
+Sync: 249
+tS: 7707286644
+tSnew: 7801460985
+tM: 7721610038
+tMnew: 7815784829
+tMraw: 7815784839
+R: 536874244
+
+Tag Pulse
+Reception: 45918
+Pulse: 235
+anchorT: 7810819098
+dT: 9358113
+syncT: 7825142986
+
+Master Sync
+Reception: 45919
+Sync: 250
+tS: 7801460985
+tSnew: 7895639013
+tM: 7815784829
+tMnew: 7909963307
+tMraw: 7909963317
+R: 536874244
+
+Tag Pulse
+Reception: 45920
+Pulse: 236
+anchorT: 7903024939
+dT: 7385926
+syncT: 7917349268
+
+Master Sync
+Reception: 45921
+Sync: 251
+tS: 7895639013
+tSnew: 7989814805
+tM: 7909963307
+tMnew: 8004139813
+tMraw: 8004139823
+R: 536874244
+
+Tag Pulse
+Reception: 45922
+Pulse: 237
+anchorT: 7995230644
+dT: 5415839
+syncT: 8009555693
+
+Master Sync
+Reception: 45923
+Sync: 252
+tS: 7989814805
+tSnew: 8083990301
+tM: 8004139813
+tMnew: 8098315879
+tMraw: 8098315889
+R: 536874244
+
+Tag Pulse
+Reception: 45924
+Pulse: 238
+anchorT: 8087438832
+dT: 3448531
+syncT: 8101764430
+
+Master Sync
+Reception: 45925
+Sync: 253
+tS: 8083990301
+tSnew: 8178167912
+tM: 8098315879
+tMnew: 8192493892
+tMraw: 8192493902
+R: 536874244
+
+Tag Pulse
+Reception: 45926
+Pulse: 240
+anchorT: 8271850867
+dT: 93682955
+syncT: 8286177246
+
+Tag Pulse
+Reception: 45927
+Pulse: 241
+anchorT: 8364054232
+dT: 185886320
+syncT: 8378381005
+
+Master Sync
+Reception: 45928
+Sync: 255
+tS: 8178167912
+tSnew: 8366509255
+tM: 8192493892
+tMnew: 8380836472
+tMraw: 8380836482
+R: 536874244
+
+Tag Pulse
+Reception: 45929
+Pulse: 242
+anchorT: 8456259673
+dT: 89750418
+syncT: 8470587479
+
+Master Sync
+Reception: 45930
+Sync: 0
+tS: 8366509255
+tSnew: 8460679871
+tM: 8380836472
+tMnew: 8475007506
+tMraw: 8475007516
+R: 536874244
+
+Tag Pulse
+Reception: 45931
+Pulse: 243
+anchorT: 8548464624
+dT: 87784753
+syncT: 8562792648
+
+Master Sync
+Reception: 45932
+Sync: 1
+tS: 8460679871
+tSnew: 8554852851
+tM: 8475007506
+tMnew: 8569180959
+tMraw: 8569180969
+R: 536874244
+
+Tag Pulse
+Reception: 45933
+Pulse: 244
+anchorT: 8640669977
+dT: 85817126
+syncT: 8654998516
+
+Master Sync
+Reception: 45934
+Sync: 2
+tS: 8554852851
+tSnew: 8649027354
+tM: 8569180959
+tMnew: 8663355983
+tMraw: 8663355993
+R: 536874244
+
+Tag Pulse
+Reception: 45935
+Pulse: 245
+anchorT: 8732875594
+dT: 83848240
+syncT: 8747204686
+
+Master Sync
+Reception: 45936
+Sync: 3
+tS: 8649027354
+tSnew: 8743204460
+tM: 8663355983
+tMnew: 8757533780
+tMraw: 8757533790
+R: 536874244
+
+Tag Pulse
+Reception: 45937
+Pulse: 246
+anchorT: 8825080466
+dT: 81876006
+syncT: 8839410386
+
+Master Sync
+Reception: 45938
+Sync: 4
+tS: 8743204460
+tSnew: 8837412607
+tM: 8757533780
+tMnew: 8851742305
+tMraw: 8851742315
+R: 536874244
+
+Tag Pulse
+Reception: 45939
+Pulse: 247
+anchorT: 8917286227
+dT: 79873620
+syncT: 8931616245
+
+Master Sync
+Reception: 45940
+Sync: 5
+tS: 8837412607
+tSnew: 8931547855
+tM: 8851742305
+tMnew: 8945878227
+tMraw: 8945878237
+R: 536874244
+
+Tag Pulse
+Reception: 45941
+Pulse: 248
+anchorT: 9009529800
+dT: 77981945
+syncT: 9023860730
+
+Master Sync
+Reception: 45942
+Sync: 6
+tS: 8931547855
+tSnew: 9025722246
+tM: 8945878227
+tMnew: 9040053179
+tMraw: 9040053189
+R: 536874244
+
+Tag Pulse
+Reception: 45943
+Pulse: 249
+anchorT: 9101697052
+dT: 75974806
+syncT: 9116028437
+
+Master Sync
+Reception: 45944
+Sync: 7
+tS: 9025722246
+tSnew: 9119894897
+tM: 9040053179
+tMnew: 9134226312
+tMraw: 9134226322
+R: 536874244
+
+Tag Pulse
+Reception: 45945
+Pulse: 250
+anchorT: 9193894560
+dT: 73999663
+syncT: 9208226353
+
+Master Sync
+Reception: 45946
+Sync: 8
+tS: 9119894897
+tSnew: 9214070217
+tM: 9134226312
+tMnew: 9228402113
+tMraw: 9228402123
+R: 536874244
+
+Tag Pulse
+Reception: 45947
+Pulse: 251
+anchorT: 9286092517
+dT: 72022300
+syncT: 9300424780
+
+Master Sync
+Reception: 45948
+Sync: 9
+tS: 9214070217
+tSnew: 9308244551
+tM: 9228402113
+tMnew: 9322577105
+tMraw: 9322577115
+R: 536874244
+
+Tag Pulse
+Reception: 45949
+Pulse: 252
+anchorT: 9378291123
+dT: 70046572
+syncT: 9392624166
+
+Master Sync
+Reception: 45950
+Sync: 10
+tS: 9308244551
+tSnew: 9402416417
+tM: 9322577105
+tMnew: 9416749461
+tMraw: 9416749471
+R: 536874244
+
+Tag Pulse
+Reception: 45951
+Pulse: 253
+anchorT: 9470489232
+dT: 68072815
+syncT: 9484822630
+
+Master Sync
+Reception: 45952
+Sync: 11
+tS: 9402416417
+tSnew: 9496592418
+tM: 9416749461
+tMnew: 9510926031
+tMraw: 9510926041
+R: 536874244
+
+Tag Pulse
+Reception: 45953
+Pulse: 254
+anchorT: 9562688960
+dT: 66096542
+syncT: 9577022972
+
+Master Sync
+Reception: 45954
+Sync: 12
+tS: 9496592418
+tSnew: 9590767914
+tM: 9510926031
+tMnew: 9605102025
+tMraw: 9605102035
+R: 536874244
+
+Tag Pulse
+Reception: 45955
+Pulse: 255
+anchorT: 9654889794
+dT: 64121880
+syncT: 9669224244
+
+Master Sync
+Reception: 45956
+Sync: 13
+tS: 9590767914
+tSnew: 9684945493
+tM: 9605102025
+tMnew: 9699280126
+tMraw: 9699280136
+R: 536874244
+
+Tag Pulse
+Reception: 45957
+Pulse: 0
+anchorT: 9747088408
+dT: 62142915
+syncT: 9761423385
+
+Master Sync
+Reception: 45958
+Sync: 14
+tS: 9684945493
+tSnew: 9779121646
+tM: 9699280126
+tMnew: 9793456840
+tMraw: 9793456850
+R: 536874244
+
+Tag Pulse
+Reception: 45959
+Pulse: 1
+anchorT: 9839283480
+dT: 60161834
+syncT: 9853619032
+
+Master Sync
+Reception: 45960
+Sync: 15
+tS: 9779121646
+tSnew: 9873301534
+tM: 9793456840
+tMnew: 9887637297
+tMraw: 9887637307
+R: 536874244
+
+Tag Pulse
+Reception: 45961
+Pulse: 2
+anchorT: 9931480588
+dT: 58179054
+syncT: 9945816702
+
+Master Sync
+Reception: 45962
+Sync: 16
+tS: 9873301534
+tSnew: 9967480885
+tM: 9887637297
+tMnew: 9981817185
+tMraw: 9981817195
+R: 536874244
+
+Tag Pulse
+Reception: 45963
+Pulse: 3
+anchorT: 10023681598
+dT: 56200713
+syncT: 10038018218
+
+Master Sync
+Reception: 45964
+Sync: 17
+tS: 9967480885
+tSnew: 10061654730
+tM: 9981817185
+tMnew: 10075991600
+tMraw: 10075991610
+R: 536874244
+
+Tag Pulse
+Reception: 45965
+Pulse: 4
+anchorT: 10115873105
+dT: 54218375
+syncT: 10130210303
+
+Master Sync
+Reception: 45966
+Sync: 18
+tS: 10061654730
+tSnew: 10155828439
+tM: 10075991600
+tMnew: 10170165743
+tMraw: 10170165753
+R: 536874244
+
+Tag Pulse
+Reception: 45967
+Pulse: 5
+anchorT: 10208068362
+dT: 52239923
+syncT: 10222405906
+
+Master Sync
+Reception: 45968
+Sync: 19
+tS: 10155828439
+tSnew: 10250003615
+tM: 10170165743
+tMnew: 10264341488
+tMraw: 10264341498
+R: 536874244
+
+Tag Pulse
+Reception: 45969
+Pulse: 6
+anchorT: 10300261704
+dT: 50258089
+syncT: 10314599880
+
+Master Sync
+Reception: 45970
+Sync: 20
+tS: 10250003615
+tSnew: 10344180065
+tM: 10264341488
+tMnew: 10358518323
+tMraw: 10358518333
+R: 536874244
+
+Tag Pulse
+Reception: 45971
+Pulse: 7
+anchorT: 10392453074
+dT: 48273009
+syncT: 10406791529
+
+Master Sync
+Reception: 45972
+Sync: 21
+tS: 10344180065
+tSnew: 10438355369
+tM: 10358518323
+tMnew: 10452694308
+tMraw: 10452694318
+R: 536874244
+
+Tag Pulse
+Reception: 45973
+Pulse: 8
+anchorT: 10484646561
+dT: 46291192
+syncT: 10498985834
+
+Master Sync
+Reception: 45974
+Sync: 22
+tS: 10438355369
+tSnew: 10532534343
+tM: 10452694308
+tMnew: 10546873699
+tMraw: 10546873709
+R: 536874244
+
+Tag Pulse
+Reception: 45975
+Pulse: 9
+anchorT: 10576841153
+dT: 44306810
+syncT: 10591180705
+
+Master Sync
+Reception: 45976
+Sync: 23
+tS: 10532534343
+tSnew: 10626708317
+tM: 10546873699
+tMnew: 10641048259
+tMraw: 10641048269
+R: 536874244
+
+Tag Pulse
+Reception: 45977
+Pulse: 10
+anchorT: 10669037195
+dT: 42328878
+syncT: 10683377400
+
+Master Sync
+Reception: 45978
+Sync: 24
+tS: 10626708317
+tSnew: 10720919134
+tM: 10641048259
+tMnew: 10735259621
+tMraw: 10735259631
+R: 536874244
+
+Tag Pulse
+Reception: 45979
+Pulse: 11
+anchorT: 10761231987
+dT: 40312853
+syncT: 10775572707
+
+Master Sync
+Reception: 45980
+Sync: 25
+tS: 10720919134
+tSnew: 10815056906
+tM: 10735259621
+tMnew: 10829398026
+tMraw: 10829398036
+R: 536874244
+
+Tag Pulse
+Reception: 45981
+Pulse: 12
+anchorT: 10853458718
+dT: 38401812
+syncT: 10867800096
+
+Master Sync
+Reception: 45982
+Sync: 26
+tS: 10815056906
+tSnew: 10909232330
+tM: 10829398026
+tMnew: 10923573972
+tMraw: 10923573982
+R: 536874244
+
+Tag Pulse
+Reception: 45983
+Pulse: 13
+anchorT: 10945616500
+dT: 36384170
+syncT: 10959958343
+
+Master Sync
+Reception: 45984
+Sync: 27
+tS: 10909232330
+tSnew: 11003404838
+tM: 10923573972
+tMnew: 11017747185
+tMraw: 11017747195
+R: 536874244
+
+Tag Pulse
+Reception: 45985
+Pulse: 14
+anchorT: 11037810499
+dT: 34405661
+syncT: 11052153103
+
+Master Sync
+Reception: 45986
+Sync: 28
+tS: 11003404838
+tSnew: 11097576817
+tM: 11017747185
+tMnew: 11111919469
+tMraw: 11111919479
+R: 536874244
+
+Tag Pulse
+Reception: 45987
+Pulse: 15
+anchorT: 11130006589
+dT: 32429772
+syncT: 11144349346
+
+Master Sync
+Reception: 45988
+Sync: 29
+tS: 11097576817
+tSnew: 11191750855
+tM: 11111919469
+tMnew: 11206094116
+tMraw: 11206094126
+R: 536874244
+
+Tag Pulse
+Reception: 45989
+Pulse: 16
+anchorT: 11222201814
+dT: 30450959
+syncT: 11236545271
+
+Master Sync
+Reception: 45990
+Sync: 30
+tS: 11191750855
+tSnew: 11285923523
+tM: 11206094116
+tMnew: 11300267313
+tMraw: 11300267323
+R: 536874244
+
+Tag Pulse
+Reception: 45991
+Pulse: 17
+anchorT: 11314398129
+dT: 28474606
+syncT: 11328742078
+
+Master Sync
+Reception: 45992
+Sync: 31
+tS: 11285923523
+tSnew: 11380094837
+tM: 11300267313
+tMnew: 11394439196
+tMraw: 11394439206
+R: 536874244
+
+Tag Pulse
+Reception: 45993
+Pulse: 18
+anchorT: 11406591960
+dT: 26497123
+syncT: 11420936479
+
+Master Sync
+Reception: 45994
+Sync: 32
+tS: 11380094837
+tSnew: 11474268034
+tM: 11394439196
+tMnew: 11488612994
+tMraw: 11488613004
+R: 536874244
+
+Tag Pulse
+Reception: 45995
+Pulse: 19
+anchorT: 11498788475
+dT: 24520441
+syncT: 11513133591
+
+Master Sync
+Reception: 45996
+Sync: 33
+tS: 11474268034
+tSnew: 11568439717
+tM: 11488612994
+tMnew: 11582784933
+tMraw: 11582784943
+R: 536874244
+
+Tag Pulse
+Reception: 45997
+Pulse: 20
+anchorT: 11590984646
+dT: 22544929
+syncT: 11605329923
+
+Master Sync
+Reception: 45998
+Sync: 34
+tS: 11568439717
+tSnew: 11662613034
+tM: 11582784933
+tMnew: 11676958836
+tMraw: 11676958846
+R: 536874244
+
+Tag Pulse
+Reception: 45999
+Pulse: 21
+anchorT: 11683180889
+dT: 20567855
+syncT: 11697526818
+
+Master Sync
+Reception: 46000
+Sync: 35
+tS: 11662613034
+tSnew: 11756783859
+tM: 11676958836
+tMnew: 11771130302
+tMraw: 11771130312
+R: 536874244
+
+Tag Pulse
+Reception: 46001
+Pulse: 22
+anchorT: 11775372933
+dT: 18589074
+syncT: 11789719502
+
+Master Sync
+Reception: 46002
+Sync: 36
+tS: 11756783859
+tSnew: 11850953603
+tM: 11771130302
+tMnew: 11865300478
+tMraw: 11865300488
+R: 536874244
+
+Tag Pulse
+Reception: 46003
+Pulse: 23
+anchorT: 11867565706
+dT: 16612103
+syncT: 11881912657
+
+Master Sync
+Reception: 46004
+Sync: 37
+tS: 11850953603
+tSnew: 11945127866
+tM: 11865300478
+tMnew: 11959475334
+tMraw: 11959475344
+R: 536874244
+
+Tag Pulse
+Reception: 46005
+Pulse: 24
+anchorT: 11959762190
+dT: 14634324
+syncT: 11974109750
+
+Master Sync
+Reception: 46006
+Sync: 38
+tS: 11945127866
+tSnew: 12039298555
+tM: 11959475334
+tMnew: 12053646528
+tMraw: 12053646538
+R: 536874244
+
+Tag Pulse
+Reception: 46007
+Pulse: 25
+anchorT: 12051959539
+dT: 12660984
+syncT: 12066307579
+
+Master Sync
+Reception: 46008
+Sync: 39
+tS: 12039298555
+tSnew: 12133468619
+tM: 12053646528
+tMnew: 12147817137
+tMraw: 12147817147
+R: 536874244
+
+Tag Pulse
+Reception: 46009
+Pulse: 26
+anchorT: 12144157208
+dT: 10688589
+syncT: 12158505787
+
+Master Sync
+Reception: 46010
+Sync: 40
+tS: 12133468619
+tSnew: 12227638988
+tM: 12147817137
+tMnew: 12241988163
+tMraw: 12241988173
+R: 536874244
+
+Tag Pulse
+Reception: 46011
+Pulse: 27
+anchorT: 12236355382
+dT: 8716394
+syncT: 12250704617
+
+Master Sync
+Reception: 46012
+Sync: 41
+tS: 12227638988
+tSnew: 12321808523
+tM: 12241988163
+tMnew: 12336158179
+tMraw: 12336158189
+R: 536874244
+
+Tag Pulse
+Reception: 46013
+Pulse: 28
+anchorT: 12328553011
+dT: 6744488
+syncT: 12342902701
+
+Master Sync
+Reception: 46014
+Sync: 42
+tS: 12321808523
+tSnew: 12415976456
+tM: 12336158179
+tMnew: 12430326688
+tMraw: 12430326698
+R: 536874244
+
+Tag Pulse
+Reception: 46015
+Pulse: 29
+anchorT: 12420746026
+dT: 4769570
+syncT: 12435096287
+
+Master Sync
+Reception: 46016
+Sync: 43
+tS: 12415976456
+tSnew: 12510144774
+tM: 12430326688
+tMnew: 12524495639
+tMraw: 12524495649
+R: 536874244
+
+Tag Pulse
+Reception: 46017
+Pulse: 30
+anchorT: 12512941323
+dT: 2796549
+syncT: 12527292206
+
+Master Sync
+Reception: 46018
+Sync: 44
+tS: 12510144774
+tSnew: 12604350222
+tM: 12524495639
+tMnew: 12618701560
+tMraw: 12618701570
+R: 536874244
+
+Tag Pulse
+Reception: 46019
+Pulse: 32
+anchorT: 12697352055
+dT: 93001833
+syncT: 12711703859
+
+Tag Pulse
+Reception: 46020
+Pulse: 33
+anchorT: 12789498827
+dT: 185148605
+syncT: 12803851094
+
+Master Sync
+Reception: 46021
+Sync: 46
+tS: 12604350222
+tSnew: 12792658934
+tM: 12618701560
+tMnew: 12807011368
+tMraw: 12807011378
+R: 536874244
+
+Tag Pulse
+Reception: 46022
+Pulse: 34
+anchorT: 12881682402
+dT: 89023468
+syncT: 12896035354
+
+Master Sync
+Reception: 46023
+Sync: 47
+tS: 12792658934
+tSnew: 12886831354
+tM: 12807011368
+tMnew: 12901184324
+tMraw: 12901184334
+R: 536874244
+
+Tag Pulse
+Reception: 46024
+Pulse: 35
+anchorT: 12973866570
+dT: 87035216
+syncT: 12988220035
+
+Master Sync
+Reception: 46025
+Sync: 48
+tS: 12886831354
+tSnew: 12980999896
+tM: 12901184324
+tMnew: 12995353467
+tMraw: 12995353477
+R: 536874244
+
+Tag Pulse
+Reception: 46026
+Pulse: 36
+anchorT: 13066052285
+dT: 85052389
+syncT: 13080406398
+
+Master Sync
+Reception: 46027
+Sync: 49
+tS: 12980999896
+tSnew: 13075168301
+tM: 12995353467
+tMnew: 13089522321
+tMraw: 13089522331
+R: 536874244
+
+Tag Pulse
+Reception: 46028
+Pulse: 37
+anchorT: 13158235636
+dT: 83067335
+syncT: 13172590052
+
+Master Sync
+Reception: 46029
+Sync: 50
+tS: 13075168301
+tSnew: 13169338118
+tM: 13089522321
+tMnew: 13183692634
+tMraw: 13183692644
+R: 536874244
+
+Tag Pulse
+Reception: 46030
+Pulse: 38
+anchorT: 13250418017
+dT: 81079899
+syncT: 13264772960
+
+Master Sync
+Reception: 46031
+Sync: 51
+tS: 13169338118
+tSnew: 13263511933
+tM: 13183692634
+tMnew: 13277866953
+tMraw: 13277866963
+R: 536874244
+
+Tag Pulse
+Reception: 46032
+Pulse: 39
+anchorT: 13342600719
+dT: 79088786
+syncT: 13356956162
+
+Master Sync
+Reception: 46033
+Sync: 52
+tS: 13263511933
+tSnew: 13357681252
+tM: 13277866953
+tMnew: 13372036760
+tMraw: 13372036770
+R: 536874244
+
+Tag Pulse
+Reception: 46034
+Pulse: 40
+anchorT: 13434784198
+dT: 77102946
+syncT: 13449140105
+
+Master Sync
+Reception: 46035
+Sync: 53
+tS: 13357681252
+tSnew: 13451853648
+tM: 13372036760
+tMnew: 13466209805
+tMraw: 13466209815
+R: 536874244
+
+Tag Pulse
+Reception: 46036
+Pulse: 41
+anchorT: 13526968551
+dT: 75114903
+syncT: 13541325225
+
+Master Sync
+Reception: 46037
+Sync: 54
+tS: 13451853648
+tSnew: 13546023633
+tM: 13466209805
+tMnew: 13560380238
+tMraw: 13560380248
+R: 536874244
+
+Tag Pulse
+Reception: 46038
+Pulse: 42
+anchorT: 13619150981
+dT: 73127348
+syncT: 13633507933
+
+Master Sync
+Reception: 46039
+Sync: 55
+tS: 13546023633
+tSnew: 13640195990
+tM: 13560380238
+tMnew: 13654553123
+tMraw: 13654553133
+R: 536874244
+
+Tag Pulse
+Reception: 46040
+Pulse: 43
+anchorT: 13711333106
+dT: 71137116
+syncT: 13725690637
+
+Master Sync
+Reception: 46041
+Sync: 56
+tS: 13640195990
+tSnew: 13734370205
+tM: 13654553123
+tMnew: 13748727922
+tMraw: 13748727932
+R: 536874244
+
+Master Sync
+Reception: 46042
+Sync: 57
+tS: 13734370205
+tSnew: 13828541320
+tM: 13748727922
+tMnew: 13842899637
+tMraw: 13842899647
+R: 536874244
+
+Tag Pulse
+Reception: 46043
+Pulse: 45
+anchorT: 13895699848
+dT: 67158528
+syncT: 13910058592
+
+Master Sync
+Reception: 46044
+Sync: 58
+tS: 13828541320
+tSnew: 13922715255
+tM: 13842899637
+tMnew: 13937074084
+tMraw: 13937074094
+R: 536874244
+
+Tag Pulse
+Reception: 46045
+Pulse: 46
+anchorT: 13987884017
+dT: 65168762
+syncT: 14002243200
+
+Master Sync
+Reception: 46046
+Sync: 59
+tS: 13922715255
+tSnew: 14016889558
+tM: 13937074084
+tMnew: 14031248860
+tMraw: 14031248870
+R: 536874244
+
+Tag Pulse
+Reception: 46047
+Pulse: 47
+anchorT: 14080077696
+dT: 63188138
+syncT: 14094437315
+
+Master Sync
+Reception: 46048
+Sync: 60
+tS: 14016889558
+tSnew: 14111062949
+tM: 14031248860
+tMnew: 14125422674
+tMraw: 14125422684
+R: 536874244
+
+Tag Pulse
+Reception: 46049
+Pulse: 48
+anchorT: 14172271993
+dT: 61209044
+syncT: 14186631992
+
+Master Sync
+Reception: 46050
+Sync: 61
+tS: 14111062949
+tSnew: 14205234817
+tM: 14125422674
+tMnew: 14219595166
+tMraw: 14219595176
+R: 536874244
+
+Tag Pulse
+Reception: 46051
+Pulse: 49
+anchorT: 14264463566
+dT: 59228749
+syncT: 14278824307
+
+Master Sync
+Reception: 46052
+Sync: 62
+tS: 14205234817
+tSnew: 14299411180
+tM: 14219595166
+tMnew: 14313772201
+tMraw: 14313772211
+R: 536874244
+
+Tag Pulse
+Reception: 46053
+Pulse: 50
+anchorT: 14356657005
+dT: 57245825
+syncT: 14371018434
+
+Master Sync
+Reception: 46054
+Sync: 63
+tS: 14299411180
+tSnew: 14393584738
+tM: 14313772201
+tMnew: 14407946191
+tMraw: 14407946201
+R: 536874244
+
+Tag Pulse
+Reception: 46055
+Pulse: 51
+anchorT: 14448848561
+dT: 55263823
+syncT: 14463210267
+
+Master Sync
+Reception: 46056
+Sync: 64
+tS: 14393584738
+tSnew: 14487796662
+tM: 14407946191
+tMnew: 14502158715
+tMraw: 14502158725
+R: 536874244
+
+Tag Pulse
+Reception: 46057
+Pulse: 52
+anchorT: 14541072545
+dT: 53275883
+syncT: 14555434937
+
+Master Sync
+Reception: 46058
+Sync: 65
+tS: 14487796662
+tSnew: 14581935942
+tM: 14502158715
+tMnew: 14596298547
+tMraw: 14596298557
+R: 536874244
+
+Tag Pulse
+Reception: 46059
+Pulse: 53
+anchorT: 14633233325
+dT: 51297383
+syncT: 14647596230
+
+Master Sync
+Reception: 46060
+Sync: 66
+tS: 14581935942
+tSnew: 14676107842
+tM: 14596298547
+tMnew: 14690470895
+tMraw: 14690470905
+R: 536874244
+
+Tag Pulse
+Reception: 46061
+Pulse: 54
+anchorT: 14725433495
+dT: 49325653
+syncT: 14739796782
+
+Master Sync
+Reception: 46062
+Sync: 67
+tS: 14676107842
+tSnew: 14770279302
+tM: 14690470895
+tMnew: 14784642866
+tMraw: 14784642876
+R: 536874244
+
+Tag Pulse
+Reception: 46063
+Pulse: 55
+anchorT: 14817632295
+dT: 47352993
+syncT: 14831996115
+
+Master Sync
+Reception: 46064
+Sync: 68
+tS: 14770279302
+tSnew: 14864447444
+tM: 14784642866
+tMnew: 14878811576
+tMraw: 14878811586
+R: 536874244
+
+Tag Pulse
+Reception: 46065
+Pulse: 56
+anchorT: 14909831376
+dT: 45383932
+syncT: 14924195781
+
+Master Sync
+Reception: 46066
+Sync: 69
+tS: 14864447444
+tSnew: 14958617581
+tM: 14878811576
+tMnew: 14972982177
+tMraw: 14972982187
+R: 536874244
+
+Tag Pulse
+Reception: 46067
+Pulse: 57
+anchorT: 15002034238
+dT: 43416657
+syncT: 15016399047
+
+Master Sync
+Reception: 46068
+Sync: 70
+tS: 14958617581
+tSnew: 15052790715
+tM: 14972982177
+tMnew: 15067155983
+tMraw: 15067155993
+R: 536874244
+
+Tag Pulse
+Reception: 46069
+Pulse: 58
+anchorT: 15094235106
+dT: 41444391
+syncT: 15108600669
+
+Master Sync
+Reception: 46070
+Sync: 71
+tS: 15052790715
+tSnew: 15146963633
+tM: 15067155983
+tMnew: 15161329477
+tMraw: 15161329487
+R: 536874244
+
+Tag Pulse
+Reception: 46071
+Pulse: 59
+anchorT: 15186433497
+dT: 39469864
+syncT: 15200799582
+
+Master Sync
+Reception: 46072
+Sync: 72
+tS: 15146963633
+tSnew: 15241136719
+tM: 15161329477
+tMnew: 15255502986
+tMraw: 15255502996
+R: 536874244
+
+Tag Pulse
+Reception: 46073
+Pulse: 60
+anchorT: 15278634389
+dT: 37497670
+syncT: 15293000824
+
+Master Sync
+Reception: 46074
+Sync: 73
+tS: 15241136719
+tSnew: 15335306944
+tM: 15255502986
+tMnew: 15349673836
+tMraw: 15349673846
+R: 536874244
+
+Tag Pulse
+Reception: 46075
+Pulse: 61
+anchorT: 15370832460
+dT: 35525516
+syncT: 15385199587
+
+Master Sync
+Reception: 46076
+Sync: 74
+tS: 15335306944
+tSnew: 15429482290
+tM: 15349673836
+tMnew: 15443849661
+tMraw: 15443849671
+R: 536874244
+
+Tag Pulse
+Reception: 46077
+Pulse: 62
+anchorT: 15463028528
+dT: 33546238
+syncT: 15477396069
+
+Master Sync
+Reception: 46078
+Sync: 75
+tS: 15429482290
+tSnew: 15523648125
+tM: 15443849661
+tMnew: 15538015983
+tMraw: 15538015993
+R: 536874244
+
+Tag Pulse
+Reception: 46079
+Pulse: 63
+anchorT: 15555229876
+dT: 31581751
+syncT: 15569597897
+
+Master Sync
+Reception: 46080
+Sync: 76
+tS: 15523648125
+tSnew: 15617810314
+tM: 15538015983
+tMnew: 15632178651
+tMraw: 15632178661
+R: 536874244
+
+Tag Pulse
+Reception: 46081
+Pulse: 64
+anchorT: 15647432275
+dT: 29621961
+syncT: 15661800762
+
+Master Sync
+Reception: 46082
+Sync: 77
+tS: 15617810314
+tSnew: 15711970435
+tM: 15632178651
+tMnew: 15726339381
+tMraw: 15726339391
+R: 536874244
+
+Tag Pulse
+Reception: 46083
+Pulse: 65
+anchorT: 15739633887
+dT: 27663452
+syncT: 15754003011
+
+Master Sync
+Reception: 46084
+Sync: 78
+tS: 15711970435
+tSnew: 15806131054
+tM: 15726339381
+tMnew: 15820500623
+tMraw: 15820500633
+R: 536874244
+
+Tag Pulse
+Reception: 46085
+Pulse: 66
+anchorT: 15831836253
+dT: 25705199
+syncT: 15846205992
+
+Tag Pulse
+Reception: 46086
+Pulse: 67
+anchorT: 15924033475
+dT: 117902421
+syncT: 15938403824
+
+Master Sync
+Reception: 46087
+Sync: 80
+tS: 15806131054
+tSnew: 15994465015
+tM: 15820500623
+tMnew: 16008835703
+tMraw: 16008835713
+R: 536874244
+
+Tag Pulse
+Reception: 46088
+Pulse: 68
+anchorT: 16016226755
+dT: 21761740
+syncT: 16030597572
+
+Master Sync
+Reception: 46089
+Sync: 81
+tS: 15994465015
+tSnew: 16088633654
+tM: 16008835703
+tMnew: 16103004885
+tMraw: 16103004895
+R: 536874244
+
+Tag Pulse
+Reception: 46090
+Pulse: 69
+anchorT: 16108424482
+dT: 19790828
+syncT: 16122795827
+
+Master Sync
+Reception: 46091
+Sync: 82
+tS: 16088633654
+tSnew: 16182806051
+tM: 16103004885
+tMnew: 16197177802
+tMraw: 16197177812
+R: 536874244
+
+Tag Pulse
+Reception: 46092
+Pulse: 70
+anchorT: 16200620406
+dT: 17814355
+syncT: 16214992255
+
+Master Sync
+Reception: 46093
+Sync: 83
+tS: 16182806051
+tSnew: 16276979554
+tM: 16197177802
+tMnew: 16291351816
+tMraw: 16291351826
+R: 536874244
+
+Tag Pulse
+Reception: 46094
+Pulse: 71
+anchorT: 16292819142
+dT: 15839588
+syncT: 16307191489
+
+Master Sync
+Reception: 46095
+Sync: 84
+tS: 16276979554
+tSnew: 16371190060
+tM: 16291351816
+tMnew: 16385562834
+tMraw: 16385562844
+R: 536874244
+
+Tag Pulse
+Reception: 46096
+Pulse: 72
+anchorT: 16385054665
+dT: 13864605
+syncT: 16399427514
+
+Master Sync
+Reception: 46097
+Sync: 85
+tS: 16371190060
+tSnew: 16465326609
+tM: 16385562834
+tMnew: 16479699949
+tMraw: 16479699959
+R: 536874244
+
+Tag Pulse
+Reception: 46098
+Pulse: 73
+anchorT: 16477218570
+dT: 11891961
+syncT: 16491591981
+
+Master Sync
+Reception: 46099
+Sync: 86
+tS: 16465326609
+tSnew: 16559492099
+tM: 16479699949
+tMnew: 16573865903
+tMraw: 16573865913
+R: 536874244
+
+Tag Pulse
+Reception: 46100
+Pulse: 74
+anchorT: 16569417836
+dT: 9925737
+syncT: 16583791688
+
+Master Sync
+Reception: 46101
+Sync: 87
+tS: 16559492099
+tSnew: 16653655779
+tM: 16573865903
+tMnew: 16668030094
+tMraw: 16668030104
+R: 536874244
+
+Tag Pulse
+Reception: 46102
+Pulse: 75
+anchorT: 16661614825
+dT: 7959046
+syncT: 16675989183
+
+Master Sync
+Reception: 46103
+Sync: 88
+tS: 16653655779
+tSnew: 16747819754
+tM: 16668030094
+tMnew: 16762194701
+tMraw: 16762194711
+R: 536874244
+
+Tag Pulse
+Reception: 46104
+Pulse: 76
+anchorT: 16753810421
+dT: 5990667
+syncT: 16768185408
+
+Master Sync
+Reception: 46105
+Sync: 89
+tS: 16747819754
+tSnew: 16841984732
+tM: 16762194701
+tMnew: 16856360126
+tMraw: 16856360136
+R: 536874244
+
+Tag Pulse
+Reception: 46106
+Pulse: 77
+anchorT: 16846009478
+dT: 4024746
+syncT: 16860384891
+
+Master Sync
+Reception: 46107
+Sync: 90
+tS: 16841984732
+tSnew: 16936147867
+tM: 16856360126
+tMnew: 16950523828
+tMraw: 16950523838
+R: 536874244
+
+Tag Pulse
+Reception: 46108
+Pulse: 78
+anchorT: 16938206332
+dT: 2058465
+syncT: 16952582305
+
+Master Sync
+Reception: 46109
+Sync: 91
+tS: 16936147867
+tSnew: 17030306843
+tM: 16950523828
+tMnew: 17044683323
+tMraw: 17044683333
+R: 536874244
+
+Tag Pulse
+Reception: 46110
+Pulse: 80
+anchorT: 17122597043
+dT: 92290200
+syncT: 17136974031
+
+Master Sync
+Reception: 46111
+Sync: 92
+tS: 17030306843
+tSnew: 17124468688
+tM: 17044683323
+tMnew: 17138845727
+tMraw: 17138845737
+R: 536874244
+
+Tag Pulse
+Reception: 46112
+Pulse: 81
+anchorT: 7393608
+dT: 82924920
+syncT: 17221771139
+
+Master Sync
+Reception: 46113
+Sync: 93
+tS: 17124468688
+tSnew: 11230725
+tM: 17138845727
+tMnew: 25608187
+tMraw: 25608197
+R: 536874244
+
+Tag Pulse
+Reception: 46114
+Pulse: 82
+anchorT: 99590005
+dT: 88359280
+syncT: 113967897
+
+Master Sync
+Reception: 46115
+Sync: 94
+tS: 11230725
+tSnew: 105396055
+tM: 25608187
+tMnew: 119774084
+tMraw: 119774094
+R: 536874244
+
+Tag Pulse
+Reception: 46116
+Pulse: 83
+anchorT: 191786394
+dT: 86390339
+syncT: 206164943
+
+Master Sync
+Reception: 46117
+Sync: 95
+tS: 105396055
+tSnew: 199555232
+tM: 119774084
+tMnew: 213933828
+tMraw: 213933838
+R: 536874244
+
+Tag Pulse
+Reception: 46118
+Pulse: 84
+anchorT: 283979378
+dT: 84424146
+syncT: 298358482
+
+Master Sync
+Reception: 46119
+Sync: 96
+tS: 199555232
+tSnew: 293714929
+tM: 213933828
+tMnew: 308094052
+tMraw: 308094062
+R: 536874244
+
+Tag Pulse
+Reception: 46120
+Pulse: 85
+anchorT: 376174429
+dT: 82459500
+syncT: 390554013
+
+Master Sync
+Reception: 46121
+Sync: 97
+tS: 293714929
+tSnew: 387873089
+tM: 308094052
+tMnew: 402252786
+tMraw: 402252796
+R: 536874244
+
+Tag Pulse
+Reception: 46122
+Pulse: 86
+anchorT: 468370186
+dT: 80497097
+syncT: 482750373
+
+Master Sync
+Reception: 46123
+Sync: 98
+tS: 387873089
+tSnew: 482034693
+tM: 402252786
+tMnew: 496414949
+tMraw: 496414959
+R: 536874244
+
+Tag Pulse
+Reception: 46124
+Pulse: 87
+anchorT: 560565213
+dT: 78530520
+syncT: 574945935
+
+Master Sync
+Reception: 46125
+Sync: 99
+tS: 482034693
+tSnew: 576196987
+tM: 496414949
+tMnew: 590577674
+tMraw: 590577684
+R: 536874244
+
+Tag Pulse
+Reception: 46126
+Pulse: 88
+anchorT: 652765945
+dT: 76568958
+syncT: 667146982
+
+Master Sync
+Reception: 46127
+Sync: 100
+tS: 576196987
+tSnew: 670359449
+tM: 590577674
+tMnew: 684740767
+tMraw: 684740777
+R: 536874244
+
+Tag Pulse
+Reception: 46128
+Pulse: 89
+anchorT: 744965195
+dT: 74605746
+syncT: 759347012
+
+Master Sync
+Reception: 46129
+Sync: 101
+tS: 670359449
+tSnew: 764521478
+tM: 684740767
+tMnew: 778903371
+tMraw: 778903381
+R: 536874244
+
+Tag Pulse
+Reception: 46130
+Pulse: 90
+anchorT: 837162490
+dT: 72641012
+syncT: 851544826
+
+Master Sync
+Reception: 46131
+Sync: 102
+tS: 764521478
+tSnew: 858686112
+tM: 778903371
+tMnew: 873068595
+tMraw: 873068605
+R: 536874244
+
+Tag Pulse
+Reception: 46132
+Pulse: 91
+anchorT: 929358799
+dT: 70672687
+syncT: 943741724
+
+Master Sync
+Reception: 46133
+Sync: 103
+tS: 858686112
+tSnew: 952861691
+tM: 873068595
+tMnew: 967244597
+tMraw: 967244607
+R: 536874244
+
+Master Sync
+Reception: 46134
+Sync: 104
+tS: 952861691
+tSnew: 1047076733
+tM: 967244597
+tMnew: 1061460206
+tMraw: 1061460216
+R: 536874244
+
+Tag Pulse
+Reception: 46135
+Pulse: 93
+anchorT: 1113754254
+dT: 66677521
+syncT: 1128138128
+
+Master Sync
+Reception: 46136
+Sync: 105
+tS: 1047076733
+tSnew: 1141215926
+tM: 1061460206
+tMnew: 1155599973
+tMraw: 1155599983
+R: 536874244
+
+Tag Pulse
+Reception: 46137
+Pulse: 94
+anchorT: 1205955772
+dT: 64739846
+syncT: 1220340213
+
+Master Sync
+Reception: 46138
+Sync: 106
+tS: 1141215926
+tSnew: 1235390560
+tM: 1155599973
+tMnew: 1249774941
+tMraw: 1249774951
+R: 536874244
+
+Tag Pulse
+Reception: 46139
+Pulse: 95
+anchorT: 1298159124
+dT: 62768564
+syncT: 1312543727
+
+Master Sync
+Reception: 46140
+Sync: 107
+tS: 1235390560
+tSnew: 1329571524
+tM: 1249774941
+tMnew: 1343956480
+tMraw: 1343956490
+R: 536874244
+
+Tag Pulse
+Reception: 46141
+Pulse: 96
+anchorT: 1390358030
+dT: 60786506
+syncT: 1404743357
+
+Master Sync
+Reception: 46142
+Sync: 108
+tS: 1329571524
+tSnew: 1423745452
+tM: 1343956480
+tMnew: 1438131087
+tMraw: 1438131097
+R: 536874244
+
+Tag Pulse
+Reception: 46143
+Pulse: 97
+anchorT: 1482560581
+dT: 58815129
+syncT: 1496946640
+
+Master Sync
+Reception: 46144
+Sync: 109
+tS: 1423745452
+tSnew: 1517920005
+tM: 1438131087
+tMnew: 1532306135
+tMraw: 1532306145
+R: 536874244
+
+Tag Pulse
+Reception: 46145
+Pulse: 98
+anchorT: 1574761987
+dT: 56841982
+syncT: 1589148415
+
+Master Sync
+Reception: 46146
+Sync: 110
+tS: 1517920005
+tSnew: 1612095096
+tM: 1532306135
+tMnew: 1626481776
+tMraw: 1626481786
+R: 536874244
+
+Tag Pulse
+Reception: 46147
+Pulse: 99
+anchorT: 1666960669
+dT: 54865573
+syncT: 1681347669
+
+Master Sync
+Reception: 46148
+Sync: 111
+tS: 1612095096
+tSnew: 1706273432
+tM: 1626481776
+tMnew: 1720660590
+tMraw: 1720660600
+R: 536874244
+
+Tag Pulse
+Reception: 46149
+Pulse: 100
+anchorT: 1759164278
+dT: 52890846
+syncT: 1773551704
+
+Master Sync
+Reception: 46150
+Sync: 112
+tS: 1706273432
+tSnew: 1800452577
+tM: 1720660590
+tMnew: 1814840294
+tMraw: 1814840304
+R: 536874244
+
+Tag Pulse
+Reception: 46151
+Pulse: 101
+anchorT: 1851363929
+dT: 50911352
+syncT: 1865751948
+
+Master Sync
+Reception: 46152
+Sync: 113
+tS: 1800452577
+tSnew: 1894624583
+tM: 1814840294
+tMnew: 1909012866
+tMraw: 1909012876
+R: 536874244
+
+Tag Pulse
+Reception: 46153
+Pulse: 102
+anchorT: 1943567938
+dT: 48943355
+syncT: 1957956515
+
+Master Sync
+Reception: 46154
+Sync: 114
+tS: 1894624583
+tSnew: 1988794472
+tM: 1909012866
+tMnew: 2003183339
+tMraw: 2003183349
+R: 536874244
+
+Tag Pulse
+Reception: 46155
+Pulse: 103
+anchorT: 2035769817
+dT: 46975345
+syncT: 2050158975
+
+Master Sync
+Reception: 46156
+Sync: 115
+tS: 1988794472
+tSnew: 2082966198
+tM: 2003183339
+tMnew: 2097355606
+tMraw: 2097355616
+R: 536874244
+
+Tag Pulse
+Reception: 46157
+Pulse: 104
+anchorT: 2127970437
+dT: 45004239
+syncT: 2142360103
+
+Master Sync
+Reception: 46158
+Sync: 116
+tS: 2082966198
+tSnew: 2177142130
+tM: 2097355606
+tMnew: 2191531848
+tMraw: 2191531858
+R: 536874244
+
+Tag Pulse
+Reception: 46159
+Pulse: 105
+anchorT: 2220171579
+dT: 43029449
+syncT: 2234561438
+
+Master Sync
+Reception: 46160
+Sync: 117
+tS: 2177142130
+tSnew: 2271314024
+tM: 2191531848
+tMnew: 2285704397
+tMraw: 2285704407
+R: 536874244
+
+Tag Pulse
+Reception: 46161
+Pulse: 106
+anchorT: 2312371510
+dT: 41057486
+syncT: 2326762168
+
+Master Sync
+Reception: 46162
+Sync: 118
+tS: 2271314024
+tSnew: 2365494090
+tM: 2285704397
+tMnew: 2379885062
+tMraw: 2379885072
+R: 536874244
+
+Tag Pulse
+Reception: 46163
+Pulse: 107
+anchorT: 2404572828
+dT: 39078738
+syncT: 2418964048
+
+Master Sync
+Reception: 46164
+Sync: 119
+tS: 2365494090
+tSnew: 2459673107
+tM: 2379885062
+tMnew: 2474064477
+tMraw: 2474064487
+R: 536874244
+
+Tag Pulse
+Reception: 46165
+Pulse: 108
+anchorT: 2496776974
+dT: 37103867
+syncT: 2511168500
+
+Master Sync
+Reception: 46166
+Sync: 120
+tS: 2459673107
+tSnew: 2553849872
+tM: 2474064477
+tMnew: 2568241784
+tMraw: 2568241794
+R: 536874244
+
+Tag Pulse
+Reception: 46167
+Pulse: 109
+anchorT: 2588976128
+dT: 35126256
+syncT: 2603368242
+
+Master Sync
+Reception: 46168
+Sync: 121
+tS: 2553849872
+tSnew: 2648028505
+tM: 2568241784
+tMnew: 2662421055
+tMraw: 2662421065
+R: 536874244
+
+Tag Pulse
+Reception: 46169
+Pulse: 110
+anchorT: 2681175988
+dT: 33147483
+syncT: 2695568762
+
+Master Sync
+Reception: 46170
+Sync: 122
+tS: 2648028505
+tSnew: 2742205575
+tM: 2662421055
+tMnew: 2756598499
+tMraw: 2756598509
+R: 536874244
+
+Tag Pulse
+Reception: 46171
+Pulse: 111
+anchorT: 2773376993
+dT: 31171418
+syncT: 2787770040
+
+Master Sync
+Reception: 46172
+Sync: 123
+tS: 2742205575
+tSnew: 2836383165
+tM: 2756598499
+tMnew: 2850776688
+tMraw: 2850776698
+R: 536874244
+
+Tag Pulse
+Reception: 46173
+Pulse: 112
+anchorT: 2865615883
+dT: 29232718
+syncT: 2880009591
+
+Master Sync
+Reception: 46174
+Sync: 124
+tS: 2836383165
+tSnew: 2930585876
+tM: 2850776688
+tMnew: 2944980038
+tMraw: 2944980048
+R: 536874244
+
+Tag Pulse
+Reception: 46175
+Pulse: 113
+anchorT: 2957780558
+dT: 27194682
+syncT: 2972174904
+
+Master Sync
+Reception: 46176
+Sync: 125
+tS: 2930585876
+tSnew: 3024716248
+tM: 2944980038
+tMnew: 3039110903
+tMraw: 3039110913
+R: 536874244
+
+Tag Pulse
+Reception: 46177
+Pulse: 114
+anchorT: 3049983703
+dT: 25267455
+syncT: 3064378490
+
+Master Sync
+Reception: 46178
+Sync: 126
+tS: 3024716248
+tSnew: 3118881491
+tM: 3039110903
+tMnew: 3133276696
+tMraw: 3133276706
+R: 536874244
+
+Tag Pulse
+Reception: 46179
+Pulse: 115
+anchorT: 3142189700
+dT: 23308209
+syncT: 3156585041
+
+Master Sync
+Reception: 46180
+Sync: 127
+tS: 3118881491
+tSnew: 3213045708
+tM: 3133276696
+tMnew: 3227441384
+tMraw: 3227441394
+R: 536874244
+
+Tag Pulse
+Reception: 46181
+Pulse: 116
+anchorT: 3234392517
+dT: 21346809
+syncT: 3248788299
+
+Master Sync
+Reception: 46182
+Sync: 128
+tS: 3213045708
+tSnew: 3307206440
+tM: 3227441384
+tMnew: 3321602666
+tMraw: 3321602676
+R: 536874244
+
+Tag Pulse
+Reception: 46183
+Pulse: 117
+anchorT: 3326594924
+dT: 19388484
+syncT: 3340991263
+
+Master Sync
+Reception: 46184
+Sync: 129
+tS: 3307206440
+tSnew: 3401368702
+tM: 3321602666
+tMnew: 3415765470
+tMraw: 3415765480
+R: 536874244
+
+Tag Pulse
+Reception: 46185
+Pulse: 118
+anchorT: 3418796434
+dT: 17427732
+syncT: 3433193302
+
+Master Sync
+Reception: 46186
+Sync: 130
+tS: 3401368702
+tSnew: 3495529747
+tM: 3415765470
+tMnew: 3509927105
+tMraw: 3509927115
+R: 536874244
+
+Tag Pulse
+Reception: 46187
+Pulse: 119
+anchorT: 3510997416
+dT: 15467669
+syncT: 3525394870
+
+Master Sync
+Reception: 46188
+Sync: 131
+tS: 3495529747
+tSnew: 3589692699
+tM: 3509927105
+tMnew: 3604090615
+tMraw: 3604090625
+R: 536874244
+
+Tag Pulse
+Reception: 46189
+Pulse: 120
+anchorT: 3603197532
+dT: 13504833
+syncT: 3617595528
+
+Master Sync
+Reception: 46190
+Sync: 132
+tS: 3589692699
+tSnew: 3683858143
+tM: 3604090615
+tMnew: 3698256632
+tMraw: 3698256642
+R: 536874244
+
+Tag Pulse
+Reception: 46191
+Pulse: 121
+anchorT: 3695400789
+dT: 11542646
+syncT: 3709799348
+
+Master Sync
+Reception: 46192
+Sync: 133
+tS: 3683858143
+tSnew: 3778026935
+tM: 3698256632
+tMnew: 3792425823
+tMraw: 3792425833
+R: 536874244
+
+Tag Pulse
+Reception: 46193
+Pulse: 122
+anchorT: 3787600577
+dT: 9573642
+syncT: 3801999505
+
+Master Sync
+Reception: 46194
+Sync: 134
+tS: 3778026935
+tSnew: 3872199598
+tM: 3792425823
+tMnew: 3886599188
+tMraw: 3886599198
+R: 536874244
+
+Tag Pulse
+Reception: 46195
+Pulse: 123
+anchorT: 3879803161
+dT: 7603563
+syncT: 3894202807
+
+Master Sync
+Reception: 46196
+Sync: 135
+tS: 3872199598
+tSnew: 3966373095
+tM: 3886599188
+tMnew: 3980773275
+tMraw: 3980773285
+R: 536874244
+
+Tag Pulse
+Reception: 46197
+Pulse: 124
+anchorT: 3972008430
+dT: 5635335
+syncT: 3986408645
+
+Master Sync
+Reception: 46198
+Sync: 136
+tS: 3966373095
+tSnew: 4060544092
+tM: 3980773275
+tMnew: 4074944589
+tMraw: 4074944599
+R: 536874244
+
+Tag Pulse
+Reception: 46199
+Pulse: 125
+anchorT: 4064211583
+dT: 3667491
+syncT: 4078612092
+
+Master Sync
+Reception: 46200
+Sync: 137
+tS: 4060544092
+tSnew: 4154714616
+tM: 4074944589
+tMnew: 4169115807
+tMraw: 4169115817
+R: 536874244
+
+Tag Pulse
+Reception: 46201
+Pulse: 127
+anchorT: 4248622945
+dT: 93908329
+syncT: 4263024828
+
+Tag Pulse
+Reception: 46202
+Pulse: 128
+anchorT: 4340827829
+dT: 186113213
+syncT: 4355230391
+
+Master Sync
+Reception: 46203
+Sync: 139
+tS: 4154714616
+tSnew: 4343070407
+tM: 4169115807
+tMnew: 4357472481
+tMraw: 4357472491
+R: 536874244
+
+Tag Pulse
+Reception: 46204
+Pulse: 129
+anchorT: 4433033739
+dT: 89963332
+syncT: 4447436234
+
+Master Sync
+Reception: 46205
+Sync: 140
+tS: 4343070407
+tSnew: 4437239481
+tM: 4357472481
+tMnew: 4451642137
+tMraw: 4451642147
+R: 536874244
+
+Tag Pulse
+Reception: 46206
+Pulse: 130
+anchorT: 4525238647
+dT: 87999166
+syncT: 4539641846
+
+Master Sync
+Reception: 46207
+Sync: 141
+tS: 4437239481
+tSnew: 4531409909
+tM: 4451642137
+tMnew: 4545813195
+tMraw: 4545813205
+R: 536874244
+
+Tag Pulse
+Reception: 46208
+Pulse: 131
+anchorT: 4617444292
+dT: 86034383
+syncT: 4631848153
+
+Master Sync
+Reception: 46209
+Sync: 142
+tS: 4531409909
+tSnew: 4625589239
+tM: 4545813195
+tMnew: 4639993034
+tMraw: 4639993044
+R: 536874244
+
+Tag Pulse
+Reception: 46210
+Pulse: 132
+anchorT: 4709683423
+dT: 84094184
+syncT: 4724087672
+
+Master Sync
+Reception: 46211
+Sync: 143
+tS: 4625589239
+tSnew: 4719769026
+tM: 4639993034
+tMnew: 4734173363
+tMraw: 4734173373
+R: 536874244
+
+Tag Pulse
+Reception: 46212
+Pulse: 133
+anchorT: 4801849958
+dT: 82080932
+syncT: 4816254767
+
+Master Sync
+Reception: 46213
+Sync: 144
+tS: 4719769026
+tSnew: 4813982082
+tM: 4734173363
+tMnew: 4828386969
+tMraw: 4828386979
+R: 536874244
+
+Tag Pulse
+Reception: 46214
+Pulse: 134
+anchorT: 4894052343
+dT: 80070261
+syncT: 4908457697
+
+Master Sync
+Reception: 46215
+Sync: 145
+tS: 4813982082
+tSnew: 4908126020
+tM: 4828386969
+tMnew: 4922531344
+tMraw: 4922531354
+R: 536874244
+
+Tag Pulse
+Reception: 46216
+Pulse: 135
+anchorT: 4986255264
+dT: 78129244
+syncT: 5000660950
+
+Master Sync
+Reception: 46217
+Sync: 146
+tS: 4908126020
+tSnew: 5002307634
+tM: 4922531344
+tMnew: 5016713619
+tMraw: 5016713629
+R: 536874244
+
+Tag Pulse
+Reception: 46218
+Pulse: 136
+anchorT: 5078455781
+dT: 76148147
+syncT: 5092862300
+
+Master Sync
+Reception: 46219
+Sync: 147
+tS: 5002307634
+tSnew: 5096488294
+tM: 5016713619
+tMnew: 5110894693
+tMraw: 5110894703
+R: 536874244
+
+Tag Pulse
+Reception: 46220
+Pulse: 137
+anchorT: 5170656659
+dT: 74168365
+syncT: 5185063384
+
+Master Sync
+Reception: 46221
+Sync: 148
+tS: 5096488294
+tSnew: 5190670397
+tM: 5110894693
+tMnew: 5205077337
+tMraw: 5205077347
+R: 536874244
+
+Tag Pulse
+Reception: 46222
+Pulse: 138
+anchorT: 5262859252
+dT: 72188855
+syncT: 5277266606
+
+Master Sync
+Reception: 46223
+Sync: 149
+tS: 5190670397
+tSnew: 5284849510
+tM: 5205077337
+tMnew: 5299256897
+tMraw: 5299256907
+R: 536874244
+
+Tag Pulse
+Reception: 46224
+Pulse: 139
+anchorT: 5355061844
+dT: 70212334
+syncT: 5369469564
+
+Master Sync
+Reception: 46225
+Sync: 150
+tS: 5284849510
+tSnew: 5379027567
+tM: 5299256897
+tMnew: 5393435606
+tMraw: 5393435616
+R: 536874244
+
+Tag Pulse
+Reception: 46226
+Pulse: 140
+anchorT: 5447266665
+dT: 68239098
+syncT: 5461675176
+
+Master Sync
+Reception: 46227
+Sync: 151
+tS: 5379027567
+tSnew: 5473204342
+tM: 5393435606
+tMnew: 5487612794
+tMraw: 5487612804
+R: 536874244
+
+Tag Pulse
+Reception: 46228
+Pulse: 141
+anchorT: 5539466846
+dT: 66262504
+syncT: 5553875588
+
+Master Sync
+Reception: 46229
+Sync: 152
+tS: 5473204342
+tSnew: 5567382398
+tM: 5487612794
+tMnew: 5581791472
+tMraw: 5581791482
+R: 536874244
+
+Tag Pulse
+Reception: 46230
+Pulse: 142
+anchorT: 5631672195
+dT: 64289797
+syncT: 5646081693
+
+Master Sync
+Reception: 46231
+Sync: 153
+tS: 5567382398
+tSnew: 5661561624
+tM: 5581791472
+tMnew: 5675971256
+tMraw: 5675971266
+R: 536874244
+
+Tag Pulse
+Reception: 46232
+Pulse: 143
+anchorT: 5723874652
+dT: 62313028
+syncT: 5738284653
+
+Master Sync
+Reception: 46233
+Sync: 154
+tS: 5661561624
+tSnew: 5755742189
+tM: 5675971256
+tMnew: 5770152321
+tMraw: 5770152331
+R: 536874244
+
+Tag Pulse
+Reception: 46234
+Pulse: 144
+anchorT: 5816079416
+dT: 60337227
+syncT: 5830489868
+
+Master Sync
+Reception: 46235
+Sync: 155
+tS: 5755742189
+tSnew: 5849923947
+tM: 5770152321
+tMnew: 5864334733
+tMraw: 5864334743
+R: 536874244
+
+Tag Pulse
+Reception: 46236
+Pulse: 145
+anchorT: 5908284189
+dT: 58360242
+syncT: 5922695380
+
+Master Sync
+Reception: 46237
+Sync: 156
+tS: 5849923947
+tSnew: 5944101980
+tM: 5864334733
+tMnew: 5958513251
+tMraw: 5958513261
+R: 536874244
+
+Tag Pulse
+Reception: 46238
+Pulse: 146
+anchorT: 6000490555
+dT: 56388575
+syncT: 6014902116
+
+Master Sync
+Reception: 46239
+Sync: 157
+tS: 5944101980
+tSnew: 6038279315
+tM: 5958513251
+tMnew: 6052691240
+tMraw: 6052691250
+R: 536874244
+
+Tag Pulse
+Reception: 46240
+Pulse: 147
+anchorT: 6092694639
+dT: 54415324
+syncT: 6107106941
+
+Master Sync
+Reception: 46241
+Sync: 158
+tS: 6038279315
+tSnew: 6132460337
+tM: 6052691240
+tMnew: 6146872778
+tMraw: 6146872788
+R: 536874244
+
+Tag Pulse
+Reception: 46242
+Pulse: 148
+anchorT: 6184897448
+dT: 52437111
+syncT: 6199310176
+
+Master Sync
+Reception: 46243
+Sync: 159
+tS: 6132460337
+tSnew: 6226641350
+tM: 6146872778
+tMnew: 6241054365
+tMraw: 6241054375
+R: 536874244
+
+Tag Pulse
+Reception: 46244
+Pulse: 149
+anchorT: 6277102830
+dT: 50461480
+syncT: 6291516152
+
+Master Sync
+Reception: 46245
+Sync: 160
+tS: 6226641350
+tSnew: 6320818814
+tM: 6241054365
+tMnew: 6335232345
+tMraw: 6335232355
+R: 536874244
+
+Tag Pulse
+Reception: 46246
+Pulse: 150
+anchorT: 6369305880
+dT: 48487066
+syncT: 6383719676
+
+Master Sync
+Reception: 46247
+Sync: 161
+tS: 6320818814
+tSnew: 6414992335
+tM: 6335232345
+tMnew: 6429406304
+tMraw: 6429406314
+R: 536874244
+
+Tag Pulse
+Reception: 46248
+Pulse: 151
+anchorT: 6461506670
+dT: 46514335
+syncT: 6475920855
+
+Master Sync
+Reception: 46249
+Sync: 162
+tS: 6414992335
+tSnew: 6509168982
+tM: 6429406304
+tMnew: 6523583395
+tMraw: 6523583405
+R: 536874244
+
+Tag Pulse
+Reception: 46250
+Pulse: 152
+anchorT: 6553745192
+dT: 44576210
+syncT: 6568159815
+
+Master Sync
+Reception: 46251
+Sync: 163
+tS: 6509168982
+tSnew: 6603342711
+tM: 6523583395
+tMnew: 6617757738
+tMraw: 6617757748
+R: 536874244
+
+Tag Pulse
+Reception: 46252
+Pulse: 153
+anchorT: 6645914484
+dT: 42571773
+syncT: 6660329788
+
+Master Sync
+Reception: 46253
+Sync: 164
+tS: 6603342711
+tSnew: 6697539814
+tM: 6617757738
+tMnew: 6711955318
+tMraw: 6711955328
+R: 536874244
+
+Tag Pulse
+Reception: 46254
+Pulse: 154
+anchorT: 6738117446
+dT: 40577632
+syncT: 6752533155
+
+Master Sync
+Reception: 46255
+Sync: 165
+tS: 6697539814
+tSnew: 6791668857
+tM: 6711955318
+tMnew: 6806085022
+tMraw: 6806085032
+R: 536874244
+
+Tag Pulse
+Reception: 46256
+Pulse: 155
+anchorT: 6830322659
+dT: 38653802
+syncT: 6844739095
+
+Master Sync
+Reception: 46257
+Sync: 166
+tS: 6791668857
+tSnew: 6885837259
+tM: 6806085022
+tMnew: 6900253892
+tMraw: 6900253902
+R: 536874244
+
+Tag Pulse
+Reception: 46258
+Pulse: 156
+anchorT: 6922527888
+dT: 36690629
+syncT: 6936944703
+
+Master Sync
+Reception: 46259
+Sync: 167
+tS: 6885837259
+tSnew: 6980003921
+tM: 6900253892
+tMnew: 6994420991
+tMraw: 6994421001
+R: 536874244
+
+Tag Pulse
+Reception: 46260
+Pulse: 157
+anchorT: 7014732637
+dT: 34728716
+syncT: 7029149868
+
+Master Sync
+Reception: 46261
+Sync: 168
+tS: 6980003921
+tSnew: 7074177803
+tM: 6994420991
+tMnew: 7088595406
+tMraw: 7088595416
+R: 536874244
+
+Tag Pulse
+Reception: 46262
+Pulse: 158
+anchorT: 7106937626
+dT: 32759823
+syncT: 7121355414
+
+Master Sync
+Reception: 46263
+Sync: 169
+tS: 7074177803
+tSnew: 7168350756
+tM: 7088595406
+tMnew: 7182768844
+tMraw: 7182768854
+R: 536874244
+
+Tag Pulse
+Reception: 46264
+Pulse: 159
+anchorT: 7199141966
+dT: 30791210
+syncT: 7213560212
+
+Master Sync
+Reception: 46265
+Sync: 170
+tS: 7168350756
+tSnew: 7262514438
+tM: 7182768844
+tMnew: 7276933115
+tMraw: 7276933125
+R: 536874244
+
+Tag Pulse
+Reception: 46266
+Pulse: 160
+anchorT: 7291346442
+dT: 28832004
+syncT: 7305765299
+
+Master Sync
+Reception: 46267
+Sync: 171
+tS: 7262514438
+tSnew: 7356680660
+tM: 7276933115
+tMnew: 7371099933
+tMraw: 7371099943
+R: 536874244
+
+Tag Pulse
+Reception: 46268
+Pulse: 161
+anchorT: 7383548555
+dT: 26867895
+syncT: 7397967998
+
+Master Sync
+Reception: 46269
+Sync: 172
+tS: 7356680660
+tSnew: 7450850360
+tM: 7371099933
+tMnew: 7465270150
+tMraw: 7465270160
+R: 536874244
+
+Tag Pulse
+Reception: 46270
+Pulse: 162
+anchorT: 7475750684
+dT: 24900324
+syncT: 7490170610
+
+Master Sync
+Reception: 46271
+Sync: 173
+tS: 7450850360
+tSnew: 7545015957
+tM: 7465270150
+tMnew: 7559436231
+tMraw: 7559436241
+R: 536874244
+
+Tag Pulse
+Reception: 46272
+Pulse: 163
+anchorT: 7567948614
+dT: 22932657
+syncT: 7582369005
+
+Master Sync
+Reception: 46273
+Sync: 174
+tS: 7545015957
+tSnew: 7639181041
+tM: 7559436231
+tMnew: 7653601856
+tMraw: 7653601866
+R: 536874244
+
+Tag Pulse
+Reception: 46274
+Pulse: 164
+anchorT: 7660146407
+dT: 20965366
+syncT: 7674567342
+
+Master Sync
+Reception: 46275
+Sync: 175
+tS: 7639181041
+tSnew: 7733346494
+tM: 7653601856
+tMnew: 7747767890
+tMraw: 7747767900
+R: 536874244
+
+Tag Pulse
+Reception: 46276
+Pulse: 165
+anchorT: 7752346365
+dT: 18999871
+syncT: 7766767878
+
+Master Sync
+Reception: 46277
+Sync: 176
+tS: 7733346494
+tSnew: 7827509503
+tM: 7747767890
+tMnew: 7841931416
+tMraw: 7841931426
+R: 536874244
+
+Tag Pulse
+Reception: 46278
+Pulse: 166
+anchorT: 7844544511
+dT: 17035008
+syncT: 7858966517
+
+Master Sync
+Reception: 46279
+Sync: 177
+tS: 7827509503
+tSnew: 7921674988
+tM: 7841931416
+tMnew: 7936097441
+tMraw: 7936097451
+R: 536874244
+
+Tag Pulse
+Reception: 46280
+Pulse: 167
+anchorT: 7936744292
+dT: 15069304
+syncT: 7951166831
+
+Master Sync
+Reception: 46281
+Sync: 178
+tS: 7921674988
+tSnew: 8015839816
+tM: 7936097441
+tMnew: 8030262858
+tMraw: 8030262868
+R: 536874244
+
+Tag Pulse
+Reception: 46282
+Pulse: 168
+anchorT: 8028945507
+dT: 13105691
+syncT: 8043368630
+
+Master Sync
+Reception: 46283
+Sync: 179
+tS: 8015839816
+tSnew: 8110013338
+tM: 8030262858
+tMnew: 8124436913
+tMraw: 8124436923
+R: 536874244
+
+Tag Pulse
+Reception: 46284
+Pulse: 169
+anchorT: 8121144816
+dT: 11131478
+syncT: 8135568454
+
+Master Sync
+Reception: 46285
+Sync: 180
+tS: 8110013338
+tSnew: 8204179072
+tM: 8124436913
+tMnew: 8218603171
+tMraw: 8218603181
+R: 536874244
+
+Tag Pulse
+Reception: 46286
+Pulse: 170
+anchorT: 8213343779
+dT: 9164707
+syncT: 8227767928
+
+Master Sync
+Reception: 46287
+Sync: 181
+tS: 8204179072
+tSnew: 8298352898
+tM: 8218603171
+tMnew: 8312777618
+tMraw: 8312777628
+R: 536874244
+
+Tag Pulse
+Reception: 46288
+Pulse: 171
+anchorT: 8305544121
+dT: 7191223
+syncT: 8319968888
+
+Master Sync
+Reception: 46289
+Sync: 182
+tS: 8298352898
+tSnew: 8392532742
+tM: 8312777618
+tMnew: 8406957906
+tMraw: 8406957916
+R: 536874244
+
+Tag Pulse
+Reception: 46290
+Pulse: 172
+anchorT: 8397782692
+dT: 5249950
+syncT: 8412207880
+
+Master Sync
+Reception: 46291
+Sync: 183
+tS: 8392532742
+tSnew: 8486710816
+tM: 8406957906
+tMnew: 8501136472
+tMraw: 8501136482
+R: 536874244
+
+Tag Pulse
+Reception: 46292
+Pulse: 173
+anchorT: 8489948956
+dT: 3238140
+syncT: 8504374628
+
+Master Sync
+Reception: 46293
+Sync: 184
+tS: 8486710816
+tSnew: 8580926396
+tM: 8501136472
+tMnew: 8595352626
+tMraw: 8595352636
+R: 536874244
+
+Tag Pulse
+Reception: 46294
+Pulse: 175
+anchorT: 8674358198
+dT: 93431802
+syncT: 8688784997
+
+Tag Pulse
+Reception: 46295
+Pulse: 176
+anchorT: 8766564494
+dT: 185638098
+syncT: 8780991854
+
+Master Sync
+Reception: 46296
+Sync: 186
+tS: 8580926396
+tSnew: 8769244931
+tM: 8595352626
+tMnew: 8783672217
+tMraw: 8783672227
+R: 536874244
+
+Tag Pulse
+Reception: 46297
+Pulse: 177
+anchorT: 8858769748
+dT: 89524817
+syncT: 8873197536
+
+Master Sync
+Reception: 46298
+Sync: 187
+tS: 8769244931
+tSnew: 8863427685
+tM: 8783672217
+tMnew: 8877855430
+tMraw: 8877855440
+R: 536874244
+
+Tag Pulse
+Reception: 46299
+Pulse: 178
+anchorT: 8950974713
+dT: 87547028
+syncT: 8965402884
+
+Master Sync
+Reception: 46300
+Sync: 188
+tS: 8863427685
+tSnew: 8957606968
+tM: 8877855430
+tMnew: 8972035326
+tMraw: 8972035336
+R: 536874244
+
+Tag Pulse
+Reception: 46301
+Pulse: 179
+anchorT: 9043181194
+dT: 85574226
+syncT: 9057610108
+
+Master Sync
+Reception: 46302
+Sync: 189
+tS: 8957606968
+tSnew: 9051782685
+tM: 8972035326
+tMnew: 9066211576
+tMraw: 9066211586
+R: 536874244
+
+Tag Pulse
+Reception: 46303
+Pulse: 180
+anchorT: 9135387906
+dT: 83605221
+syncT: 9149817270
+
+Master Sync
+Reception: 46304
+Sync: 190
+tS: 9051782685
+tSnew: 9145958980
+tM: 9066211576
+tMnew: 9160388323
+tMraw: 9160388333
+R: 536874244
+
+Tag Pulse
+Reception: 46305
+Pulse: 181
+anchorT: 9227595997
+dT: 81637017
+syncT: 9242025731
+
+Master Sync
+Reception: 46306
+Sync: 191
+tS: 9145958980
+tSnew: 9240137519
+tM: 9160388323
+tMnew: 9254567337
+tMraw: 9254567347
+R: 536874244
+
+Tag Pulse
+Reception: 46307
+Pulse: 182
+anchorT: 9319803663
+dT: 79666144
+syncT: 9334233882
+
+Master Sync
+Reception: 46308
+Sync: 192
+tS: 9240137519
+tSnew: 9334311786
+tM: 9254567337
+tMnew: 9348742145
+tMraw: 9348742155
+R: 536874244
+
+Tag Pulse
+Reception: 46309
+Pulse: 183
+anchorT: 9412008004
+dT: 77696218
+syncT: 9426438809
+
+Master Sync
+Reception: 46310
+Sync: 193
+tS: 9334311786
+tSnew: 9428482840
+tM: 9348742145
+tMnew: 9442913764
+tMraw: 9442913774
+R: 536874244
+
+Tag Pulse
+Reception: 46311
+Pulse: 184
+anchorT: 9504212208
+dT: 75729368
+syncT: 9518643586
+
+Master Sync
+Reception: 46312
+Sync: 194
+tS: 9428482840
+tSnew: 9522653558
+tM: 9442913764
+tMnew: 9537085070
+tMraw: 9537085080
+R: 536874244
+
+Tag Pulse
+Reception: 46313
+Pulse: 185
+anchorT: 9596411854
+dT: 73758296
+syncT: 9610843826
+
+Master Sync
+Reception: 46314
+Sync: 195
+tS: 9522653558
+tSnew: 9616816680
+tM: 9537085070
+tMnew: 9631248651
+tMraw: 9631248661
+R: 536874244
+
+Tag Pulse
+Reception: 46315
+Pulse: 186
+anchorT: 9688611179
+dT: 71794499
+syncT: 9703043499
+
+Master Sync
+Reception: 46316
+Sync: 196
+tS: 9616816680
+tSnew: 9710978112
+tM: 9631248651
+tMnew: 9725410574
+tMraw: 9725410584
+R: 536874244
+
+Tag Pulse
+Reception: 46317
+Pulse: 187
+anchorT: 9780814133
+dT: 69836021
+syncT: 9795246959
+
+Master Sync
+Reception: 46318
+Sync: 197
+tS: 9710978112
+tSnew: 9805141450
+tM: 9725410574
+tMnew: 9819574445
+tMraw: 9819574455
+R: 536874244
+
+Tag Pulse
+Reception: 46319
+Pulse: 188
+anchorT: 9873019163
+dT: 67877713
+syncT: 9887452542
+
+Master Sync
+Reception: 46320
+Sync: 198
+tS: 9805141450
+tSnew: 9899307384
+tM: 9819574445
+tMnew: 9913740879
+tMraw: 9913740889
+R: 536874244
+
+Tag Pulse
+Reception: 46321
+Pulse: 189
+anchorT: 9965223368
+dT: 65915984
+syncT: 9979657212
+
+Master Sync
+Reception: 46322
+Sync: 199
+tS: 9899307384
+tSnew: 9993474769
+tM: 9913740879
+tMnew: 10007908892
+tMraw: 10007908902
+R: 536874244
+
+Tag Pulse
+Reception: 46323
+Pulse: 190
+anchorT: 10057429552
+dT: 63954783
+syncT: 10071864101
+
+Master Sync
+Reception: 46324
+Sync: 200
+tS: 9993474769
+tSnew: 10087647691
+tM: 10007908892
+tMnew: 10102082281
+tMraw: 10102082291
+R: 536874244
+
+Tag Pulse
+Reception: 46325
+Pulse: 191
+anchorT: 10149632419
+dT: 61984728
+syncT: 10164067316
+
+Master Sync
+Reception: 46326
+Sync: 201
+tS: 10087647691
+tSnew: 10181819884
+tM: 10102082281
+tMnew: 10196255054
+tMraw: 10196255064
+R: 536874244
+
+Tag Pulse
+Reception: 46327
+Pulse: 192
+anchorT: 10241870814
+dT: 60050930
+syncT: 10256306353
+
+Master Sync
+Reception: 46328
+Sync: 202
+tS: 10181819884
+tSnew: 10275996123
+tM: 10196255054
+tMnew: 10290431929
+tMraw: 10290431939
+R: 536874244
+
+Tag Pulse
+Reception: 46329
+Pulse: 193
+anchorT: 10334037632
+dT: 58041509
+syncT: 10348473829
+
+Master Sync
+Reception: 46330
+Sync: 203
+tS: 10275996123
+tSnew: 10370172298
+tM: 10290431929
+tMnew: 10384608603
+tMraw: 10384608613
+R: 536874244
+
+Tag Pulse
+Reception: 46331
+Pulse: 194
+anchorT: 10426239297
+dT: 56066999
+syncT: 10440675899
+
+Master Sync
+Reception: 46332
+Sync: 204
+tS: 10370172298
+tSnew: 10464380868
+tM: 10384608603
+tMnew: 10478817754
+tMraw: 10478817764
+R: 536874244
+
+Tag Pulse
+Reception: 46333
+Pulse: 195
+anchorT: 10518440922
+dT: 54060054
+syncT: 10532878141
+
+Master Sync
+Reception: 46334
+Sync: 205
+tS: 10464380868
+tSnew: 10558518085
+tM: 10478817754
+tMnew: 10572955406
+tMraw: 10572955416
+R: 536874244
+
+Tag Pulse
+Reception: 46335
+Pulse: 196
+anchorT: 10610639197
+dT: 52121112
+syncT: 10625076758
+
+Master Sync
+Reception: 46336
+Sync: 206
+tS: 10558518085
+tSnew: 10652695775
+tM: 10572955406
+tMnew: 10667133707
+tMraw: 10667133717
+R: 536874244
+
+Tag Pulse
+Reception: 46337
+Pulse: 197
+anchorT: 10702841439
+dT: 50145664
+syncT: 10717279696
+
+Master Sync
+Reception: 46338
+Sync: 207
+tS: 10652695775
+tSnew: 10746877999
+tM: 10667133707
+tMnew: 10761316528
+tMraw: 10761316538
+R: 536874244
+
+Tag Pulse
+Reception: 46339
+Pulse: 198
+anchorT: 10795040917
+dT: 48162918
+syncT: 10809479751
+
+Master Sync
+Reception: 46340
+Sync: 208
+tS: 10746877999
+tSnew: 10841057331
+tM: 10761316528
+tMnew: 10855496368
+tMraw: 10855496378
+R: 536874244
+
+Tag Pulse
+Reception: 46341
+Pulse: 199
+anchorT: 10887241765
+dT: 46184434
+syncT: 10901681051
+
+Master Sync
+Reception: 46342
+Sync: 209
+tS: 10841057331
+tSnew: 10935236199
+tM: 10855496368
+tMnew: 10949675655
+tMraw: 10949675665
+R: 536874244
+
+Tag Pulse
+Reception: 46343
+Pulse: 200
+anchorT: 10979439255
+dT: 44203056
+syncT: 10993878907
+
+Master Sync
+Reception: 46344
+Sync: 210
+tS: 10935236199
+tSnew: 11029413167
+tM: 10949675655
+tMnew: 11043853219
+tMraw: 11043853229
+R: 536874244
+
+Tag Pulse
+Reception: 46345
+Pulse: 201
+anchorT: 11071640103
+dT: 42226936
+syncT: 11086080422
+
+Master Sync
+Reception: 46346
+Sync: 211
+tS: 11029413167
+tSnew: 11123590753
+tM: 11043853219
+tMnew: 11138031336
+tMraw: 11138031346
+R: 536874244
+
+Tag Pulse
+Reception: 46347
+Pulse: 202
+anchorT: 11163840030
+dT: 40249277
+syncT: 11178280839
+
+Master Sync
+Reception: 46348
+Sync: 212
+tS: 11123590753
+tSnew: 11217770189
+tM: 11138031336
+tMnew: 11232211296
+tMraw: 11232211306
+R: 536874244
+
+Tag Pulse
+Reception: 46349
+Pulse: 203
+anchorT: 11256040877
+dT: 38270688
+syncT: 11270482196
+
+Master Sync
+Reception: 46350
+Sync: 213
+tS: 11217770189
+tSnew: 11311947831
+tM: 11232211296
+tMnew: 11326389421
+tMraw: 11326389431
+R: 536874244
+
+Tag Pulse
+Reception: 46351
+Pulse: 204
+anchorT: 11348240700
+dT: 36292869
+syncT: 11362682476
+
+Master Sync
+Reception: 46352
+Sync: 214
+tS: 11311947831
+tSnew: 11406110376
+tM: 11326389421
+tMnew: 11420552602
+tMraw: 11420552612
+R: 536874244
+
+Tag Pulse
+Reception: 46353
+Pulse: 205
+anchorT: 11440435803
+dT: 34325427
+syncT: 11454878260
+
+Master Sync
+Reception: 46354
+Sync: 215
+tS: 11406110376
+tSnew: 11500272698
+tM: 11420552602
+tMnew: 11514715486
+tMraw: 11514715496
+R: 536874244
+
+Tag Pulse
+Reception: 46355
+Pulse: 206
+anchorT: 11532630577
+dT: 32357879
+syncT: 11547073558
+
+Master Sync
+Reception: 46356
+Sync: 216
+tS: 11500272698
+tSnew: 11594433753
+tM: 11514715486
+tMnew: 11608877073
+tMraw: 11608877083
+R: 536874244
+
+Tag Pulse
+Reception: 46357
+Pulse: 207
+anchorT: 11624825944
+dT: 30392191
+syncT: 11639269435
+
+Master Sync
+Reception: 46358
+Sync: 217
+tS: 11594433753
+tSnew: 11688598190
+tM: 11608877073
+tMnew: 11703041993
+tMraw: 11703042003
+R: 536874244
+
+Tag Pulse
+Reception: 46359
+Pulse: 208
+anchorT: 11717023323
+dT: 28425133
+syncT: 11731467271
+
+Master Sync
+Reception: 46360
+Sync: 218
+tS: 11688598190
+tSnew: 11782761232
+tM: 11703041993
+tMnew: 11797205462
+tMraw: 11797205472
+R: 536874244
+
+Tag Pulse
+Reception: 46361
+Pulse: 209
+anchorT: 11809220982
+dT: 26459750
+syncT: 11823665331
+
+Master Sync
+Reception: 46362
+Sync: 219
+tS: 11782761232
+tSnew: 11876926061
+tM: 11797205462
+tMnew: 11891370959
+tMraw: 11891370969
+R: 536874244
+
+Tag Pulse
+Reception: 46363
+Pulse: 210
+anchorT: 11901414643
+dT: 24488582
+syncT: 11915859714
+
+Master Sync
+Reception: 46364
+Sync: 220
+tS: 11876926061
+tSnew: 11971092998
+tM: 11891370959
+tMnew: 11985538267
+tMraw: 11985538277
+R: 536874244
+
+Tag Pulse
+Reception: 46365
+Pulse: 211
+anchorT: 11993608608
+dT: 22515610
+syncT: 12008053965
+
+Master Sync
+Reception: 46366
+Sync: 221
+tS: 11971092998
+tSnew: 12065260360
+tM: 11985538267
+tMnew: 12079706248
+tMraw: 12079706258
+R: 536874244
+
+Tag Pulse
+Reception: 46367
+Pulse: 212
+anchorT: 12085836851
+dT: 20576491
+syncT: 12100282874
+
+Master Sync
+Reception: 46368
+Sync: 222
+tS: 12065260360
+tSnew: 12159427088
+tM: 12079706248
+tMnew: 12173873531
+tMraw: 12173873541
+R: 536874244
+
+Tag Pulse
+Reception: 46369
+Pulse: 213
+anchorT: 12178000937
+dT: 18573849
+syncT: 12192447489
+
+Master Sync
+Reception: 46370
+Sync: 223
+tS: 12159427088
+tSnew: 12253605034
+tM: 12173873531
+tMnew: 12268051921
+tMraw: 12268051931
+R: 536874244
+
+Tag Pulse
+Reception: 46371
+Pulse: 214
+anchorT: 12270203805
+dT: 16598771
+syncT: 12284650770
+
+Master Sync
+Reception: 46372
+Sync: 224
+tS: 12253605034
+tSnew: 12347821065
+tM: 12268051921
+tMnew: 12362268563
+tMraw: 12362268573
+R: 536874244
+
+Tag Pulse
+Reception: 46373
+Pulse: 215
+anchorT: 12362402946
+dT: 14581881
+syncT: 12376850538
+
+Master Sync
+Reception: 46374
+Sync: 225
+tS: 12347821065
+tSnew: 12441966415
+tM: 12362268563
+tMnew: 12456414437
+tMraw: 12456414447
+R: 536874244
+
+Tag Pulse
+Reception: 46375
+Pulse: 216
+anchorT: 12454602336
+dT: 12635921
+syncT: 12469050428
+
+Master Sync
+Reception: 46376
+Sync: 226
+tS: 12441966415
+tSnew: 12536139418
+tM: 12456414437
+tMnew: 12550588002
+tMraw: 12550588012
+R: 536874244
+
+Tag Pulse
+Reception: 46377
+Pulse: 217
+anchorT: 12546805099
+dT: 10665681
+syncT: 12561253746
+
+Master Sync
+Reception: 46378
+Sync: 227
+tS: 12536139418
+tSnew: 12630304808
+tM: 12550588002
+tMnew: 12644753868
+tMraw: 12644753878
+R: 536874244
+
+Tag Pulse
+Reception: 46379
+Pulse: 218
+anchorT: 12639006556
+dT: 8701748
+syncT: 12653455659
+
+Master Sync
+Reception: 46380
+Sync: 228
+tS: 12630304808
+tSnew: 12724467947
+tM: 12644753868
+tMnew: 12738917522
+tMraw: 12738917532
+R: 536874244
+
+Tag Pulse
+Reception: 46381
+Pulse: 219
+anchorT: 12731203447
+dT: 6735500
+syncT: 12745653058
+
+Master Sync
+Reception: 46382
+Sync: 229
+tS: 12724467947
+tSnew: 12818631487
+tM: 12738917522
+tMnew: 12833081480
+tMraw: 12833081490
+R: 536874244
+
+Tag Pulse
+Reception: 46383
+Pulse: 220
+anchorT: 12823401186
+dT: 4769699
+syncT: 12837851200
+
+Master Sync
+Reception: 46384
+Sync: 230
+tS: 12818631487
+tSnew: 12912796389
+tM: 12833081480
+tMnew: 12927247049
+tMraw: 12927247059
+R: 536874244
+
+Tag Pulse
+Reception: 46385
+Pulse: 221
+anchorT: 12915599622
+dT: 2803233
+syncT: 12930050301
+
+Master Sync
+Reception: 46386
+Sync: 231
+tS: 12912796389
+tSnew: 13006959824
+tM: 12927247049
+tMnew: 13021410895
+tMraw: 13021410905
+R: 536874244
+
+Tag Pulse
+Reception: 46387
+Pulse: 223
+anchorT: 13099996303
+dT: 93036479
+syncT: 13114447780
+
+Tag Pulse
+Reception: 46388
+Pulse: 224
+anchorT: 13192193739
+dT: 185233915
+syncT: 13206645618
+
+Master Sync
+Reception: 46389
+Sync: 233
+tS: 13006959824
+tSnew: 13195314283
+tM: 13021410895
+tMnew: 13209766488
+tMraw: 13209766498
+R: 536874244
+
+Tag Pulse
+Reception: 46390
+Pulse: 225
+anchorT: 13284396863
+dT: 89082580
+syncT: 13298849604
+
+Master Sync
+Reception: 46391
+Sync: 234
+tS: 13195314283
+tSnew: 13289492830
+tM: 13209766488
+tMnew: 13303945719
+tMraw: 13303945729
+R: 536874244
+
+Tag Pulse
+Reception: 46392
+Pulse: 226
+anchorT: 13376594434
+dT: 87101604
+syncT: 13391047955
+
+Master Sync
+Reception: 46393
+Sync: 235
+tS: 13289492830
+tSnew: 13383666955
+tM: 13303945719
+tMnew: 13398120254
+tMraw: 13398120264
+R: 536874244
+
+Tag Pulse
+Reception: 46394
+Pulse: 227
+anchorT: 13468793039
+dT: 85126084
+syncT: 13483246708
+
+Master Sync
+Reception: 46395
+Sync: 236
+tS: 13383666955
+tSnew: 13477844069
+tM: 13398120254
+tMnew: 13492297866
+tMraw: 13492297876
+R: 536874244
+
+Tag Pulse
+Reception: 46396
+Pulse: 228
+anchorT: 13560991187
+dT: 83147118
+syncT: 13575445423
+
+Master Sync
+Reception: 46397
+Sync: 237
+tS: 13477844069
+tSnew: 13572018987
+tM: 13492297866
+tMnew: 13586473267
+tMraw: 13586473277
+R: 536874244
+
+Tag Pulse
+Reception: 46398
+Pulse: 229
+anchorT: 13653190001
+dT: 81171014
+syncT: 13667644697
+
+Master Sync
+Reception: 46399
+Sync: 238
+tS: 13572018987
+tSnew: 13666190323
+tM: 13586473267
+tMnew: 13680645086
+tMraw: 13680645096
+R: 536874244
+
+Tag Pulse
+Reception: 46400
+Pulse: 230
+anchorT: 13745391226
+dT: 79200903
+syncT: 13759846395
+
+Master Sync
+Reception: 46401
+Sync: 239
+tS: 13666190323
+tSnew: 13760361923
+tM: 13680645086
+tMnew: 13774817289
+tMraw: 13774817299
+R: 536874244
+
+Tag Pulse
+Reception: 46402
+Pulse: 231
+anchorT: 13837587508
+dT: 77225585
+syncT: 13852043368
+
+Master Sync
+Reception: 46403
+Sync: 240
+tS: 13760361923
+tSnew: 13854530496
+tM: 13774817289
+tMnew: 13868986504
+tMraw: 13868986514
+R: 536874244
+
+Tag Pulse
+Reception: 46404
+Pulse: 232
+anchorT: 13929823429
+dT: 75292933
+syncT: 13944279950
+
+Master Sync
+Reception: 46405
+Sync: 241
+tS: 13854530496
+tSnew: 13948699661
+tM: 13868986504
+tMnew: 13963156135
+tMraw: 13963156145
+R: 536874244
+
+Tag Pulse
+Reception: 46406
+Pulse: 233
+anchorT: 14021987923
+dT: 73288262
+syncT: 14036444759
+
+Master Sync
+Reception: 46407
+Sync: 242
+tS: 13948699661
+tSnew: 14042869635
+tM: 13963156135
+tMnew: 14057326536
+tMraw: 14057326546
+R: 536874244
+
+Tag Pulse
+Reception: 46408
+Pulse: 234
+anchorT: 14114184726
+dT: 71315091
+syncT: 14128641950
+
+Master Sync
+Reception: 46409
+Sync: 243
+tS: 14042869635
+tSnew: 14137041676
+tM: 14057326536
+tMnew: 14151499076
+tMraw: 14151499086
+R: 536874244
+
+Tag Pulse
+Reception: 46410
+Pulse: 235
+anchorT: 14206379613
+dT: 69337937
+syncT: 14220837380
+
+Master Sync
+Reception: 46411
+Sync: 244
+tS: 14137041676
+tSnew: 14231249311
+tM: 14151499076
+tMnew: 14245707273
+tMraw: 14245707283
+R: 536874244
+
+Tag Pulse
+Reception: 46412
+Pulse: 236
+anchorT: 14298579309
+dT: 67329998
+syncT: 14313037672
+
+Master Sync
+Reception: 46413
+Sync: 245
+tS: 14231249311
+tSnew: 14325384021
+tM: 14245707273
+tMnew: 14339842586
+tMraw: 14339842596
+R: 536874244
+
+Tag Pulse
+Reception: 46414
+Pulse: 237
+anchorT: 14390780590
+dT: 65396569
+syncT: 14405239573
+
+Master Sync
+Reception: 46415
+Sync: 246
+tS: 14325384021
+tSnew: 14419559164
+tM: 14339842586
+tMnew: 14434018179
+tMraw: 14434018189
+R: 536874244
+
+Tag Pulse
+Reception: 46416
+Pulse: 238
+anchorT: 14482985061
+dT: 63425897
+syncT: 14497444379
+
+Master Sync
+Reception: 46417
+Sync: 247
+tS: 14419559164
+tSnew: 14513739170
+tM: 14434018179
+tMnew: 14528198715
+tMraw: 14528198725
+R: 536874244
+
+Tag Pulse
+Reception: 46418
+Pulse: 239
+anchorT: 14575186856
+dT: 61447686
+syncT: 14589646746
+
+Master Sync
+Reception: 46419
+Sync: 248
+tS: 14513739170
+tSnew: 14607913175
+tM: 14528198715
+tMnew: 14622373275
+tMraw: 14622373285
+R: 536874244
+
+Tag Pulse
+Reception: 46420
+Pulse: 240
+anchorT: 14667388979
+dT: 59475804
+syncT: 14681849429
+
+Master Sync
+Reception: 46421
+Sync: 249
+tS: 14607913175
+tSnew: 14702089031
+tM: 14622373275
+tMnew: 14716549869
+tMraw: 14716549879
+R: 536874244
+
+Tag Pulse
+Reception: 46422
+Pulse: 241
+anchorT: 14759588946
+dT: 57499915
+syncT: 14774050234
+
+Master Sync
+Reception: 46423
+Sync: 250
+tS: 14702089031
+tSnew: 14796268613
+tM: 14716549869
+tMnew: 14810729717
+tMraw: 14810729727
+R: 536874244
+
+Tag Pulse
+Reception: 46424
+Pulse: 242
+anchorT: 14851789691
+dT: 55521078
+syncT: 14866250951
+
+Master Sync
+Reception: 46425
+Sync: 251
+tS: 14796268613
+tSnew: 14890448283
+tM: 14810729717
+tMnew: 14904910102
+tMraw: 14904910112
+R: 536874244
+
+Tag Pulse
+Reception: 46426
+Pulse: 243
+anchorT: 14943991759
+dT: 53543476
+syncT: 14958453984
+
+Master Sync
+Reception: 46427
+Sync: 252
+tS: 14890448283
+tSnew: 14984627841
+tM: 14904910102
+tMnew: 14999090150
+tMraw: 14999090160
+R: 536874244
+
+Tag Pulse
+Reception: 46428
+Pulse: 244
+anchorT: 15036192031
+dT: 51564190
+syncT: 15050654608
+
+Master Sync
+Reception: 46429
+Sync: 253
+tS: 14984627841
+tSnew: 15078806405
+tM: 14999090150
+tMnew: 15093269052
+tMraw: 15093269062
+R: 536874244
+
+Tag Pulse
+Reception: 46430
+Pulse: 245
+anchorT: 15128389779
+dT: 49583374
+syncT: 15142852603
+
+Master Sync
+Reception: 46431
+Sync: 254
+tS: 15078806405
+tSnew: 15172982998
+tM: 15093269052
+tMnew: 15187446336
+tMraw: 15187446346
+R: 536874244
+
+Tag Pulse
+Reception: 46432
+Pulse: 246
+anchorT: 15220589274
+dT: 47606276
+syncT: 15235052961
+
+Master Sync
+Reception: 46433
+Sync: 255
+tS: 15172982998
+tSnew: 15267158814
+tM: 15187446336
+tMnew: 15281622586
+tMraw: 15281622596
+R: 536874244
+
+Tag Pulse
+Reception: 46434
+Pulse: 247
+anchorT: 15312786950
+dT: 45628136
+syncT: 15327250932
+
+Master Sync
+Reception: 46435
+Sync: 0
+tS: 15267158814
+tSnew: 15361336233
+tM: 15281622586
+tMnew: 15375800510
+tMraw: 15375800520
+R: 536874244
+
+Tag Pulse
+Reception: 46436
+Pulse: 248
+anchorT: 15404984787
+dT: 43648554
+syncT: 15419449298
+
+Master Sync
+Reception: 46437
+Sync: 1
+tS: 15361336233
+tSnew: 15455513916
+tM: 15375800510
+tMnew: 15469978884
+tMraw: 15469978894
+R: 536874244
+
+Tag Pulse
+Reception: 46438
+Pulse: 249
+anchorT: 15497182872
+dT: 41668956
+syncT: 15511648145
+
+Master Sync
+Reception: 46439
+Sync: 2
+tS: 15455513916
+tSnew: 15549693874
+tM: 15469978884
+tMnew: 15564159252
+tMraw: 15564159262
+R: 536874244
+
+Tag Pulse
+Reception: 46440
+Pulse: 250
+anchorT: 15589383609
+dT: 39689735
+syncT: 15603849159
+
+Master Sync
+Reception: 46441
+Sync: 3
+tS: 15549693874
+tSnew: 15643871445
+tM: 15564159252
+tMnew: 15658337377
+tMraw: 15658337387
+R: 536874244
+
+Tag Pulse
+Reception: 46442
+Pulse: 251
+anchorT: 15681583241
+dT: 37711796
+syncT: 15696049394
+
+Master Sync
+Reception: 46443
+Sync: 4
+tS: 15643871445
+tSnew: 15738050138
+tM: 15658337377
+tMnew: 15752516616
+tMraw: 15752516626
+R: 536874244
+
+Tag Pulse
+Reception: 46444
+Pulse: 252
+anchorT: 15773817768
+dT: 35767630
+syncT: 15788284453
+
+Master Sync
+Reception: 46445
+Sync: 5
+tS: 15738050138
+tSnew: 15832230370
+tM: 15752516616
+tMnew: 15846697433
+tMraw: 15846697443
+R: 536874244
+
+Tag Pulse
+Reception: 46446
+Pulse: 253
+anchorT: 15865982880
+dT: 33752510
+syncT: 15880450152
+
+Master Sync
+Reception: 46447
+Sync: 6
+tS: 15832230370
+tSnew: 15926409142
+tM: 15846697433
+tMnew: 15940876688
+tMraw: 15940876698
+R: 536874244
+
+Tag Pulse
+Reception: 46448
+Pulse: 254
+anchorT: 15958184234
+dT: 31775092
+syncT: 15972651942
+
+Master Sync
+Reception: 46449
+Sync: 7
+tS: 15926409142
+tSnew: 16020589750
+tM: 15940876688
+tMnew: 16035057858
+tMraw: 16035057868
+R: 536874244
+
+Tag Pulse
+Reception: 46450
+Pulse: 255
+anchorT: 16050383602
+dT: 29793852
+syncT: 16064851887
+
+Master Sync
+Reception: 46451
+Sync: 8
+tS: 16020589750
+tSnew: 16114805814
+tM: 16035057858
+tMnew: 16129274389
+tMraw: 16129274399
+R: 536874244
+
+Tag Pulse
+Reception: 46452
+Pulse: 0
+anchorT: 16142581086
+dT: 27775272
+syncT: 16157049798
+
+Master Sync
+Reception: 46453
+Sync: 9
+tS: 16114805814
+tSnew: 16208950308
+tM: 16129274389
+tMnew: 16223419381
+tMraw: 16223419391
+R: 536874244
+
+Tag Pulse
+Reception: 46454
+Pulse: 1
+anchorT: 16234782231
+dT: 25831923
+syncT: 16249251440
+
+Tag Pulse
+Reception: 46455
+Pulse: 2
+anchorT: 16326982167
+dT: 118031859
+syncT: 16341451864
+
+Master Sync
+Reception: 46456
+Sync: 11
+tS: 16208950308
+tSnew: 16397306364
+tM: 16223419381
+tMnew: 16411776432
+tMraw: 16411776442
+R: 536874244
+
+Tag Pulse
+Reception: 46457
+Pulse: 3
+anchorT: 16419186927
+dT: 21880563
+syncT: 16433657110
+
+Master Sync
+Reception: 46458
+Sync: 12
+tS: 16397306364
+tSnew: 16491485834
+tM: 16411776432
+tMnew: 16505956488
+tMraw: 16505956498
+R: 536874244
+
+Tag Pulse
+Reception: 46459
+Pulse: 4
+anchorT: 16511391343
+dT: 19905509
+syncT: 16525862120
+
+Master Sync
+Reception: 46460
+Sync: 13
+tS: 16491485834
+tSnew: 16585664455
+tM: 16505956488
+tMnew: 16600135727
+tMraw: 16600135737
+R: 536874244
+
+Tag Pulse
+Reception: 46461
+Pulse: 5
+anchorT: 16603590542
+dT: 17926087
+syncT: 16618061931
+
+Master Sync
+Reception: 46462
+Sync: 14
+tS: 16585664455
+tSnew: 16679843597
+tM: 16600135727
+tMnew: 16694315326
+tMraw: 16694315336
+R: 536874244
+
+Tag Pulse
+Reception: 46463
+Pulse: 6
+anchorT: 16695793394
+dT: 15949797
+syncT: 16710265200
+
+Master Sync
+Reception: 46464
+Sync: 15
+tS: 16679843597
+tSnew: 16774019622
+tM: 16694315326
+tMnew: 16788492009
+tMraw: 16788492019
+R: 536874244
+
+Tag Pulse
+Reception: 46465
+Pulse: 7
+anchorT: 16787993218
+dT: 13973596
+syncT: 16802465702
+
+Master Sync
+Reception: 46466
+Sync: 16
+tS: 16774019622
+tSnew: 16868195999
+tM: 16788492009
+tMnew: 16882668916
+tMraw: 16882668926
+R: 536874244
+
+Tag Pulse
+Reception: 46467
+Pulse: 8
+anchorT: 16880193131
+dT: 11997132
+syncT: 16894666115
+
+Master Sync
+Reception: 46468
+Sync: 17
+tS: 16868195999
+tSnew: 16962372376
+tM: 16882668916
+tMnew: 16976845831
+tMraw: 16976845841
+R: 536874244
+
+Tag Pulse
+Reception: 46469
+Pulse: 9
+anchorT: 16972398371
+dT: 10025995
+syncT: 16986871883
+
+Master Sync
+Reception: 46470
+Sync: 18
+tS: 16962372376
+tSnew: 17056549394
+tM: 16976845831
+tMnew: 17071023339
+tMraw: 17071023349
+R: 536874244
+
+Tag Pulse
+Reception: 46471
+Pulse: 10
+anchorT: 17064600255
+dT: 8050861
+syncT: 17079074241
+
+Master Sync
+Reception: 46472
+Sync: 19
+tS: 17056549394
+tSnew: 17150725740
+tM: 17071023339
+tMnew: 17165200206
+tMraw: 17165200216
+R: 536874244
+
+Tag Pulse
+Reception: 46473
+Pulse: 11
+anchorT: 17156798220
+dT: 6072480
+syncT: 17171272719
+
+Master Sync
+Reception: 46474
+Sync: 20
+tS: 17150725740
+tSnew: 37487614
+tM: 17165200206
+tMnew: 51962626
+tMraw: 51962636
+R: 536874244
+
+Tag Pulse
+Reception: 46475
+Pulse: 12
+anchorT: 41595617
+dT: 4108003
+syncT: 56070654
+
+Master Sync
+Reception: 46476
+Sync: 21
+tS: 37487614
+tSnew: 131649184
+tM: 51962626
+tMnew: 146124645
+tMraw: 146124655
+R: 536874244
+
+Tag Pulse
+Reception: 46477
+Pulse: 13
+anchorT: 133795889
+dT: 2146705
+syncT: 148271360
+
+Master Sync
+Reception: 46478
+Sync: 22
+tS: 131649184
+tSnew: 225812781
+tM: 146124645
+tMnew: 240288772
+tMraw: 240288782
+R: 536874244
+
+Tag Pulse
+Reception: 46479
+Pulse: 15
+anchorT: 318190161
+dT: 92377380
+syncT: 332666671
+
+Master Sync
+Reception: 46480
+Sync: 23
+tS: 225812781
+tSnew: 319977772
+tM: 240288772
+tMnew: 334454348
+tMraw: 334454358
+R: 536874244
+
+Tag Pulse
+Reception: 46481
+Pulse: 16
+anchorT: 410423936
+dT: 90446164
+syncT: 424901073
+
+Master Sync
+Reception: 46482
+Sync: 24
+tS: 319977772
+tSnew: 414143781
+tM: 334454348
+tMnew: 428620967
+tMraw: 428620977
+R: 536874244
+
+Tag Pulse
+Reception: 46483
+Pulse: 17
+anchorT: 502585547
+dT: 88441766
+syncT: 517063305
+
+Master Sync
+Reception: 46484
+Sync: 25
+tS: 414143781
+tSnew: 508306113
+tM: 428620967
+tMnew: 522783892
+tMraw: 522783902
+R: 536874244
+
+Tag Pulse
+Reception: 46485
+Pulse: 18
+anchorT: 594781390
+dT: 86475277
+syncT: 609259713
+
+Master Sync
+Reception: 46486
+Sync: 26
+tS: 508306113
+tSnew: 602470736
+tM: 522783892
+tMnew: 616948844
+tMraw: 616948854
+R: 536874244
+
+Tag Pulse
+Reception: 46487
+Pulse: 19
+anchorT: 686984387
+dT: 84513651
+syncT: 701462790
+
+Master Sync
+Reception: 46488
+Sync: 27
+tS: 602470736
+tSnew: 696642137
+tM: 616948844
+tMnew: 711120655
+tMraw: 711120665
+R: 536874244
+
+Tag Pulse
+Reception: 46489
+Pulse: 20
+anchorT: 779186599
+dT: 82544462
+syncT: 793665476
+
+Master Sync
+Reception: 46490
+Sync: 28
+tS: 696642137
+tSnew: 790859500
+tM: 711120655
+tMnew: 805338715
+tMraw: 805338725
+R: 536874244
+
+Tag Pulse
+Reception: 46491
+Pulse: 21
+anchorT: 871392201
+dT: 80532701
+syncT: 885872011
+
+Master Sync
+Reception: 46492
+Sync: 29
+tS: 790859500
+tSnew: 885006784
+tM: 805338715
+tMnew: 899486528
+tMraw: 899486538
+R: 536874244
+
+Tag Pulse
+Reception: 46493
+Pulse: 22
+anchorT: 963597282
+dT: 78590498
+syncT: 978077467
+
+Master Sync
+Reception: 46494
+Sync: 30
+tS: 885006784
+tSnew: 979183298
+tM: 899486528
+tMnew: 993663451
+tMraw: 993663461
+R: 536874244
+
+Tag Pulse
+Reception: 46495
+Pulse: 23
+anchorT: 1055799142
+dT: 76615844
+syncT: 1070279627
+
+Master Sync
+Reception: 46496
+Sync: 31
+tS: 979183298
+tSnew: 1073355757
+tM: 993663451
+tMnew: 1087836496
+tMraw: 1087836506
+R: 536874244
+
+Tag Pulse
+Reception: 46497
+Pulse: 24
+anchorT: 1148000224
+dT: 74644467
+syncT: 1162481427
+
+Master Sync
+Reception: 46498
+Sync: 32
+tS: 1073355757
+tSnew: 1167530196
+tM: 1087836496
+tMnew: 1182011608
+tMraw: 1182011618
+R: 536874244
+
+Tag Pulse
+Reception: 46499
+Pulse: 25
+anchorT: 1240203943
+dT: 72673747
+syncT: 1254685874
+
+Master Sync
+Reception: 46500
+Sync: 33
+tS: 1167530196
+tSnew: 1261708208
+tM: 1182011608
+tMnew: 1276190046
+tMraw: 1276190056
+R: 536874244
+
+Tag Pulse
+Reception: 46501
+Pulse: 26
+anchorT: 1332405971
+dT: 70697763
+syncT: 1346888128
+
+Master Sync
+Reception: 46502
+Sync: 34
+tS: 1261708208
+tSnew: 1355885051
+tM: 1276190046
+tMnew: 1370367265
+tMraw: 1370367275
+R: 536874244
+
+Master Sync
+Reception: 46503
+Sync: 35
+tS: 1355885051
+tSnew: 1450062455
+tM: 1370367265
+tMnew: 1464545326
+tMraw: 1464545336
+R: 536874244
+
+Tag Pulse
+Reception: 46504
+Pulse: 28
+anchorT: 1516818209
+dT: 66755754
+syncT: 1531301545
+
+Master Sync
+Reception: 46505
+Sync: 36
+tS: 1450062455
+tSnew: 1544242150
+tM: 1464545326
+tMnew: 1558725639
+tMraw: 1558725649
+R: 536874244
+
+Tag Pulse
+Reception: 46506
+Pulse: 29
+anchorT: 1609023298
+dT: 64781148
+syncT: 1623507212
+
+Master Sync
+Reception: 46507
+Sync: 37
+tS: 1544242150
+tSnew: 1638418560
+tM: 1558725639
+tMnew: 1652902433
+tMraw: 1652902443
+R: 536874244
+
+Tag Pulse
+Reception: 46508
+Pulse: 30
+anchorT: 1701228251
+dT: 62809691
+syncT: 1715712380
+
+Master Sync
+Reception: 46509
+Sync: 38
+tS: 1638418560
+tSnew: 1732598014
+tM: 1652902433
+tMnew: 1747082393
+tMraw: 1747082403
+R: 536874244
+
+Tag Pulse
+Reception: 46510
+Pulse: 31
+anchorT: 1793433885
+dT: 60835871
+syncT: 1807918590
+
+Master Sync
+Reception: 46511
+Sync: 39
+tS: 1732598014
+tSnew: 1826772630
+tM: 1747082393
+tMnew: 1841257682
+tMraw: 1841257692
+R: 536874244
+
+Tag Pulse
+Reception: 46512
+Pulse: 32
+anchorT: 1885636387
+dT: 58863757
+syncT: 1900121859
+
+Master Sync
+Reception: 46513
+Sync: 40
+tS: 1826772630
+tSnew: 1920945042
+tM: 1841257682
+tMnew: 1935430663
+tMraw: 1935430673
+R: 536874244
+
+Tag Pulse
+Reception: 46514
+Pulse: 33
+anchorT: 1977837462
+dT: 56892420
+syncT: 1992323426
+
+Master Sync
+Reception: 46515
+Sync: 41
+tS: 1920945042
+tSnew: 2015120435
+tM: 1935430663
+tMnew: 2029606648
+tMraw: 2029606658
+R: 536874244
+
+Tag Pulse
+Reception: 46516
+Pulse: 34
+anchorT: 2070039177
+dT: 54918742
+syncT: 2084525735
+
+Master Sync
+Reception: 46517
+Sync: 42
+tS: 2015120435
+tSnew: 2109295466
+tM: 2029606648
+tMnew: 2123782089
+tMraw: 2123782099
+R: 536874244
+
+Tag Pulse
+Reception: 46518
+Pulse: 35
+anchorT: 2162242023
+dT: 52946557
+syncT: 2176728876
+
+Master Sync
+Reception: 46519
+Sync: 43
+tS: 2109295466
+tSnew: 2203470410
+tM: 2123782089
+tMnew: 2217957514
+tMraw: 2217957524
+R: 536874244
+
+Tag Pulse
+Reception: 46520
+Pulse: 36
+anchorT: 2254480021
+dT: 51009611
+syncT: 2268967385
+
+Master Sync
+Reception: 46521
+Sync: 44
+tS: 2203470410
+tSnew: 2297647117
+tM: 2217957514
+tMnew: 2312134717
+tMraw: 2312134727
+R: 536874244
+
+Tag Pulse
+Reception: 46522
+Pulse: 37
+anchorT: 2346649141
+dT: 49002024
+syncT: 2361136999
+
+Master Sync
+Reception: 46523
+Sync: 45
+tS: 2297647117
+tSnew: 2391824953
+tM: 2312134717
+tMnew: 2406313106
+tMraw: 2406313116
+R: 536874244
+
+Tag Pulse
+Reception: 46524
+Pulse: 38
+anchorT: 2438855256
+dT: 47030303
+syncT: 2453343685
+
+Master Sync
+Reception: 46525
+Sync: 46
+tS: 2391824953
+tSnew: 2486001452
+tM: 2406313106
+tMnew: 2500490118
+tMraw: 2500490128
+R: 536874244
+
+Tag Pulse
+Reception: 46526
+Pulse: 39
+anchorT: 2531062221
+dT: 45060769
+syncT: 2545551132
+
+Master Sync
+Reception: 46527
+Sync: 47
+tS: 2486001452
+tSnew: 2580179160
+tM: 2500490118
+tMnew: 2594668379
+tMraw: 2594668389
+R: 536874244
+
+Tag Pulse
+Reception: 46528
+Pulse: 40
+anchorT: 2623266773
+dT: 43087613
+syncT: 2637756245
+
+Master Sync
+Reception: 46529
+Sync: 48
+tS: 2580179160
+tSnew: 2674391940
+tM: 2594668379
+tMnew: 2688881800
+tMraw: 2688881810
+R: 536874244
+
+Tag Pulse
+Reception: 46530
+Pulse: 41
+anchorT: 2715468305
+dT: 41076365
+syncT: 2729958444
+
+Master Sync
+Reception: 46531
+Sync: 49
+tS: 2674391940
+tSnew: 2768530659
+tM: 2688881800
+tMnew: 2783020959
+tMraw: 2783020969
+R: 536874244
+
+Tag Pulse
+Reception: 46532
+Pulse: 42
+anchorT: 2807667561
+dT: 39136902
+syncT: 2822158043
+
+Master Sync
+Reception: 46533
+Sync: 50
+tS: 2768530659
+tSnew: 2862706027
+tM: 2783020959
+tMnew: 2877196961
+tMraw: 2877196971
+R: 536874244
+
+Tag Pulse
+Reception: 46534
+Pulse: 43
+anchorT: 2899867891
+dT: 37161864
+syncT: 2914359075
+
+Master Sync
+Reception: 46535
+Sync: 51
+tS: 2862706027
+tSnew: 2956879994
+tM: 2877196961
+tMnew: 2971371472
+tMraw: 2971371482
+R: 536874244
+
+Tag Pulse
+Reception: 46536
+Pulse: 44
+anchorT: 2992069519
+dT: 35189525
+syncT: 3006561200
+
+Master Sync
+Reception: 46537
+Sync: 52
+tS: 2956879994
+tSnew: 3051055851
+tM: 2971371472
+tMnew: 3065547858
+tMraw: 3065547868
+R: 536874244
+
+Tag Pulse
+Reception: 46538
+Pulse: 45
+anchorT: 3084272045
+dT: 33216194
+syncT: 3098764238
+
+Master Sync
+Reception: 46539
+Sync: 53
+tS: 3051055851
+tSnew: 3145234873
+tM: 3065547858
+tMnew: 3159727377
+tMraw: 3159727387
+R: 536874244
+
+Tag Pulse
+Reception: 46540
+Pulse: 46
+anchorT: 3176464025
+dT: 31229152
+syncT: 3190956693
+
+Master Sync
+Reception: 46541
+Sync: 54
+tS: 3145234873
+tSnew: 3239411589
+tM: 3159727377
+tMnew: 3253904469
+tMraw: 3253904479
+R: 536874244
+
+Tag Pulse
+Reception: 46542
+Pulse: 47
+anchorT: 3268656799
+dT: 29245210
+syncT: 3283149795
+
+Master Sync
+Reception: 46543
+Sync: 55
+tS: 3239411589
+tSnew: 3333584522
+tM: 3253904469
+tMnew: 3348078050
+tMraw: 3348078060
+R: 536874244
+
+Tag Pulse
+Reception: 46544
+Pulse: 48
+anchorT: 3360845783
+dT: 27261261
+syncT: 3375339498
+
+Master Sync
+Reception: 46545
+Sync: 56
+tS: 3333584522
+tSnew: 3427758496
+tM: 3348078050
+tMnew: 3442252714
+tMraw: 3442252724
+R: 536874244
+
+Tag Pulse
+Reception: 46546
+Pulse: 49
+anchorT: 3453036298
+dT: 25277802
+syncT: 3467530701
+
+Master Sync
+Reception: 46547
+Sync: 57
+tS: 3427758496
+tSnew: 3521933568
+tM: 3442252714
+tMnew: 3536428259
+tMraw: 3536428269
+R: 536874244
+
+Tag Pulse
+Reception: 46548
+Pulse: 50
+anchorT: 3545227958
+dT: 23294390
+syncT: 3559722765
+
+Master Sync
+Reception: 46549
+Sync: 58
+tS: 3521933568
+tSnew: 3616109009
+tM: 3536428259
+tMnew: 3630604132
+tMraw: 3630604142
+R: 536874244
+
+Tag Pulse
+Reception: 46550
+Pulse: 51
+anchorT: 3637419161
+dT: 21310152
+syncT: 3651914381
+
+Master Sync
+Reception: 46551
+Sync: 59
+tS: 3616109009
+tSnew: 3710285268
+tM: 3630604132
+tMnew: 3724780719
+tMraw: 3724780729
+R: 536874244
+
+Tag Pulse
+Reception: 46552
+Pulse: 52
+anchorT: 3729609572
+dT: 19324304
+syncT: 3744105090
+
+Master Sync
+Reception: 46553
+Sync: 60
+tS: 3710285268
+tSnew: 3804451502
+tM: 3724780719
+tMnew: 3818947441
+tMraw: 3818947451
+R: 536874244
+
+Tag Pulse
+Reception: 46554
+Pulse: 53
+anchorT: 3821801881
+dT: 17350379
+syncT: 3836297909
+
+Master Sync
+Reception: 46555
+Sync: 61
+tS: 3804451502
+tSnew: 3898613394
+tM: 3818947441
+tMnew: 3913109917
+tMraw: 3913109927
+R: 536874244
+
+Tag Pulse
+Reception: 46556
+Pulse: 54
+anchorT: 3913992067
+dT: 15378673
+syncT: 3928488685
+
+Master Sync
+Reception: 46557
+Sync: 62
+tS: 3898613394
+tSnew: 3992776567
+tM: 3913109917
+tMnew: 4007273571
+tMraw: 4007273581
+R: 536874244
+
+Tag Pulse
+Reception: 46558
+Pulse: 55
+anchorT: 4006180250
+dT: 13403683
+syncT: 4020677322
+
+Master Sync
+Reception: 46559
+Sync: 63
+tS: 3992776567
+tSnew: 4086939588
+tM: 4007273571
+tMnew: 4101437121
+tMraw: 4101437131
+R: 536874244
+
+Tag Pulse
+Reception: 46560
+Pulse: 56
+anchorT: 4098407583
+dT: 11467995
+syncT: 4112905180
+
+Master Sync
+Reception: 46561
+Sync: 64
+tS: 4086939588
+tSnew: 4181102169
+tM: 4101437121
+tMnew: 4195600158
+tMraw: 4195600168
+R: 536874244
+
+Tag Pulse
+Reception: 46562
+Pulse: 57
+anchorT: 4190562858
+dT: 9460689
+syncT: 4205060892
+
+Master Sync
+Reception: 46563
+Sync: 65
+tS: 4181102169
+tSnew: 4275263051
+tM: 4195600158
+tMnew: 4289761576
+tMraw: 4289761586
+R: 536874244
+
+Tag Pulse
+Reception: 46564
+Pulse: 58
+anchorT: 4282756281
+dT: 7493230
+syncT: 4297254848
+
+Master Sync
+Reception: 46565
+Sync: 66
+tS: 4275263051
+tSnew: 4369421353
+tM: 4289761576
+tMnew: 4383920438
+tMraw: 4383920448
+R: 536874244
+
+Tag Pulse
+Reception: 46566
+Pulse: 59
+anchorT: 4374948983
+dT: 5527630
+syncT: 4389448100
+
+Master Sync
+Reception: 46567
+Sync: 67
+tS: 4369421353
+tSnew: 4463579895
+tM: 4383920438
+tMnew: 4478079557
+tMraw: 4478079567
+R: 536874244
+
+Tag Pulse
+Reception: 46568
+Pulse: 60
+anchorT: 4467139995
+dT: 3560100
+syncT: 4481639678
+
+Master Sync
+Reception: 46569
+Sync: 68
+tS: 4463579895
+tSnew: 4557780032
+tM: 4478079557
+tMnew: 4572280198
+tMraw: 4572280208
+R: 536874244
+
+Tag Pulse
+Reception: 46570
+Pulse: 62
+anchorT: 4651524422
+dT: 93744390
+syncT: 4666025089
+
+Tag Pulse
+Reception: 46571
+Pulse: 63
+anchorT: 4743715233
+dT: 185935201
+syncT: 4758216393
+
+Master Sync
+Reception: 46572
+Sync: 70
+tS: 4557780032
+tSnew: 4746090218
+tM: 4572280198
+tMnew: 4760591416
+tMraw: 4760591426
+R: 536874244
+
+Tag Pulse
+Reception: 46573
+Pulse: 64
+anchorT: 4835907342
+dT: 89817124
+syncT: 4850409032
+
+Master Sync
+Reception: 46574
+Sync: 71
+tS: 4746090218
+tSnew: 4840266709
+tM: 4760591416
+tMnew: 4854768355
+tMraw: 4854768365
+R: 536874244
+
+Tag Pulse
+Reception: 46575
+Pulse: 65
+anchorT: 4928107633
+dT: 87840924
+syncT: 4942609696
+
+Master Sync
+Reception: 46576
+Sync: 72
+tS: 4840266709
+tSnew: 4934443569
+tM: 4854768355
+tMnew: 4948945711
+tMraw: 4948945721
+R: 536874244
+
+Tag Pulse
+Reception: 46577
+Pulse: 66
+anchorT: 5020312931
+dT: 85869362
+syncT: 5034815525
+
+Master Sync
+Reception: 46578
+Sync: 73
+tS: 4934443569
+tSnew: 5028622151
+tM: 4948945711
+tMnew: 5043124845
+tMraw: 5043124855
+R: 536874244
+
+Tag Pulse
+Reception: 46579
+Pulse: 67
+anchorT: 5112517108
+dT: 83894957
+syncT: 5127020293
+
+Master Sync
+Reception: 46580
+Sync: 74
+tS: 5028622151
+tSnew: 5122801166
+tM: 5043124845
+tMnew: 5137304501
+tMraw: 5137304511
+R: 536874244
+
+Tag Pulse
+Reception: 46581
+Pulse: 68
+anchorT: 5204721774
+dT: 81920608
+syncT: 5219225666
+
+Master Sync
+Reception: 46582
+Sync: 75
+tS: 5122801166
+tSnew: 5216978804
+tM: 5137304501
+tMnew: 5231482674
+tMraw: 5231482684
+R: 536874244
+
+Tag Pulse
+Reception: 46583
+Pulse: 69
+anchorT: 5296929420
+dT: 79950616
+syncT: 5311433744
+
+Master Sync
+Reception: 46584
+Sync: 76
+tS: 5216978804
+tSnew: 5311153075
+tM: 5231482674
+tMnew: 5325657425
+tMraw: 5325657435
+R: 536874244
+
+Tag Pulse
+Reception: 46585
+Pulse: 70
+anchorT: 5389134783
+dT: 77981708
+syncT: 5403639530
+
+Master Sync
+Reception: 46586
+Sync: 77
+tS: 5311153075
+tSnew: 5405329815
+tM: 5325657425
+tMnew: 5419834749
+tMraw: 5419834759
+R: 536874244
+
+Tag Pulse
+Reception: 46587
+Pulse: 71
+anchorT: 5481341676
+dT: 76011861
+syncT: 5495847081
+
+Master Sync
+Reception: 46588
+Sync: 78
+tS: 5405329815
+tSnew: 5499502965
+tM: 5419834749
+tMnew: 5514008419
+tMraw: 5514008429
+R: 536874244
+
+Tag Pulse
+Reception: 46589
+Pulse: 72
+anchorT: 5573543633
+dT: 74040668
+syncT: 5588049495
+
+Master Sync
+Reception: 46590
+Sync: 79
+tS: 5499502965
+tSnew: 5593680097
+tM: 5514008419
+tMnew: 5608186175
+tMraw: 5608186185
+R: 536874244
+
+Tag Pulse
+Reception: 46591
+Pulse: 73
+anchorT: 5665747266
+dT: 72067169
+syncT: 5680253821
+
+Master Sync
+Reception: 46592
+Sync: 80
+tS: 5593680097
+tSnew: 5687854345
+tM: 5608186175
+tMnew: 5702360911
+tMraw: 5702360921
+R: 536874244
+
+Tag Pulse
+Reception: 46593
+Pulse: 74
+anchorT: 5757948823
+dT: 70094478
+syncT: 5772455752
+
+Master Sync
+Reception: 46594
+Sync: 81
+tS: 5687854345
+tSnew: 5782029234
+tM: 5702360911
+tMnew: 5796536256
+tMraw: 5796536266
+R: 536874244
+
+Tag Pulse
+Reception: 46595
+Pulse: 75
+anchorT: 5850154049
+dT: 68124815
+syncT: 5864661400
+
+Master Sync
+Reception: 46596
+Sync: 82
+tS: 5782029234
+tSnew: 5876199155
+tM: 5796536256
+tMnew: 5890706688
+tMraw: 5890706698
+R: 536874244
+
+Tag Pulse
+Reception: 46597
+Pulse: 76
+anchorT: 5942393194
+dT: 66194039
+syncT: 5956901086
+
+Master Sync
+Reception: 46598
+Sync: 83
+tS: 5876199155
+tSnew: 5970368370
+tM: 5890706688
+tMnew: 5984876536
+tMraw: 5984876546
+R: 536874244
+
+Tag Pulse
+Reception: 46599
+Pulse: 77
+anchorT: 6034561634
+dT: 64193264
+syncT: 6049070231
+
+Master Sync
+Reception: 46600
+Sync: 84
+tS: 5970368370
+tSnew: 6064539902
+tM: 5984876536
+tMnew: 6079048587
+tMraw: 6079048597
+R: 536874244
+
+Tag Pulse
+Reception: 46601
+Pulse: 78
+anchorT: 6126766212
+dT: 62226310
+syncT: 6141275239
+
+Master Sync
+Reception: 46602
+Sync: 85
+tS: 6064539902
+tSnew: 6158701675
+tM: 6079048587
+tMnew: 6173210831
+tMraw: 6173210841
+R: 536874244
+
+Tag Pulse
+Reception: 46603
+Pulse: 79
+anchorT: 6218969027
+dT: 60267352
+syncT: 6233478484
+
+Master Sync
+Reception: 46604
+Sync: 86
+tS: 6158701675
+tSnew: 6252863358
+tM: 6173210831
+tMnew: 6267373042
+tMraw: 6267373052
+R: 536874244
+
+Tag Pulse
+Reception: 46605
+Pulse: 80
+anchorT: 6311174919
+dT: 58311561
+syncT: 6325684929
+
+Master Sync
+Reception: 46606
+Sync: 87
+tS: 6252863358
+tSnew: 6347023423
+tM: 6267373042
+tMnew: 6361533515
+tMraw: 6361533525
+R: 536874244
+
+Tag Pulse
+Reception: 46607
+Pulse: 81
+anchorT: 6403381380
+dT: 56357957
+syncT: 6417891716
+
+Master Sync
+Reception: 46608
+Sync: 88
+tS: 6347023423
+tSnew: 6441221606
+tM: 6361533515
+tMnew: 6455732417
+tMraw: 6455732427
+R: 536874244
+
+Tag Pulse
+Reception: 46609
+Pulse: 82
+anchorT: 6495589018
+dT: 54367412
+syncT: 6510100243
+
+Master Sync
+Reception: 46610
+Sync: 89
+tS: 6441221606
+tSnew: 6535350221
+tM: 6455732417
+tMnew: 6549861400
+tMraw: 6549861410
+R: 536874244
+
+Tag Pulse
+Reception: 46611
+Pulse: 83
+anchorT: 6587793588
+dT: 52443367
+syncT: 6602304972
+
+Master Sync
+Reception: 46612
+Sync: 90
+tS: 6535350221
+tSnew: 6629509053
+tM: 6549861400
+tMnew: 6644020831
+tMraw: 6644020841
+R: 536874244
+
+Tag Pulse
+Reception: 46613
+Pulse: 84
+anchorT: 6679995610
+dT: 50486557
+syncT: 6694507709
+
+Master Sync
+Reception: 46614
+Sync: 91
+tS: 6629509053
+tSnew: 6723671626
+tM: 6644020831
+tMnew: 6738183964
+tMraw: 6738183974
+R: 536874244
+
+Tag Pulse
+Reception: 46615
+Pulse: 85
+anchorT: 6772199066
+dT: 48527440
+syncT: 6786711692
+
+Master Sync
+Reception: 46616
+Sync: 92
+tS: 6723671626
+tSnew: 6817835794
+tM: 6738183964
+tMnew: 6832348619
+tMraw: 6832348629
+R: 536874244
+
+Tag Pulse
+Reception: 46617
+Pulse: 86
+anchorT: 6864399125
+dT: 46563331
+syncT: 6878912190
+
+Master Sync
+Reception: 46618
+Sync: 93
+tS: 6817835794
+tSnew: 6912001404
+tM: 6832348619
+tMnew: 6926514653
+tMraw: 6926514663
+R: 536874244
+
+Tag Pulse
+Reception: 46619
+Pulse: 87
+anchorT: 6956603767
+dT: 44602363
+syncT: 6971117216
+
+Master Sync
+Reception: 46620
+Sync: 94
+tS: 6912001404
+tSnew: 7006166879
+tM: 6926514653
+tMnew: 7020680695
+tMraw: 7020680705
+R: 536874244
+
+Tag Pulse
+Reception: 46621
+Pulse: 88
+anchorT: 7048810973
+dT: 42644094
+syncT: 7063325045
+
+Master Sync
+Reception: 46622
+Sync: 95
+tS: 7006166879
+tSnew: 7100335278
+tM: 7020680695
+tMnew: 7114849789
+tMraw: 7114849799
+R: 536874244
+
+Tag Pulse
+Reception: 46623
+Pulse: 89
+anchorT: 7141013356
+dT: 40678078
+syncT: 7155528167
+
+Master Sync
+Reception: 46624
+Sync: 96
+tS: 7100335278
+tSnew: 7194501257
+tM: 7114849789
+tMnew: 7209016231
+tMraw: 7209016241
+R: 536874244
+
+Tag Pulse
+Reception: 46625
+Pulse: 90
+anchorT: 7233218150
+dT: 38716893
+syncT: 7247733314
+
+Master Sync
+Reception: 46626
+Sync: 97
+tS: 7194501257
+tSnew: 7288662732
+tM: 7209016231
+tMnew: 7303178323
+tMraw: 7303178333
+R: 536874244
+
+Tag Pulse
+Reception: 46627
+Pulse: 91
+anchorT: 7325422352
+dT: 36759620
+syncT: 7339938183
+
+Master Sync
+Reception: 46628
+Sync: 98
+tS: 7288662732
+tSnew: 7382825939
+tM: 7303178323
+tMnew: 7397341913
+tMraw: 7397341923
+R: 536874244
+
+Tag Pulse
+Reception: 46629
+Pulse: 92
+anchorT: 7417625792
+dT: 34799853
+syncT: 7432141907
+
+Master Sync
+Reception: 46630
+Sync: 99
+tS: 7382825939
+tSnew: 7476989362
+tM: 7397341913
+tMnew: 7491505831
+tMraw: 7491505841
+R: 536874244
+
+Tag Pulse
+Reception: 46631
+Pulse: 93
+anchorT: 7509830803
+dT: 32841441
+syncT: 7524347444
+
+Master Sync
+Reception: 46632
+Sync: 100
+tS: 7476989362
+tSnew: 7571163578
+tM: 7491505831
+tMnew: 7585680719
+tMraw: 7585680729
+R: 536874244
+
+Tag Pulse
+Reception: 46633
+Pulse: 94
+anchorT: 7602031303
+dT: 30867725
+syncT: 7616548664
+
+Master Sync
+Reception: 46634
+Sync: 101
+tS: 7571163578
+tSnew: 7665338091
+tM: 7585680719
+tMnew: 7679855647
+tMraw: 7679855657
+R: 536874244
+
+Tag Pulse
+Reception: 46635
+Pulse: 95
+anchorT: 7694232003
+dT: 28893912
+syncT: 7708749686
+
+Master Sync
+Reception: 46636
+Sync: 102
+tS: 7665338091
+tSnew: 7759511714
+tM: 7679855647
+tMnew: 7774029805
+tMraw: 7774029815
+R: 536874244
+
+Tag Pulse
+Reception: 46637
+Pulse: 96
+anchorT: 7786468704
+dT: 26956990
+syncT: 7800986948
+
+Master Sync
+Reception: 46638
+Sync: 103
+tS: 7759511714
+tSnew: 7853687453
+tM: 7774029805
+tMnew: 7868206015
+tMraw: 7868206025
+R: 536874244
+
+Tag Pulse
+Reception: 46639
+Pulse: 97
+anchorT: 7878627890
+dT: 24940437
+syncT: 7893146576
+
+Master Sync
+Reception: 46640
+Sync: 104
+tS: 7853687453
+tSnew: 7947862695
+tM: 7868206015
+tMnew: 7962381961
+tMraw: 7962381971
+R: 536874244
+
+Tag Pulse
+Reception: 46641
+Pulse: 98
+anchorT: 7970829319
+dT: 22966624
+syncT: 7985348756
+
+Master Sync
+Reception: 46642
+Sync: 105
+tS: 7947862695
+tSnew: 8042037945
+tM: 7962381961
+tMnew: 8056557738
+tMraw: 8056557748
+R: 536874244
+
+Tag Pulse
+Reception: 46643
+Pulse: 99
+anchorT: 8063025957
+dT: 20988012
+syncT: 8077545867
+
+Master Sync
+Reception: 46644
+Sync: 106
+tS: 8042037945
+tSnew: 8136212546
+tM: 8056557738
+tMnew: 8150732634
+tMraw: 8150732644
+R: 536874244
+
+Tag Pulse
+Reception: 46645
+Pulse: 100
+anchorT: 8155221817
+dT: 19009271
+syncT: 8169741964
+
+Master Sync
+Reception: 46646
+Sync: 107
+tS: 8136212546
+tSnew: 8230382892
+tM: 8150732634
+tMnew: 8244903587
+tMraw: 8244903597
+R: 536874244
+
+Tag Pulse
+Reception: 46647
+Pulse: 101
+anchorT: 8247422926
+dT: 17040034
+syncT: 8261943730
+
+Master Sync
+Reception: 46648
+Sync: 108
+tS: 8230382892
+tSnew: 8324589176
+tM: 8244903587
+tMnew: 8339110374
+tMraw: 8339110384
+R: 536874244
+
+Tag Pulse
+Reception: 46649
+Pulse: 102
+anchorT: 8339618979
+dT: 15029803
+syncT: 8354140257
+
+Master Sync
+Reception: 46650
+Sync: 109
+tS: 8324589176
+tSnew: 8418732367
+tM: 8339110374
+tMnew: 8433254164
+tMraw: 8433254174
+R: 536874244
+
+Tag Pulse
+Reception: 46651
+Pulse: 103
+anchorT: 8431816041
+dT: 13083674
+syncT: 8446337921
+
+Master Sync
+Reception: 46652
+Sync: 110
+tS: 8418732367
+tSnew: 8512912145
+tM: 8433254164
+tMnew: 8527434493
+tMraw: 8527434503
+R: 536874244
+
+Tag Pulse
+Reception: 46653
+Pulse: 104
+anchorT: 8524015708
+dT: 11103563
+syncT: 8538538120
+
+Master Sync
+Reception: 46654
+Sync: 111
+tS: 8512912145
+tSnew: 8607095488
+tM: 8527434493
+tMnew: 8621618339
+tMraw: 8621618349
+R: 536874244
+
+Tag Pulse
+Reception: 46655
+Pulse: 105
+anchorT: 8616216705
+dT: 9121217
+syncT: 8630739604
+
+Master Sync
+Reception: 46656
+Sync: 112
+tS: 8607095488
+tSnew: 8701276403
+tM: 8621618339
+tMnew: 8715799605
+tMraw: 8715799615
+R: 536874244
+
+Tag Pulse
+Reception: 46657
+Pulse: 106
+anchorT: 8708417742
+dT: 7141339
+syncT: 8722940970
+
+Master Sync
+Reception: 46658
+Sync: 113
+tS: 8701276403
+tSnew: 8795457542
+tM: 8715799605
+tMnew: 8809981432
+tMraw: 8809981442
+R: 536874244
+
+Tag Pulse
+Reception: 46659
+Pulse: 107
+anchorT: 8800615429
+dT: 5157887
+syncT: 8815139356
+
+Master Sync
+Reception: 46660
+Sync: 114
+tS: 8795457542
+tSnew: 8889639580
+tM: 8809981432
+tMnew: 8904163828
+tMraw: 8904163838
+R: 536874244
+
+Tag Pulse
+Reception: 46661
+Pulse: 108
+anchorT: 8892816530
+dT: 3176950
+syncT: 8907340790
+
+Master Sync
+Reception: 46662
+Sync: 115
+tS: 8889639580
+tSnew: 8983817442
+tM: 8904163828
+tMnew: 8998342281
+tMraw: 8998342291
+R: 536874244
+
+Tag Pulse
+Reception: 46663
+Pulse: 110
+anchorT: 9077215351
+dT: 93397909
+syncT: 9091740776
+
+Tag Pulse
+Reception: 46664
+Pulse: 111
+anchorT: 9169417870
+dT: 185600428
+syncT: 9183943873
+
+Master Sync
+Reception: 46665
+Sync: 117
+tS: 8983817442
+tSnew: 9172174577
+tM: 8998342281
+tMnew: 9186700430
+tMraw: 9186700440
+R: 536874244
+
+Tag Pulse
+Reception: 46666
+Pulse: 112
+anchorT: 9261618443
+dT: 89443866
+syncT: 9276144777
+
+Master Sync
+Reception: 46667
+Sync: 118
+tS: 9172174577
+tSnew: 9266349411
+tM: 9186700430
+tMnew: 9280875895
+tMraw: 9280875905
+R: 536874244
+
+Tag Pulse
+Reception: 46668
+Pulse: 113
+anchorT: 9353818054
+dT: 87468643
+syncT: 9368345124
+
+Master Sync
+Reception: 46669
+Sync: 119
+tS: 9266349411
+tSnew: 9360526136
+tM: 9280875895
+tMnew: 9375053139
+tMraw: 9375053149
+R: 536874244
+
+Tag Pulse
+Reception: 46670
+Pulse: 114
+anchorT: 9446023418
+dT: 85497282
+syncT: 9460550892
+
+Master Sync
+Reception: 46671
+Sync: 120
+tS: 9360526136
+tSnew: 9454702725
+tM: 9375053139
+tMnew: 9469230406
+tMraw: 9469230416
+R: 536874244
+
+Tag Pulse
+Reception: 46672
+Pulse: 115
+anchorT: 9538224222
+dT: 83521497
+syncT: 9552752504
+
+Master Sync
+Reception: 46673
+Sync: 121
+tS: 9454702725
+tSnew: 9548881188
+tM: 9469230406
+tMnew: 9563409220
+tMraw: 9563409230
+R: 536874244
+
+Tag Pulse
+Reception: 46674
+Pulse: 116
+anchorT: 9630462367
+dT: 81581179
+syncT: 9644990703
+
+Master Sync
+Reception: 46675
+Sync: 122
+tS: 9548881188
+tSnew: 9643059211
+tM: 9563409220
+tMnew: 9657587866
+tMraw: 9657587876
+R: 536874244
+
+Tag Pulse
+Reception: 46676
+Pulse: 117
+anchorT: 9722630359
+dT: 79571148
+syncT: 9737159540
+
+Master Sync
+Reception: 46677
+Sync: 123
+tS: 9643059211
+tSnew: 9737234902
+tM: 9657587866
+tMnew: 9751764148
+tMraw: 9751764158
+R: 536874244
+
+Tag Pulse
+Reception: 46678
+Pulse: 118
+anchorT: 9814833544
+dT: 77598642
+syncT: 9829363276
+
+Master Sync
+Reception: 46679
+Sync: 124
+tS: 9737234902
+tSnew: 9831416820
+tM: 9751764148
+tMnew: 9845946576
+tMraw: 9845946586
+R: 536874244
+
+Tag Pulse
+Reception: 46680
+Pulse: 119
+anchorT: 9907036657
+dT: 75619837
+syncT: 9921566822
+
+Master Sync
+Reception: 46681
+Sync: 125
+tS: 9831416820
+tSnew: 9925597439
+tM: 9845946576
+tMnew: 9940127730
+tMraw: 9940127740
+R: 536874244
+
+Tag Pulse
+Reception: 46682
+Pulse: 120
+anchorT: 9999238992
+dT: 73641553
+syncT: 10013769701
+
+Master Sync
+Reception: 46683
+Sync: 126
+tS: 9925597439
+tSnew: 10019777289
+tM: 9940127730
+tMnew: 10034308131
+tMraw: 10034308141
+R: 536874244
+
+Tag Pulse
+Reception: 46684
+Pulse: 121
+anchorT: 10091441648
+dT: 71664359
+syncT: 10105972909
+
+Master Sync
+Reception: 46685
+Sync: 127
+tS: 10019777289
+tSnew: 10113961826
+tM: 10034308131
+tMnew: 10128493074
+tMraw: 10128493084
+R: 536874244
+
+Tag Pulse
+Reception: 46686
+Pulse: 122
+anchorT: 10183644833
+dT: 69683007
+syncT: 10198176381
+
+Master Sync
+Reception: 46687
+Sync: 128
+tS: 10113961826
+tSnew: 10208181444
+tM: 10128493074
+tMnew: 10222713187
+tMraw: 10222713197
+R: 536874244
+
+Tag Pulse
+Reception: 46688
+Pulse: 123
+anchorT: 10275848979
+dT: 67667535
+syncT: 10290381077
+
+Master Sync
+Reception: 46689
+Sync: 129
+tS: 10208181444
+tSnew: 10302328265
+tM: 10222713187
+tMnew: 10316860606
+tMraw: 10316860616
+R: 536874244
+
+Tag Pulse
+Reception: 46690
+Pulse: 124
+anchorT: 10368052974
+dT: 65724709
+syncT: 10382585732
+
+Master Sync
+Reception: 46691
+Sync: 130
+tS: 10302328265
+tSnew: 10396508284
+tM: 10316860606
+tMnew: 10411041047
+tMraw: 10411041057
+R: 536874244
+
+Tag Pulse
+Reception: 46692
+Pulse: 125
+anchorT: 10460253130
+dT: 63744846
+syncT: 10474786178
+
+Master Sync
+Reception: 46693
+Sync: 131
+tS: 10396508284
+tSnew: 10490688375
+tM: 10411041047
+tMnew: 10505221672
+tMraw: 10505221682
+R: 536874244
+
+Tag Pulse
+Reception: 46694
+Pulse: 126
+anchorT: 10552451876
+dT: 61763501
+syncT: 10566985523
+
+Master Sync
+Reception: 46695
+Sync: 132
+tS: 10490688375
+tSnew: 10584867079
+tM: 10505221672
+tMnew: 10599400967
+tMraw: 10599400977
+R: 536874244
+
+Tag Pulse
+Reception: 46696
+Pulse: 127
+anchorT: 10644654756
+dT: 59787677
+syncT: 10659189019
+
+Master Sync
+Reception: 46697
+Sync: 133
+tS: 10584867079
+tSnew: 10679048691
+tM: 10599400967
+tMnew: 10693583098
+tMraw: 10693583108
+R: 536874244
+
+Tag Pulse
+Reception: 46698
+Pulse: 128
+anchorT: 10736858855
+dT: 57810164
+syncT: 10751393580
+
+Master Sync
+Reception: 46699
+Sync: 134
+tS: 10679048691
+tSnew: 10773227084
+tM: 10693583098
+tMnew: 10787762057
+tMraw: 10787762067
+R: 536874244
+
+Tag Pulse
+Reception: 46700
+Pulse: 129
+anchorT: 10829064892
+dT: 55837808
+syncT: 10843600200
+
+Master Sync
+Reception: 46701
+Sync: 135
+tS: 10773227084
+tSnew: 10867409667
+tM: 10787762057
+tMnew: 10881945118
+tMraw: 10881945128
+R: 536874244
+
+Tag Pulse
+Reception: 46702
+Pulse: 130
+anchorT: 10921270730
+dT: 53861063
+syncT: 10935806454
+
+Master Sync
+Reception: 46703
+Sync: 136
+tS: 10867409667
+tSnew: 10961592089
+tM: 10881945118
+tMnew: 10976128131
+tMraw: 10976128141
+R: 536874244
+
+Tag Pulse
+Reception: 46704
+Pulse: 131
+anchorT: 11013473234
+dT: 51881145
+syncT: 11028009601
+
+Master Sync
+Reception: 46705
+Sync: 137
+tS: 10961592089
+tSnew: 11055772083
+tM: 10976128131
+tMnew: 11070308579
+tMraw: 11070308589
+R: 536874244
+
+Tag Pulse
+Reception: 46706
+Pulse: 132
+anchorT: 11105677116
+dT: 49905033
+syncT: 11120213852
+
+Master Sync
+Reception: 46707
+Sync: 138
+tS: 11055772083
+tSnew: 11149949986
+tM: 11070308579
+tMnew: 11164487033
+tMraw: 11164487043
+R: 536874244
+
+Tag Pulse
+Reception: 46708
+Pulse: 133
+anchorT: 11197880766
+dT: 47930780
+syncT: 11212418093
+
+Master Sync
+Reception: 46709
+Sync: 139
+tS: 11149949986
+tSnew: 11244126047
+tM: 11164487033
+tMnew: 11258663643
+tMraw: 11258663653
+R: 536874244
+
+Tag Pulse
+Reception: 46710
+Pulse: 134
+anchorT: 11290080466
+dT: 45954419
+syncT: 11304618329
+
+Master Sync
+Reception: 46711
+Sync: 140
+tS: 11244126047
+tSnew: 11338302636
+tM: 11258663643
+tMnew: 11352840807
+tMraw: 11352840817
+R: 536874244
+
+Tag Pulse
+Reception: 46712
+Pulse: 135
+anchorT: 11382284700
+dT: 43982064
+syncT: 11396823139
+
+Master Sync
+Reception: 46713
+Sync: 141
+tS: 11338302636
+tSnew: 11432479498
+tM: 11352840807
+tMnew: 11447018227
+tMraw: 11447018237
+R: 536874244
+
+Tag Pulse
+Reception: 46714
+Pulse: 136
+anchorT: 11474522445
+dT: 42042947
+syncT: 11489061423
+
+Master Sync
+Reception: 46715
+Sync: 142
+tS: 11432479498
+tSnew: 11526655310
+tM: 11447018227
+tMnew: 11541194565
+tMraw: 11541194575
+R: 536874244
+
+Tag Pulse
+Reception: 46716
+Pulse: 137
+anchorT: 11566688643
+dT: 40033333
+syncT: 11581228121
+
+Master Sync
+Reception: 46717
+Sync: 143
+tS: 11526655310
+tSnew: 11620831298
+tM: 11541194565
+tMnew: 11635371015
+tMraw: 11635371025
+R: 536874244
+
+Tag Pulse
+Reception: 46718
+Pulse: 138
+anchorT: 11658894665
+dT: 38063367
+syncT: 11673434568
+
+Master Sync
+Reception: 46719
+Sync: 144
+tS: 11620831298
+tSnew: 11715010419
+tM: 11635371015
+tMnew: 11729550687
+tMraw: 11729550697
+R: 536874244
+
+Tag Pulse
+Reception: 46720
+Pulse: 139
+anchorT: 11751100366
+dT: 36089947
+syncT: 11765640845
+
+Master Sync
+Reception: 46721
+Sync: 145
+tS: 11715010419
+tSnew: 11809188604
+tM: 11729550687
+tMnew: 11823729461
+tMraw: 11823729471
+R: 536874244
+
+Tag Pulse
+Reception: 46722
+Pulse: 140
+anchorT: 11843302606
+dT: 34114002
+syncT: 11857843676
+
+Master Sync
+Reception: 46723
+Sync: 146
+tS: 11809188604
+tSnew: 11903366675
+tM: 11823729461
+tMnew: 11917907954
+tMraw: 11917907964
+R: 536874244
+
+Tag Pulse
+Reception: 46724
+Pulse: 141
+anchorT: 11935505270
+dT: 32138595
+syncT: 11950046693
+
+Master Sync
+Reception: 46725
+Sync: 147
+tS: 11903366675
+tSnew: 11997546454
+tM: 11917907954
+tMnew: 12012088235
+tMraw: 12012088245
+R: 536874244
+
+Tag Pulse
+Reception: 46726
+Pulse: 142
+anchorT: 12027709722
+dT: 30163268
+syncT: 12042251663
+
+Master Sync
+Reception: 46727
+Sync: 148
+tS: 11997546454
+tSnew: 12091760767
+tM: 12012088235
+tMnew: 12106303187
+tMraw: 12106303197
+R: 536874244
+
+Tag Pulse
+Reception: 46728
+Pulse: 143
+anchorT: 12119910688
+dT: 28149921
+syncT: 12134453298
+
+Master Sync
+Reception: 46729
+Sync: 149
+tS: 12091760767
+tSnew: 12185902092
+tM: 12106303187
+tMnew: 12200444957
+tMraw: 12200444967
+R: 536874244
+
+Tag Pulse
+Reception: 46730
+Pulse: 144
+anchorT: 12212113224
+dT: 26211132
+syncT: 12226656212
+
+Tag Pulse
+Reception: 46731
+Pulse: 145
+anchorT: 12304311826
+dT: 118409734
+syncT: 12318855250
+
+Master Sync
+Reception: 46732
+Sync: 151
+tS: 12185902092
+tSnew: 12374257314
+tM: 12200444957
+tMnew: 12388801296
+tMraw: 12388801306
+R: 536874244
+
+Tag Pulse
+Reception: 46733
+Pulse: 146
+anchorT: 12396514218
+dT: 22256904
+syncT: 12411058331
+
+Master Sync
+Reception: 46734
+Sync: 152
+tS: 12374257314
+tSnew: 12468435410
+tM: 12388801296
+tMnew: 12482979797
+tMraw: 12482979807
+R: 536874244
+
+Tag Pulse
+Reception: 46735
+Pulse: 147
+anchorT: 12488715946
+dT: 20280536
+syncT: 12503260420
+
+Master Sync
+Reception: 46736
+Sync: 153
+tS: 12468435410
+tSnew: 12562615181
+tM: 12482979797
+tMnew: 12577160166
+tMraw: 12577160176
+R: 536874244
+
+Tag Pulse
+Reception: 46737
+Pulse: 148
+anchorT: 12580918330
+dT: 18303149
+syncT: 12595463431
+
+Master Sync
+Reception: 46738
+Sync: 154
+tS: 12562615181
+tSnew: 12656793004
+tM: 12577160166
+tMnew: 12671338523
+tMraw: 12671338533
+R: 536874244
+
+Tag Pulse
+Reception: 46739
+Pulse: 149
+anchorT: 12673118759
+dT: 16325755
+syncT: 12687664370
+
+Master Sync
+Reception: 46740
+Sync: 155
+tS: 12656793004
+tSnew: 12750974850
+tM: 12671338523
+tMnew: 12765520679
+tMraw: 12765520689
+R: 536874244
+
+Tag Pulse
+Reception: 46741
+Pulse: 150
+anchorT: 12765316632
+dT: 14341782
+syncT: 12779862508
+
+Master Sync
+Reception: 46742
+Sync: 156
+tS: 12750974850
+tSnew: 12845150951
+tM: 12765520679
+tMnew: 12859697329
+tMraw: 12859697339
+R: 536874244
+
+Tag Pulse
+Reception: 46743
+Pulse: 151
+anchorT: 12857519225
+dT: 12368274
+syncT: 12872065675
+
+Master Sync
+Reception: 46744
+Sync: 157
+tS: 12845150951
+tSnew: 12939327837
+tM: 12859697329
+tMnew: 12953874909
+tMraw: 12953874919
+R: 536874244
+
+Tag Pulse
+Reception: 46745
+Pulse: 152
+anchorT: 12949719823
+dT: 10391986
+syncT: 12964266971
+
+Master Sync
+Reception: 46746
+Sync: 158
+tS: 12939327837
+tSnew: 13033505027
+tM: 12953874909
+tMnew: 13048052570
+tMraw: 13048052580
+R: 536874244
+
+Tag Pulse
+Reception: 46747
+Pulse: 153
+anchorT: 13041923537
+dT: 8418510
+syncT: 13056471122
+
+Master Sync
+Reception: 46748
+Sync: 159
+tS: 13033505027
+tSnew: 13127679310
+tM: 13048052570
+tMnew: 13142227345
+tMraw: 13142227355
+R: 536874244
+
+Tag Pulse
+Reception: 46749
+Pulse: 154
+anchorT: 13134129984
+dT: 6450674
+syncT: 13148678052
+
+Master Sync
+Reception: 46750
+Sync: 160
+tS: 13127679310
+tSnew: 13221851877
+tM: 13142227345
+tMnew: 13236400358
+tMraw: 13236400368
+R: 536874244
+
+Tag Pulse
+Reception: 46751
+Pulse: 155
+anchorT: 13226334772
+dT: 4482895
+syncT: 13240883274
+
+Master Sync
+Reception: 46752
+Sync: 161
+tS: 13221851877
+tSnew: 13316028002
+tM: 13236400358
+tMnew: 13330576921
+tMraw: 13330576931
+R: 536874244
+
+Tag Pulse
+Reception: 46753
+Pulse: 156
+anchorT: 13318575073
+dT: 2547071
+syncT: 13333124003
+
+Master Sync
+Reception: 46754
+Sync: 162
+tS: 13316028002
+tSnew: 13410206002
+tM: 13330576921
+tMnew: 13424755558
+tMraw: 13424755568
+R: 536874244
+
+Tag Pulse
+Reception: 46755
+Pulse: 158
+anchorT: 13502952591
+dT: 92746589
+syncT: 13517502774
+
+Master Sync
+Reception: 46756
+Sync: 163
+tS: 13410206002
+tSnew: 13504382712
+tM: 13424755558
+tMnew: 13518932818
+tMraw: 13518932828
+R: 536874244
+
+Tag Pulse
+Reception: 46757
+Pulse: 159
+anchorT: 13595157989
+dT: 90775277
+syncT: 13609708625
+
+Master Sync
+Reception: 46758
+Sync: 164
+tS: 13504382712
+tSnew: 13598544543
+tM: 13518932818
+tMnew: 13613095230
+tMraw: 13613095240
+R: 536874244
+
+Tag Pulse
+Reception: 46759
+Pulse: 160
+anchorT: 13687364516
+dT: 88819973
+syncT: 13701915751
+
+Master Sync
+Reception: 46760
+Sync: 165
+tS: 13598544543
+tSnew: 13692708136
+tM: 13613095230
+tMnew: 13707259268
+tMraw: 13707259278
+R: 536874244
+
+Tag Pulse
+Reception: 46761
+Pulse: 161
+anchorT: 13779573014
+dT: 86864878
+syncT: 13794124556
+
+Master Sync
+Reception: 46762
+Sync: 166
+tS: 13692708136
+tSnew: 13786873003
+tM: 13707259268
+tMnew: 13801424669
+tMraw: 13801424679
+R: 536874244
+
+Tag Pulse
+Reception: 46763
+Pulse: 162
+anchorT: 13871780720
+dT: 84907717
+syncT: 13886332867
+
+Master Sync
+Reception: 46764
+Sync: 167
+tS: 13786873003
+tSnew: 13881036068
+tM: 13801424669
+tMnew: 13895588243
+tMraw: 13895588253
+R: 536874244
+
+Tag Pulse
+Reception: 46765
+Pulse: 163
+anchorT: 13963990725
+dT: 82954657
+syncT: 13978543348
+
+Master Sync
+Reception: 46766
+Sync: 168
+tS: 13881036068
+tSnew: 13975236904
+tM: 13895588243
+tMnew: 13989789661
+tMraw: 13989789671
+R: 536874244
+
+Tag Pulse
+Reception: 46767
+Pulse: 164
+anchorT: 14056197565
+dT: 80960661
+syncT: 14070750822
+
+Master Sync
+Reception: 46768
+Sync: 169
+tS: 13975236904
+tSnew: 14069364328
+tM: 13989789661
+tMnew: 14083917441
+tMraw: 14083917451
+R: 536874244
+
+Tag Pulse
+Reception: 46769
+Pulse: 165
+anchorT: 14148401704
+dT: 79037376
+syncT: 14162955115
+
+Master Sync
+Reception: 46770
+Sync: 170
+tS: 14069364328
+tSnew: 14163527040
+tM: 14083917441
+tMnew: 14178080799
+tMraw: 14178080809
+R: 536874244
+
+Tag Pulse
+Reception: 46771
+Pulse: 166
+anchorT: 14240608632
+dT: 77081592
+syncT: 14255162919
+
+Master Sync
+Reception: 46772
+Sync: 171
+tS: 14163527040
+tSnew: 14257690946
+tM: 14178080799
+tMnew: 14272245222
+tMraw: 14272245232
+R: 536874244
+
+Tag Pulse
+Reception: 46773
+Pulse: 167
+anchorT: 14332817420
+dT: 75126474
+syncT: 14347372108
+
+Master Sync
+Reception: 46774
+Sync: 172
+tS: 14257690946
+tSnew: 14351854491
+tM: 14272245222
+tMnew: 14366409300
+tMraw: 14366409310
+R: 536874244
+
+Tag Pulse
+Reception: 46775
+Pulse: 168
+anchorT: 14425022409
+dT: 73167918
+syncT: 14439577632
+
+Master Sync
+Reception: 46776
+Sync: 173
+tS: 14351854491
+tSnew: 14446025793
+tM: 14366409300
+tMnew: 14460581215
+tMraw: 14460581225
+R: 536874244
+
+Tag Pulse
+Reception: 46777
+Pulse: 169
+anchorT: 14517229634
+dT: 71203841
+syncT: 14531785519
+
+Master Sync
+Reception: 46778
+Sync: 174
+tS: 14446025793
+tSnew: 14540200100
+tM: 14460581215
+tMnew: 14554755935
+tMraw: 14554755945
+R: 536874244
+
+Tag Pulse
+Reception: 46779
+Pulse: 170
+anchorT: 14609438221
+dT: 69238121
+syncT: 14623994359
+
+Master Sync
+Reception: 46780
+Sync: 175
+tS: 14540200100
+tSnew: 14634380737
+tM: 14554755935
+tMnew: 14648937225
+tMraw: 14648937235
+R: 536874244
+
+Tag Pulse
+Reception: 46781
+Pulse: 171
+anchorT: 14701646215
+dT: 67265478
+syncT: 14716203169
+
+Master Sync
+Reception: 46782
+Sync: 176
+tS: 14634380737
+tSnew: 14728558850
+tM: 14648937225
+tMnew: 14743115855
+tMraw: 14743115865
+R: 536874244
+
+Tag Pulse
+Reception: 46783
+Pulse: 172
+anchorT: 14793852750
+dT: 65293900
+syncT: 14808410113
+
+Master Sync
+Reception: 46784
+Sync: 177
+tS: 14728558850
+tSnew: 14822733741
+tM: 14743115855
+tMnew: 14837291175
+tMraw: 14837291185
+R: 536874244
+
+Tag Pulse
+Reception: 46785
+Pulse: 173
+anchorT: 14886059719
+dT: 63325978
+syncT: 14900617441
+
+Master Sync
+Reception: 46786
+Sync: 178
+tS: 14822733741
+tSnew: 14916909610
+tM: 14837291175
+tMnew: 14931467578
+tMraw: 14931467588
+R: 536874244
+
+Tag Pulse
+Reception: 46787
+Pulse: 174
+anchorT: 14978267994
+dT: 61358384
+syncT: 14992826309
+
+Master Sync
+Reception: 46788
+Sync: 179
+tS: 14916909610
+tSnew: 15011083060
+tM: 14931467578
+tMnew: 15025641392
+tMraw: 15025641402
+R: 536874244
+
+Tag Pulse
+Reception: 46789
+Pulse: 175
+anchorT: 15070475859
+dT: 59392799
+syncT: 15085034420
+
+Master Sync
+Reception: 46790
+Sync: 180
+tS: 15011083060
+tSnew: 15105256894
+tM: 15025641392
+tMnew: 15119815943
+tMraw: 15119815953
+R: 536874244
+
+Tag Pulse
+Reception: 46791
+Pulse: 176
+anchorT: 15162717523
+dT: 57460629
+syncT: 15177277009
+
+Master Sync
+Reception: 46792
+Sync: 181
+tS: 15105256894
+tSnew: 15199425921
+tM: 15119815943
+tMnew: 15213985478
+tMraw: 15213985488
+R: 536874244
+
+Tag Pulse
+Reception: 46793
+Pulse: 177
+anchorT: 15254882946
+dT: 55457025
+syncT: 15269442802
+
+Master Sync
+Reception: 46794
+Sync: 182
+tS: 15199425921
+tSnew: 15293589474
+tM: 15213985478
+tMnew: 15308149597
+tMraw: 15308149607
+R: 536874244
+
+Tag Pulse
+Reception: 46795
+Pulse: 178
+anchorT: 15347086389
+dT: 53496915
+syncT: 15361646833
+
+Master Sync
+Reception: 46796
+Sync: 183
+tS: 15293589474
+tSnew: 15387755431
+tM: 15308149597
+tMnew: 15402316055
+tMraw: 15402316065
+R: 536874244
+
+Tag Pulse
+Reception: 46797
+Pulse: 179
+anchorT: 15439287644
+dT: 51532213
+syncT: 15453848542
+
+Master Sync
+Reception: 46798
+Sync: 184
+tS: 15387755431
+tSnew: 15481930820
+tM: 15402316055
+tMnew: 15496491977
+tMraw: 15496491987
+R: 536874244
+
+Tag Pulse
+Reception: 46799
+Pulse: 180
+anchorT: 15531488315
+dT: 49557495
+syncT: 15546049752
+
+Master Sync
+Reception: 46800
+Sync: 185
+tS: 15481930820
+tSnew: 15576107299
+tM: 15496491977
+tMnew: 15590668988
+tMraw: 15590668998
+R: 536874244
+
+Tag Pulse
+Reception: 46801
+Pulse: 181
+anchorT: 15623687920
+dT: 47580621
+syncT: 15638249877
+
+Master Sync
+Reception: 46802
+Sync: 186
+tS: 15576107299
+tSnew: 15670286253
+tM: 15590668988
+tMnew: 15684848379
+tMraw: 15684848389
+R: 536874244
+
+Tag Pulse
+Reception: 46803
+Pulse: 182
+anchorT: 15715886491
+dT: 45600238
+syncT: 15730448828
+
+Master Sync
+Reception: 46804
+Sync: 187
+tS: 15670286253
+tSnew: 15764463308
+tM: 15684848379
+tMnew: 15779026023
+tMraw: 15779026033
+R: 536874244
+
+Tag Pulse
+Reception: 46805
+Pulse: 183
+anchorT: 15808085167
+dT: 43621859
+syncT: 15822648154
+
+Master Sync
+Reception: 46806
+Sync: 188
+tS: 15764463308
+tSnew: 15858671798
+tM: 15779026023
+tMnew: 15873235054
+tMraw: 15873235064
+R: 536874244
+
+Tag Pulse
+Reception: 46807
+Pulse: 184
+anchorT: 15900282865
+dT: 41611067
+syncT: 15914846359
+
+Master Sync
+Reception: 46808
+Sync: 189
+tS: 15858671798
+tSnew: 15952803757
+tM: 15873235054
+tMnew: 15967367610
+tMraw: 15967367620
+R: 536874244
+
+Tag Pulse
+Reception: 46809
+Pulse: 185
+anchorT: 15992485250
+dT: 39681493
+syncT: 16007049354
+
+Master Sync
+Reception: 46810
+Sync: 190
+tS: 15952803757
+tSnew: 16046982111
+tM: 15967367610
+tMnew: 16061546496
+tMraw: 16061546506
+R: 536874244
+
+Tag Pulse
+Reception: 46811
+Pulse: 186
+anchorT: 16084682403
+dT: 37700292
+syncT: 16099247000
+
+Master Sync
+Reception: 46812
+Sync: 191
+tS: 16046982111
+tSnew: 16141162788
+tM: 16061546496
+tMnew: 16155727682
+tMraw: 16155727692
+R: 536874244
+
+Tag Pulse
+Reception: 46813
+Pulse: 187
+anchorT: 16176878482
+dT: 35715694
+syncT: 16191443569
+
+Master Sync
+Reception: 46814
+Sync: 192
+tS: 16141162788
+tSnew: 16235341662
+tM: 16155727682
+tMnew: 16249907041
+tMraw: 16249907051
+R: 536874244
+
+Tag Pulse
+Reception: 46815
+Pulse: 188
+anchorT: 16269076044
+dT: 33734382
+syncT: 16283641596
+
+Master Sync
+Reception: 46816
+Sync: 193
+tS: 16235341662
+tSnew: 16329520000
+tM: 16249907041
+tMnew: 16344085927
+tMraw: 16344085937
+R: 536874244
+
+Tag Pulse
+Reception: 46817
+Pulse: 189
+anchorT: 16361276090
+dT: 31756090
+syncT: 16375842201
+
+Master Sync
+Reception: 46818
+Sync: 194
+tS: 16329520000
+tSnew: 16423701438
+tM: 16344085927
+tMnew: 16438267762
+tMraw: 16438267772
+R: 536874244
+
+Tag Pulse
+Reception: 46819
+Pulse: 190
+anchorT: 16453476016
+dT: 29774578
+syncT: 16468042465
+
+Master Sync
+Reception: 46820
+Sync: 195
+tS: 16423701438
+tSnew: 16517873751
+tM: 16438267762
+tMnew: 16532440615
+tMraw: 16532440625
+R: 536874244
+
+Tag Pulse
+Reception: 46821
+Pulse: 191
+anchorT: 16545675517
+dT: 27801766
+syncT: 16560242540
+
+Master Sync
+Reception: 46822
+Sync: 196
+tS: 16517873751
+tSnew: 16612047208
+tM: 16532440615
+tMnew: 16626614565
+tMraw: 16626614575
+R: 536874244
+
+Tag Pulse
+Reception: 46823
+Pulse: 192
+anchorT: 16637878992
+dT: 25831784
+syncT: 16652446484
+
+Tag Pulse
+Reception: 46824
+Pulse: 193
+anchorT: 16730079126
+dT: 118031918
+syncT: 16744647100
+
+Master Sync
+Reception: 46825
+Sync: 198
+tS: 16612047208
+tSnew: 16800400702
+tM: 16626614565
+tMnew: 16814969132
+tMraw: 16814969142
+R: 536874244
+
+Tag Pulse
+Reception: 46826
+Pulse: 194
+anchorT: 16822283283
+dT: 21882581
+syncT: 16836851837
+
+Master Sync
+Reception: 46827
+Sync: 199
+tS: 16800400702
+tSnew: 16894580162
+tM: 16814969132
+tMnew: 16909149172
+tMraw: 16909149182
+R: 536874244
+
+Tag Pulse
+Reception: 46828
+Pulse: 195
+anchorT: 16914488409
+dT: 19908247
+syncT: 16929057541
+
+Master Sync
+Reception: 46829
+Sync: 200
+tS: 16894580162
+tSnew: 16988761352
+tM: 16909149172
+tMnew: 17003330719
+tMraw: 17003330729
+R: 536874244
+
+Tag Pulse
+Reception: 46830
+Pulse: 196
+anchorT: 17006728374
+dT: 17967022
+syncT: 17021297809
+
+Master Sync
+Reception: 46831
+Sync: 201
+tS: 16988761352
+tSnew: 17082941420
+tM: 17003330719
+tMnew: 17097511480
+tMraw: 17097511490
+R: 536874244
+
+Tag Pulse
+Reception: 46832
+Pulse: 197
+anchorT: 17098894686
+dT: 15953266
+syncT: 17113464863
+
+Master Sync
+Reception: 46833
+Sync: 202
+tS: 17082941420
+tSnew: 17177121801
+tM: 17097511480
+tMnew: 17191692361
+tMraw: 17191692371
+R: 536874244
+
+Tag Pulse
+Reception: 46834
+Pulse: 198
+anchorT: 17191099356
+dT: 13977555
+syncT: 17205669990
+
+Master Sync
+Reception: 46835
+Sync: 203
+tS: 17177121801
+tSnew: 63899762
+tM: 17191692361
+tMnew: 78470783
+tMraw: 78470793
+R: 536874244
+
+Tag Pulse
+Reception: 46836
+Pulse: 199
+anchorT: 75901677
+dT: 12001915
+syncT: 90472761
+
+Master Sync
+Reception: 46837
+Sync: 204
+tS: 63899762
+tSnew: 158076810
+tM: 78470783
+tMnew: 172648435
+tMraw: 172648445
+R: 536874244
+
+Tag Pulse
+Reception: 46838
+Pulse: 200
+anchorT: 168106571
+dT: 10029761
+syncT: 182678260
+
+Master Sync
+Reception: 46839
+Sync: 205
+tS: 158076810
+tSnew: 252253393
+tM: 172648435
+tMnew: 266825623
+tMraw: 266825633
+R: 536874244
+
+Tag Pulse
+Reception: 46840
+Pulse: 201
+anchorT: 260306954
+dT: 8053561
+syncT: 274879235
+
+Master Sync
+Reception: 46841
+Sync: 206
+tS: 252253393
+tSnew: 346429544
+tM: 266825623
+tMnew: 361002305
+tMraw: 361002315
+R: 536874244
+
+Tag Pulse
+Reception: 46842
+Pulse: 202
+anchorT: 352509596
+dT: 6080052
+syncT: 367082391
+
+Master Sync
+Reception: 46843
+Sync: 207
+tS: 346429544
+tSnew: 440606391
+tM: 361002305
+tMnew: 455179645
+tMraw: 455179655
+R: 536874244
+
+Tag Pulse
+Reception: 46844
+Pulse: 203
+anchorT: 444713761
+dT: 4107370
+syncT: 459287036
+
+Master Sync
+Reception: 46845
+Sync: 208
+tS: 440606391
+tSnew: 534821804
+tM: 455179645
+tMnew: 549395446
+tMraw: 549395456
+R: 536874244
+
+Tag Pulse
+Reception: 46846
+Pulse: 204
+anchorT: 536915041
+dT: 2093237
+syncT: 551488691
+
+Master Sync
+Reception: 46847
+Sync: 209
+tS: 534821804
+tSnew: 628961705
+tM: 549395446
+tMnew: 643535911
+tMraw: 643535921
+R: 536874244
+
+Tag Pulse
+Reception: 46848
+Pulse: 206
+anchorT: 721318147
+dT: 92356442
+syncT: 735892906
+
+Master Sync
+Reception: 46849
+Sync: 210
+tS: 628961705
+tSnew: 723135588
+tM: 643535911
+tMnew: 737710318
+tMraw: 737710328
+R: 536874244
+
+Tag Pulse
+Reception: 46850
+Pulse: 207
+anchorT: 813520036
+dT: 90384448
+syncT: 828095268
+
+Master Sync
+Reception: 46851
+Sync: 211
+tS: 723135588
+tSnew: 817313758
+tM: 737710318
+tMnew: 831889156
+tMraw: 831889166
+R: 536874244
+
+Tag Pulse
+Reception: 46852
+Pulse: 208
+anchorT: 905721212
+dT: 88407454
+syncT: 920297237
+
+Master Sync
+Reception: 46853
+Sync: 212
+tS: 817313758
+tSnew: 911488145
+tM: 831889156
+tMnew: 926063932
+tMraw: 926063942
+R: 536874244
+
+Tag Pulse
+Reception: 46854
+Pulse: 209
+anchorT: 997920545
+dT: 86432400
+syncT: 1012496689
+
+Master Sync
+Reception: 46855
+Sync: 213
+tS: 911488145
+tSnew: 1005661612
+tM: 926063932
+tMnew: 1020237994
+tMraw: 1020238004
+R: 536874244
+
+Tag Pulse
+Reception: 46856
+Pulse: 210
+anchorT: 1090124470
+dT: 84462858
+syncT: 1104701385
+
+Master Sync
+Reception: 46857
+Sync: 214
+tS: 1005661612
+tSnew: 1099839838
+tM: 1020237994
+tMnew: 1114416624
+tMraw: 1114416634
+R: 536874244
+
+Tag Pulse
+Reception: 46858
+Pulse: 211
+anchorT: 1182329989
+dT: 82490151
+syncT: 1196907128
+
+Master Sync
+Reception: 46859
+Sync: 215
+tS: 1099839838
+tSnew: 1194019602
+tM: 1114416624
+tMnew: 1208597065
+tMraw: 1208597075
+R: 536874244
+
+Tag Pulse
+Reception: 46860
+Pulse: 212
+anchorT: 1274532832
+dT: 80513230
+syncT: 1289110873
+
+Master Sync
+Reception: 46861
+Sync: 216
+tS: 1194019602
+tSnew: 1288195889
+tM: 1208597065
+tMnew: 1302773723
+tMraw: 1302773733
+R: 536874244
+
+Tag Pulse
+Reception: 46862
+Pulse: 213
+anchorT: 1366739128
+dT: 78543239
+syncT: 1381317271
+
+Master Sync
+Reception: 46863
+Sync: 217
+tS: 1288195889
+tSnew: 1382367681
+tM: 1302773723
+tMnew: 1396946207
+tMraw: 1396946217
+R: 536874244
+
+Tag Pulse
+Reception: 46864
+Pulse: 214
+anchorT: 1458947172
+dT: 76579491
+syncT: 1473526260
+
+Master Sync
+Reception: 46865
+Sync: 218
+tS: 1382367681
+tSnew: 1476537397
+tM: 1396946207
+tMnew: 1491116336
+tMraw: 1491116346
+R: 536874244
+
+Tag Pulse
+Reception: 46866
+Pulse: 215
+anchorT: 1551153941
+dT: 74616544
+syncT: 1565733207
+
+Master Sync
+Reception: 46867
+Sync: 219
+tS: 1476537397
+tSnew: 1570700199
+tM: 1491116336
+tMnew: 1585279677
+tMraw: 1585279687
+R: 536874244
+
+Tag Pulse
+Reception: 46868
+Pulse: 216
+anchorT: 1643396391
+dT: 72696192
+syncT: 1657976285
+
+Master Sync
+Reception: 46869
+Sync: 220
+tS: 1570700199
+tSnew: 1664861190
+tM: 1585279677
+tMnew: 1679441312
+tMraw: 1679441322
+R: 536874244
+
+Tag Pulse
+Reception: 46870
+Pulse: 217
+anchorT: 1735566630
+dT: 70705440
+syncT: 1750147235
+
+Master Sync
+Reception: 46871
+Sync: 221
+tS: 1664861190
+tSnew: 1759023967
+tM: 1679441312
+tMnew: 1773604565
+tMraw: 1773604575
+R: 536874244
+
+Master Sync
+Reception: 46872
+Sync: 222
+tS: 1759023967
+tSnew: 1853189421
+tM: 1773604565
+tMnew: 1867770462
+tMraw: 1867770472
+R: 536874244
+
+Tag Pulse
+Reception: 46873
+Pulse: 219
+anchorT: 1919972709
+dT: 66783288
+syncT: 1934554064
+
+Master Sync
+Reception: 46874
+Sync: 223
+tS: 1853189421
+tSnew: 1947358616
+tM: 1867770462
+tMnew: 1961940302
+tMraw: 1961940312
+R: 536874244
+
+Tag Pulse
+Reception: 46875
+Pulse: 220
+anchorT: 2012176266
+dT: 64817650
+syncT: 2026758395
+
+Master Sync
+Reception: 46876
+Sync: 224
+tS: 1947358616
+tSnew: 2041536963
+tM: 1961940302
+tMnew: 2056119132
+tMraw: 2056119142
+R: 536874244
+
+Tag Pulse
+Reception: 46877
+Pulse: 221
+anchorT: 2104380703
+dT: 62843740
+syncT: 2118963194
+
+Master Sync
+Reception: 46878
+Sync: 225
+tS: 2041536963
+tSnew: 2135718555
+tM: 2056119132
+tMnew: 2150301199
+tMraw: 2150301209
+R: 536874244
+
+Tag Pulse
+Reception: 46879
+Pulse: 222
+anchorT: 2196584051
+dT: 60865496
+syncT: 2211167001
+
+Master Sync
+Reception: 46880
+Sync: 226
+tS: 2135718555
+tSnew: 2229899233
+tM: 2150301199
+tMnew: 2244482490
+tMraw: 2244482500
+R: 536874244
+
+Tag Pulse
+Reception: 46881
+Pulse: 223
+anchorT: 2288787952
+dT: 58888719
+syncT: 2303371592
+
+Master Sync
+Reception: 46882
+Sync: 227
+tS: 2229899233
+tSnew: 2324077067
+tM: 2244482490
+tMnew: 2338660855
+tMraw: 2338660865
+R: 536874244
+
+Tag Pulse
+Reception: 46883
+Pulse: 224
+anchorT: 2380995787
+dT: 56918720
+syncT: 2395579895
+
+Master Sync
+Reception: 46884
+Sync: 228
+tS: 2324077067
+tSnew: 2418289211
+tM: 2338660855
+tMnew: 2432873651
+tMraw: 2432873661
+R: 536874244
+
+Tag Pulse
+Reception: 46885
+Pulse: 225
+anchorT: 2473202910
+dT: 54913699
+syncT: 2487787730
+
+Master Sync
+Reception: 46886
+Sync: 229
+tS: 2418289211
+tSnew: 2512430947
+tM: 2432873651
+tMnew: 2527015871
+tMraw: 2527015881
+R: 536874244
+
+Tag Pulse
+Reception: 46887
+Pulse: 226
+anchorT: 2565403373
+dT: 52972426
+syncT: 2579988569
+
+Master Sync
+Reception: 46888
+Sync: 230
+tS: 2512430947
+tSnew: 2606605953
+tM: 2527015871
+tMnew: 2621191392
+tMraw: 2621191402
+R: 536874244
+
+Tag Pulse
+Reception: 46889
+Pulse: 227
+anchorT: 2657603925
+dT: 50997972
+syncT: 2672189642
+
+Master Sync
+Reception: 46890
+Sync: 231
+tS: 2606605953
+tSnew: 2700778979
+tM: 2621191392
+tMnew: 2715364861
+tMraw: 2715364871
+R: 536874244
+
+Tag Pulse
+Reception: 46891
+Pulse: 228
+anchorT: 2749810446
+dT: 49031467
+syncT: 2764396558
+
+Master Sync
+Reception: 46892
+Sync: 232
+tS: 2700778979
+tSnew: 2794952606
+tM: 2715364861
+tMnew: 2809539100
+tMraw: 2809539110
+R: 536874244
+
+Tag Pulse
+Reception: 46893
+Pulse: 229
+anchorT: 2842017528
+dT: 47064922
+syncT: 2856604327
+
+Master Sync
+Reception: 46894
+Sync: 233
+tS: 2794952606
+tSnew: 2889126256
+tM: 2809539100
+tMnew: 2903713179
+tMraw: 2903713189
+R: 536874244
+
+Tag Pulse
+Reception: 46895
+Pulse: 230
+anchorT: 2934220973
+dT: 45094717
+syncT: 2948808101
+
+Master Sync
+Reception: 46896
+Sync: 234
+tS: 2889126256
+tSnew: 2983302207
+tM: 2903713179
+tMnew: 2997889733
+tMraw: 2997889743
+R: 536874244
+
+Tag Pulse
+Reception: 46897
+Pulse: 231
+anchorT: 3026425515
+dT: 43123308
+syncT: 3041013317
+
+Master Sync
+Reception: 46898
+Sync: 235
+tS: 2983302207
+tSnew: 3077476123
+tM: 2997889733
+tMnew: 3092064108
+tMraw: 3092064118
+R: 536874244
+
+Tag Pulse
+Reception: 46899
+Pulse: 232
+anchorT: 3118629969
+dT: 41153846
+syncT: 3133218154
+
+Master Sync
+Reception: 46900
+Sync: 236
+tS: 3077476123
+tSnew: 3171651048
+tM: 3092064108
+tMnew: 3186239661
+tMraw: 3186239671
+R: 536874244
+
+Tag Pulse
+Reception: 46901
+Pulse: 233
+anchorT: 3210832235
+dT: 39181187
+syncT: 3225421109
+
+Master Sync
+Reception: 46902
+Sync: 237
+tS: 3171651048
+tSnew: 3265824210
+tM: 3186239661
+tMnew: 3280413251
+tMraw: 3280413261
+R: 536874244
+
+Tag Pulse
+Reception: 46903
+Pulse: 234
+anchorT: 3303035295
+dT: 37211085
+syncT: 3317624505
+
+Master Sync
+Reception: 46904
+Sync: 238
+tS: 3265824210
+tSnew: 3359997493
+tM: 3280413251
+tMnew: 3374586961
+tMraw: 3374586971
+R: 536874244
+
+Tag Pulse
+Reception: 46905
+Pulse: 235
+anchorT: 3395241592
+dT: 35244099
+syncT: 3409831219
+
+Master Sync
+Reception: 46906
+Sync: 239
+tS: 3359997493
+tSnew: 3454168749
+tM: 3374586961
+tMnew: 3468758603
+tMraw: 3468758613
+R: 536874244
+
+Tag Pulse
+Reception: 46907
+Pulse: 236
+anchorT: 3487479516
+dT: 33310767
+syncT: 3502069506
+
+Master Sync
+Reception: 46908
+Sync: 240
+tS: 3454168749
+tSnew: 3548341791
+tM: 3468758603
+tMnew: 3562932257
+tMraw: 3562932267
+R: 536874244
+
+Tag Pulse
+Reception: 46909
+Pulse: 237
+anchorT: 3579649859
+dT: 31308068
+syncT: 3594240528
+
+Master Sync
+Reception: 46910
+Sync: 241
+tS: 3548341791
+tSnew: 3642517662
+tM: 3562932257
+tMnew: 3657108756
+tMraw: 3657108766
+R: 536874244
+
+Tag Pulse
+Reception: 46911
+Pulse: 238
+anchorT: 3671854193
+dT: 29336531
+syncT: 3686445482
+
+Master Sync
+Reception: 46912
+Sync: 242
+tS: 3642517662
+tSnew: 3736688717
+tM: 3657108756
+tMnew: 3751280350
+tMraw: 3751280360
+R: 536874244
+
+Tag Pulse
+Reception: 46913
+Pulse: 239
+anchorT: 3764061684
+dT: 27372967
+syncT: 3778653473
+
+Master Sync
+Reception: 46914
+Sync: 243
+tS: 3736688717
+tSnew: 3830860886
+tM: 3751280350
+tMnew: 3845453010
+tMraw: 3845453020
+R: 536874244
+
+Tag Pulse
+Reception: 46915
+Pulse: 240
+anchorT: 3856267124
+dT: 25406238
+syncT: 3870859380
+
+Master Sync
+Reception: 46916
+Sync: 244
+tS: 3830860886
+tSnew: 3925032342
+tM: 3845453010
+tMnew: 3939625054
+tMraw: 3939625064
+R: 536874244
+
+Tag Pulse
+Reception: 46917
+Pulse: 241
+anchorT: 3948474174
+dT: 23441832
+syncT: 3963067032
+
+Master Sync
+Reception: 46918
+Sync: 245
+tS: 3925032342
+tSnew: 4019204984
+tM: 3939625054
+tMnew: 4033798235
+tMraw: 4033798245
+R: 536874244
+
+Tag Pulse
+Reception: 46919
+Pulse: 242
+anchorT: 4040680143
+dT: 21475159
+syncT: 4055273516
+
+Master Sync
+Reception: 46920
+Sync: 246
+tS: 4019204984
+tSnew: 4113381776
+tM: 4033798235
+tMnew: 4127975446
+tMraw: 4127975456
+R: 536874244
+
+Tag Pulse
+Reception: 46921
+Pulse: 243
+anchorT: 4132887899
+dT: 19506123
+syncT: 4147481655
+
+Master Sync
+Reception: 46922
+Sync: 247
+tS: 4113381776
+tSnew: 4207560580
+tM: 4127975446
+tMnew: 4222154821
+tMraw: 4222154831
+R: 536874244
+
+Tag Pulse
+Reception: 46923
+Pulse: 244
+anchorT: 4225096864
+dT: 17536284
+syncT: 4239691211
+
+Master Sync
+Reception: 46924
+Sync: 248
+tS: 4207560580
+tSnew: 4301771298
+tM: 4222154821
+tMnew: 4316365927
+tMraw: 4316365937
+R: 536874244
+
+Tag Pulse
+Reception: 46925
+Pulse: 245
+anchorT: 4317303450
+dT: 15532152
+syncT: 4331898142
+
+Master Sync
+Reception: 46926
+Sync: 249
+tS: 4301771298
+tSnew: 4395909197
+tM: 4316365927
+tMnew: 4410504445
+tMraw: 4410504455
+R: 536874244
+
+Tag Pulse
+Reception: 46927
+Pulse: 246
+anchorT: 4409511005
+dT: 13601808
+syncT: 4424106342
+
+Master Sync
+Reception: 46928
+Sync: 250
+tS: 4395909197
+tSnew: 4490088409
+tM: 4410504445
+tMnew: 4504684212
+tMraw: 4504684222
+R: 536874244
+
+Tag Pulse
+Reception: 46929
+Pulse: 247
+anchorT: 4501721245
+dT: 11632836
+syncT: 4516317116
+
+Master Sync
+Reception: 46930
+Sync: 251
+tS: 4490088409
+tSnew: 4584262157
+tM: 4504684212
+tMnew: 4598858379
+tMraw: 4598858389
+R: 536874244
+
+Tag Pulse
+Reception: 46931
+Pulse: 248
+anchorT: 4593930715
+dT: 9668558
+syncT: 4608526980
+
+Master Sync
+Reception: 46932
+Sync: 252
+tS: 4584262157
+tSnew: 4678438645
+tM: 4598858379
+tMnew: 4693035342
+tMraw: 4693035352
+R: 536874244
+
+Tag Pulse
+Reception: 46933
+Pulse: 249
+anchorT: 4686137830
+dT: 7699185
+syncT: 4700734565
+
+Master Sync
+Reception: 46934
+Sync: 253
+tS: 4678438645
+tSnew: 4772613322
+tM: 4693035342
+tMnew: 4787210623
+tMraw: 4787210633
+R: 536874244
+
+Tag Pulse
+Reception: 46935
+Pulse: 250
+anchorT: 4778348022
+dT: 5734700
+syncT: 4792945359
+
+Master Sync
+Reception: 46936
+Sync: 254
+tS: 4772613322
+tSnew: 4866793961
+tM: 4787210623
+tMnew: 4881391792
+tMraw: 4881391802
+R: 536874244
+
+Tag Pulse
+Reception: 46937
+Pulse: 251
+anchorT: 4870557645
+dT: 3763684
+syncT: 4885155497
+
+Master Sync
+Reception: 46938
+Sync: 255
+tS: 4866793961
+tSnew: 4960974544
+tM: 4881391792
+tMnew: 4975572906
+tMraw: 4975572916
+R: 536874244
+
+Tag Pulse
+Reception: 46939
+Pulse: 253
+anchorT: 5054974118
+dT: 93999574
+syncT: 5069573009
+
+Tag Pulse
+Reception: 46940
+Pulse: 254
+anchorT: 5147186561
+dT: 186212017
+syncT: 5161785972
+
+Master Sync
+Reception: 46941
+Sync: 1
+tS: 4960974544
+tSnew: 5149331511
+tM: 4975572906
+tMnew: 5163930919
+tMraw: 5163930929
+R: 536874244
+
+Tag Pulse
+Reception: 46942
+Pulse: 255
+anchorT: 5239398492
+dT: 90066981
+syncT: 5253998400
+
+Master Sync
+Reception: 46943
+Sync: 2
+tS: 5149331511
+tSnew: 5243511829
+tM: 5163930919
+tMnew: 5258111752
+tMraw: 5258111762
+R: 536874244
+
+Tag Pulse
+Reception: 46944
+Pulse: 0
+anchorT: 5331641744
+dT: 88129915
+syncT: 5346242148
+
+Master Sync
+Reception: 46945
+Sync: 3
+tS: 5243511829
+tSnew: 5337688967
+tM: 5258111752
+tMnew: 5352289581
+tMraw: 5352289591
+R: 536874244
+
+Tag Pulse
+Reception: 46946
+Pulse: 1
+anchorT: 5423810294
+dT: 86121327
+syncT: 5438411539
+
+Master Sync
+Reception: 46947
+Sync: 4
+tS: 5337688967
+tSnew: 5431863027
+tM: 5352289581
+tMnew: 5446464060
+tMraw: 5446464070
+R: 536874244
+
+Tag Pulse
+Reception: 46948
+Pulse: 2
+anchorT: 5516015526
+dT: 84152499
+syncT: 5530616933
+
+Master Sync
+Reception: 46949
+Sync: 5
+tS: 5431863027
+tSnew: 5526037977
+tM: 5446464060
+tMnew: 5540639597
+tMraw: 5540639607
+R: 536874244
+
+Tag Pulse
+Reception: 46950
+Pulse: 3
+anchorT: 5608223258
+dT: 82185281
+syncT: 5622825390
+
+Master Sync
+Reception: 46951
+Sync: 6
+tS: 5526037977
+tSnew: 5620217558
+tM: 5540639597
+tMnew: 5634819469
+tMraw: 5634819479
+R: 536874244
+
+Tag Pulse
+Reception: 46952
+Pulse: 4
+anchorT: 5700430870
+dT: 80213312
+syncT: 5715033028
+
+Master Sync
+Reception: 46953
+Sync: 7
+tS: 5620217558
+tSnew: 5714395657
+tM: 5634819469
+tMnew: 5728998163
+tMraw: 5728998173
+R: 536874244
+
+Tag Pulse
+Reception: 46954
+Pulse: 5
+anchorT: 5792636590
+dT: 78240933
+syncT: 5807239590
+
+Master Sync
+Reception: 46955
+Sync: 8
+tS: 5714395657
+tSnew: 5808573412
+tM: 5728998163
+tMnew: 5823176464
+tMraw: 5823176474
+R: 536874244
+
+Tag Pulse
+Reception: 46956
+Pulse: 6
+anchorT: 5884837928
+dT: 76264516
+syncT: 5899441422
+
+Master Sync
+Reception: 46957
+Sync: 9
+tS: 5808573412
+tSnew: 5902753362
+tM: 5823176464
+tMnew: 5917357041
+tMraw: 5917357051
+R: 536874244
+
+Tag Pulse
+Reception: 46958
+Pulse: 7
+anchorT: 5977039218
+dT: 74285856
+syncT: 5991643391
+
+Master Sync
+Reception: 46959
+Sync: 10
+tS: 5902753362
+tSnew: 5996928785
+tM: 5917357041
+tMnew: 6011532786
+tMraw: 6011532796
+R: 536874244
+
+Tag Pulse
+Reception: 46960
+Pulse: 8
+anchorT: 6069244386
+dT: 72315601
+syncT: 6083848634
+
+Master Sync
+Reception: 46961
+Sync: 11
+tS: 5996928785
+tSnew: 6091103951
+tM: 6011532786
+tMnew: 6105708539
+tMraw: 6105708549
+R: 536874244
+
+Tag Pulse
+Reception: 46962
+Pulse: 9
+anchorT: 6161450925
+dT: 70346974
+syncT: 6176055951
+
+Master Sync
+Reception: 46963
+Sync: 12
+tS: 6091103951
+tSnew: 6185314839
+tM: 6105708539
+tMnew: 6199920102
+tMraw: 6199920112
+R: 536874244
+
+Tag Pulse
+Reception: 46964
+Pulse: 10
+anchorT: 6253662583
+dT: 68347744
+syncT: 6268268335
+
+Master Sync
+Reception: 46965
+Sync: 13
+tS: 6185314839
+tSnew: 6279451392
+tM: 6199920102
+tMnew: 6294057041
+tMraw: 6294057051
+R: 536874244
+
+Tag Pulse
+Reception: 46966
+Pulse: 11
+anchorT: 6345872062
+dT: 66420670
+syncT: 6360477983
+
+Master Sync
+Reception: 46967
+Sync: 14
+tS: 6279451392
+tSnew: 6373627039
+tM: 6294057041
+tMnew: 6388233299
+tMraw: 6388233309
+R: 536874244
+
+Tag Pulse
+Reception: 46968
+Pulse: 12
+anchorT: 6438080900
+dT: 64453861
+syncT: 6452687578
+
