@@ -66,7 +66,7 @@ static uint32 status_reg = 0;
 #define SPEED_OF_LIGHT 299702547
 
 /* Hold time of flight (in nanoseconds) and distance (in meters) from master anchor here*/
-static double dist = 1;
+static double dist = 2.8;
 #define TOF (dist * 1e9 / SPEED_OF_LIGHT);
 
 static long long int rollover = 17.2 * 1e9;

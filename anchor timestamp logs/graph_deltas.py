@@ -80,38 +80,44 @@ def main(filestring,variableX, variableY):
     
     delta_y_diffs = reject_outliers(delta_y_diffs, m=1)
 
-    y_diffs_calibration = y_diffs[0,0:int(y_diffs.size / 4)]
-    print("dimensions of y_diffs_calibration:" + str(y_diffs_calibration.shape))
-    y_diffs_median = np.median(y_diffs_calibration)
+    # find median of calibration values
+    calib_len = 100
+    y_diffs_calibration = y_diffs[0,:calib_len]
+    print("dimensions of y_diffs_calibration: {}".format(y_diffs_calibration.shape))
+    y_diffs_calibration_median = np.median(y_diffs_calibration)
 
-    y_diffs = y_diffs[0,int(y_diffs.size / 4):]
-    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
+    # subtract calibration median 
+    median_cutoff = 2
+    y_diffs = y_diffs[0,calib_len:]
+    print("dimensions of post-calibration y_diffs: {}".format(y_diffs.shape))
+    if (abs(y_diffs_calibration_median) >= median_cutoff):
+        print("y_diffs_calibration_median: {}".format(y_diffs_calibration_median))
+        y_diffs = y_diffs - y_diffs_calibration_median
+        print("to compensate for median, y_diffs subtracted by {}".format(y_diffs_calibration_median))
     y_diffs = reject_outliers(y_diffs, m=1)
-    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
-    y_diffs = y_diffs - y_diffs_median
-    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
 
-    print("Stats of Direct Difference in Reception Timestamps between Anchors, for {}: Mean = {}, Original Median = {}, Adjusted Median = {}, St. Dev = {}"
-    .format(variableY,np.mean(y_diffs), np.median(y_diffs + y_diffs_median), np.median(y_diffs), np.std(y_diffs)))
+    dist = 280
+
+    print("Stats of Direct Difference in Reception Timestamps between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
+    .format(variableY,np.mean(y_diffs), np.median(y_diffs), np.std(y_diffs)))
 
     print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
     .format(variableY,np.mean(delta_y_diffs), np.median(delta_y_diffs), np.std(delta_y_diffs)))
 
-
-    print("graphing the corresponding difference between deltas of reception timestamps", variableY, "...\n")
+    print("graphing the corresponding difference between deltas of reception timestamps in", variableY, "...\n")
     plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
     plt.xlabel(variableX)
     plt.ylabel("difference in corresponding delta of receptions" + variableY) 
-    plt.title("At 280 CM Apart, Differences of Deltas in Corresponding Reception Timestamp Between Anchors \n in" 
+    plt.title("At " + str(dist) + " CM Apart, Differences of Deltas in Corresponding Reception Timestamp Between Anchors \n in " 
         + variableY + " over " + variableX)
     plt.show()
 
     print("graphing the direct difference between ", variableY, "...\n")
-    plt.scatter(np.arange(y_diffs.shape[0]),y_diffs)
+    plt.scatter(np.arange(y_diffs.shape[0]) + y_diffs_calibration.size,y_diffs)
     plt.xlabel(variableX)
     plt.ylabel("difference in direct time of reception in " + variableY) 
-    plt.title("At 280 CM Apart, Direct Difference in Corresponding Reception Timestamps Between Anchors \n in "
-        + variableY + " over " + variableX + " With Median Adjusted by " + y_diffs_median)
+    plt.title("At " + str(dist) + " CM Apart, Direct Difference in Corresponding Reception Timestamps Between Anchors \n in "
+        + variableY + " over " + variableX)
     plt.show()
 
 
