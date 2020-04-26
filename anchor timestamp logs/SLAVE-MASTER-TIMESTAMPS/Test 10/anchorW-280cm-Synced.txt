@@ -1,11 +1,4 @@
 Tag Pulse
-Reception: -1
-Pulse: -1
-anchorT: -1
-dT: -1
-syncT: -1
-
-Tag Pulse
 Reception: 75163
 Pulse: 39
 anchorT: 12193245683
