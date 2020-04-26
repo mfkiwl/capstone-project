@@ -20,6 +20,9 @@ notes:
 def reject_outliers(data, m=2):
     return data[abs(data - np.mean(data)) < m * np.std(data)]
 
+def reject_outliers_flat(deltas, m=6):
+    return deltas[abs(deltas) <= m]
+
 def main(filestring,variableX, variableY):
     list_x = list()
     list_y = list()
@@ -78,7 +81,7 @@ def main(filestring,variableX, variableY):
     print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
     print("dimensions of y_diffs:" + str(y_diffs.shape))
     
-    delta_y_diffs = reject_outliers(delta_y_diffs, m=1)
+    delta_y_diffs = reject_outliers(delta_y_diffs)
 
     # find median of calibration values
     calib_len = 100
@@ -94,7 +97,9 @@ def main(filestring,variableX, variableY):
         print("y_diffs_calibration_median: {}".format(y_diffs_calibration_median))
         y_diffs = y_diffs - y_diffs_calibration_median
         print("to compensate for median, y_diffs subtracted by {}".format(y_diffs_calibration_median))
-    y_diffs = reject_outliers(y_diffs, m=1)
+
+    y_diffs = reject_outliers_flat(y_diffs)
+    print("dimensions of post-calibration y_diffs WITHOUT outliers: {}".format(y_diffs.shape))
 
     dist = 280
 
@@ -104,14 +109,6 @@ def main(filestring,variableX, variableY):
     print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
     .format(variableY,np.mean(delta_y_diffs), np.median(delta_y_diffs), np.std(delta_y_diffs)))
 
-    print("graphing the corresponding difference between deltas of reception timestamps in", variableY, "...\n")
-    plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
-    plt.xlabel(variableX)
-    plt.ylabel("difference in corresponding delta of receptions" + variableY) 
-    plt.title("At " + str(dist) + " CM Apart, Differences of Deltas in Corresponding Reception Timestamp Between Anchors \n in " 
-        + variableY + " over " + variableX)
-    plt.show()
-
     print("graphing the direct difference between ", variableY, "...\n")
     plt.scatter(np.arange(y_diffs.shape[0]) + y_diffs_calibration.size,y_diffs)
     plt.xlabel(variableX)
@@ -119,6 +116,16 @@ def main(filestring,variableX, variableY):
     plt.title("At " + str(dist) + " CM Apart, Direct Difference in Corresponding Reception Timestamps Between Anchors \n in "
         + variableY + " over " + variableX)
     plt.show()
+
+    '''
+    print("graphing the corresponding difference between deltas of reception timestamps in", variableY, "...\n")
+    plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
+    plt.xlabel(variableX)
+    plt.ylabel("difference in corresponding delta of receptions" + variableY) 
+    plt.title("At " + str(dist) + " CM Apart, Differences of Deltas in Corresponding Reception Timestamp Between Anchors \n in " 
+        + variableY + " over " + variableX)
+    plt.show()
+    '''
 
 
 # Run the function.
