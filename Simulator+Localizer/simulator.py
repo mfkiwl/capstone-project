@@ -1,6 +1,3 @@
-import module_manager
-module_manager.review()
-
 from cmu_112_graphics import * 
 import time
 import math
@@ -12,13 +9,14 @@ from filterpy.common import Q_discrete_white_noise
 import sympy
 import matplotlib.pyplot as plt
 import random
+import csv
 pp = pprint.PrettyPrinter()
 ANCHORS = None 
 
 ##TEST SIMULATION PARAMETERS#########
 WITH_NOISE = True
-NOISE_STD_DEV = 2.5 #nanoseconds
-PULSE_FREQ = 10
+NOISE_STD_DEV = 1 #nanoseconds
+PULSE_FREQ = 5
 tagColor = 'black'
 anchorColor = 'red'
 linColor = 'purple'
@@ -64,7 +62,10 @@ def coordToGrid(x, y): #coord to row/col number
 
 def generateTestDesc(app):
     pathDesc = app.getUserInput("Path Description?")
-    desc = f"{len(ANCHORS)}A-Err:{WITH_NOISE}-Path:{pathDesc}"
+    if WITH_NOISE:
+        desc = f"{len(ANCHORS)}Anch-{NOISE_STD_DEV}nsNoise-{PULSE_FREQ}Freq-{pathDesc}"
+    else:
+        desc = f"{len(ANCHORS)}Anch-noNoise-{PULSE_FREQ}Freq-{pathDesc}"
     return desc
 
 class Tag(object):
@@ -106,21 +107,22 @@ def pulseAndStamp(app):
         if WITH_NOISE:
             noise = np.random.normal(0, NOISE_STD_DEV)
         tof=round(t+noise)
-        timeStampTuples.append((app.tag.id, anchor.id, round(t), anchorSyncTime+tof))
-    timeStampTuples.sort(key= lambda x: x[2])
+        info = dict()
+        info['tagID'] = app.tag.id
+        info['anchID'] = anchor.id
+        info['syncTime'] = anchorSyncTime
+        info['actTOF'] = round(t)
+        info['noise'] = noise
+        info['simTOF'] = tof
+        info['timestamp'] = anchorSyncTime+tof
+        timeStampTuples.append(info)
+    timeStampTuples.sort(key= lambda x: x["simTOF"])
     return timeStampTuples
 
-def linearLocalization(app, timestamps):
+def linearLocalization(app, T, tau):
     v = SPEED_OF_LIGHT / (10**9) # meters per nanosecond
     x = app.xs
-    y = app.ys
-    T = [None]*len(app.anchors)
-    for (id, stamp) in timestamps:
-        T[id] = stamp
-    tau = [None]*len(app.anchors) #all based on reference anchor 0
-    for id, t in enumerate(T):
-        tau[id] = t - T[0]
-        if tau[id]==0: tau[id] = 1*10**-9
+    y = app.ys        
     alpha = [None]*len(app.anchors)
     beta = [None]*len(app.anchors)
     gamma = [None]*len(app.anchors)
@@ -150,17 +152,10 @@ def linearLocalization(app, timestamps):
     # print((app.linEstX, app.linEstY))
     # print((-x2, -y2))
     
-def nonLinearLocalization(app, timestamps):
+def nonLinearLocalization(app, T, tau):
     v = SPEED_OF_LIGHT / (10**9) # meters per nanosecond
     x = app.xs
     y = app.ys
-    T = [None]*len(app.anchors)
-    for (id, stamp) in timestamps:
-        T[id] = stamp
-    tau = [None]*len(app.anchors) #all based on reference anchor 0
-    for id, t in enumerate(T):
-        tau[id] = t - T[0]
-        if tau[id]==0: tau[id] = 1*10**-9
     def hyperbolas(var):
         X = var[0]
         Y = var[1]
@@ -234,13 +229,23 @@ def extendedKalmanEst(app, timestamps):
 
 def runLocalization(app):
     simulatedData = pulseAndStamp(app)
-    justTimeStamps = list(map(lambda x: (x[1], x[3]), simulatedData))
+    justTimeStamps = list(map(lambda x: (x["anchID"], x["timestamp"]), simulatedData))
 
+    T = [None]*len(app.anchors)
+    for info in simulatedData:
+        T[info["anchID"]] = info["timestamp"]
+    tau = [None]*len(app.anchors) #all based on reference anchor 0
+    for id, t in enumerate(T):
+        tau[id] = t - T[0]
+        if tau[id]==0: tau[id] = 1*10**-9
+    app.taus.append(tau)
+    # print(tau)
     x, y = gridToCoord(app.tag.row, app.tag.col)
-    linX, linY = linearLocalization(app, justTimeStamps)
-    nLinX, nLinY = nonLinearLocalization(app, justTimeStamps)
+    linX, linY = linearLocalization(app, T, tau)
+    nLinX, nLinY = nonLinearLocalization(app, T, tau)
     filtX, filtY = extendedKalmanEst(app, justTimeStamps)
     if app.isCollecting:
+        app.times.append(round(simulatedData[0]["syncTime"]/1e9, 4))
         app.realLocs.append((x, y))
         app.linEstLocs.append((linX, linY))
         app.nonLinEstLocs.append((nLinX, nLinY))
@@ -280,6 +285,8 @@ def appStarted(app):
     app.linEstLocs = []
     app.nonLinEstLocs = []
     app.filterEstLocs = []
+    app.taus = []
+    app.times = []
     # app.court = app.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Basketball_court_fiba.svg/440px-Basketball_court_fiba.svg.png').transpose(Image.ROTATE_90).resize((1000,500))
     # app.court = app.loadImage('https://raw.githubusercontent.com/savvastj/nbaPlayerTracking/master/fullcourt.png').resize((1000,500))
     app.court = app.loadImage('decolored-court.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
@@ -300,7 +307,16 @@ def rmse(errors):
 
 
 def appStopped(app):
-    #create error reports after app is closed
+    store = app.getUserInput("Do you want to store sim information?(y/n)")
+    if store=='y':
+        # write sim to file
+        with open(f"sim_logs/{generateTestDesc(app)}.csv", "w", newline='') as f:
+            cW = csv.writer(f)
+            cW.writerow(["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY"])
+            for i in range(len(app.realLocs)):
+                cW.writerow(list(map(lambda x: round(x, 4), [i, app.times[i]-app.times[0], app.realLocs[i][0], app.realLocs[i][1], app.linEstLocs[i][0], app.linEstLocs[i][1], app.nonLinEstLocs[i][0], app.nonLinEstLocs[i][1], app.filterEstLocs[i][0], app.filterEstLocs[i][1]])))
+
+    # create error reports after app is closed
     print("*"*40, "\n"+"Error Report:")
     linErrs = []
     nonLinErrs = []
