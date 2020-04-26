@@ -69,43 +69,49 @@ def main(filestring,variableX, variableY):
     # delta_x = delta_x [delta_y >= 0]
     # delta_y = delta_y [delta_y >= 0]
     delta_y_diffs = np.diff(delta_y,axis=0)
+    y_diffs = np.diff(y,axis=0)
 
     print("dimensions of x:" + str(x.shape))
     print("dimensions of y:" + str(y.shape))
     print("dimensions of delta_x:" + str(delta_x.shape))
     print("dimensions of delta_y:" + str(delta_y.shape))
     print("dimensions of delta_y_diffs:" + str(delta_y_diffs.shape))
+    print("dimensions of y_diffs:" + str(y_diffs.shape))
     
-    '''
-    # Plot variableY
-    print("graphing", variableY, "...\n")
-    for i in range(y.shape[0]):
-        plt.scatter(x[i],y[i])
-    plt.xlabel(variableX)
-    plt.ylabel(variableY) 
-    plt.title("Anchor " + variableY + " over " + variableX)
-    plt.show()
-
-    # Plot the deltas of variableY & show their mean, STDEV
-    print("graphing the delta of", variableY, "...\n")
-    for i in range(delta_y.shape[0]):
-        plt.scatter(np.arange(delta_y.shape[1]),delta_y[i])
-        print("Anchor {} Timestamp Deltas in {}: Mean = {}, St. Dev = {}".format(i, variableY, np.mean(delta_y[i]), np.std(delta_y[i])))
-    plt.xlabel("between each " + variableX)
-    plt.ylabel("delta" + variableY) 
-    plt.title("Plot of Anchor Deltas in " + variableY + " against " + variableX)
-    plt.show()
-    '''
-    # Plot the difference in corresponding deltas of variableY
-
     delta_y_diffs = reject_outliers(delta_y_diffs, m=1)
 
-    print("graphing the difference between deltas of", variableY, "...\n")
-    print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, St. Dev = {}".format(variableY,np.mean(delta_y_diffs), np.std(delta_y_diffs)))
+    y_diffs_calibration = y_diffs[0,0:int(y_diffs.size / 4)]
+    print("dimensions of y_diffs_calibration:" + str(y_diffs_calibration.shape))
+    y_diffs_median = np.median(y_diffs_calibration)
+
+    y_diffs = y_diffs[0,int(y_diffs.size / 4):]
+    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
+    y_diffs = reject_outliers(y_diffs, m=1)
+    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
+    y_diffs = y_diffs - y_diffs_median
+    print("adjusted dimensions of y_diffs:" + str(y_diffs.shape))
+
+    print("Stats of Direct Difference in Reception Timestamps between Anchors, for {}: Mean = {}, Original Median = {}, Adjusted Median = {}, St. Dev = {}"
+    .format(variableY,np.mean(y_diffs), np.median(y_diffs + y_diffs_median), np.median(y_diffs), np.std(y_diffs)))
+
+    print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
+    .format(variableY,np.mean(delta_y_diffs), np.median(delta_y_diffs), np.std(delta_y_diffs)))
+
+
+    print("graphing the corresponding difference between deltas of reception timestamps", variableY, "...\n")
     plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
     plt.xlabel(variableX)
-    plt.ylabel("difference in corresponding delta" + variableY) 
-    plt.title("Differences of Corresponding Anchor Deltas in" + variableY + " over " + variableX)
+    plt.ylabel("difference in corresponding delta of receptions" + variableY) 
+    plt.title("At 280 CM Apart, Differences of Deltas in Corresponding Reception Timestamp Between Anchors \n in" 
+        + variableY + " over " + variableX)
+    plt.show()
+
+    print("graphing the direct difference between ", variableY, "...\n")
+    plt.scatter(np.arange(y_diffs.shape[0]),y_diffs)
+    plt.xlabel(variableX)
+    plt.ylabel("difference in direct time of reception in " + variableY) 
+    plt.title("At 280 CM Apart, Direct Difference in Corresponding Reception Timestamps Between Anchors \n in "
+        + variableY + " over " + variableX + " With Median Adjusted by " + y_diffs_median)
     plt.show()
 
 
