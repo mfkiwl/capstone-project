@@ -1,4311 +1,6833 @@
-Master Sync
-Sync: 112
-
-Tag Pulse
-ID: BL
-Pulse: 191
-syncT: 10023141400
-
-Tag Pulse
-ID: NK
-Pulse: 224
-syncT: 10071494432
-
-Tag Pulse
-ID: PR
-Pulse: 139
-syncT: 10093899624
-
-Master Sync
-Sync: 113
-
-Tag Pulse
-ID: BL
-Pulse: 192
-syncT: 10115335054
-
-Tag Pulse
-ID: NK
-Pulse: 225
-syncT: 10163971084
-
-Tag Pulse
-ID: PR
-Pulse: 140
-syncT: 10186894282
-
-Master Sync
-Sync: 114
-
-Tag Pulse
-ID: BL
-Pulse: 193
-syncT: 10207534149
-
-Tag Pulse
-ID: NK
-Pulse: 226
-syncT: 10256486429
-
-Tag Pulse
-ID: PR
-Pulse: 141
-syncT: 10279886918
-
-Master Sync
-Sync: 115
-
-Tag Pulse
-ID: BL
-Pulse: 194
-syncT: 10299730815
-
-Tag Pulse
-ID: NK
-Pulse: 227
-syncT: 10349000196
-
-Tag Pulse
-ID: PR
-Pulse: 142
-syncT: 10372878627
-
-Master Sync
-Sync: 116
-
-Tag Pulse
-ID: BL
-Pulse: 195
-syncT: 10391930558
-
-Tag Pulse
-ID: NK
-Pulse: 228
-syncT: 10441509425
-
-Tag Pulse
-ID: PR
-Pulse: 143
-syncT: 10465871380
-
-Master Sync
-Sync: 117
-
-Tag Pulse
-ID: BL
-Pulse: 196
-syncT: 10484129644
-
-Tag Pulse
-ID: NK
-Pulse: 229
-syncT: 10534019177
-
-Tag Pulse
-ID: PR
-Pulse: 144
-syncT: 10558903014
-
-Master Sync
-Sync: 118
-
-Tag Pulse
-ID: BL
-Pulse: 197
-syncT: 10576323567
-
-Tag Pulse
-ID: NK
-Pulse: 230
-syncT: 10626530329
-
-Tag Pulse
-ID: PR
-Pulse: 145
-syncT: 10651861302
-
-Master Sync
-Sync: 119
-
-Tag Pulse
-ID: BL
-Pulse: 198
-syncT: 10668513033
-
-Tag Pulse
-ID: NK
-Pulse: 231
-syncT: 10719044980
-
-Tag Pulse
-ID: PR
-Pulse: 146
-syncT: 10744853848
-
-Master Sync
-Sync: 120
-
-Tag Pulse
-ID: BL
-Pulse: 199
-syncT: 10760704444
-
-Tag Pulse
-ID: NK
-Pulse: 232
-syncT: 10811556772
-
-Tag Pulse
-ID: PR
-Pulse: 147
-syncT: 10837844154
-
-Master Sync
-Sync: 121
-
-Tag Pulse
-ID: BL
-Pulse: 200
-syncT: 10852928992
-
-Tag Pulse
-ID: NK
-Pulse: 233
-syncT: 10904073265
-
-Tag Pulse
-ID: PR
-Pulse: 148
-syncT: 10930834372
-
-Master Sync
-Sync: 122
-
-Tag Pulse
-ID: BL
-Pulse: 201
-syncT: 10945080241
-
-Tag Pulse
-ID: NK
-Pulse: 234
-syncT: 10996583218
-
-Tag Pulse
-ID: PR
-Pulse: 149
-syncT: 11023830327
-
-Master Sync
-Sync: 123
-
-Tag Pulse
-ID: NK
-Pulse: 235
-syncT: 11089099301
-
-Tag Pulse
-ID: PR
-Pulse: 150
-syncT: 11116827053
-
-Tag Pulse
-ID: BL
-Pulse: 203
-syncT: 11129456104
-
-Master Sync
-Sync: 124
-
-Tag Pulse
-ID: NK
-Pulse: 236
-syncT: 11181615683
-
-Tag Pulse
-ID: PR
-Pulse: 151
-syncT: 11209825022
-
-Tag Pulse
-ID: BL
-Pulse: 204
-syncT: 11221642425
-
-Master Sync
-Sync: 125
-
-Tag Pulse
-ID: NK
-Pulse: 237
-syncT: 11274133815
-
-Tag Pulse
-ID: PR
-Pulse: 152
-syncT: 11302822475
-
-Tag Pulse
-ID: BL
-Pulse: 205
-syncT: 11313828611
-
-Master Sync
-Sync: 126
-
-Tag Pulse
-ID: NK
-Pulse: 238
-syncT: 11366653112
-
-Tag Pulse
-ID: PR
-Pulse: 153
-syncT: 11395819500
-
-Tag Pulse
-ID: BL
-Pulse: 206
-syncT: 11406016758
-
-Master Sync
-Sync: 127
-
-Tag Pulse
-ID: NK
-Pulse: 239
-syncT: 11459168561
-
-Tag Pulse
-ID: PR
-Pulse: 154
-syncT: 11488816775
-
-Tag Pulse
-ID: BL
-Pulse: 207
-syncT: 11498206431
-
-Master Sync
-Sync: 128
-
-Tag Pulse
-ID: NK
-Pulse: 240
-syncT: 11551676357
-
-Tag Pulse
-ID: PR
-Pulse: 155
-syncT: 11581813534
-
-Tag Pulse
-ID: BL
-Pulse: 208
-syncT: 11590399053
-
-Master Sync
-Sync: 129
-
-Tag Pulse
-ID: NK
-Pulse: 241
-syncT: 11644187283
-
-Tag Pulse
-ID: PR
-Pulse: 156
-syncT: 11674811677
-
-Tag Pulse
-ID: BL
-Pulse: 209
-syncT: 11682593587
-
-Master Sync
-Sync: 130
-
-Tag Pulse
-ID: NK
-Pulse: 242
-syncT: 11736701323
-
-Tag Pulse
-ID: PR
-Pulse: 157
-syncT: 11767808420
-
-Tag Pulse
-ID: BL
-Pulse: 210
-syncT: 11774787196
-
-Master Sync
-Sync: 131
-
-Tag Pulse
-ID: NK
-Pulse: 243
-syncT: 11829220968
-
-Tag Pulse
-ID: PR
-Pulse: 158
-syncT: 11860804987
-
-Tag Pulse
-ID: BL
-Pulse: 211
-syncT: 11866979854
-
-Master Sync
-Sync: 132
-
-Tag Pulse
-ID: NK
-Pulse: 244
-syncT: 11921775268
-
-Tag Pulse
-ID: PR
-Pulse: 159
-syncT: 11953801378
-
-Tag Pulse
-ID: BL
-Pulse: 212
-syncT: 11959173667
-
-Master Sync
-Sync: 133
-
-Tag Pulse
-ID: NK
-Pulse: 245
-syncT: 12014260466
-
-Tag Pulse
-ID: PR
-Pulse: 160
-syncT: 12046798493
-
-Tag Pulse
-ID: BL
-Pulse: 213
-syncT: 12051368944
-
-Master Sync
-Sync: 134
-
-Tag Pulse
-ID: NK
-Pulse: 246
-syncT: 12106779445
-
-Tag Pulse
-ID: PR
-Pulse: 161
-syncT: 12139796322
-
-Tag Pulse
-ID: BL
-Pulse: 214
-syncT: 12143563837
-
-Master Sync
-Sync: 135
-
-Tag Pulse
-ID: NK
-Pulse: 247
-syncT: 12199300087
-
-Tag Pulse
-ID: PR
-Pulse: 162
-syncT: 12232792375
-
-Tag Pulse
-ID: BL
-Pulse: 215
-syncT: 12235757227
-
-Master Sync
-Sync: 136
-
-Tag Pulse
-ID: NK
-Pulse: 248
-syncT: 12291815064
-
-Tag Pulse
-ID: PR
-Pulse: 163
-syncT: 12325788055
-
-Tag Pulse
-ID: BL
-Pulse: 216
-syncT: 12327946107
-
-Master Sync
-Sync: 137
-
-Tag Pulse
-ID: NK
-Pulse: 249
-syncT: 12384334801
-
-Tag Pulse
-ID: PR
-Pulse: 164
-syncT: 12418821400
-
-Tag Pulse
-ID: BL
-Pulse: 217
-syncT: 12420137170
-
-Master Sync
-Sync: 138
-
-Tag Pulse
-ID: NK
-Pulse: 250
-syncT: 12476852724
-
-Tag Pulse
-ID: PR
-Pulse: 165
-syncT: 12511781390
-
-Master Sync
-Sync: 139
-
-Tag Pulse
-ID: NK
-Pulse: 251
-syncT: 12569372537
-
-Tag Pulse
-ID: BL
-Pulse: 219
-syncT: 12604527269
-
-Master Sync
-Sync: 140
-
-Tag Pulse
-ID: NK
-Pulse: 252
-syncT: 12661891418
-
-Tag Pulse
-ID: BL
-Pulse: 220
-syncT: 12696754657
-
-Tag Pulse
-ID: PR
-Pulse: 167
-syncT: 12697774990
-
-Master Sync
-Sync: 141
-
-Tag Pulse
-ID: NK
-Pulse: 253
-syncT: 12754409337
-
-Tag Pulse
-ID: BL
-Pulse: 221
-syncT: 12788913311
-
-Tag Pulse
-ID: PR
-Pulse: 168
-syncT: 12790771121
-
-Master Sync
-Sync: 142
-
-Tag Pulse
-ID: NK
-Pulse: 254
-syncT: 12846926673
-
-Tag Pulse
-ID: BL
-Pulse: 222
-syncT: 12881107335
-
-Tag Pulse
-ID: PR
-Pulse: 169
-syncT: 12883771405
-
-Master Sync
-Sync: 143
-
-Tag Pulse
-ID: NK
-Pulse: 255
-syncT: 12939441562
-
-Tag Pulse
-ID: BL
-Pulse: 223
-syncT: 12973304918
-
-Tag Pulse
-ID: PR
-Pulse: 170
-syncT: 12976769408
-
-Master Sync
-Sync: 144
-
-Tag Pulse
-ID: NK
-Pulse: 0
-syncT: 13031959683
-
-Tag Pulse
-ID: BL
-Pulse: 224
-syncT: 13065497426
-
-Tag Pulse
-ID: PR
-Pulse: 171
-syncT: 13069768364
-
-Master Sync
-Sync: 145
-
-Tag Pulse
-ID: NK
-Pulse: 1
-syncT: 13124478374
-
-Tag Pulse
-ID: BL
-Pulse: 225
-syncT: 13157692715
-
-Tag Pulse
-ID: PR
-Pulse: 172
-syncT: 13162775552
-
-Master Sync
-Sync: 146
-
-Tag Pulse
-ID: NK
-Pulse: 2
-syncT: 13216994416
-
-Tag Pulse
-ID: BL
-Pulse: 226
-syncT: 13249886871
-
-Tag Pulse
-ID: PR
-Pulse: 173
-syncT: 13255774990
-
-Master Sync
-Sync: 147
-
-Tag Pulse
-ID: NK
-Pulse: 3
-syncT: 13309513114
-
-Tag Pulse
-ID: BL
-Pulse: 227
-syncT: 13342084838
-
-Tag Pulse
-ID: PR
-Pulse: 174
-syncT: 13348774619
-
-Master Sync
-Sync: 148
-
-Tag Pulse
-ID: NK
-Pulse: 4
-syncT: 13402035299
-
-Tag Pulse
-ID: BL
-Pulse: 228
-syncT: 13434279977
-
-Tag Pulse
-ID: PR
-Pulse: 175
-syncT: 13441774431
-
-Master Sync
-Sync: 149
-
-Tag Pulse
-ID: NK
-Pulse: 5
-syncT: 13494556408
-
-Tag Pulse
-ID: BL
-Pulse: 229
-syncT: 13526473160
-
-Tag Pulse
-ID: PR
-Pulse: 176
-syncT: 13534774053
-
-Master Sync
-Sync: 150
-
-Tag Pulse
-ID: NK
-Pulse: 6
-syncT: 13587072167
-
-Tag Pulse
-ID: BL
-Pulse: 230
-syncT: 13618668796
-
-Tag Pulse
-ID: PR
-Pulse: 177
-syncT: 13627774168
-
-Master Sync
-Sync: 151
-
-Tag Pulse
-ID: NK
-Pulse: 7
-syncT: 13679586697
-
-Tag Pulse
-ID: BL
-Pulse: 231
-syncT: 13710864044
-
-Tag Pulse
-ID: PR
-Pulse: 178
-syncT: 13720776558
-
-Master Sync
-Sync: 152
-
-Tag Pulse
-ID: NK
-Pulse: 8
-syncT: 13772139699
-
-Tag Pulse
-ID: BL
-Pulse: 232
-syncT: 13803055641
-
-Tag Pulse
-ID: PR
-Pulse: 179
-syncT: 13813781468
-
-Master Sync
-Sync: 153
-
-Tag Pulse
-ID: NK
-Pulse: 9
-syncT: 13864617792
-
-Tag Pulse
-ID: BL
-Pulse: 233
-syncT: 13895252009
-
-Tag Pulse
-ID: PR
-Pulse: 180
-syncT: 13906777833
-
-Master Sync
-Sync: 154
-
-Tag Pulse
-ID: NK
-Pulse: 10
-syncT: 13957133475
-
-Tag Pulse
-ID: BL
-Pulse: 234
-syncT: 13987446540
-
-Tag Pulse
-ID: PR
-Pulse: 181
-syncT: 13999774904
-
-Tag Pulse
-ID: NK
-Pulse: 11
-syncT: 14049652012
-
-Tag Pulse
-ID: BL
-Pulse: 235
-syncT: 14079645228
-
-Tag Pulse
-ID: PR
-Pulse: 182
-syncT: 14092772970
-
-Tag Pulse
-ID: NK
-Pulse: 12
-syncT: 14142169692
-
-Master Sync
-Sync: 156
-
-Tag Pulse
-ID: BL
-Pulse: 236
-syncT: 14171839584
-
-Tag Pulse
-ID: PR
-Pulse: 183
-syncT: 14185768499
-
-Tag Pulse
-ID: NK
-Pulse: 13
-syncT: 14234696703
-
-Master Sync
-Sync: 157
-
-Tag Pulse
-ID: BL
-Pulse: 237
-syncT: 14264035984
-
-Tag Pulse
-ID: PR
-Pulse: 184
-syncT: 14278801220
-
-Tag Pulse
-ID: NK
-Pulse: 14
-syncT: 14327223054
-
-Master Sync
-Sync: 158
-
-Tag Pulse
-ID: BL
-Pulse: 238
-syncT: 14356233283
-
-Tag Pulse
-ID: PR
-Pulse: 185
-syncT: 14371760070
-
-Tag Pulse
-ID: NK
-Pulse: 15
-syncT: 14419743542
-
-Master Sync
-Sync: 159
-
-Tag Pulse
-ID: BL
-Pulse: 239
-syncT: 14448426303
-
-Tag Pulse
-ID: PR
-Pulse: 186
-syncT: 14464753751
-
-Tag Pulse
-ID: NK
-Pulse: 16
-syncT: 14512265579
-
-Master Sync
-Sync: 160
-
-Tag Pulse
-ID: BL
-Pulse: 240
-syncT: 14540658759
-
-Tag Pulse
-ID: PR
-Pulse: 187
-syncT: 14557753901
-
-Tag Pulse
-ID: NK
-Pulse: 17
-syncT: 14604787060
-
-Master Sync
-Sync: 161
-
-Tag Pulse
-ID: BL
-Pulse: 241
-syncT: 14632818323
-
-Tag Pulse
-ID: PR
-Pulse: 188
-syncT: 14650753180
-
-Tag Pulse
-ID: NK
-Pulse: 18
-syncT: 14697307138
-
-Master Sync
-Sync: 162
-
-Tag Pulse
-ID: BL
-Pulse: 242
-syncT: 14725016454
-
-Tag Pulse
-ID: PR
-Pulse: 189
-syncT: 14743751077
-
-Tag Pulse
-ID: NK
-Pulse: 19
-syncT: 14789823863
-
-Master Sync
-Sync: 163
-
-Tag Pulse
-ID: BL
-Pulse: 243
-syncT: 14817213083
-
-Tag Pulse
-ID: PR
-Pulse: 190
-syncT: 14836755130
-
-Tag Pulse
-ID: NK
-Pulse: 20
-syncT: 14882343119
-
-Master Sync
-Sync: 164
-
-Tag Pulse
-ID: BL
-Pulse: 244
-syncT: 14909406648
-
-Tag Pulse
-ID: PR
-Pulse: 191
-syncT: 14929757582
-
-Tag Pulse
-ID: NK
-Pulse: 21
-syncT: 14974860480
-
-Master Sync
-Sync: 165
-
-Tag Pulse
-ID: BL
-Pulse: 245
-syncT: 15001601841
-
-Tag Pulse
-ID: PR
-Pulse: 192
-syncT: 15022759733
-
-Tag Pulse
-ID: NK
-Pulse: 22
-syncT: 15067378955
-
-Master Sync
-Sync: 166
-
-Tag Pulse
-ID: BL
-Pulse: 246
-syncT: 15093799943
-
-Tag Pulse
-ID: PR
-Pulse: 193
-syncT: 15115756266
-
-Tag Pulse
-ID: NK
-Pulse: 23
-syncT: 15159897670
-
-Master Sync
-Sync: 167
-
-Tag Pulse
-ID: BL
-Pulse: 247
-syncT: 15185996840
-
-Tag Pulse
-ID: PR
-Pulse: 194
-syncT: 15208756970
-
-Tag Pulse
-ID: NK
-Pulse: 24
-syncT: 15252410753
-
-Master Sync
-Sync: 168
-
-Tag Pulse
-ID: BL
-Pulse: 248
-syncT: 15278193345
-
-Tag Pulse
-ID: PR
-Pulse: 195
-syncT: 15301753387
-
-Tag Pulse
-ID: NK
-Pulse: 25
-syncT: 15344923518
-
-Master Sync
-Sync: 169
-
-Tag Pulse
-ID: BL
-Pulse: 249
-syncT: 15370390711
-
-Tag Pulse
-ID: PR
-Pulse: 196
-syncT: 15394744258
-
-Tag Pulse
-ID: NK
-Pulse: 26
-syncT: 15437440096
-
-Tag Pulse
-ID: BL
-Pulse: 250
-syncT: 15462580452
-
-Tag Pulse
-ID: PR
-Pulse: 197
-syncT: 15487735948
-
-Tag Pulse
-ID: NK
-Pulse: 27
-syncT: 15529957202
-
-Tag Pulse
-ID: BL
-Pulse: 251
-syncT: 15554779810
-
-Master Sync
-Sync: 171
-
-Tag Pulse
-ID: PR
-Pulse: 198
-syncT: 15580731683
-
-Tag Pulse
-ID: NK
-Pulse: 28
-syncT: 15622515187
-
-Tag Pulse
-ID: BL
-Pulse: 252
-syncT: 15646975989
-
-Master Sync
-Sync: 172
-
-Tag Pulse
-ID: PR
-Pulse: 199
-syncT: 15673729731
-
-Tag Pulse
-ID: NK
-Pulse: 29
-syncT: 15715005021
-
-Tag Pulse
-ID: BL
-Pulse: 253
-syncT: 15739174080
-
-Master Sync
-Sync: 173
-
-Tag Pulse
-ID: PR
-Pulse: 200
-syncT: 15766728181
-
-Tag Pulse
-ID: NK
-Pulse: 30
-syncT: 15807528691
-
-Tag Pulse
-ID: BL
-Pulse: 254
-syncT: 15831371044
-
-Master Sync
-Sync: 174
-
-Tag Pulse
-ID: PR
-Pulse: 201
-syncT: 15859725715
-
-Tag Pulse
-ID: NK
-Pulse: 31
-syncT: 15900051153
-
-Tag Pulse
-ID: BL
-Pulse: 255
-syncT: 15923562763
-
-Master Sync
-Sync: 175
-
-Tag Pulse
-ID: PR
-Pulse: 202
-syncT: 15952720940
-
-Tag Pulse
-ID: NK
-Pulse: 32
-syncT: 15992568604
-
-Tag Pulse
-ID: BL
-Pulse: 0
-syncT: 16015754565
-
-Master Sync
-Sync: 176
-
-Tag Pulse
-ID: PR
-Pulse: 203
-syncT: 16045715592
-
-Tag Pulse
-ID: NK
-Pulse: 33
-syncT: 16085091404
-
-Tag Pulse
-ID: BL
-Pulse: 1
-syncT: 16107948751
-
-Master Sync
-Sync: 177
-
-Tag Pulse
-ID: PR
-Pulse: 204
-syncT: 16138743256
-
-Tag Pulse
-ID: NK
-Pulse: 34
-syncT: 16177610108
-
-Tag Pulse
-ID: BL
-Pulse: 2
-syncT: 16200146061
-
-Master Sync
-Sync: 178
-
-Tag Pulse
-ID: PR
-Pulse: 205
-syncT: 16231702430
-
-Tag Pulse
-ID: NK
-Pulse: 35
-syncT: 16270128956
-
-Tag Pulse
-ID: BL
-Pulse: 3
-syncT: 16292346010
-
-Master Sync
-Sync: 179
-
-Tag Pulse
-ID: PR
-Pulse: 206
-syncT: 16324701458
-
-Tag Pulse
-ID: NK
-Pulse: 36
-syncT: 16362651211
-
-Tag Pulse
-ID: BL
-Pulse: 4
-syncT: 16384579447
-
-Master Sync
-Sync: 180
-
-Tag Pulse
-ID: PR
-Pulse: 207
-syncT: 16417701222
-
-Tag Pulse
-ID: NK
-Pulse: 37
-syncT: 16455174733
-
-Tag Pulse
-ID: BL
-Pulse: 5
-syncT: 16476741824
-
-Master Sync
-Sync: 181
-
-Tag Pulse
-ID: PR
-Pulse: 208
-syncT: 16510697578
-
-Tag Pulse
-ID: NK
-Pulse: 38
-syncT: 16547694981
-
-Tag Pulse
-ID: BL
-Pulse: 6
-syncT: 16568938591
-
-Master Sync
-Sync: 182
-
-Tag Pulse
-ID: PR
-Pulse: 209
-syncT: 16603695968
-
-Tag Pulse
-ID: NK
-Pulse: 39
-syncT: 16640217291
-
-Tag Pulse
-ID: BL
-Pulse: 7
-syncT: 16661136396
-
-Master Sync
-Sync: 183
-
-Tag Pulse
-ID: PR
-Pulse: 210
-syncT: 16696695642
-
-Tag Pulse
-ID: NK
-Pulse: 40
-syncT: 16732735397
-
-Tag Pulse
-ID: BL
-Pulse: 8
-syncT: 16753332320
-
-Master Sync
-Sync: 184
-
-Tag Pulse
-ID: PR
-Pulse: 211
-syncT: 16789691587
-
-Tag Pulse
-ID: NK
-Pulse: 41
-syncT: 16825261818
-
-Tag Pulse
-ID: BL
-Pulse: 9
-syncT: 16845530363
-
-Master Sync
-Sync: 185
-
-Tag Pulse
-ID: PR
-Pulse: 212
-syncT: 16882687706
-
-Tag Pulse
-ID: NK
-Pulse: 42
-syncT: 16917782831
-
-Tag Pulse
-ID: BL
-Pulse: 10
-syncT: 16937729171
-
-Master Sync
-Sync: 186
-
-Tag Pulse
-ID: PR
-Pulse: 213
-syncT: 16975679268
-
-Tag Pulse
-ID: NK
-Pulse: 43
-syncT: 17010302636
-
-Tag Pulse
-ID: BL
-Pulse: 11
-syncT: 17029927511
-
-Master Sync
-Sync: 187
-
-Tag Pulse
-ID: PR
-Pulse: 214
-syncT: 17068673470
-
-Tag Pulse
-ID: NK
-Pulse: 44
-syncT: 17102823854
-
-Tag Pulse
-ID: BL
-Pulse: 12
-syncT: 17122124041
-
-Master Sync
-Sync: 188
-
-Tag Pulse
-ID: PR
-Pulse: 215
-syncT: 17161669605
-
-Tag Pulse
-ID: NK
-Pulse: 45
-syncT: 17195349089
-
-Tag Pulse
-ID: BL
-Pulse: 13
-syncT: 17214319463
-
-Master Sync
-Sync: 189
-
-Tag Pulse
-ID: PR
-Pulse: 216
-syncT: 47067216
-
-Tag Pulse
-ID: NK
-Pulse: 46
-syncT: 77667064
-
-Tag Pulse
-ID: BL
-Pulse: 14
-syncT: 94844005
-
-Master Sync
-Sync: 190
-
-Tag Pulse
-ID: PR
-Pulse: 217
-syncT: 140258674
-
-Tag Pulse
-ID: NK
-Pulse: 47
-syncT: 172996973
-
-Tag Pulse
-ID: BL
-Pulse: 15
-syncT: 191311896
-
-Master Sync
-Sync: 191
-
-Tag Pulse
-ID: NK
-Pulse: 48
-syncT: 265555755
-
-Tag Pulse
-ID: BL
-Pulse: 16
-syncT: 283510712
-
-Tag Pulse
-ID: PR
-Pulse: 219
-syncT: 326242944
-
-Master Sync
-Sync: 192
-
-Tag Pulse
-ID: NK
-Pulse: 49
-syncT: 358043708
-
-Tag Pulse
-ID: BL
-Pulse: 17
-syncT: 375706835
-
-Tag Pulse
-ID: PR
-Pulse: 220
-syncT: 419238246
-
-Master Sync
-Sync: 193
-
-Tag Pulse
-ID: NK
-Pulse: 50
-syncT: 450564534
-
-Tag Pulse
-ID: BL
-Pulse: 18
-syncT: 467897399
-
-Tag Pulse
-ID: PR
-Pulse: 221
-syncT: 512234997
-
-Master Sync
-Sync: 194
-
-Tag Pulse
-ID: NK
-Pulse: 51
-syncT: 543087591
-
-Tag Pulse
-ID: BL
-Pulse: 19
-syncT: 560086404
-
-Tag Pulse
-ID: PR
-Pulse: 222
-syncT: 605229914
-
-Master Sync
-Sync: 195
-
-Tag Pulse
-ID: NK
-Pulse: 52
-syncT: 635611653
-
-Tag Pulse
-ID: BL
-Pulse: 20
-syncT: 652278327
-
-Tag Pulse
-ID: PR
-Pulse: 223
-syncT: 698224861
-
-Master Sync
-Sync: 196
-
-Tag Pulse
-ID: NK
-Pulse: 53
-syncT: 728135076
-
-Tag Pulse
-ID: BL
-Pulse: 21
-syncT: 744467926
-
-Tag Pulse
-ID: PR
-Pulse: 224
-syncT: 791254138
-
-Master Sync
-Sync: 197
-
-Tag Pulse
-ID: NK
-Pulse: 54
-syncT: 820655637
-
-Tag Pulse
-ID: BL
-Pulse: 22
-syncT: 836654399
-
-Tag Pulse
-ID: PR
-Pulse: 225
-syncT: 884208563
-
-Master Sync
-Sync: 198
-
-Tag Pulse
-ID: NK
-Pulse: 55
-syncT: 913182925
-
-Tag Pulse
-ID: BL
-Pulse: 23
-syncT: 928839440
-
-Tag Pulse
-ID: PR
-Pulse: 226
-syncT: 977204203
-
-Master Sync
-Sync: 199
-
-Tag Pulse
-ID: NK
-Pulse: 56
-syncT: 1005706769
-
-Tag Pulse
-ID: BL
-Pulse: 24
-syncT: 1021060473
-
-Tag Pulse
-ID: PR
-Pulse: 227
-syncT: 1070192675
-
-Master Sync
-Sync: 200
-
-Tag Pulse
-ID: NK
-Pulse: 57
-syncT: 1098234341
-
-Tag Pulse
-ID: BL
-Pulse: 25
-syncT: 1113210662
-
-Tag Pulse
-ID: PR
-Pulse: 228
-syncT: 1163188708
-
-Master Sync
-Sync: 201
-
-Tag Pulse
-ID: NK
-Pulse: 58
-syncT: 1190762132
-
-Tag Pulse
-ID: BL
-Pulse: 26
-syncT: 1205393189
-
-Tag Pulse
-ID: PR
-Pulse: 229
-syncT: 1256185972
-
-Master Sync
-Sync: 202
-
-Tag Pulse
-ID: NK
-Pulse: 59
-syncT: 1283288062
-
-Tag Pulse
-ID: BL
-Pulse: 27
-syncT: 1297577145
-
-Tag Pulse
-ID: PR
-Pulse: 230
-syncT: 1349178353
-
-Master Sync
-Sync: 203
-
-Tag Pulse
-ID: NK
-Pulse: 60
-syncT: 1375814990
-
-Tag Pulse
-ID: BL
-Pulse: 28
-syncT: 1389762653
-
-Tag Pulse
-ID: PR
-Pulse: 231
-syncT: 1442172083
-
-Master Sync
-Sync: 204
-
-Tag Pulse
-ID: NK
-Pulse: 61
-syncT: 1468347161
-
-Tag Pulse
-ID: BL
-Pulse: 29
-syncT: 1481948162
-
-Tag Pulse
-ID: PR
-Pulse: 232
-syncT: 1535165780
-
-Master Sync
-Sync: 205
-
-Tag Pulse
-ID: NK
-Pulse: 62
-syncT: 1560874172
-
-Tag Pulse
-ID: BL
-Pulse: 30
-syncT: 1574133053
-
-Tag Pulse
-ID: PR
-Pulse: 233
-syncT: 1628158337
-
-Master Sync
-Sync: 206
-
-Tag Pulse
-ID: NK
-Pulse: 63
-syncT: 1653402612
-
-Tag Pulse
-ID: BL
-Pulse: 31
-syncT: 1666316503
-
-Tag Pulse
-ID: PR
-Pulse: 234
-syncT: 1721151009
-
-Master Sync
-Sync: 207
-
-Tag Pulse
-ID: NK
-Pulse: 64
-syncT: 1745929722
-
-Tag Pulse
-ID: BL
-Pulse: 32
-syncT: 1758503276
-
-Tag Pulse
-ID: PR
-Pulse: 235
-syncT: 1814146116
-
-Master Sync
-Sync: 208
-
-Tag Pulse
-ID: NK
-Pulse: 65
-syncT: 1838456731
-
-Tag Pulse
-ID: BL
-Pulse: 33
-syncT: 1850689467
-
-Tag Pulse
-ID: PR
-Pulse: 236
-syncT: 1907138914
-
-Master Sync
-Sync: 209
-
-Tag Pulse
-ID: NK
-Pulse: 66
-syncT: 1930981963
-
-Tag Pulse
-ID: BL
-Pulse: 34
-syncT: 1942871570
-
-Tag Pulse
-ID: PR
-Pulse: 237
-syncT: 2000133810
-
-Master Sync
-Sync: 210
-
-Tag Pulse
-ID: NK
-Pulse: 67
-syncT: 2023505459
-
-Tag Pulse
-ID: BL
-Pulse: 35
-syncT: 2035054040
-
-Tag Pulse
-ID: PR
-Pulse: 238
-syncT: 2093123990
-
-Tag Pulse
-ID: NK
-Pulse: 68
-syncT: 2116063227
-
-Tag Pulse
-ID: BL
-Pulse: 36
-syncT: 2127239474
-
-Tag Pulse
-ID: PR
-Pulse: 239
-syncT: 2186120622
-
-Tag Pulse
-ID: NK
-Pulse: 69
-syncT: 2208549447
-
-Master Sync
-Sync: 212
-
-Tag Pulse
-ID: BL
-Pulse: 37
-syncT: 2219427079
-
-Tag Pulse
-ID: PR
-Pulse: 240
-syncT: 2279123342
-
-Tag Pulse
-ID: NK
-Pulse: 70
-syncT: 2301075502
-
-Master Sync
-Sync: 213
-
-Tag Pulse
-ID: BL
-Pulse: 38
-syncT: 2311619461
-
-Tag Pulse
-ID: PR
-Pulse: 241
-syncT: 2372128265
-
-Tag Pulse
-ID: NK
-Pulse: 71
-syncT: 2393600189
-
-Master Sync
-Sync: 214
-
-Tag Pulse
-ID: BL
-Pulse: 39
-syncT: 2403811775
-
-Tag Pulse
-ID: PR
-Pulse: 242
-syncT: 2465127724
-
-Tag Pulse
-ID: NK
-Pulse: 72
-syncT: 2486124464
-
-Master Sync
-Sync: 215
-
-Tag Pulse
-ID: BL
-Pulse: 40
-syncT: 2496003542
-
-Tag Pulse
-ID: PR
-Pulse: 243
-syncT: 2558121836
-
-Tag Pulse
-ID: NK
-Pulse: 73
-syncT: 2578654396
-
-Master Sync
-Sync: 216
-
-Tag Pulse
-ID: BL
-Pulse: 41
-syncT: 2588192731
-
-Tag Pulse
-ID: PR
-Pulse: 244
-syncT: 2651146925
-
-Tag Pulse
-ID: NK
-Pulse: 74
-syncT: 2671180142
-
-Tag Pulse
-ID: BL
-Pulse: 42
-syncT: 2680384201
-
-Master Sync
-Sync: 217
-
-Tag Pulse
-ID: PR
-Pulse: 245
-syncT: 2744106722
-
-Tag Pulse
-ID: NK
-Pulse: 75
-syncT: 2763705737
-
-Tag Pulse
-ID: BL
-Pulse: 43
-syncT: 2772575852
-
-Master Sync
-Sync: 218
-
-Tag Pulse
-ID: PR
-Pulse: 246
-syncT: 2837097788
-
-Tag Pulse
-ID: NK
-Pulse: 76
-syncT: 2856233825
-
-Tag Pulse
-ID: BL
-Pulse: 44
-syncT: 2864801274
-
-Master Sync
-Sync: 219
-
-Tag Pulse
-ID: PR
-Pulse: 247
-syncT: 2930090164
-
-Tag Pulse
-ID: NK
-Pulse: 77
-syncT: 2948761042
-
-Tag Pulse
-ID: BL
-Pulse: 45
-syncT: 2956954279
-
-Master Sync
-Sync: 220
-
-Tag Pulse
-ID: PR
-Pulse: 248
-syncT: 3023084758
-
-Tag Pulse
-ID: NK
-Pulse: 78
-syncT: 3041289174
-
-Tag Pulse
-ID: BL
-Pulse: 46
-syncT: 3049147322
-
-Master Sync
-Sync: 221
-
-Tag Pulse
-ID: PR
-Pulse: 249
-syncT: 3116073559
-
-Tag Pulse
-ID: NK
-Pulse: 79
-syncT: 3133814473
-
-Tag Pulse
-ID: BL
-Pulse: 47
-syncT: 3141337666
-
-Master Sync
-Sync: 222
-
-Tag Pulse
-ID: PR
-Pulse: 250
-syncT: 3209064381
-
-Tag Pulse
-ID: NK
-Pulse: 80
-syncT: 3226342092
-
-Tag Pulse
-ID: BL
-Pulse: 48
-syncT: 3233530041
-
-Master Sync
-Sync: 223
-
-Tag Pulse
-ID: PR
-Pulse: 251
-syncT: 3302058331
-
-Tag Pulse
-ID: NK
-Pulse: 81
-syncT: 3318869408
-
-Tag Pulse
-ID: BL
-Pulse: 49
-syncT: 3325724226
-
-Master Sync
-Sync: 224
-
-Tag Pulse
-ID: PR
-Pulse: 252
-syncT: 3395045667
-
-Tag Pulse
-ID: NK
-Pulse: 82
-syncT: 3411394479
-
-Tag Pulse
-ID: BL
-Pulse: 50
-syncT: 3417917302
-
-Master Sync
-Sync: 225
-
-Tag Pulse
-ID: PR
-Pulse: 253
-syncT: 3488038781
-
-Tag Pulse
-ID: NK
-Pulse: 83
-syncT: 3503923222
-
-Tag Pulse
-ID: BL
-Pulse: 51
-syncT: 3510108256
-
-Master Sync
-Sync: 226
-
-Tag Pulse
-ID: PR
-Pulse: 254
-syncT: 3581030176
-
-Tag Pulse
-ID: NK
-Pulse: 84
-syncT: 3596449515
-
-Tag Pulse
-ID: BL
-Pulse: 52
-syncT: 3602296377
-
-Master Sync
-Sync: 227
-
-Tag Pulse
-ID: PR
-Pulse: 255
-syncT: 3674020128
-
-Tag Pulse
-ID: NK
-Pulse: 85
-syncT: 3688977022
-
-Tag Pulse
-ID: BL
-Pulse: 53
-syncT: 3694488088
-
-Master Sync
-Sync: 228
-
-Tag Pulse
-ID: PR
-Pulse: 0
-syncT: 3767012689
-
-Tag Pulse
-ID: NK
-Pulse: 86
-syncT: 3781504829
-
-Tag Pulse
-ID: BL
-Pulse: 54
-syncT: 3786681507
-
-Master Sync
-Sync: 229
-
-Tag Pulse
-ID: PR
-Pulse: 1
-syncT: 3860001101
-
-Tag Pulse
-ID: NK
-Pulse: 87
-syncT: 3874034495
-
-Tag Pulse
-ID: BL
-Pulse: 55
-syncT: 3878873849
-
-Master Sync
-Sync: 230
-
-Tag Pulse
-ID: PR
-Pulse: 2
-syncT: 3952991108
-
-Tag Pulse
-ID: NK
-Pulse: 88
-syncT: 3966596781
-
-Tag Pulse
-ID: BL
-Pulse: 56
-syncT: 3971061952
-
-Master Sync
-Sync: 231
-
-Tag Pulse
-ID: PR
-Pulse: 3
-syncT: 4045979765
-
-Tag Pulse
-ID: NK
-Pulse: 89
-syncT: 4059086014
-
-Tag Pulse
-ID: BL
-Pulse: 57
-syncT: 4063247176
-
-Master Sync
-Sync: 232
-
-Tag Pulse
-ID: PR
-Pulse: 4
-syncT: 4138973064
-
-Tag Pulse
-ID: NK
-Pulse: 90
-syncT: 4151610665
-
-Tag Pulse
-ID: BL
-Pulse: 58
-syncT: 4155429534
-
-Master Sync
-Sync: 233
-
-Tag Pulse
-ID: PR
-Pulse: 5
-syncT: 4231963597
-
-Tag Pulse
-ID: NK
-Pulse: 91
-syncT: 4244134614
-
-Tag Pulse
-ID: BL
-Pulse: 59
-syncT: 4247613631
-
-Master Sync
-Sync: 234
-
-Tag Pulse
-ID: PR
-Pulse: 6
-syncT: 4324956273
-
-Tag Pulse
-ID: NK
-Pulse: 92
-syncT: 4336656513
-
-Tag Pulse
-ID: BL
-Pulse: 60
-syncT: 4339800221
-
-Master Sync
-Sync: 235
-
-Tag Pulse
-ID: PR
-Pulse: 7
-syncT: 4417950309
-
-Tag Pulse
-ID: NK
-Pulse: 93
-syncT: 4429182903
-
-Tag Pulse
-ID: BL
-Pulse: 61
-syncT: 4431989980
-
-Master Sync
-Sync: 236
-
-Tag Pulse
-ID: PR
-Pulse: 8
-syncT: 4510979672
-
-Tag Pulse
-ID: NK
-Pulse: 94
-syncT: 4521705774
-
-Tag Pulse
-ID: BL
-Pulse: 62
-syncT: 4524175864
-
-Master Sync
-Sync: 237
-
-Tag Pulse
-ID: PR
-Pulse: 9
-syncT: 4603935050
-
-Tag Pulse
-ID: NK
-Pulse: 95
-syncT: 4614228645
-
-Tag Pulse
-ID: BL
-Pulse: 63
-syncT: 4616364826
-
-Master Sync
-Sync: 238
-
-Tag Pulse
-ID: PR
-Pulse: 10
-syncT: 4696933430
-
-Tag Pulse
-ID: NK
-Pulse: 96
-syncT: 4706753303
-
-Tag Pulse
-ID: BL
-Pulse: 64
-syncT: 4708588549
-
-Master Sync
-Sync: 239
-
-Tag Pulse
-ID: PR
-Pulse: 11
-syncT: 4789927137
-
-Tag Pulse
-ID: NK
-Pulse: 97
-syncT: 4799277512
-
-Tag Pulse
-ID: BL
-Pulse: 65
-syncT: 4800737399
-
-Master Sync
-Sync: 240
-
-Tag Pulse
-ID: PR
-Pulse: 12
-syncT: 4882918180
-
-Tag Pulse
-ID: NK
-Pulse: 98
-syncT: 4891798133
-
-Tag Pulse
-ID: BL
-Pulse: 66
-syncT: 4892923834
-
-Master Sync
-Sync: 241
-
-Tag Pulse
-ID: PR
-Pulse: 13
-syncT: 4975909844
-
-Tag Pulse
-ID: NK
-Pulse: 99
-syncT: 4984317696
-
-Master Sync
-Sync: 242
-
-Tag Pulse
-ID: PR
-Pulse: 14
-syncT: 5068901956
-
-Tag Pulse
-ID: NK
-Pulse: 100
-syncT: 5076842199
-
-Master Sync
-Sync: 243
-
-Tag Pulse
-ID: PR
-Pulse: 15
-syncT: 5161899178
-
-Tag Pulse
-ID: NK
-Pulse: 101
-syncT: 5169368871
-
-Master Sync
-Sync: 244
-
-Tag Pulse
-ID: PR
-Pulse: 16
-syncT: 5254892059
-
-Tag Pulse
-ID: BL
-Pulse: 70
-syncT: 5261658526
-
-Master Sync
-Sync: 245
-
-Tag Pulse
-ID: PR
-Pulse: 17
-syncT: 5347888267
-
-Tag Pulse
-ID: BL
-Pulse: 71
-syncT: 5353841332
-
-Master Sync
-Sync: 246
-
-Tag Pulse
-ID: PR
-Pulse: 18
-syncT: 5440888996
-
-Tag Pulse
-ID: BL
-Pulse: 72
-syncT: 5446026824
-
-Master Sync
-Sync: 247
-
-Tag Pulse
-ID: PR
-Pulse: 19
-syncT: 5533887386
-
-Tag Pulse
-ID: BL
-Pulse: 73
-syncT: 5538206716
-
-Tag Pulse
-ID: NK
-Pulse: 105
-syncT: 5539476545
-
-Master Sync
-Sync: 248
-
-Tag Pulse
-ID: PR
-Pulse: 20
-syncT: 5626886151
-
-Tag Pulse
-ID: BL
-Pulse: 74
-syncT: 5630387557
-
-Tag Pulse
-ID: NK
-Pulse: 106
-syncT: 5631999755
-
-Master Sync
-Sync: 249
-
-Tag Pulse
-ID: PR
-Pulse: 21
-syncT: 5719888422
-
-Tag Pulse
-ID: BL
-Pulse: 75
-syncT: 5722570604
-
-Tag Pulse
-ID: NK
-Pulse: 107
-syncT: 5724518086
-
-Master Sync
-Sync: 250
-
-Tag Pulse
-ID: PR
-Pulse: 22
-syncT: 5812884391
-
-Tag Pulse
-ID: BL
-Pulse: 76
-syncT: 5814756054
-
-Tag Pulse
-ID: NK
-Pulse: 108
-syncT: 5817076912
-
-Master Sync
-Sync: 251
-
-Tag Pulse
-ID: PR
-Pulse: 23
-syncT: 5905879774
-
-Tag Pulse
-ID: BL
-Pulse: 77
-syncT: 5906937742
-
 Tag Pulse
-ID: NK
-Pulse: 109
-syncT: 5909565547
+ID: N/A
+Pulse: -1
+syncT: -1
 
 Tag Pulse
 ID: PR
-Pulse: 24
-syncT: 5998875487
-
-Tag Pulse
-ID: NK
 Pulse: 110
-syncT: 6002080344
-
-Master Sync
-Sync: 253
+syncT: 4281292349
 
 Tag Pulse
 ID: BL
-Pulse: 79
-syncT: 6091304979
+Pulse: 64
+syncT: 4299343441
 
 Tag Pulse
 ID: NK
-Pulse: 111
-syncT: 6094597715
-
-Master Sync
-Sync: 254
-
-Tag Pulse
-ID: BL
-Pulse: 80
-syncT: 6183485262
-
-Tag Pulse
-ID: PR
-Pulse: 26
-syncT: 6184859209
-
-Tag Pulse
-ID: NK
-Pulse: 112
-syncT: 6187123941
-
-Master Sync
-Sync: 255
-
-Tag Pulse
-ID: BL
-Pulse: 81
-syncT: 6275669103
-
-Tag Pulse
-ID: PR
-Pulse: 27
-syncT: 6277846885
-
-Tag Pulse
-ID: NK
-Pulse: 113
-syncT: 6279648940
-
-Master Sync
-Sync: 0
-
-Tag Pulse
-ID: BL
-Pulse: 82
-syncT: 6367851899
-
-Tag Pulse
-ID: PR
-Pulse: 28
-syncT: 6370872058
-
-Tag Pulse
-ID: NK
-Pulse: 114
-syncT: 6372174802
-
-Master Sync
-Sync: 1
-
-Tag Pulse
-ID: BL
-Pulse: 83
-syncT: 6460037773
-
-Tag Pulse
-ID: PR
-Pulse: 29
-syncT: 6463830803
-
-Master Sync
-Sync: 2
-
-Tag Pulse
-ID: BL
-Pulse: 84
-syncT: 6552254664
-
-Tag Pulse
-ID: PR
-Pulse: 30
-syncT: 6556829104
-
-Master Sync
-Sync: 3
-
-Tag Pulse
-ID: BL
-Pulse: 85
-syncT: 6644399726
-
-Tag Pulse
-ID: NK
-Pulse: 117
-syncT: 6649752406
-
-Master Sync
-Sync: 4
-
-Tag Pulse
-ID: BL
-Pulse: 86
-syncT: 6736579433
-
-Tag Pulse
-ID: NK
-Pulse: 118
-syncT: 6742277848
-
-Master Sync
-Sync: 5
-
-Tag Pulse
-ID: BL
-Pulse: 87
-syncT: 6828762384
-
-Tag Pulse
-ID: NK
-Pulse: 119
-syncT: 6834805654
-
-Master Sync
-Sync: 6
-
-Tag Pulse
-ID: BL
-Pulse: 88
-syncT: 6920944517
-
-Tag Pulse
-ID: NK
-Pulse: 120
-syncT: 6927326219
-
-Tag Pulse
-ID: PR
-Pulse: 34
-syncT: 6928804511
-
-Tag Pulse
-ID: BL
-Pulse: 89
-syncT: 7005730134
-
-Tag Pulse
-ID: NK
-Pulse: 121
-syncT: 7012450303
-
-Tag Pulse
-ID: PR
-Pulse: 35
-syncT: 7014394964
-
-Tag Pulse
-ID: BL
-Pulse: 90
-syncT: 7097922769
-
-Master Sync
-Sync: 8
-
-Tag Pulse
-ID: NK
-Pulse: 122
-syncT: 7112574630
-
-Tag Pulse
-ID: PR
-Pulse: 36
-syncT: 7115084495
-
-Tag Pulse
-ID: BL
-Pulse: 91
-syncT: 7201193532
-
-Master Sync
-Sync: 9
-
-Tag Pulse
-ID: NK
-Pulse: 123
-syncT: 7204894487
-
-Tag Pulse
-ID: PR
-Pulse: 37
-syncT: 7207776331
-
-Tag Pulse
-ID: BL
-Pulse: 92
-syncT: 7289702743
-
-Master Sync
-Sync: 10
-
-Tag Pulse
-ID: NK
-Pulse: 124
-syncT: 7297419776
-
-Tag Pulse
-ID: PR
-Pulse: 38
-syncT: 7300769518
-
-Tag Pulse
-ID: BL
-Pulse: 93
-syncT: 7381893648
-
-Tag Pulse
-ID: NK
-Pulse: 125
-syncT: 7389948258
-
-Tag Pulse
-ID: PR
-Pulse: 39
-syncT: 7393762705
-
-Tag Pulse
-ID: BL
-Pulse: 94
-syncT: 7474086669
-
-Tag Pulse
-ID: NK
-Pulse: 126
-syncT: 7482477136
-
-Master Sync
-Sync: 12
-
-Tag Pulse
-ID: PR
-Pulse: 40
-syncT: 7486758149
-
-Tag Pulse
-ID: BL
-Pulse: 95
-syncT: 7566277180
-
-Tag Pulse
-ID: NK
-Pulse: 127
-syncT: 7575002905
-
-Master Sync
-Sync: 13
-
-Tag Pulse
-ID: PR
-Pulse: 41
-syncT: 7579757031
-
-Tag Pulse
-ID: BL
-Pulse: 96
-syncT: 7658468644
-
-Tag Pulse
-ID: NK
-Pulse: 128
-syncT: 7667563039
-
-Master Sync
-Sync: 14
-
-Tag Pulse
-ID: BL
-Pulse: 97
-syncT: 7750660151
-
-Tag Pulse
-ID: NK
-Pulse: 129
-syncT: 7760048772
-
-Tag Pulse
-ID: PR
-Pulse: 43
-syncT: 7765750664
-
-Tag Pulse
-ID: BL
-Pulse: 98
-syncT: 7842852253
-
-Tag Pulse
-ID: NK
-Pulse: 130
-syncT: 7852569310
-
-Tag Pulse
-ID: PR
-Pulse: 44
-syncT: 7858752763
-
-Master Sync
-Sync: 16
-
-Tag Pulse
-ID: BL
-Pulse: 99
-syncT: 7935045363
-
-Tag Pulse
-ID: NK
-Pulse: 131
-syncT: 7945090305
-
-Tag Pulse
-ID: PR
-Pulse: 45
-syncT: 7951750008
-
-Master Sync
-Sync: 17
-
-Tag Pulse
-ID: BL
-Pulse: 100
-syncT: 8027243099
-
-Tag Pulse
-ID: NK
-Pulse: 132
-syncT: 8037616997
-
-Tag Pulse
-ID: PR
-Pulse: 46
-syncT: 8044748040
-
-Master Sync
-Sync: 18
-
-Tag Pulse
-ID: BL
-Pulse: 101
-syncT: 8119438003
-
-Tag Pulse
-ID: NK
-Pulse: 133
-syncT: 8130139889
-
-Tag Pulse
-ID: PR
-Pulse: 47
-syncT: 8137748629
-
-Master Sync
-Sync: 19
-
-Tag Pulse
-ID: BL
-Pulse: 102
-syncT: 8211627571
-
-Tag Pulse
-ID: NK
-Pulse: 134
-syncT: 8222661041
-
-Tag Pulse
-ID: PR
-Pulse: 48
-syncT: 8230785428
-
-Master Sync
-Sync: 20
-
-Tag Pulse
-ID: BL
-Pulse: 103
-syncT: 8303819084
-
-Tag Pulse
-ID: NK
-Pulse: 135
-syncT: 8315185984
-
-Tag Pulse
-ID: PR
-Pulse: 49
-syncT: 8323749281
-
-Master Sync
-Sync: 21
-
-Tag Pulse
-ID: BL
-Pulse: 104
-syncT: 8396048084
-
-Tag Pulse
-ID: NK
-Pulse: 136
-syncT: 8407713053
-
-Tag Pulse
-ID: PR
-Pulse: 50
-syncT: 8416744593
-
-Master Sync
-Sync: 22
-
-Tag Pulse
-ID: BL
-Pulse: 105
-syncT: 8488200836
-
-Tag Pulse
-ID: NK
-Pulse: 137
-syncT: 8500240212
-
-Tag Pulse
-ID: PR
-Pulse: 51
-syncT: 8509738964
-
-Master Sync
-Sync: 23
-
-Tag Pulse
-ID: BL
-Pulse: 106
-syncT: 8580391986
-
-Tag Pulse
-ID: NK
-Pulse: 138
-syncT: 8592764079
-
-Tag Pulse
-ID: PR
-Pulse: 52
-syncT: 8602730743
-
-Master Sync
-Sync: 24
-
-Tag Pulse
-ID: BL
-Pulse: 107
-syncT: 8672585368
-
-Tag Pulse
-ID: NK
-Pulse: 139
-syncT: 8685290963
-
-Tag Pulse
-ID: PR
-Pulse: 53
-syncT: 8695725375
+Pulse: 205
+syncT: 4313594320
 
 Master Sync
 Sync: 25
 
 Tag Pulse
+ID: PR
+Pulse: 111
+syncT: 4374288283
+
+Tag Pulse
 ID: BL
-Pulse: 108
-syncT: 8764778050
+Pulse: 65
+syncT: 4391549802
 
 Tag Pulse
 ID: NK
-Pulse: 140
-syncT: 8777812336
-
-Tag Pulse
-ID: PR
-Pulse: 54
-syncT: 8788720345
+Pulse: 206
+syncT: 4406123247
 
 Master Sync
 Sync: 26
 
 Tag Pulse
+ID: PR
+Pulse: 112
+syncT: 4467283815
+
+Tag Pulse
 ID: BL
-Pulse: 109
-syncT: 8856967742
+Pulse: 66
+syncT: 4483758631
 
 Tag Pulse
 ID: NK
-Pulse: 141
-syncT: 8870333846
-
-Tag Pulse
-ID: PR
-Pulse: 55
-syncT: 8881720759
+Pulse: 207
+syncT: 4498648259
 
 Master Sync
 Sync: 27
 
 Tag Pulse
+ID: PR
+Pulse: 113
+syncT: 4560280188
+
+Tag Pulse
 ID: BL
-Pulse: 110
-syncT: 8949159625
+Pulse: 67
+syncT: 4575967469
 
 Tag Pulse
 ID: NK
-Pulse: 142
-syncT: 8962861070
-
-Tag Pulse
-ID: PR
-Pulse: 56
-syncT: 8974721354
+Pulse: 208
+syncT: 4591209032
 
 Master Sync
 Sync: 28
 
 Tag Pulse
+ID: PR
+Pulse: 114
+syncT: 4653275345
+
+Tag Pulse
 ID: BL
-Pulse: 111
-syncT: 9041350424
+Pulse: 68
+syncT: 4668207997
 
 Tag Pulse
 ID: NK
-Pulse: 143
-syncT: 9055380967
-
-Tag Pulse
-ID: PR
-Pulse: 57
-syncT: 9067723795
+Pulse: 209
+syncT: 4683699141
 
 Master Sync
 Sync: 29
 
 Tag Pulse
+ID: PR
+Pulse: 115
+syncT: 4746270095
+
+Tag Pulse
 ID: BL
-Pulse: 112
-syncT: 9133536836
+Pulse: 69
+syncT: 4760379099
 
 Tag Pulse
 ID: NK
-Pulse: 144
-syncT: 9147905325
-
-Tag Pulse
-ID: PR
-Pulse: 58
-syncT: 9160725995
+Pulse: 210
+syncT: 4776224382
 
 Master Sync
 Sync: 30
 
 Tag Pulse
+ID: PR
+Pulse: 116
+syncT: 4839261589
+
+Tag Pulse
 ID: BL
-Pulse: 113
-syncT: 9225727339
+Pulse: 70
+syncT: 4852585641
 
 Tag Pulse
 ID: NK
-Pulse: 145
-syncT: 9240427932
-
-Tag Pulse
-ID: PR
-Pulse: 59
-syncT: 9253720914
+Pulse: 211
+syncT: 4868756310
 
 Master Sync
 Sync: 31
 
 Tag Pulse
+ID: PR
+Pulse: 117
+syncT: 4932251633
+
+Tag Pulse
 ID: BL
-Pulse: 114
-syncT: 9317919156
+Pulse: 71
+syncT: 4944792982
 
 Tag Pulse
 ID: NK
-Pulse: 146
-syncT: 9332949136
-
-Tag Pulse
-ID: PR
-Pulse: 60
-syncT: 9346720200
+Pulse: 212
+syncT: 4961282798
 
 Master Sync
 Sync: 32
 
 Tag Pulse
+ID: PR
+Pulse: 118
+syncT: 5025246284
+
+Tag Pulse
 ID: BL
-Pulse: 115
-syncT: 9410108149
+Pulse: 72
+syncT: 5037002233
 
 Tag Pulse
 ID: NK
-Pulse: 147
-syncT: 9425469742
-
-Tag Pulse
-ID: PR
-Pulse: 61
-syncT: 9439716415
+Pulse: 213
+syncT: 5053813074
 
 Master Sync
 Sync: 33
 
 Tag Pulse
+ID: PR
+Pulse: 119
+syncT: 5118239759
+
+Tag Pulse
 ID: BL
-Pulse: 116
-syncT: 9502294925
+Pulse: 73
+syncT: 5129209786
 
 Tag Pulse
 ID: NK
-Pulse: 148
-syncT: 9518031322
-
-Tag Pulse
-ID: PR
-Pulse: 62
-syncT: 9532710174
+Pulse: 214
+syncT: 5146345478
 
 Master Sync
 Sync: 34
 
 Tag Pulse
+ID: PR
+Pulse: 120
+syncT: 5211235009
+
+Tag Pulse
 ID: BL
-Pulse: 117
-syncT: 9594483578
+Pulse: 74
+syncT: 5221420281
 
 Tag Pulse
 ID: NK
-Pulse: 149
-syncT: 9610520146
-
-Tag Pulse
-ID: PR
-Pulse: 63
-syncT: 9625708904
+Pulse: 215
+syncT: 5238877899
 
 Master Sync
 Sync: 35
 
 Tag Pulse
+ID: PR
+Pulse: 121
+syncT: 5304224585
+
+Tag Pulse
 ID: BL
-Pulse: 118
-syncT: 9686672407
+Pulse: 75
+syncT: 5313630942
 
 Tag Pulse
 ID: NK
-Pulse: 150
-syncT: 9703040662
-
-Tag Pulse
-ID: PR
-Pulse: 64
-syncT: 9718703040
+Pulse: 216
+syncT: 5331413087
 
 Master Sync
 Sync: 36
 
 Tag Pulse
+ID: PR
+Pulse: 122
+syncT: 5397214294
+
+Tag Pulse
 ID: BL
-Pulse: 119
-syncT: 9778858839
+Pulse: 76
+syncT: 5405838688
 
 Tag Pulse
 ID: NK
-Pulse: 151
-syncT: 9795557875
-
-Tag Pulse
-ID: PR
-Pulse: 65
-syncT: 9811697776
+Pulse: 217
+syncT: 5423942383
 
 Master Sync
 Sync: 37
 
 Tag Pulse
+ID: PR
+Pulse: 123
+syncT: 5490207689
+
+Tag Pulse
 ID: BL
-Pulse: 120
-syncT: 9871047093
+Pulse: 77
+syncT: 5498039470
 
 Tag Pulse
 ID: NK
-Pulse: 152
-syncT: 9888073347
-
-Tag Pulse
-ID: PR
-Pulse: 66
-syncT: 9904697577
+Pulse: 218
+syncT: 5516469325
 
 Master Sync
 Sync: 38
 
 Tag Pulse
+ID: PR
+Pulse: 124
+syncT: 5583238613
+
+Tag Pulse
 ID: BL
-Pulse: 121
-syncT: 9963237242
+Pulse: 78
+syncT: 5590243925
 
 Tag Pulse
 ID: NK
-Pulse: 153
-syncT: 9980591274
-
-Tag Pulse
-ID: PR
-Pulse: 67
-syncT: 9997694323
+Pulse: 219
+syncT: 5609002034
 
 Master Sync
 Sync: 39
 
 Tag Pulse
+ID: PR
+Pulse: 125
+syncT: 5676193628
+
+Tag Pulse
 ID: BL
-Pulse: 122
-syncT: 10055424608
+Pulse: 79
+syncT: 5682443418
 
 Tag Pulse
 ID: NK
-Pulse: 154
-syncT: 10073107499
-
-Tag Pulse
-ID: PR
-Pulse: 68
-syncT: 10090728464
+Pulse: 220
+syncT: 5701532747
 
 Master Sync
 Sync: 40
 
 Tag Pulse
+ID: PR
+Pulse: 126
+syncT: 5769188226
+
+Tag Pulse
 ID: BL
-Pulse: 123
-syncT: 10147611536
+Pulse: 80
+syncT: 5774643960
 
 Tag Pulse
 ID: NK
-Pulse: 155
-syncT: 10165630609
-
-Tag Pulse
-ID: PR
-Pulse: 69
-syncT: 10183691410
+Pulse: 221
+syncT: 5794063389
 
 Master Sync
 Sync: 41
 
 Tag Pulse
+ID: PR
+Pulse: 127
+syncT: 5862187956
+
+Tag Pulse
 ID: BL
-Pulse: 124
-syncT: 10239836319
+Pulse: 81
+syncT: 5866849413
 
 Tag Pulse
 ID: NK
-Pulse: 156
-syncT: 10258153064
-
-Tag Pulse
-ID: PR
-Pulse: 70
-syncT: 10276688237
+Pulse: 222
+syncT: 5886594516
 
 Master Sync
 Sync: 42
 
 Tag Pulse
+ID: PR
+Pulse: 128
+syncT: 5955183774
+
+Tag Pulse
 ID: BL
-Pulse: 125
-syncT: 10331989308
+Pulse: 82
+syncT: 5959053724
 
 Tag Pulse
 ID: NK
-Pulse: 157
-syncT: 10350674046
-
-Tag Pulse
-ID: PR
-Pulse: 71
-syncT: 10369687863
+Pulse: 223
+syncT: 5979127926
 
 Master Sync
 Sync: 43
 
 Tag Pulse
+ID: PR
+Pulse: 129
+syncT: 6048178555
+
+Tag Pulse
 ID: BL
-Pulse: 126
-syncT: 10424179084
+Pulse: 83
+syncT: 6051258255
 
 Tag Pulse
 ID: NK
-Pulse: 158
-syncT: 10443198537
-
-Tag Pulse
-ID: PR
-Pulse: 72
-syncT: 10462684016
+Pulse: 224
+syncT: 6071654089
 
 Master Sync
 Sync: 44
 
 Tag Pulse
+ID: PR
+Pulse: 130
+syncT: 6141174918
+
+Tag Pulse
 ID: BL
-Pulse: 127
-syncT: 10516370638
+Pulse: 84
+syncT: 6143462662
 
 Tag Pulse
 ID: NK
-Pulse: 159
-syncT: 10535724040
-
-Tag Pulse
-ID: PR
-Pulse: 73
-syncT: 10555683381
+Pulse: 225
+syncT: 6164179774
 
 Master Sync
 Sync: 45
 
 Tag Pulse
+ID: PR
+Pulse: 131
+syncT: 6234168580
+
+Tag Pulse
 ID: BL
-Pulse: 128
-syncT: 10608564346
+Pulse: 85
+syncT: 6235664147
 
 Tag Pulse
 ID: NK
-Pulse: 160
-syncT: 10628246830
-
-Tag Pulse
-ID: PR
-Pulse: 74
-syncT: 10648682585
+Pulse: 226
+syncT: 6256702973
 
 Master Sync
 Sync: 46
 
 Tag Pulse
-ID: BL
-Pulse: 129
-syncT: 10700754946
+ID: PR
+Pulse: 132
+syncT: 6327159227
 
 Tag Pulse
 ID: NK
-Pulse: 161
-syncT: 10720772227
-
-Tag Pulse
-ID: PR
-Pulse: 75
-syncT: 10741681913
+Pulse: 227
+syncT: 6349226196
 
 Master Sync
 Sync: 47
 
 Tag Pulse
 ID: BL
-Pulse: 130
-syncT: 10792949172
+Pulse: 87
+syncT: 6420068731
 
 Tag Pulse
 ID: NK
-Pulse: 162
-syncT: 10813296913
-
-Tag Pulse
-ID: PR
-Pulse: 76
-syncT: 10834679751
+Pulse: 228
+syncT: 6441785742
 
 Master Sync
 Sync: 48
 
 Tag Pulse
 ID: BL
-Pulse: 131
-syncT: 10885140866
+Pulse: 88
+syncT: 6512307341
 
 Tag Pulse
 ID: NK
-Pulse: 163
-syncT: 10905817634
-
-Tag Pulse
-ID: PR
-Pulse: 77
-syncT: 10927675644
+Pulse: 229
+syncT: 6534275582
 
 Master Sync
 Sync: 49
 
 Tag Pulse
 ID: BL
-Pulse: 132
-syncT: 10977333445
-
-Tag Pulse
-ID: NK
-Pulse: 164
-syncT: 10998333974
+Pulse: 89
+syncT: 6604473061
 
 Tag Pulse
 ID: PR
-Pulse: 78
-syncT: 11020675212
+Pulse: 135
+syncT: 6606138329
+
+Tag Pulse
+ID: NK
+Pulse: 230
+syncT: 6626804105
 
 Master Sync
 Sync: 50
 
 Tag Pulse
 ID: BL
-Pulse: 133
-syncT: 11069526582
-
-Tag Pulse
-ID: NK
-Pulse: 165
-syncT: 11090856517
+Pulse: 90
+syncT: 6696674492
 
 Tag Pulse
 ID: PR
-Pulse: 79
-syncT: 11113679143
+Pulse: 136
+syncT: 6699129308
+
+Tag Pulse
+ID: NK
+Pulse: 231
+syncT: 6719329045
 
 Master Sync
 Sync: 51
 
 Tag Pulse
 ID: BL
-Pulse: 134
-syncT: 11161717394
-
-Tag Pulse
-ID: NK
-Pulse: 166
-syncT: 11183374620
+Pulse: 91
+syncT: 6788875993
 
 Tag Pulse
 ID: PR
-Pulse: 80
-syncT: 11206683342
+Pulse: 137
+syncT: 6792122854
+
+Tag Pulse
+ID: NK
+Pulse: 232
+syncT: 6811858784
 
 Master Sync
 Sync: 52
 
 Tag Pulse
 ID: BL
-Pulse: 135
-syncT: 11253909922
-
-Tag Pulse
-ID: NK
-Pulse: 167
-syncT: 11275897041
+Pulse: 92
+syncT: 6881076792
 
 Tag Pulse
 ID: PR
-Pulse: 81
-syncT: 11299681965
+Pulse: 138
+syncT: 6885116373
+
+Tag Pulse
+ID: NK
+Pulse: 233
+syncT: 6904391411
 
 Master Sync
 Sync: 53
 
 Tag Pulse
-ID: NK
-Pulse: 168
-syncT: 11368453900
+ID: BL
+Pulse: 93
+syncT: 6973279876
 
 Tag Pulse
 ID: PR
-Pulse: 82
-syncT: 11392677765
+Pulse: 139
+syncT: 6978109673
 
 Tag Pulse
-ID: BL
-Pulse: 137
-syncT: 11438296809
+ID: NK
+Pulse: 234
+syncT: 6996921332
 
 Master Sync
 Sync: 54
 
 Tag Pulse
-ID: NK
-Pulse: 169
-syncT: 11460940628
+ID: BL
+Pulse: 94
+syncT: 7065481008
 
 Tag Pulse
 ID: PR
-Pulse: 83
-syncT: 11485674439
+Pulse: 140
+syncT: 7071100021
 
 Tag Pulse
-ID: BL
-Pulse: 138
-syncT: 11530492669
+ID: NK
+Pulse: 235
+syncT: 7089454736
 
 Master Sync
 Sync: 55
 
 Tag Pulse
-ID: NK
-Pulse: 170
-syncT: 11553461009
+ID: BL
+Pulse: 95
+syncT: 7157684129
 
 Tag Pulse
 ID: PR
-Pulse: 84
-syncT: 11578669334
+Pulse: 141
+syncT: 7164090983
 
 Tag Pulse
-ID: BL
-Pulse: 139
-syncT: 11622684493
+ID: NK
+Pulse: 236
+syncT: 7181984874
 
 Master Sync
 Sync: 56
 
 Tag Pulse
-ID: NK
-Pulse: 171
-syncT: 11645986672
+ID: BL
+Pulse: 96
+syncT: 7249886163
 
 Tag Pulse
 ID: PR
-Pulse: 85
-syncT: 11671665162
+Pulse: 142
+syncT: 7257084916
 
 Tag Pulse
-ID: BL
-Pulse: 140
-syncT: 11714876913
+ID: NK
+Pulse: 237
+syncT: 7274519518
 
 Master Sync
 Sync: 57
 
 Tag Pulse
-ID: NK
-Pulse: 172
-syncT: 11738512866
+ID: BL
+Pulse: 97
+syncT: 7342089048
 
 Tag Pulse
 ID: PR
-Pulse: 86
-syncT: 11764662497
+Pulse: 143
+syncT: 7350074459
 
 Tag Pulse
-ID: BL
-Pulse: 141
-syncT: 11807069905
+ID: NK
+Pulse: 238
+syncT: 7367054453
 
 Master Sync
 Sync: 58
 
 Tag Pulse
-ID: NK
-Pulse: 173
-syncT: 11831034807
+ID: BL
+Pulse: 98
+syncT: 7434293464
 
 Tag Pulse
 ID: PR
-Pulse: 87
-syncT: 11857659128
+Pulse: 144
+syncT: 7443102674
 
 Tag Pulse
-ID: BL
-Pulse: 142
-syncT: 11899262281
+ID: NK
+Pulse: 239
+syncT: 7459588451
 
 Master Sync
 Sync: 59
 
 Tag Pulse
-ID: NK
-Pulse: 174
-syncT: 11923556349
+ID: PR
+Pulse: 145
+syncT: 7536058199
 
 Tag Pulse
-ID: PR
-Pulse: 88
-syncT: 11950689341
+ID: NK
+Pulse: 240
+syncT: 7552122620
 
 Tag Pulse
 ID: BL
-Pulse: 143
-syncT: 11991451543
+Pulse: 100
+syncT: 7618695448
 
 Master Sync
 Sync: 60
 
 Tag Pulse
-ID: NK
-Pulse: 175
-syncT: 12016079962
+ID: PR
+Pulse: 146
+syncT: 7629051413
 
 Tag Pulse
-ID: PR
-Pulse: 89
-syncT: 12043643679
+ID: NK
+Pulse: 241
+syncT: 7644659478
 
 Tag Pulse
 ID: BL
-Pulse: 144
-syncT: 12083679723
+Pulse: 101
+syncT: 7710890462
 
 Master Sync
 Sync: 61
 
 Tag Pulse
-ID: NK
-Pulse: 176
-syncT: 12108603972
+ID: PR
+Pulse: 147
+syncT: 7722042100
 
 Tag Pulse
-ID: PR
-Pulse: 90
-syncT: 12136629909
+ID: NK
+Pulse: 242
+syncT: 7737192385
 
 Tag Pulse
 ID: BL
-Pulse: 145
-syncT: 12175836416
+Pulse: 102
+syncT: 7803079621
 
 Master Sync
 Sync: 62
 
 Tag Pulse
-ID: NK
-Pulse: 177
-syncT: 12201123110
+ID: PR
+Pulse: 148
+syncT: 7815034991
 
 Tag Pulse
-ID: PR
-Pulse: 91
-syncT: 12229619772
+ID: NK
+Pulse: 243
+syncT: 7829723518
 
 Tag Pulse
 ID: BL
-Pulse: 146
-syncT: 12268028263
+Pulse: 103
+syncT: 7895270228
 
 Master Sync
 Sync: 63
 
 Tag Pulse
-ID: NK
-Pulse: 178
-syncT: 12293644800
+ID: PR
+Pulse: 149
+syncT: 7908030507
 
 Tag Pulse
-ID: PR
-Pulse: 92
-syncT: 12322609960
+ID: NK
+Pulse: 244
+syncT: 7922255604
 
 Tag Pulse
 ID: BL
-Pulse: 147
-syncT: 12360221151
+Pulse: 104
+syncT: 7987464056
 
 Master Sync
 Sync: 64
 
 Tag Pulse
-ID: NK
-Pulse: 179
-syncT: 12386163549
+ID: PR
+Pulse: 150
+syncT: 8001025325
 
 Tag Pulse
-ID: PR
-Pulse: 93
-syncT: 12415602809
+ID: NK
+Pulse: 245
+syncT: 8014788643
 
 Tag Pulse
 ID: BL
-Pulse: 148
-syncT: 12452415836
+Pulse: 105
+syncT: 8079658478
 
 Master Sync
 Sync: 65
 
 Tag Pulse
-ID: NK
-Pulse: 180
-syncT: 12478686044
+ID: PR
+Pulse: 151
+syncT: 8094017773
 
 Tag Pulse
-ID: PR
-Pulse: 94
-syncT: 12508594246
+ID: NK
+Pulse: 246
+syncT: 8107321762
 
 Tag Pulse
 ID: BL
-Pulse: 149
-syncT: 12544611488
+Pulse: 106
+syncT: 8171848981
 
 Master Sync
 Sync: 66
 
 Tag Pulse
-ID: NK
-Pulse: 181
-syncT: 12571204758
+ID: PR
+Pulse: 152
+syncT: 8187012231
 
 Tag Pulse
-ID: PR
-Pulse: 95
-syncT: 12601588456
+ID: NK
+Pulse: 247
+syncT: 8199857020
 
 Tag Pulse
 ID: BL
-Pulse: 150
-syncT: 12636801231
-
-Tag Pulse
-ID: NK
-Pulse: 182
-syncT: 12663727794
-
-Tag Pulse
-ID: PR
-Pulse: 96
-syncT: 12694582846
-
-Tag Pulse
-ID: BL
-Pulse: 151
-syncT: 12728997098
-
-Tag Pulse
-ID: NK
-Pulse: 183
-syncT: 12756252176
+Pulse: 107
+syncT: 8264041376
 
 Master Sync
-Sync: 68
+Sync: 67
 
 Tag Pulse
 ID: PR
-Pulse: 97
-syncT: 12787579892
-
-Tag Pulse
-ID: BL
-Pulse: 152
-syncT: 12821191189
+Pulse: 153
+syncT: 8280004754
 
 Tag Pulse
 ID: NK
-Pulse: 184
-syncT: 12848771475
+Pulse: 248
+syncT: 8292427996
+
+Tag Pulse
+ID: BL
+Pulse: 108
+syncT: 8356273542
+
+Tag Pulse
+ID: PR
+Pulse: 154
+syncT: 8372997571
+
+Tag Pulse
+ID: NK
+Pulse: 249
+syncT: 8384918894
+
+Tag Pulse
+ID: BL
+Pulse: 109
+syncT: 8448434687
+
+Tag Pulse
+ID: PR
+Pulse: 155
+syncT: 8465987687
 
 Master Sync
 Sync: 69
 
 Tag Pulse
-ID: PR
-Pulse: 98
-syncT: 12880576309
+ID: NK
+Pulse: 250
+syncT: 8477451868
 
 Tag Pulse
 ID: BL
-Pulse: 153
-syncT: 12913384761
+Pulse: 110
+syncT: 8540629766
 
 Tag Pulse
-ID: NK
-Pulse: 185
-syncT: 12941289873
+ID: PR
+Pulse: 156
+syncT: 8558982351
 
 Master Sync
 Sync: 70
 
 Tag Pulse
-ID: PR
-Pulse: 99
-syncT: 12973573522
+ID: NK
+Pulse: 251
+syncT: 8569984610
 
 Tag Pulse
 ID: BL
-Pulse: 154
-syncT: 13005580222
+Pulse: 111
+syncT: 8632824953
 
 Tag Pulse
-ID: NK
-Pulse: 186
-syncT: 13033809066
+ID: PR
+Pulse: 157
+syncT: 8651971839
 
 Master Sync
 Sync: 71
 
 Tag Pulse
-ID: PR
-Pulse: 100
-syncT: 13066569486
+ID: NK
+Pulse: 252
+syncT: 8662512159
 
 Tag Pulse
 ID: BL
-Pulse: 155
-syncT: 13097773403
+Pulse: 112
+syncT: 8725020539
 
 Tag Pulse
-ID: NK
-Pulse: 187
-syncT: 13126329821
+ID: PR
+Pulse: 158
+syncT: 8744965504
 
 Master Sync
 Sync: 72
 
 Tag Pulse
-ID: PR
-Pulse: 101
-syncT: 13159572686
+ID: NK
+Pulse: 253
+syncT: 8755041622
 
 Tag Pulse
 ID: BL
-Pulse: 156
-syncT: 13189963466
+Pulse: 113
+syncT: 8817218126
 
 Tag Pulse
-ID: NK
-Pulse: 188
-syncT: 13218884721
+ID: PR
+Pulse: 159
+syncT: 8837961057
 
 Master Sync
 Sync: 73
 
 Tag Pulse
-ID: PR
-Pulse: 102
-syncT: 13252566396
+ID: NK
+Pulse: 254
+syncT: 8847571820
 
 Tag Pulse
 ID: BL
-Pulse: 157
-syncT: 13282153961
+Pulse: 114
+syncT: 8909414686
 
 Tag Pulse
-ID: NK
-Pulse: 189
-syncT: 13311370503
+ID: PR
+Pulse: 160
+syncT: 8930960458
 
 Master Sync
 Sync: 74
 
 Tag Pulse
-ID: PR
-Pulse: 103
-syncT: 13345558520
+ID: NK
+Pulse: 255
+syncT: 8940107507
 
 Tag Pulse
 ID: BL
-Pulse: 158
-syncT: 13374345636
+Pulse: 115
+syncT: 9001610237
 
 Tag Pulse
-ID: NK
-Pulse: 190
-syncT: 13403892941
+ID: PR
+Pulse: 161
+syncT: 9023954184
 
 Master Sync
 Sync: 75
 
 Tag Pulse
-ID: PR
-Pulse: 104
-syncT: 13438552894
+ID: BL
+Pulse: 116
+syncT: 9093805162
 
 Tag Pulse
-ID: BL
-Pulse: 159
-syncT: 13466540351
+ID: PR
+Pulse: 162
+syncT: 9116945370
 
 Tag Pulse
 ID: NK
-Pulse: 191
-syncT: 13496418734
+Pulse: 1
+syncT: 9125184937
 
 Master Sync
 Sync: 76
 
 Tag Pulse
-ID: PR
-Pulse: 105
-syncT: 13531549730
+ID: BL
+Pulse: 117
+syncT: 9186001035
 
 Tag Pulse
-ID: BL
-Pulse: 160
-syncT: 13558730596
+ID: PR
+Pulse: 163
+syncT: 9209936383
 
 Tag Pulse
 ID: NK
-Pulse: 192
-syncT: 13588938482
+Pulse: 2
+syncT: 9217721944
 
 Master Sync
 Sync: 77
 
 Tag Pulse
-ID: PR
-Pulse: 106
-syncT: 13624544393
+ID: BL
+Pulse: 118
+syncT: 9278199979
 
 Tag Pulse
-ID: BL
-Pulse: 161
-syncT: 13650924437
+ID: PR
+Pulse: 164
+syncT: 9302964713
 
 Tag Pulse
 ID: NK
-Pulse: 193
-syncT: 13681459336
+Pulse: 3
+syncT: 9310264703
 
 Master Sync
 Sync: 78
 
 Tag Pulse
-ID: PR
-Pulse: 107
-syncT: 13717540603
+ID: BL
+Pulse: 119
+syncT: 9370399319
 
 Tag Pulse
-ID: BL
-Pulse: 162
-syncT: 13743117051
+ID: PR
+Pulse: 165
+syncT: 9395921621
 
 Tag Pulse
 ID: NK
-Pulse: 194
-syncT: 13773977659
+Pulse: 4
+syncT: 9402797574
 
 Master Sync
 Sync: 79
 
 Tag Pulse
-ID: PR
-Pulse: 108
-syncT: 13810573771
+ID: BL
+Pulse: 120
+syncT: 9462597167
 
 Tag Pulse
-ID: BL
-Pulse: 163
-syncT: 13835310274
+ID: PR
+Pulse: 166
+syncT: 9488913450
 
 Tag Pulse
 ID: NK
-Pulse: 195
-syncT: 13866495839
+Pulse: 5
+syncT: 9495330774
 
 Master Sync
 Sync: 80
 
 Tag Pulse
-ID: PR
-Pulse: 109
-syncT: 13903534061
+ID: BL
+Pulse: 121
+syncT: 9554791844
 
 Tag Pulse
-ID: BL
-Pulse: 164
-syncT: 13927539106
+ID: PR
+Pulse: 167
+syncT: 9581903413
 
 Tag Pulse
 ID: NK
-Pulse: 196
-syncT: 13959007094
+Pulse: 6
+syncT: 9587862761
 
 Master Sync
 Sync: 81
 
 Tag Pulse
-ID: PR
-Pulse: 110
-syncT: 13996531474
+ID: BL
+Pulse: 122
+syncT: 9646985968
 
 Tag Pulse
-ID: BL
-Pulse: 165
-syncT: 14019698266
+ID: PR
+Pulse: 168
+syncT: 9674889179
 
 Tag Pulse
 ID: NK
-Pulse: 197
-syncT: 14051525714
+Pulse: 7
+syncT: 9680395487
 
 Master Sync
 Sync: 82
 
 Tag Pulse
-ID: PR
-Pulse: 111
-syncT: 14089527450
+ID: BL
+Pulse: 123
+syncT: 9739181288
 
 Tag Pulse
-ID: BL
-Pulse: 166
-syncT: 14111892010
+ID: PR
+Pulse: 169
+syncT: 9767875849
 
 Tag Pulse
 ID: NK
-Pulse: 198
-syncT: 14144043017
+Pulse: 8
+syncT: 9772933396
 
 Master Sync
 Sync: 83
 
 Tag Pulse
-ID: PR
-Pulse: 112
-syncT: 14182526227
+ID: BL
+Pulse: 124
+syncT: 9831379998
 
 Tag Pulse
-ID: BL
-Pulse: 167
-syncT: 14204087393
+ID: PR
+Pulse: 170
+syncT: 9860865190
 
 Tag Pulse
 ID: NK
-Pulse: 199
-syncT: 14236563960
+Pulse: 9
+syncT: 9865472253
 
 Master Sync
 Sync: 84
 
 Tag Pulse
-ID: PR
-Pulse: 113
-syncT: 14275518697
+ID: BL
+Pulse: 125
+syncT: 9923578514
 
 Tag Pulse
-ID: BL
-Pulse: 168
-syncT: 14296277284
+ID: PR
+Pulse: 171
+syncT: 9953853666
 
 Tag Pulse
 ID: NK
-Pulse: 200
-syncT: 14329083898
+Pulse: 10
+syncT: 9958008522
 
 Master Sync
 Sync: 85
 
 Tag Pulse
-ID: PR
-Pulse: 114
-syncT: 14368512950
+ID: BL
+Pulse: 126
+syncT: 10015778647
 
 Tag Pulse
-ID: BL
-Pulse: 169
-syncT: 14388470222
+ID: PR
+Pulse: 172
+syncT: 10046845364
 
 Tag Pulse
 ID: NK
-Pulse: 201
-syncT: 14421601444
+Pulse: 11
+syncT: 10050550711
 
 Master Sync
 Sync: 86
 
 Tag Pulse
-ID: PR
-Pulse: 115
-syncT: 14461506973
+ID: BL
+Pulse: 127
+syncT: 10107980191
 
 Tag Pulse
-ID: BL
-Pulse: 170
-syncT: 14480663254
+ID: PR
+Pulse: 173
+syncT: 10139834336
 
 Tag Pulse
 ID: NK
-Pulse: 202
-syncT: 14514119867
+Pulse: 12
+syncT: 10143123087
 
 Master Sync
 Sync: 87
 
 Tag Pulse
-ID: PR
-Pulse: 116
-syncT: 14554501475
+ID: BL
+Pulse: 128
+syncT: 10200215983
 
 Tag Pulse
-ID: BL
-Pulse: 171
-syncT: 14572857852
+ID: PR
+Pulse: 174
+syncT: 10232824110
 
 Tag Pulse
 ID: NK
-Pulse: 203
-syncT: 14606641790
+Pulse: 13
+syncT: 10235619913
 
 Master Sync
 Sync: 88
 
 Tag Pulse
-ID: PR
-Pulse: 117
-syncT: 14647497345
+ID: BL
+Pulse: 129
+syncT: 10292377153
 
 Tag Pulse
-ID: BL
-Pulse: 172
-syncT: 14665049863
+ID: PR
+Pulse: 175
+syncT: 10325809649
 
 Tag Pulse
 ID: NK
-Pulse: 204
-syncT: 14699156644
+Pulse: 14
+syncT: 10328151304
 
 Master Sync
 Sync: 89
 
 Tag Pulse
-ID: PR
-Pulse: 118
-syncT: 14740491212
+ID: BL
+Pulse: 130
+syncT: 10384568544
 
 Tag Pulse
-ID: BL
-Pulse: 173
-syncT: 14757241030
+ID: PR
+Pulse: 176
+syncT: 10418799045
 
 Tag Pulse
 ID: NK
-Pulse: 205
-syncT: 14791673508
+Pulse: 15
+syncT: 10420680533
 
 Master Sync
 Sync: 90
 
 Tag Pulse
-ID: PR
-Pulse: 119
-syncT: 14833483565
+ID: BL
+Pulse: 131
+syncT: 10476764063
 
 Tag Pulse
-ID: BL
-Pulse: 174
-syncT: 14849433655
+ID: PR
+Pulse: 177
+syncT: 10511789072
 
 Tag Pulse
 ID: NK
-Pulse: 206
-syncT: 14884190449
+Pulse: 16
+syncT: 10513211974
 
 Master Sync
 Sync: 91
 
 Tag Pulse
-ID: PR
-Pulse: 120
-syncT: 14926478738
-
-Tag Pulse
 ID: BL
-Pulse: 175
-syncT: 14941626066
+Pulse: 132
+syncT: 10568957661
 
 Tag Pulse
-ID: NK
-Pulse: 207
-syncT: 14976711265
+ID: PR
+Pulse: 178
+syncT: 10604780863
 
 Master Sync
 Sync: 92
 
 Tag Pulse
+ID: BL
+Pulse: 133
+syncT: 10661149628
+
+Tag Pulse
 ID: PR
-Pulse: 121
-syncT: 15019471226
+Pulse: 179
+syncT: 10697772749
+
+Master Sync
+Sync: 93
 
 Tag Pulse
 ID: BL
-Pulse: 176
-syncT: 15033819237
-
-Tag Pulse
-ID: NK
-Pulse: 208
-syncT: 15069263890
+Pulse: 134
+syncT: 10753344561
 
 Tag Pulse
 ID: PR
-Pulse: 122
-syncT: 15112463054
-
-Tag Pulse
-ID: BL
-Pulse: 177
-syncT: 15126008560
-
-Tag Pulse
-ID: NK
-Pulse: 209
-syncT: 15161741465
-
-Tag Pulse
-ID: PR
-Pulse: 123
-syncT: 15205457510
+Pulse: 180
+syncT: 10790763461
 
 Master Sync
 Sync: 94
 
 Tag Pulse
 ID: BL
-Pulse: 178
-syncT: 15218197634
+Pulse: 135
+syncT: 10845539661
 
 Tag Pulse
 ID: NK
-Pulse: 210
-syncT: 15254262107
-
-Tag Pulse
-ID: PR
-Pulse: 124
-syncT: 15298452883
+Pulse: 20
+syncT: 10883353570
 
 Master Sync
 Sync: 95
 
 Tag Pulse
 ID: BL
-Pulse: 179
-syncT: 15310389146
+Pulse: 136
+syncT: 10937730125
 
 Tag Pulse
 ID: NK
-Pulse: 211
-syncT: 15346781963
-
-Tag Pulse
-ID: PR
-Pulse: 125
-syncT: 15391448303
+Pulse: 21
+syncT: 10975889126
 
 Master Sync
 Sync: 96
 
 Tag Pulse
 ID: BL
-Pulse: 180
-syncT: 15402585078
+Pulse: 137
+syncT: 11029919602
 
 Tag Pulse
 ID: NK
-Pulse: 212
-syncT: 15439300061
+Pulse: 22
+syncT: 11068423963
 
 Tag Pulse
 ID: PR
-Pulse: 126
-syncT: 15484442349
+Pulse: 183
+syncT: 11069750765
 
 Master Sync
 Sync: 97
 
 Tag Pulse
 ID: BL
-Pulse: 181
-syncT: 15494775739
+Pulse: 138
+syncT: 11122111609
 
 Tag Pulse
 ID: NK
-Pulse: 213
-syncT: 15531822059
+Pulse: 23
+syncT: 11160957591
 
 Tag Pulse
 ID: PR
-Pulse: 127
-syncT: 15577436077
+Pulse: 184
+syncT: 11162775395
 
 Master Sync
 Sync: 98
 
 Tag Pulse
 ID: BL
+Pulse: 139
+syncT: 11214300354
+
+Tag Pulse
+ID: NK
+Pulse: 24
+syncT: 11253491684
+
+Tag Pulse
+ID: PR
+Pulse: 185
+syncT: 11255731137
+
+Master Sync
+Sync: 99
+
+Tag Pulse
+ID: BL
+Pulse: 140
+syncT: 11306489506
+
+Tag Pulse
+ID: NK
+Pulse: 25
+syncT: 11346026103
+
+Tag Pulse
+ID: PR
+Pulse: 186
+syncT: 11348720356
+
+Master Sync
+Sync: 100
+
+Tag Pulse
+ID: BL
+Pulse: 141
+syncT: 11398678143
+
+Tag Pulse
+ID: NK
+Pulse: 26
+syncT: 11438561241
+
+Tag Pulse
+ID: PR
+Pulse: 187
+syncT: 11441711019
+
+Master Sync
+Sync: 101
+
+Tag Pulse
+ID: BL
+Pulse: 142
+syncT: 11490869658
+
+Tag Pulse
+ID: NK
+Pulse: 27
+syncT: 11531093562
+
+Tag Pulse
+ID: PR
+Pulse: 188
+syncT: 11534694738
+
+Master Sync
+Sync: 102
+
+Tag Pulse
+ID: BL
+Pulse: 143
+syncT: 11583064018
+
+Tag Pulse
+ID: NK
+Pulse: 28
+syncT: 11623625989
+
+Tag Pulse
+ID: PR
+Pulse: 189
+syncT: 11627681563
+
+Master Sync
+Sync: 103
+
+Tag Pulse
+ID: BL
+Pulse: 144
+syncT: 11675256404
+
+Tag Pulse
+ID: NK
+Pulse: 29
+syncT: 11716155931
+
+Tag Pulse
+ID: PR
+Pulse: 190
+syncT: 11720665846
+
+Master Sync
+Sync: 104
+
+Tag Pulse
+ID: BL
+Pulse: 145
+syncT: 11767448438
+
+Tag Pulse
+ID: NK
+Pulse: 30
+syncT: 11808685714
+
+Tag Pulse
+ID: PR
+Pulse: 191
+syncT: 11813651478
+
+Master Sync
+Sync: 105
+
+Tag Pulse
+ID: BL
+Pulse: 146
+syncT: 11859642600
+
+Tag Pulse
+ID: NK
+Pulse: 31
+syncT: 11901216947
+
+Tag Pulse
+ID: PR
+Pulse: 192
+syncT: 11906639890
+
+Master Sync
+Sync: 106
+
+Tag Pulse
+ID: NK
+Pulse: 32
+syncT: 11993781688
+
+Tag Pulse
+ID: PR
+Pulse: 193
+syncT: 11999627943
+
+Tag Pulse
+ID: BL
+Pulse: 148
+syncT: 12044067355
+
+Master Sync
+Sync: 107
+
+Tag Pulse
+ID: NK
+Pulse: 33
+syncT: 12086273235
+
+Tag Pulse
+ID: PR
+Pulse: 194
+syncT: 12092614857
+
+Tag Pulse
+ID: BL
+Pulse: 149
+syncT: 12136224646
+
+Master Sync
+Sync: 108
+
+Tag Pulse
+ID: NK
+Pulse: 34
+syncT: 12178798860
+
+Tag Pulse
+ID: PR
+Pulse: 195
+syncT: 12185603011
+
+Tag Pulse
+ID: BL
+Pulse: 150
+syncT: 12228417667
+
+Master Sync
+Sync: 109
+
+Tag Pulse
+ID: NK
+Pulse: 35
+syncT: 12271331275
+
+Tag Pulse
+ID: PR
+Pulse: 196
+syncT: 12278594101
+
+Tag Pulse
+ID: BL
+Pulse: 151
+syncT: 12320611419
+
+Master Sync
+Sync: 110
+
+Tag Pulse
+ID: NK
+Pulse: 36
+syncT: 12363862223
+
+Tag Pulse
+ID: PR
+Pulse: 197
+syncT: 12371586376
+
+Tag Pulse
+ID: BL
+Pulse: 152
+syncT: 12412802374
+
+Master Sync
+Sync: 111
+
+Tag Pulse
+ID: NK
+Pulse: 37
+syncT: 12456387004
+
+Tag Pulse
+ID: PR
+Pulse: 198
+syncT: 12464577026
+
+Tag Pulse
+ID: BL
+Pulse: 153
+syncT: 12504997538
+
+Master Sync
+Sync: 112
+
+Tag Pulse
+ID: NK
+Pulse: 38
+syncT: 12548917036
+
+Tag Pulse
+ID: PR
+Pulse: 199
+syncT: 12557569107
+
+Tag Pulse
+ID: BL
+Pulse: 154
+syncT: 12597195148
+
+Master Sync
+Sync: 113
+
+Tag Pulse
+ID: NK
+Pulse: 39
+syncT: 12641441448
+
+Tag Pulse
+ID: PR
+Pulse: 200
+syncT: 12650563255
+
+Tag Pulse
+ID: BL
+Pulse: 155
+syncT: 12689389735
+
+Master Sync
+Sync: 114
+
+Tag Pulse
+ID: NK
+Pulse: 40
+syncT: 12733973626
+
+Tag Pulse
+ID: PR
+Pulse: 201
+syncT: 12743552279
+
+Tag Pulse
+ID: BL
+Pulse: 156
+syncT: 12781583750
+
+Master Sync
+Sync: 115
+
+Tag Pulse
+ID: NK
+Pulse: 41
+syncT: 12826504575
+
+Tag Pulse
+ID: PR
+Pulse: 202
+syncT: 12836542783
+
+Tag Pulse
+ID: BL
+Pulse: 157
+syncT: 12873781120
+
+Master Sync
+Sync: 116
+
+Tag Pulse
+ID: NK
+Pulse: 42
+syncT: 12919037560
+
+Tag Pulse
+ID: PR
+Pulse: 203
+syncT: 12929537413
+
+Tag Pulse
+ID: BL
+Pulse: 158
+syncT: 12965975900
+
+Master Sync
+Sync: 117
+
+Tag Pulse
+ID: NK
+Pulse: 43
+syncT: 13011574973
+
+Tag Pulse
+ID: PR
+Pulse: 204
+syncT: 13022565713
+
+Tag Pulse
+ID: BL
+Pulse: 159
+syncT: 13058169654
+
+Master Sync
+Sync: 118
+
+Tag Pulse
+ID: NK
+Pulse: 44
+syncT: 13104111103
+
+Tag Pulse
+ID: PR
+Pulse: 205
+syncT: 13115527467
+
+Tag Pulse
+ID: BL
+Pulse: 160
+syncT: 13150365916
+
+Master Sync
+Sync: 119
+
+Tag Pulse
+ID: NK
+Pulse: 45
+syncT: 13196649612
+
+Tag Pulse
+ID: PR
+Pulse: 206
+syncT: 13208519046
+
+Tag Pulse
+ID: BL
+Pulse: 161
+syncT: 13242562307
+
+Master Sync
+Sync: 120
+
+Tag Pulse
+ID: NK
+Pulse: 46
+syncT: 13289183288
+
+Tag Pulse
+ID: PR
+Pulse: 207
+syncT: 13301511420
+
+Tag Pulse
+ID: BL
+Pulse: 162
+syncT: 13334758612
+
+Master Sync
+Sync: 121
+
+Tag Pulse
+ID: NK
+Pulse: 47
+syncT: 13381715544
+
+Tag Pulse
+ID: PR
+Pulse: 208
+syncT: 13394505389
+
+Tag Pulse
+ID: BL
+Pulse: 163
+syncT: 13426956112
+
+Master Sync
+Sync: 122
+
+Tag Pulse
+ID: NK
+Pulse: 48
+syncT: 13474246749
+
+Tag Pulse
+ID: PR
+Pulse: 209
+syncT: 13487495716
+
+Tag Pulse
+ID: BL
+Pulse: 164
+syncT: 13519150830
+
+Master Sync
+Sync: 123
+
+Tag Pulse
+ID: NK
+Pulse: 49
+syncT: 13566774100
+
+Tag Pulse
+ID: PR
+Pulse: 210
+syncT: 13580484618
+
+Tag Pulse
+ID: BL
+Pulse: 165
+syncT: 13611349785
+
+Master Sync
+Sync: 124
+
+Tag Pulse
+ID: NK
+Pulse: 50
+syncT: 13659305431
+
+Tag Pulse
+ID: PR
+Pulse: 211
+syncT: 13673479463
+
+Tag Pulse
+ID: BL
+Pulse: 166
+syncT: 13703550959
+
+Master Sync
+Sync: 125
+
+Tag Pulse
+ID: NK
+Pulse: 51
+syncT: 13751831419
+
+Tag Pulse
+ID: PR
+Pulse: 212
+syncT: 13766474027
+
+Tag Pulse
+ID: BL
+Pulse: 167
+syncT: 13795759303
+
+Master Sync
+Sync: 126
+
+Tag Pulse
+ID: NK
+Pulse: 52
+syncT: 13844392814
+
+Tag Pulse
+ID: PR
+Pulse: 213
+syncT: 13859475138
+
+Tag Pulse
+ID: BL
+Pulse: 168
+syncT: 13888002385
+
+Master Sync
+Sync: 127
+
+Tag Pulse
+ID: NK
+Pulse: 53
+syncT: 13936883616
+
+Tag Pulse
+ID: PR
+Pulse: 214
+syncT: 13952470886
+
+Tag Pulse
+ID: BL
+Pulse: 169
+syncT: 13980171770
+
+Master Sync
+Sync: 128
+
+Tag Pulse
+ID: NK
+Pulse: 54
+syncT: 14029413277
+
+Tag Pulse
+ID: PR
+Pulse: 215
+syncT: 14045460384
+
+Tag Pulse
+ID: BL
+Pulse: 170
+syncT: 14072377666
+
+Master Sync
+Sync: 129
+
+Tag Pulse
+ID: NK
+Pulse: 55
+syncT: 14121942208
+
+Tag Pulse
+ID: PR
+Pulse: 216
+syncT: 14138454404
+
+Tag Pulse
+ID: BL
+Pulse: 171
+syncT: 14164582936
+
+Master Sync
+Sync: 130
+
+Tag Pulse
+ID: NK
+Pulse: 56
+syncT: 14214471334
+
+Tag Pulse
+ID: PR
+Pulse: 217
+syncT: 14231444142
+
+Tag Pulse
+ID: BL
+Pulse: 172
+syncT: 14256787131
+
+Master Sync
+Sync: 131
+
+Tag Pulse
+ID: NK
+Pulse: 57
+syncT: 14306998327
+
+Tag Pulse
+ID: PR
+Pulse: 218
+syncT: 14324435768
+
+Tag Pulse
+ID: BL
+Pulse: 173
+syncT: 14348991809
+
+Tag Pulse
+ID: NK
+Pulse: 58
+syncT: 14399527156
+
+Tag Pulse
+ID: PR
+Pulse: 219
+syncT: 14417431785
+
+Tag Pulse
+ID: BL
+Pulse: 174
+syncT: 14441192272
+
+Tag Pulse
+ID: NK
+Pulse: 59
+syncT: 14492055274
+
+Master Sync
+Sync: 133
+
+Tag Pulse
+ID: PR
+Pulse: 220
+syncT: 14510422614
+
+Tag Pulse
+ID: BL
+Pulse: 175
+syncT: 14533395366
+
+Tag Pulse
+ID: NK
+Pulse: 60
+syncT: 14584585448
+
+Master Sync
+Sync: 134
+
+Tag Pulse
+ID: PR
+Pulse: 221
+syncT: 14603414760
+
+Tag Pulse
+ID: BL
+Pulse: 176
+syncT: 14625599259
+
+Tag Pulse
+ID: NK
+Pulse: 61
+syncT: 14677115423
+
+Master Sync
+Sync: 135
+
+Tag Pulse
+ID: PR
+Pulse: 222
+syncT: 14696406999
+
+Tag Pulse
+ID: BL
+Pulse: 177
+syncT: 14717802952
+
+Tag Pulse
+ID: NK
+Pulse: 62
+syncT: 14769648569
+
+Master Sync
+Sync: 136
+
+Tag Pulse
+ID: PR
+Pulse: 223
+syncT: 14789400670
+
+Tag Pulse
+ID: BL
+Pulse: 178
+syncT: 14810006942
+
+Tag Pulse
+ID: NK
+Pulse: 63
+syncT: 14862178535
+
+Master Sync
+Sync: 137
+
+Tag Pulse
+ID: PR
+Pulse: 224
+syncT: 14882431882
+
+Tag Pulse
+ID: BL
+Pulse: 179
+syncT: 14902212002
+
+Tag Pulse
+ID: NK
+Pulse: 64
+syncT: 14954705824
+
+Master Sync
+Sync: 138
+
+Tag Pulse
+ID: PR
+Pulse: 225
+syncT: 14975391874
+
+Tag Pulse
+ID: BL
+Pulse: 180
+syncT: 14994415770
+
+Tag Pulse
+ID: NK
+Pulse: 65
+syncT: 15047238635
+
+Master Sync
+Sync: 139
+
+Tag Pulse
+ID: PR
+Pulse: 226
+syncT: 15068390078
+
+Tag Pulse
+ID: BL
+Pulse: 181
+syncT: 15086622638
+
+Tag Pulse
+ID: NK
+Pulse: 66
+syncT: 15139769579
+
+Master Sync
+Sync: 140
+
+Tag Pulse
+ID: PR
+Pulse: 227
+syncT: 15161385251
+
+Tag Pulse
+ID: BL
 Pulse: 182
-syncT: 15586966568
+syncT: 15178830498
+
+Tag Pulse
+ID: NK
+Pulse: 67
+syncT: 15232303815
+
+Master Sync
+Sync: 141
+
+Tag Pulse
+ID: PR
+Pulse: 228
+syncT: 15254379302
+
+Tag Pulse
+ID: BL
+Pulse: 183
+syncT: 15271037674
+
+Tag Pulse
+ID: NK
+Pulse: 68
+syncT: 15324846565
+
+Master Sync
+Sync: 142
+
+Tag Pulse
+ID: PR
+Pulse: 229
+syncT: 15347375482
+
+Tag Pulse
+ID: BL
+Pulse: 184
+syncT: 15363247029
+
+Tag Pulse
+ID: NK
+Pulse: 69
+syncT: 15417386324
+
+Master Sync
+Sync: 143
+
+Tag Pulse
+ID: PR
+Pulse: 230
+syncT: 15440370608
+
+Tag Pulse
+ID: BL
+Pulse: 185
+syncT: 15455455293
+
+Tag Pulse
+ID: NK
+Pulse: 70
+syncT: 15509924823
+
+Master Sync
+Sync: 144
+
+Tag Pulse
+ID: PR
+Pulse: 231
+syncT: 15533363600
+
+Tag Pulse
+ID: BL
+Pulse: 186
+syncT: 15547659466
+
+Tag Pulse
+ID: NK
+Pulse: 71
+syncT: 15602464508
+
+Master Sync
+Sync: 145
+
+Tag Pulse
+ID: PR
+Pulse: 232
+syncT: 15626354507
+
+Tag Pulse
+ID: BL
+Pulse: 187
+syncT: 15639866898
+
+Tag Pulse
+ID: NK
+Pulse: 72
+syncT: 15695036342
+
+Master Sync
+Sync: 146
+
+Tag Pulse
+ID: BL
+Pulse: 188
+syncT: 15732105078
+
+Tag Pulse
+ID: NK
+Pulse: 73
+syncT: 15787536898
+
+Tag Pulse
+ID: PR
+Pulse: 234
+syncT: 15812339105
+
+Tag Pulse
+ID: BL
+Pulse: 189
+syncT: 15824274449
+
+Tag Pulse
+ID: NK
+Pulse: 74
+syncT: 15880072191
+
+Tag Pulse
+ID: PR
+Pulse: 235
+syncT: 15905328572
+
+Master Sync
+Sync: 148
+
+Tag Pulse
+ID: BL
+Pulse: 190
+syncT: 15916481814
+
+Tag Pulse
+ID: NK
+Pulse: 75
+syncT: 15972610522
+
+Tag Pulse
+ID: PR
+Pulse: 236
+syncT: 15998319431
+
+Master Sync
+Sync: 149
+
+Tag Pulse
+ID: BL
+Pulse: 191
+syncT: 16008688157
+
+Tag Pulse
+ID: NK
+Pulse: 76
+syncT: 16065146171
+
+Tag Pulse
+ID: PR
+Pulse: 237
+syncT: 16091309157
+
+Master Sync
+Sync: 150
+
+Tag Pulse
+ID: BL
+Pulse: 192
+syncT: 16100891823
+
+Tag Pulse
+ID: NK
+Pulse: 77
+syncT: 16157683262
+
+Tag Pulse
+ID: PR
+Pulse: 238
+syncT: 16184304868
+
+Master Sync
+Sync: 151
+
+Tag Pulse
+ID: BL
+Pulse: 193
+syncT: 16193096631
+
+Tag Pulse
+ID: NK
+Pulse: 78
+syncT: 16250211380
+
+Tag Pulse
+ID: PR
+Pulse: 239
+syncT: 16277300287
+
+Master Sync
+Sync: 152
+
+Tag Pulse
+ID: BL
+Pulse: 194
+syncT: 16285302086
+
+Tag Pulse
+ID: NK
+Pulse: 79
+syncT: 16342741754
+
+Tag Pulse
+ID: PR
+Pulse: 240
+syncT: 16370294825
+
+Tag Pulse
+ID: BL
+Pulse: 195
+syncT: 16377511366
+
+Tag Pulse
+ID: NK
+Pulse: 80
+syncT: 16435272605
+
+Tag Pulse
+ID: PR
+Pulse: 241
+syncT: 16463288567
+
+Tag Pulse
+ID: BL
+Pulse: 196
+syncT: 16469720389
+
+Master Sync
+Sync: 154
+
+Tag Pulse
+ID: NK
+Pulse: 81
+syncT: 16527802275
+
+Tag Pulse
+ID: PR
+Pulse: 242
+syncT: 16556285310
+
+Tag Pulse
+ID: BL
+Pulse: 197
+syncT: 16561930699
+
+Master Sync
+Sync: 155
+
+Tag Pulse
+ID: NK
+Pulse: 82
+syncT: 16620337275
+
+Tag Pulse
+ID: PR
+Pulse: 243
+syncT: 16649276810
+
+Tag Pulse
+ID: BL
+Pulse: 198
+syncT: 16654143101
+
+Master Sync
+Sync: 156
+
+Tag Pulse
+ID: NK
+Pulse: 83
+syncT: 16712866961
+
+Tag Pulse
+ID: PR
+Pulse: 244
+syncT: 16742303778
+
+Tag Pulse
+ID: BL
+Pulse: 199
+syncT: 16746356079
+
+Master Sync
+Sync: 157
+
+Tag Pulse
+ID: NK
+Pulse: 84
+syncT: 16805400571
+
+Tag Pulse
+ID: PR
+Pulse: 245
+syncT: 16835261889
+
+Tag Pulse
+ID: BL
+Pulse: 200
+syncT: 16838564770
+
+Master Sync
+Sync: 158
+
+Tag Pulse
+ID: NK
+Pulse: 85
+syncT: 16897938695
+
+Tag Pulse
+ID: PR
+Pulse: 246
+syncT: 16928256257
+
+Tag Pulse
+ID: BL
+Pulse: 201
+syncT: 16930772466
+
+Master Sync
+Sync: 159
+
+Tag Pulse
+ID: NK
+Pulse: 86
+syncT: 16990473444
+
+Tag Pulse
+ID: PR
+Pulse: 247
+syncT: 17021255504
+
+Tag Pulse
+ID: BL
+Pulse: 202
+syncT: 17022980210
+
+Master Sync
+Sync: 160
+
+Tag Pulse
+ID: NK
+Pulse: 87
+syncT: 17083006082
+
+Tag Pulse
+ID: PR
+Pulse: 248
+syncT: 17114249477
+
+Master Sync
+Sync: 161
+
+Tag Pulse
+ID: NK
+Pulse: 88
+syncT: 17175539224
+
+Tag Pulse
+ID: PR
+Pulse: 249
+syncT: 17207243371
+
+Master Sync
+Sync: 162
+
+Tag Pulse
+ID: NK
+Pulse: 89
+syncT: 60667730
+
+Tag Pulse
+ID: BL
+Pulse: 205
+syncT: 92201271
+
+Master Sync
+Sync: 163
+
+Tag Pulse
+ID: NK
+Pulse: 90
+syncT: 153204015
+
+Tag Pulse
+ID: BL
+Pulse: 206
+syncT: 184405267
+
+Tag Pulse
+ID: PR
+Pulse: 251
+syncT: 185825188
+
+Master Sync
+Sync: 164
+
+Tag Pulse
+ID: NK
+Pulse: 91
+syncT: 245741358
+
+Tag Pulse
+ID: BL
+Pulse: 207
+syncT: 276607456
+
+Tag Pulse
+ID: PR
+Pulse: 252
+syncT: 278820281
+
+Master Sync
+Sync: 165
+
+Tag Pulse
+ID: NK
+Pulse: 92
+syncT: 338309782
+
+Tag Pulse
+ID: BL
+Pulse: 208
+syncT: 368846493
+
+Tag Pulse
+ID: PR
+Pulse: 253
+syncT: 371809654
+
+Master Sync
+Sync: 166
+
+Tag Pulse
+ID: NK
+Pulse: 93
+syncT: 430804537
+
+Tag Pulse
+ID: BL
+Pulse: 209
+syncT: 461018618
+
+Tag Pulse
+ID: PR
+Pulse: 254
+syncT: 464802633
+
+Master Sync
+Sync: 167
+
+Tag Pulse
+ID: NK
+Pulse: 94
+syncT: 523337848
+
+Tag Pulse
+ID: BL
+Pulse: 210
+syncT: 553224317
+
+Tag Pulse
+ID: PR
+Pulse: 255
+syncT: 557795062
+
+Master Sync
+Sync: 168
+
+Tag Pulse
+ID: NK
+Pulse: 95
+syncT: 615871529
+
+Tag Pulse
+ID: BL
+Pulse: 211
+syncT: 645430905
+
+Tag Pulse
+ID: PR
+Pulse: 0
+syncT: 650788685
+
+Master Sync
+Sync: 169
+
+Tag Pulse
+ID: NK
+Pulse: 96
+syncT: 708405436
+
+Tag Pulse
+ID: BL
+Pulse: 212
+syncT: 737636486
+
+Tag Pulse
+ID: PR
+Pulse: 1
+syncT: 743781204
+
+Master Sync
+Sync: 170
+
+Tag Pulse
+ID: NK
+Pulse: 97
+syncT: 800939520
+
+Tag Pulse
+ID: BL
+Pulse: 213
+syncT: 829845613
+
+Tag Pulse
+ID: PR
+Pulse: 2
+syncT: 836773171
+
+Master Sync
+Sync: 171
+
+Tag Pulse
+ID: NK
+Pulse: 98
+syncT: 893476291
+
+Tag Pulse
+ID: BL
+Pulse: 214
+syncT: 922049000
+
+Tag Pulse
+ID: PR
+Pulse: 3
+syncT: 929760994
+
+Master Sync
+Sync: 172
+
+Tag Pulse
+ID: NK
+Pulse: 99
+syncT: 986010347
+
+Tag Pulse
+ID: BL
+Pulse: 215
+syncT: 1014254713
+
+Tag Pulse
+ID: PR
+Pulse: 4
+syncT: 1022752304
+
+Master Sync
+Sync: 173
+
+Tag Pulse
+ID: NK
+Pulse: 100
+syncT: 1078539422
+
+Tag Pulse
+ID: BL
+Pulse: 216
+syncT: 1106460453
+
+Tag Pulse
+ID: PR
+Pulse: 5
+syncT: 1115745825
+
+Master Sync
+Sync: 174
+
+Tag Pulse
+ID: NK
+Pulse: 101
+syncT: 1171071059
+
+Tag Pulse
+ID: BL
+Pulse: 217
+syncT: 1198664103
+
+Tag Pulse
+ID: PR
+Pulse: 6
+syncT: 1208739273
+
+Master Sync
+Sync: 175
+
+Tag Pulse
+ID: NK
+Pulse: 102
+syncT: 1263596390
+
+Tag Pulse
+ID: BL
+Pulse: 218
+syncT: 1290868100
+
+Tag Pulse
+ID: PR
+Pulse: 7
+syncT: 1301733210
+
+Master Sync
+Sync: 176
+
+Tag Pulse
+ID: NK
+Pulse: 103
+syncT: 1356122565
+
+Tag Pulse
+ID: BL
+Pulse: 219
+syncT: 1383074561
+
+Tag Pulse
+ID: PR
+Pulse: 8
+syncT: 1394768068
+
+Master Sync
+Sync: 177
+
+Tag Pulse
+ID: NK
+Pulse: 104
+syncT: 1448644364
+
+Tag Pulse
+ID: BL
+Pulse: 220
+syncT: 1475278941
+
+Tag Pulse
+ID: PR
+Pulse: 9
+syncT: 1487727014
+
+Master Sync
+Sync: 178
+
+Tag Pulse
+ID: NK
+Pulse: 105
+syncT: 1541172600
+
+Tag Pulse
+ID: BL
+Pulse: 221
+syncT: 1567483031
+
+Tag Pulse
+ID: PR
+Pulse: 10
+syncT: 1580720230
+
+Master Sync
+Sync: 179
+
+Tag Pulse
+ID: NK
+Pulse: 106
+syncT: 1633706819
+
+Tag Pulse
+ID: BL
+Pulse: 222
+syncT: 1659686748
+
+Tag Pulse
+ID: PR
+Pulse: 11
+syncT: 1673713525
+
+Master Sync
+Sync: 180
+
+Tag Pulse
+ID: NK
+Pulse: 107
+syncT: 1726236011
+
+Tag Pulse
+ID: BL
+Pulse: 223
+syncT: 1751892258
+
+Tag Pulse
+ID: PR
+Pulse: 12
+syncT: 1766707813
+
+Master Sync
+Sync: 181
+
+Tag Pulse
+ID: NK
+Pulse: 108
+syncT: 1818762955
+
+Tag Pulse
+ID: BL
+Pulse: 224
+syncT: 1844096731
+
+Tag Pulse
+ID: PR
+Pulse: 13
+syncT: 1859702896
+
+Master Sync
+Sync: 182
+
+Tag Pulse
+ID: NK
+Pulse: 109
+syncT: 1911287825
+
+Tag Pulse
+ID: BL
+Pulse: 225
+syncT: 1936298395
+
+Tag Pulse
+ID: PR
+Pulse: 14
+syncT: 1952698262
+
+Master Sync
+Sync: 183
+
+Tag Pulse
+ID: NK
+Pulse: 110
+syncT: 2003819436
+
+Tag Pulse
+ID: BL
+Pulse: 226
+syncT: 2028501151
+
+Tag Pulse
+ID: PR
+Pulse: 15
+syncT: 2045697919
+
+Master Sync
+Sync: 184
+
+Tag Pulse
+ID: NK
+Pulse: 111
+syncT: 2096348698
+
+Tag Pulse
+ID: BL
+Pulse: 227
+syncT: 2120700330
+
+Tag Pulse
+ID: PR
+Pulse: 16
+syncT: 2138693662
+
+Master Sync
+Sync: 185
+
+Tag Pulse
+ID: NK
+Pulse: 112
+syncT: 2188913807
+
+Tag Pulse
+ID: BL
+Pulse: 228
+syncT: 2212933237
+
+Tag Pulse
+ID: PR
+Pulse: 17
+syncT: 2231687702
+
+Master Sync
+Sync: 186
+
+Tag Pulse
+ID: NK
+Pulse: 113
+syncT: 2281408086
+
+Tag Pulse
+ID: BL
+Pulse: 229
+syncT: 2305099747
+
+Tag Pulse
+ID: PR
+Pulse: 18
+syncT: 2324687352
+
+Master Sync
+Sync: 187
+
+Tag Pulse
+ID: NK
+Pulse: 114
+syncT: 2373939994
+
+Tag Pulse
+ID: BL
+Pulse: 230
+syncT: 2397304033
+
+Tag Pulse
+ID: PR
+Pulse: 19
+syncT: 2417684091
+
+Master Sync
+Sync: 188
+
+Tag Pulse
+ID: BL
+Pulse: 231
+syncT: 2489510485
+
+Tag Pulse
+ID: PR
+Pulse: 20
+syncT: 2510680595
+
+Tag Pulse
+ID: NK
+Pulse: 116
+syncT: 2558993084
+
+Master Sync
+Sync: 189
+
+Tag Pulse
+ID: BL
+Pulse: 232
+syncT: 2581712132
+
+Tag Pulse
+ID: PR
+Pulse: 21
+syncT: 2603675997
+
+Tag Pulse
+ID: NK
+Pulse: 117
+syncT: 2651528820
+
+Master Sync
+Sync: 190
+
+Tag Pulse
+ID: BL
+Pulse: 233
+syncT: 2673915898
+
+Tag Pulse
+ID: PR
+Pulse: 22
+syncT: 2696671339
+
+Tag Pulse
+ID: NK
+Pulse: 118
+syncT: 2744054595
+
+Master Sync
+Sync: 191
+
+Tag Pulse
+ID: BL
+Pulse: 234
+syncT: 2766116825
+
+Tag Pulse
+ID: PR
+Pulse: 23
+syncT: 2789665779
+
+Tag Pulse
+ID: NK
+Pulse: 119
+syncT: 2836579564
+
+Master Sync
+Sync: 192
+
+Tag Pulse
+ID: BL
+Pulse: 235
+syncT: 2858321407
+
+Tag Pulse
+ID: PR
+Pulse: 24
+syncT: 2882659273
+
+Tag Pulse
+ID: NK
+Pulse: 120
+syncT: 2929109127
+
+Master Sync
+Sync: 193
+
+Tag Pulse
+ID: BL
+Pulse: 236
+syncT: 2950521711
+
+Tag Pulse
+ID: PR
+Pulse: 25
+syncT: 2975654638
+
+Tag Pulse
+ID: NK
+Pulse: 121
+syncT: 3021640823
+
+Master Sync
+Sync: 194
+
+Tag Pulse
+ID: BL
+Pulse: 237
+syncT: 3042718824
+
+Tag Pulse
+ID: PR
+Pulse: 26
+syncT: 3068651073
+
+Tag Pulse
+ID: NK
+Pulse: 122
+syncT: 3114169888
+
+Master Sync
+Sync: 195
+
+Tag Pulse
+ID: BL
+Pulse: 238
+syncT: 3134914796
+
+Tag Pulse
+ID: PR
+Pulse: 27
+syncT: 3161647444
+
+Tag Pulse
+ID: NK
+Pulse: 123
+syncT: 3206698363
+
+Master Sync
+Sync: 196
+
+Tag Pulse
+ID: BL
+Pulse: 239
+syncT: 3227115355
+
+Tag Pulse
+ID: PR
+Pulse: 28
+syncT: 3254674016
+
+Tag Pulse
+ID: NK
+Pulse: 124
+syncT: 3299228703
+
+Master Sync
+Sync: 197
+
+Tag Pulse
+ID: BL
+Pulse: 240
+syncT: 3319316103
+
+Tag Pulse
+ID: PR
+Pulse: 29
+syncT: 3347631368
+
+Tag Pulse
+ID: NK
+Pulse: 125
+syncT: 3391756655
+
+Master Sync
+Sync: 198
+
+Tag Pulse
+ID: BL
+Pulse: 241
+syncT: 3411518019
+
+Tag Pulse
+ID: PR
+Pulse: 30
+syncT: 3440623306
+
+Tag Pulse
+ID: NK
+Pulse: 126
+syncT: 3484281885
+
+Master Sync
+Sync: 199
+
+Tag Pulse
+ID: BL
+Pulse: 242
+syncT: 3503718104
+
+Tag Pulse
+ID: PR
+Pulse: 31
+syncT: 3533614855
+
+Tag Pulse
+ID: NK
+Pulse: 127
+syncT: 3576801541
+
+Tag Pulse
+ID: BL
+Pulse: 243
+syncT: 3595916344
+
+Tag Pulse
+ID: PR
+Pulse: 32
+syncT: 3626608671
+
+Tag Pulse
+ID: NK
+Pulse: 128
+syncT: 3669324644
+
+Tag Pulse
+ID: BL
+Pulse: 244
+syncT: 3688114969
+
+Master Sync
+Sync: 201
+
+Tag Pulse
+ID: PR
+Pulse: 33
+syncT: 3719599967
+
+Tag Pulse
+ID: NK
+Pulse: 129
+syncT: 3761846956
+
+Tag Pulse
+ID: BL
+Pulse: 245
+syncT: 3780308809
+
+Master Sync
+Sync: 202
+
+Tag Pulse
+ID: PR
+Pulse: 34
+syncT: 3812589716
+
+Tag Pulse
+ID: NK
+Pulse: 130
+syncT: 3854374335
+
+Tag Pulse
+ID: BL
+Pulse: 246
+syncT: 3872506253
+
+Master Sync
+Sync: 203
+
+Tag Pulse
+ID: PR
+Pulse: 35
+syncT: 3905576562
+
+Tag Pulse
+ID: NK
+Pulse: 131
+syncT: 3946903396
+
+Tag Pulse
+ID: BL
+Pulse: 247
+syncT: 3964701870
+
+Master Sync
+Sync: 204
+
+Tag Pulse
+ID: PR
+Pulse: 36
+syncT: 3998568829
+
+Tag Pulse
+ID: NK
+Pulse: 132
+syncT: 4039466540
+
+Tag Pulse
+ID: BL
+Pulse: 248
+syncT: 4056935567
+
+Master Sync
+Sync: 205
+
+Tag Pulse
+ID: PR
+Pulse: 37
+syncT: 4091567582
+
+Tag Pulse
+ID: NK
+Pulse: 133
+syncT: 4131960644
+
+Tag Pulse
+ID: BL
+Pulse: 249
+syncT: 4149098491
+
+Master Sync
+Sync: 206
+
+Tag Pulse
+ID: PR
+Pulse: 38
+syncT: 4184562627
+
+Tag Pulse
+ID: NK
+Pulse: 134
+syncT: 4224490793
+
+Tag Pulse
+ID: BL
+Pulse: 250
+syncT: 4241296106
+
+Master Sync
+Sync: 207
+
+Tag Pulse
+ID: PR
+Pulse: 39
+syncT: 4277558080
+
+Tag Pulse
+ID: NK
+Pulse: 135
+syncT: 4317025159
+
+Tag Pulse
+ID: BL
+Pulse: 251
+syncT: 4333492294
+
+Master Sync
+Sync: 208
+
+Tag Pulse
+ID: PR
+Pulse: 40
+syncT: 4370556485
+
+Tag Pulse
+ID: NK
+Pulse: 136
+syncT: 4409561110
+
+Tag Pulse
+ID: BL
+Pulse: 252
+syncT: 4425687653
+
+Master Sync
+Sync: 209
+
+Tag Pulse
+ID: PR
+Pulse: 41
+syncT: 4463557854
+
+Tag Pulse
+ID: NK
+Pulse: 137
+syncT: 4502098111
+
+Tag Pulse
+ID: BL
+Pulse: 253
+syncT: 4517883444
+
+Master Sync
+Sync: 210
+
+Tag Pulse
+ID: PR
+Pulse: 42
+syncT: 4556556505
+
+Tag Pulse
+ID: NK
+Pulse: 138
+syncT: 4594636388
+
+Tag Pulse
+ID: BL
+Pulse: 254
+syncT: 4610079665
+
+Master Sync
+Sync: 211
+
+Tag Pulse
+ID: PR
+Pulse: 43
+syncT: 4649555759
+
+Tag Pulse
+ID: NK
+Pulse: 139
+syncT: 4687173176
+
+Tag Pulse
+ID: BL
+Pulse: 255
+syncT: 4702274087
+
+Master Sync
+Sync: 212
+
+Tag Pulse
+ID: PR
+Pulse: 44
+syncT: 4742554513
+
+Tag Pulse
+ID: NK
+Pulse: 140
+syncT: 4779708259
+
+Tag Pulse
+ID: BL
+Pulse: 0
+syncT: 4794467876
+
+Master Sync
+Sync: 213
+
+Tag Pulse
+ID: PR
+Pulse: 45
+syncT: 4835554706
+
+Tag Pulse
+ID: NK
+Pulse: 141
+syncT: 4872242191
+
+Tag Pulse
+ID: BL
+Pulse: 1
+syncT: 4886662980
+
+Master Sync
+Sync: 214
+
+Tag Pulse
+ID: PR
+Pulse: 46
+syncT: 4928549794
+
+Tag Pulse
+ID: NK
+Pulse: 142
+syncT: 4964776412
+
+Tag Pulse
+ID: BL
+Pulse: 2
+syncT: 4978855942
+
+Master Sync
+Sync: 215
+
+Tag Pulse
+ID: PR
+Pulse: 47
+syncT: 5021548039
+
+Tag Pulse
+ID: NK
+Pulse: 143
+syncT: 5057311323
+
+Tag Pulse
+ID: BL
+Pulse: 3
+syncT: 5071051132
+
+Master Sync
+Sync: 216
+
+Tag Pulse
+ID: PR
+Pulse: 48
+syncT: 5114580355
+
+Tag Pulse
+ID: NK
+Pulse: 144
+syncT: 5149842679
+
+Tag Pulse
+ID: BL
+Pulse: 4
+syncT: 5163247904
+
+Master Sync
+Sync: 217
+
+Tag Pulse
+ID: PR
+Pulse: 49
+syncT: 5207542139
+
+Tag Pulse
+ID: NK
+Pulse: 145
+syncT: 5242378064
+
+Tag Pulse
+ID: BL
+Pulse: 5
+syncT: 5255447545
+
+Master Sync
+Sync: 218
+
+Tag Pulse
+ID: PR
+Pulse: 50
+syncT: 5300537732
+
+Tag Pulse
+ID: NK
+Pulse: 146
+syncT: 5334910276
+
+Tag Pulse
+ID: BL
+Pulse: 6
+syncT: 5347646271
+
+Master Sync
+Sync: 219
+
+Tag Pulse
+ID: PR
+Pulse: 51
+syncT: 5393538798
+
+Tag Pulse
+ID: NK
+Pulse: 147
+syncT: 5427444898
+
+Tag Pulse
+ID: BL
+Pulse: 7
+syncT: 5439842407
+
+Master Sync
+Sync: 220
+
+Tag Pulse
+ID: PR
+Pulse: 52
+syncT: 5486534499
+
+Tag Pulse
+ID: NK
+Pulse: 148
+syncT: 5519978511
+
+Tag Pulse
+ID: BL
+Pulse: 8
+syncT: 5532035603
+
+Master Sync
+Sync: 221
+
+Tag Pulse
+ID: PR
+Pulse: 53
+syncT: 5579524362
+
+Tag Pulse
+ID: NK
+Pulse: 149
+syncT: 5612508017
+
+Tag Pulse
+ID: BL
+Pulse: 9
+syncT: 5624230776
+
+Master Sync
+Sync: 222
+
+Tag Pulse
+ID: PR
+Pulse: 54
+syncT: 5672517148
+
+Tag Pulse
+ID: NK
+Pulse: 150
+syncT: 5705035008
+
+Tag Pulse
+ID: BL
+Pulse: 10
+syncT: 5716425516
+
+Master Sync
+Sync: 223
+
+Tag Pulse
+ID: PR
+Pulse: 55
+syncT: 5765505383
+
+Tag Pulse
+ID: NK
+Pulse: 151
+syncT: 5797560343
+
+Tag Pulse
+ID: BL
+Pulse: 11
+syncT: 5808620498
+
+Master Sync
+Sync: 224
+
+Tag Pulse
+ID: PR
+Pulse: 56
+syncT: 5858492843
+
+Tag Pulse
+ID: NK
+Pulse: 152
+syncT: 5890126910
+
+Tag Pulse
+ID: BL
+Pulse: 12
+syncT: 5900854958
+
+Master Sync
+Sync: 225
+
+Tag Pulse
+ID: NK
+Pulse: 153
+syncT: 5982619812
+
+Tag Pulse
+ID: BL
+Pulse: 13
+syncT: 5993022503
+
+Tag Pulse
+ID: PR
+Pulse: 58
+syncT: 6044470915
+
+Tag Pulse
+ID: NK
+Pulse: 154
+syncT: 6075150392
+
+Tag Pulse
+ID: BL
+Pulse: 14
+syncT: 6085227002
+
+Tag Pulse
+ID: PR
+Pulse: 59
+syncT: 6137461897
+
+Master Sync
+Sync: 227
+
+Tag Pulse
+ID: NK
+Pulse: 155
+syncT: 6167681158
+
+Tag Pulse
+ID: BL
+Pulse: 15
+syncT: 6177431296
+
+Tag Pulse
+ID: PR
+Pulse: 60
+syncT: 6230453391
+
+Master Sync
+Sync: 228
+
+Tag Pulse
+ID: NK
+Pulse: 156
+syncT: 6260213969
+
+Tag Pulse
+ID: BL
+Pulse: 16
+syncT: 6269634284
+
+Tag Pulse
+ID: PR
+Pulse: 61
+syncT: 6323443564
+
+Master Sync
+Sync: 229
+
+Tag Pulse
+ID: NK
+Pulse: 157
+syncT: 6352748762
+
+Tag Pulse
+ID: BL
+Pulse: 17
+syncT: 6361838052
+
+Tag Pulse
+ID: PR
+Pulse: 62
+syncT: 6416431932
+
+Master Sync
+Sync: 230
+
+Tag Pulse
+ID: NK
+Pulse: 158
+syncT: 6445281741
+
+Tag Pulse
+ID: BL
+Pulse: 18
+syncT: 6454048191
+
+Tag Pulse
+ID: PR
+Pulse: 63
+syncT: 6509420818
+
+Master Sync
+Sync: 231
+
+Tag Pulse
+ID: NK
+Pulse: 159
+syncT: 6537815173
+
+Tag Pulse
+ID: BL
+Pulse: 19
+syncT: 6546252269
+
+Tag Pulse
+ID: PR
+Pulse: 64
+syncT: 6602403793
+
+Master Sync
+Sync: 232
+
+Tag Pulse
+ID: NK
+Pulse: 160
+syncT: 6630352085
+
+Tag Pulse
+ID: BL
+Pulse: 20
+syncT: 6638455179
+
+Tag Pulse
+ID: PR
+Pulse: 65
+syncT: 6695390261
+
+Master Sync
+Sync: 233
+
+Tag Pulse
+ID: NK
+Pulse: 161
+syncT: 6722881969
+
+Tag Pulse
+ID: BL
+Pulse: 21
+syncT: 6730661380
+
+Tag Pulse
+ID: PR
+Pulse: 66
+syncT: 6788376868
+
+Master Sync
+Sync: 234
+
+Tag Pulse
+ID: NK
+Pulse: 162
+syncT: 6815407098
+
+Tag Pulse
+ID: BL
+Pulse: 22
+syncT: 6822864605
+
+Tag Pulse
+ID: PR
+Pulse: 67
+syncT: 6881365901
+
+Master Sync
+Sync: 235
+
+Tag Pulse
+ID: NK
+Pulse: 163
+syncT: 6907937188
+
+Tag Pulse
+ID: BL
+Pulse: 23
+syncT: 6915067749
+
+Tag Pulse
+ID: PR
+Pulse: 68
+syncT: 6974398548
+
+Master Sync
+Sync: 236
+
+Tag Pulse
+ID: NK
+Pulse: 164
+syncT: 7000457622
+
+Tag Pulse
+ID: BL
+Pulse: 24
+syncT: 7007268858
+
+Tag Pulse
+ID: PR
+Pulse: 69
+syncT: 7067358679
+
+Master Sync
+Sync: 237
+
+Tag Pulse
+ID: NK
+Pulse: 165
+syncT: 7092982756
+
+Tag Pulse
+ID: BL
+Pulse: 25
+syncT: 7099468919
+
+Tag Pulse
+ID: PR
+Pulse: 70
+syncT: 7160350460
+
+Master Sync
+Sync: 238
+
+Tag Pulse
+ID: NK
+Pulse: 166
+syncT: 7185507503
+
+Tag Pulse
+ID: BL
+Pulse: 26
+syncT: 7191671088
+
+Tag Pulse
+ID: PR
+Pulse: 71
+syncT: 7253339017
+
+Master Sync
+Sync: 239
+
+Tag Pulse
+ID: NK
+Pulse: 167
+syncT: 7278038256
+
+Tag Pulse
+ID: BL
+Pulse: 27
+syncT: 7283873262
+
+Tag Pulse
+ID: PR
+Pulse: 72
+syncT: 7346324078
+
+Master Sync
+Sync: 240
+
+Tag Pulse
+ID: NK
+Pulse: 168
+syncT: 7370567752
+
+Tag Pulse
+ID: BL
+Pulse: 28
+syncT: 7376081524
+
+Tag Pulse
+ID: PR
+Pulse: 73
+syncT: 7439310037
+
+Master Sync
+Sync: 241
+
+Tag Pulse
+ID: NK
+Pulse: 169
+syncT: 7463097549
+
+Tag Pulse
+ID: BL
+Pulse: 29
+syncT: 7468281809
+
+Tag Pulse
+ID: PR
+Pulse: 74
+syncT: 7532294559
+
+Master Sync
+Sync: 242
+
+Tag Pulse
+ID: NK
+Pulse: 170
+syncT: 7555624262
+
+Tag Pulse
+ID: BL
+Pulse: 30
+syncT: 7560484009
+
+Tag Pulse
+ID: PR
+Pulse: 75
+syncT: 7625283354
+
+Master Sync
+Sync: 243
+
+Tag Pulse
+ID: NK
+Pulse: 171
+syncT: 7648147418
+
+Tag Pulse
+ID: BL
+Pulse: 31
+syncT: 7652688033
+
+Tag Pulse
+ID: PR
+Pulse: 76
+syncT: 7718271040
+
+Master Sync
+Sync: 244
+
+Tag Pulse
+ID: BL
+Pulse: 32
+syncT: 7744929804
+
+Tag Pulse
+ID: PR
+Pulse: 77
+syncT: 7811262219
+
+Tag Pulse
+ID: NK
+Pulse: 173
+syncT: 7833200481
+
+Master Sync
+Sync: 245
+
+Tag Pulse
+ID: BL
+Pulse: 33
+syncT: 7837093668
+
+Tag Pulse
+ID: PR
+Pulse: 78
+syncT: 7904248681
+
+Tag Pulse
+ID: NK
+Pulse: 174
+syncT: 7925728209
+
+Master Sync
+Sync: 246
+
+Tag Pulse
+ID: BL
+Pulse: 34
+syncT: 7929294225
+
+Tag Pulse
+ID: NK
+Pulse: 175
+syncT: 8018259458
+
+Tag Pulse
+ID: BL
+Pulse: 35
+syncT: 8021494068
+
+Master Sync
+Sync: 247
+
+Tag Pulse
+ID: NK
+Pulse: 176
+syncT: 8110790047
+
+Tag Pulse
+ID: BL
+Pulse: 36
+syncT: 8113694046
+
+Master Sync
+Sync: 248
+
+Tag Pulse
+ID: PR
+Pulse: 81
+syncT: 8183209787
+
+Tag Pulse
+ID: NK
+Pulse: 177
+syncT: 8203321455
+
+Tag Pulse
+ID: BL
+Pulse: 37
+syncT: 8205893047
+
+Master Sync
+Sync: 249
+
+Tag Pulse
+ID: PR
+Pulse: 82
+syncT: 8276204889
+
+Tag Pulse
+ID: NK
+Pulse: 178
+syncT: 8295847758
+
+Tag Pulse
+ID: BL
+Pulse: 38
+syncT: 8298091080
+
+Master Sync
+Sync: 250
+
+Tag Pulse
+ID: PR
+Pulse: 83
+syncT: 8369197361
+
+Tag Pulse
+ID: NK
+Pulse: 179
+syncT: 8388373868
+
+Tag Pulse
+ID: BL
+Pulse: 39
+syncT: 8390283255
+
+Master Sync
+Sync: 251
+
+Tag Pulse
+ID: PR
+Pulse: 84
+syncT: 8462189137
+
+Tag Pulse
+ID: NK
+Pulse: 180
+syncT: 8480904114
+
+Tag Pulse
+ID: BL
+Pulse: 40
+syncT: 8482473289
+
+Master Sync
+Sync: 252
+
+Tag Pulse
+ID: PR
+Pulse: 85
+syncT: 8555173664
+
+Tag Pulse
+ID: NK
+Pulse: 181
+syncT: 8573433103
+
+Tag Pulse
+ID: BL
+Pulse: 41
+syncT: 8574664324
+
+Master Sync
+Sync: 253
+
+Tag Pulse
+ID: PR
+Pulse: 86
+syncT: 8648156661
+
+Tag Pulse
+ID: NK
+Pulse: 182
+syncT: 8665958746
+
+Master Sync
+Sync: 254
+
+Tag Pulse
+ID: PR
+Pulse: 87
+syncT: 8741142383
+
+Tag Pulse
+ID: NK
+Pulse: 183
+syncT: 8758485971
+
+Master Sync
+Sync: 255
+
+Tag Pulse
+ID: PR
+Pulse: 88
+syncT: 8834165441
+
+Tag Pulse
+ID: NK
+Pulse: 184
+syncT: 8851013048
+
+Master Sync
+Sync: 0
+
+Tag Pulse
+ID: PR
+Pulse: 89
+syncT: 8927116794
+
+Master Sync
+Sync: 1
+
+Tag Pulse
+ID: PR
+Pulse: 90
+syncT: 9020103041
+
+Tag Pulse
+ID: BL
+Pulse: 46
+syncT: 9035623631
+
+Master Sync
+Sync: 2
+
+Tag Pulse
+ID: PR
+Pulse: 91
+syncT: 9113094869
+
+Tag Pulse
+ID: BL
+Pulse: 47
+syncT: 9127816441
+
+Master Sync
+Sync: 3
+
+Tag Pulse
+ID: PR
+Pulse: 92
+syncT: 9206083930
+
+Tag Pulse
+ID: BL
+Pulse: 48
+syncT: 9220011897
+
+Tag Pulse
+ID: NK
+Pulse: 188
+syncT: 9221103851
+
+Master Sync
+Sync: 4
+
+Tag Pulse
+ID: PR
+Pulse: 93
+syncT: 9299076256
+
+Tag Pulse
+ID: BL
+Pulse: 49
+syncT: 9312206972
+
+Tag Pulse
+ID: NK
+Pulse: 189
+syncT: 9313634192
+
+Master Sync
+Sync: 5
+
+Tag Pulse
+ID: PR
+Pulse: 94
+syncT: 9392066287
+
+Tag Pulse
+ID: BL
+Pulse: 50
+syncT: 9404403393
+
+Tag Pulse
+ID: NK
+Pulse: 190
+syncT: 9406169211
+
+Master Sync
+Sync: 6
+
+Tag Pulse
+ID: PR
+Pulse: 95
+syncT: 9485056399
+
+Tag Pulse
+ID: BL
+Pulse: 51
+syncT: 9496601298
+
+Tag Pulse
+ID: NK
+Pulse: 191
+syncT: 9498706791
+
+Master Sync
+Sync: 7
+
+Tag Pulse
+ID: PR
+Pulse: 96
+syncT: 9578046741
+
+Tag Pulse
+ID: BL
+Pulse: 52
+syncT: 9588829023
+
+Tag Pulse
+ID: NK
+Pulse: 192
+syncT: 9591277031
+
+Master Sync
+Sync: 8
+
+Tag Pulse
+ID: PR
+Pulse: 97
+syncT: 9671034840
+
+Tag Pulse
+ID: BL
+Pulse: 53
+syncT: 9680986557
+
+Tag Pulse
+ID: NK
+Pulse: 193
+syncT: 9683771972
+
+Master Sync
+Sync: 9
+
+Tag Pulse
+ID: PR
+Pulse: 98
+syncT: 9764022519
+
+Tag Pulse
+ID: BL
+Pulse: 54
+syncT: 9773184015
+
+Tag Pulse
+ID: NK
+Pulse: 194
+syncT: 9776300539
+
+Master Sync
+Sync: 10
+
+Tag Pulse
+ID: PR
+Pulse: 99
+syncT: 9857016941
+
+Tag Pulse
+ID: BL
+Pulse: 55
+syncT: 9865378910
+
+Tag Pulse
+ID: NK
+Pulse: 195
+syncT: 9868835112
+
+Master Sync
+Sync: 11
+
+Tag Pulse
+ID: PR
+Pulse: 100
+syncT: 9950004862
+
+Tag Pulse
+ID: BL
+Pulse: 56
+syncT: 9957574449
+
+Tag Pulse
+ID: NK
+Pulse: 196
+syncT: 9961371313
+
+Master Sync
+Sync: 12
+
+Tag Pulse
+ID: PR
+Pulse: 101
+syncT: 10042991860
+
+Tag Pulse
+ID: BL
+Pulse: 57
+syncT: 10049767555
+
+Tag Pulse
+ID: NK
+Pulse: 197
+syncT: 10053901899
+
+Master Sync
+Sync: 13
+
+Tag Pulse
+ID: PR
+Pulse: 102
+syncT: 10135987720
+
+Tag Pulse
+ID: BL
+Pulse: 58
+syncT: 10141964196
+
+Tag Pulse
+ID: NK
+Pulse: 198
+syncT: 10146438601
+
+Master Sync
+Sync: 14
+
+Tag Pulse
+ID: PR
+Pulse: 103
+syncT: 10228984020
+
+Tag Pulse
+ID: BL
+Pulse: 59
+syncT: 10234159097
+
+Tag Pulse
+ID: NK
+Pulse: 199
+syncT: 10238970746
+
+Master Sync
+Sync: 15
+
+Tag Pulse
+ID: PR
+Pulse: 104
+syncT: 10321974461
+
+Tag Pulse
+ID: BL
+Pulse: 60
+syncT: 10326352964
+
+Tag Pulse
+ID: NK
+Pulse: 200
+syncT: 10331504527
+
+Master Sync
+Sync: 16
+
+Tag Pulse
+ID: PR
+Pulse: 105
+syncT: 10414968075
+
+Tag Pulse
+ID: BL
+Pulse: 61
+syncT: 10418548086
+
+Tag Pulse
+ID: NK
+Pulse: 201
+syncT: 10424038557
+
+Master Sync
+Sync: 17
+
+Tag Pulse
+ID: PR
+Pulse: 106
+syncT: 10507960177
+
+Tag Pulse
+ID: BL
+Pulse: 62
+syncT: 10510743809
+
+Tag Pulse
+ID: NK
+Pulse: 202
+syncT: 10516576230
+
+Master Sync
+Sync: 18
+
+Tag Pulse
+ID: PR
+Pulse: 107
+syncT: 10600952472
+
+Tag Pulse
+ID: BL
+Pulse: 63
+syncT: 10602936857
+
+Tag Pulse
+ID: NK
+Pulse: 203
+syncT: 10609112197
+
+Master Sync
+Sync: 19
+
+Tag Pulse
+ID: PR
+Pulse: 108
+syncT: 10693977170
+
+Tag Pulse
+ID: BL
+Pulse: 64
+syncT: 10695123809
+
+Tag Pulse
+ID: NK
+Pulse: 204
+syncT: 10701646284
+
+Master Sync
+Sync: 20
+
+Tag Pulse
+ID: PR
+Pulse: 109
+syncT: 10786928951
+
+Tag Pulse
+ID: NK
+Pulse: 205
+syncT: 10794178221
+
+Master Sync
+Sync: 21
+
+Tag Pulse
+ID: BL
+Pulse: 66
+syncT: 10879497294
+
+Tag Pulse
+ID: NK
+Pulse: 206
+syncT: 10886710957
+
+Master Sync
+Sync: 22
+
+Tag Pulse
+ID: BL
+Pulse: 67
+syncT: 10971687378
+
+Tag Pulse
+ID: PR
+Pulse: 111
+syncT: 10972901308
+
+Tag Pulse
+ID: NK
+Pulse: 207
+syncT: 10979246721
+
+Master Sync
+Sync: 23
+
+Tag Pulse
+ID: BL
+Pulse: 68
+syncT: 11063878233
+
+Tag Pulse
+ID: PR
+Pulse: 112
+syncT: 11065893925
+
+Tag Pulse
+ID: NK
+Pulse: 208
+syncT: 11071779301
+
+Master Sync
+Sync: 24
+
+Tag Pulse
+ID: BL
+Pulse: 69
+syncT: 11156067519
+
+Tag Pulse
+ID: PR
+Pulse: 113
+syncT: 11158886927
+
+Tag Pulse
+ID: NK
+Pulse: 209
+syncT: 11164310483
+
+Master Sync
+Sync: 25
+
+Tag Pulse
+ID: BL
+Pulse: 70
+syncT: 11248258774
+
+Tag Pulse
+ID: PR
+Pulse: 114
+syncT: 11251873335
+
+Tag Pulse
+ID: NK
+Pulse: 210
+syncT: 11256846148
+
+Master Sync
+Sync: 26
+
+Tag Pulse
+ID: BL
+Pulse: 71
+syncT: 11340448889
+
+Tag Pulse
+ID: PR
+Pulse: 115
+syncT: 11344862122
+
+Tag Pulse
+ID: NK
+Pulse: 211
+syncT: 11349385685
+
+Master Sync
+Sync: 27
+
+Tag Pulse
+ID: BL
+Pulse: 72
+syncT: 11432675725
+
+Tag Pulse
+ID: PR
+Pulse: 116
+syncT: 11437850709
+
+Tag Pulse
+ID: NK
+Pulse: 212
+syncT: 11441958537
+
+Master Sync
+Sync: 28
+
+Tag Pulse
+ID: BL
+Pulse: 73
+syncT: 11524834008
+
+Tag Pulse
+ID: PR
+Pulse: 117
+syncT: 11530843181
+
+Tag Pulse
+ID: NK
+Pulse: 213
+syncT: 11534458997
+
+Master Sync
+Sync: 29
+
+Tag Pulse
+ID: BL
+Pulse: 74
+syncT: 11617023762
+
+Tag Pulse
+ID: PR
+Pulse: 118
+syncT: 11623844878
 
 Tag Pulse
 ID: NK
 Pulse: 214
-syncT: 15624338205
+syncT: 11626997273
+
+Master Sync
+Sync: 30
+
+Tag Pulse
+ID: BL
+Pulse: 75
+syncT: 11709214994
+
+Tag Pulse
+ID: PR
+Pulse: 119
+syncT: 11716844645
+
+Tag Pulse
+ID: NK
+Pulse: 215
+syncT: 11719532138
+
+Master Sync
+Sync: 31
+
+Tag Pulse
+ID: BL
+Pulse: 76
+syncT: 11801405385
+
+Tag Pulse
+ID: PR
+Pulse: 120
+syncT: 11809841601
+
+Tag Pulse
+ID: NK
+Pulse: 216
+syncT: 11812068131
+
+Master Sync
+Sync: 32
+
+Tag Pulse
+ID: BL
+Pulse: 77
+syncT: 11893599500
+
+Tag Pulse
+ID: PR
+Pulse: 121
+syncT: 11902831473
+
+Tag Pulse
+ID: NK
+Pulse: 217
+syncT: 11904607067
+
+Master Sync
+Sync: 33
+
+Tag Pulse
+ID: BL
+Pulse: 78
+syncT: 11985794885
+
+Tag Pulse
+ID: PR
+Pulse: 122
+syncT: 11995822948
+
+Tag Pulse
+ID: NK
+Pulse: 218
+syncT: 11997146055
+
+Master Sync
+Sync: 34
+
+Tag Pulse
+ID: BL
+Pulse: 79
+syncT: 12077995280
+
+Tag Pulse
+ID: PR
+Pulse: 123
+syncT: 12088813887
+
+Master Sync
+Sync: 35
+
+Tag Pulse
+ID: BL
+Pulse: 80
+syncT: 12170192472
+
+Tag Pulse
+ID: PR
+Pulse: 124
+syncT: 12181805597
+
+Master Sync
+Sync: 36
+
+Tag Pulse
+ID: BL
+Pulse: 81
+syncT: 12262391232
+
+Tag Pulse
+ID: NK
+Pulse: 221
+syncT: 12274754468
+
+Tag Pulse
+ID: BL
+Pulse: 82
+syncT: 12354587153
+
+Tag Pulse
+ID: NK
+Pulse: 222
+syncT: 12367293832
+
+Tag Pulse
+ID: BL
+Pulse: 83
+syncT: 12446783284
+
+Master Sync
+Sync: 38
+
+Tag Pulse
+ID: NK
+Pulse: 223
+syncT: 12459835335
+
+Tag Pulse
+ID: BL
+Pulse: 84
+syncT: 12538980748
+
+Master Sync
+Sync: 39
+
+Tag Pulse
+ID: NK
+Pulse: 224
+syncT: 12552369817
 
 Tag Pulse
 ID: PR
 Pulse: 128
-syncT: 15670470172
+syncT: 12553798755
+
+Tag Pulse
+ID: BL
+Pulse: 85
+syncT: 12631176606
+
+Master Sync
+Sync: 40
+
+Tag Pulse
+ID: NK
+Pulse: 225
+syncT: 12644904189
+
+Tag Pulse
+ID: PR
+Pulse: 129
+syncT: 12646751898
+
+Tag Pulse
+ID: BL
+Pulse: 86
+syncT: 12723372013
+
+Master Sync
+Sync: 41
+
+Tag Pulse
+ID: NK
+Pulse: 226
+syncT: 12737433159
+
+Tag Pulse
+ID: PR
+Pulse: 130
+syncT: 12739739477
+
+Tag Pulse
+ID: BL
+Pulse: 87
+syncT: 12815566499
+
+Master Sync
+Sync: 42
+
+Tag Pulse
+ID: NK
+Pulse: 227
+syncT: 12829965680
+
+Tag Pulse
+ID: PR
+Pulse: 131
+syncT: 12832726965
+
+Tag Pulse
+ID: BL
+Pulse: 88
+syncT: 12907762869
+
+Master Sync
+Sync: 43
+
+Tag Pulse
+ID: NK
+Pulse: 228
+syncT: 12922498064
+
+Tag Pulse
+ID: PR
+Pulse: 132
+syncT: 12925713717
+
+Tag Pulse
+ID: BL
+Pulse: 89
+syncT: 12999966354
+
+Master Sync
+Sync: 44
+
+Tag Pulse
+ID: NK
+Pulse: 229
+syncT: 13015031187
+
+Tag Pulse
+ID: PR
+Pulse: 133
+syncT: 13018703644
+
+Tag Pulse
+ID: BL
+Pulse: 90
+syncT: 13092173229
+
+Tag Pulse
+ID: NK
+Pulse: 230
+syncT: 13107564232
+
+Tag Pulse
+ID: PR
+Pulse: 134
+syncT: 13111692606
+
+Tag Pulse
+ID: BL
+Pulse: 91
+syncT: 13184377199
+
+Tag Pulse
+ID: NK
+Pulse: 231
+syncT: 13200103408
+
+Master Sync
+Sync: 46
+
+Tag Pulse
+ID: PR
+Pulse: 135
+syncT: 13204684279
+
+Tag Pulse
+ID: BL
+Pulse: 92
+syncT: 13276615051
+
+Tag Pulse
+ID: NK
+Pulse: 232
+syncT: 13292675423
+
+Master Sync
+Sync: 47
+
+Tag Pulse
+ID: PR
+Pulse: 136
+syncT: 13297680831
+
+Tag Pulse
+ID: BL
+Pulse: 93
+syncT: 13368781134
+
+Tag Pulse
+ID: NK
+Pulse: 233
+syncT: 13385175306
+
+Master Sync
+Sync: 48
+
+Tag Pulse
+ID: BL
+Pulse: 94
+syncT: 13460986973
+
+Tag Pulse
+ID: NK
+Pulse: 234
+syncT: 13477710648
+
+Tag Pulse
+ID: PR
+Pulse: 138
+syncT: 13483669945
+
+Master Sync
+Sync: 49
+
+Tag Pulse
+ID: BL
+Pulse: 95
+syncT: 13553194776
+
+Tag Pulse
+ID: NK
+Pulse: 235
+syncT: 13570247938
+
+Tag Pulse
+ID: PR
+Pulse: 139
+syncT: 13576663319
+
+Master Sync
+Sync: 50
+
+Tag Pulse
+ID: BL
+Pulse: 96
+syncT: 13645394693
+
+Tag Pulse
+ID: NK
+Pulse: 236
+syncT: 13662775650
+
+Tag Pulse
+ID: PR
+Pulse: 140
+syncT: 13669660606
+
+Master Sync
+Sync: 51
+
+Tag Pulse
+ID: BL
+Pulse: 97
+syncT: 13737595142
+
+Tag Pulse
+ID: NK
+Pulse: 237
+syncT: 13755306954
+
+Tag Pulse
+ID: PR
+Pulse: 141
+syncT: 13762657292
+
+Master Sync
+Sync: 52
+
+Tag Pulse
+ID: BL
+Pulse: 98
+syncT: 13829796478
+
+Tag Pulse
+ID: NK
+Pulse: 238
+syncT: 13847834551
+
+Tag Pulse
+ID: PR
+Pulse: 142
+syncT: 13855653635
+
+Master Sync
+Sync: 53
+
+Tag Pulse
+ID: BL
+Pulse: 99
+syncT: 13921997806
+
+Tag Pulse
+ID: NK
+Pulse: 239
+syncT: 13940361982
+
+Tag Pulse
+ID: PR
+Pulse: 143
+syncT: 13948646941
+
+Master Sync
+Sync: 54
+
+Tag Pulse
+ID: BL
+Pulse: 100
+syncT: 14014198272
+
+Tag Pulse
+ID: NK
+Pulse: 240
+syncT: 14032888881
+
+Tag Pulse
+ID: PR
+Pulse: 144
+syncT: 14041640037
+
+Master Sync
+Sync: 55
+
+Tag Pulse
+ID: BL
+Pulse: 101
+syncT: 14106398927
+
+Tag Pulse
+ID: NK
+Pulse: 241
+syncT: 14125419201
+
+Tag Pulse
+ID: PR
+Pulse: 145
+syncT: 14134629117
+
+Master Sync
+Sync: 56
+
+Tag Pulse
+ID: BL
+Pulse: 102
+syncT: 14198600546
+
+Tag Pulse
+ID: NK
+Pulse: 242
+syncT: 14217950584
+
+Tag Pulse
+ID: PR
+Pulse: 146
+syncT: 14227619584
+
+Master Sync
+Sync: 57
+
+Tag Pulse
+ID: BL
+Pulse: 103
+syncT: 14290801167
+
+Tag Pulse
+ID: NK
+Pulse: 243
+syncT: 14310482693
+
+Tag Pulse
+ID: PR
+Pulse: 147
+syncT: 14320610135
+
+Master Sync
+Sync: 58
+
+Tag Pulse
+ID: BL
+Pulse: 104
+syncT: 14383002338
+
+Tag Pulse
+ID: NK
+Pulse: 244
+syncT: 14403010102
+
+Tag Pulse
+ID: PR
+Pulse: 148
+syncT: 14413633924
+
+Master Sync
+Sync: 59
+
+Tag Pulse
+ID: BL
+Pulse: 105
+syncT: 14475200425
+
+Tag Pulse
+ID: NK
+Pulse: 245
+syncT: 14495540054
+
+Tag Pulse
+ID: PR
+Pulse: 149
+syncT: 14506585282
+
+Master Sync
+Sync: 60
+
+Tag Pulse
+ID: BL
+Pulse: 106
+syncT: 14567396746
+
+Tag Pulse
+ID: NK
+Pulse: 246
+syncT: 14588066618
+
+Tag Pulse
+ID: PR
+Pulse: 150
+syncT: 14599572967
+
+Master Sync
+Sync: 61
+
+Tag Pulse
+ID: BL
+Pulse: 107
+syncT: 14659593357
+
+Tag Pulse
+ID: NK
+Pulse: 247
+syncT: 14680600469
+
+Tag Pulse
+ID: PR
+Pulse: 151
+syncT: 14692560700
+
+Master Sync
+Sync: 62
+
+Tag Pulse
+ID: BL
+Pulse: 108
+syncT: 14751789056
+
+Tag Pulse
+ID: NK
+Pulse: 248
+syncT: 14773135932
+
+Tag Pulse
+ID: PR
+Pulse: 152
+syncT: 14785550224
+
+Master Sync
+Sync: 63
+
+Tag Pulse
+ID: BL
+Pulse: 109
+syncT: 14843985568
+
+Tag Pulse
+ID: NK
+Pulse: 249
+syncT: 14865669295
+
+Tag Pulse
+ID: PR
+Pulse: 153
+syncT: 14878537671
+
+Master Sync
+Sync: 64
+
+Tag Pulse
+ID: BL
+Pulse: 110
+syncT: 14936178365
+
+Tag Pulse
+ID: NK
+Pulse: 250
+syncT: 14958197832
+
+Tag Pulse
+ID: PR
+Pulse: 154
+syncT: 14971527904
+
+Master Sync
+Sync: 65
+
+Tag Pulse
+ID: BL
+Pulse: 111
+syncT: 15028374181
+
+Tag Pulse
+ID: NK
+Pulse: 251
+syncT: 15050725887
+
+Tag Pulse
+ID: PR
+Pulse: 155
+syncT: 15064516280
+
+Master Sync
+Sync: 66
+
+Tag Pulse
+ID: BL
+Pulse: 112
+syncT: 15120605969
+
+Tag Pulse
+ID: NK
+Pulse: 252
+syncT: 15143290914
+
+Tag Pulse
+ID: PR
+Pulse: 156
+syncT: 15157506388
+
+Master Sync
+Sync: 67
+
+Tag Pulse
+ID: BL
+Pulse: 113
+syncT: 15212763708
+
+Tag Pulse
+ID: NK
+Pulse: 253
+syncT: 15235787550
+
+Tag Pulse
+ID: PR
+Pulse: 157
+syncT: 15250494343
+
+Master Sync
+Sync: 68
+
+Tag Pulse
+ID: BL
+Pulse: 114
+syncT: 15304963614
+
+Tag Pulse
+ID: NK
+Pulse: 254
+syncT: 15328319525
+
+Tag Pulse
+ID: PR
+Pulse: 158
+syncT: 15343481236
+
+Master Sync
+Sync: 69
+
+Tag Pulse
+ID: BL
+Pulse: 115
+syncT: 15397159336
+
+Tag Pulse
+ID: NK
+Pulse: 255
+syncT: 15420849552
+
+Tag Pulse
+ID: PR
+Pulse: 159
+syncT: 15436467115
+
+Master Sync
+Sync: 70
+
+Tag Pulse
+ID: BL
+Pulse: 116
+syncT: 15489357144
+
+Tag Pulse
+ID: NK
+Pulse: 0
+syncT: 15513375919
+
+Tag Pulse
+ID: PR
+Pulse: 160
+syncT: 15529455821
+
+Master Sync
+Sync: 71
+
+Tag Pulse
+ID: BL
+Pulse: 117
+syncT: 15581556736
+
+Tag Pulse
+ID: NK
+Pulse: 1
+syncT: 15605902935
+
+Tag Pulse
+ID: PR
+Pulse: 161
+syncT: 15622443638
+
+Master Sync
+Sync: 72
+
+Tag Pulse
+ID: BL
+Pulse: 118
+syncT: 15673757359
+
+Tag Pulse
+ID: NK
+Pulse: 2
+syncT: 15698432204
+
+Tag Pulse
+ID: PR
+Pulse: 162
+syncT: 15715433997
+
+Master Sync
+Sync: 73
+
+Tag Pulse
+ID: BL
+Pulse: 119
+syncT: 15765955498
+
+Tag Pulse
+ID: NK
+Pulse: 3
+syncT: 15790963291
+
+Tag Pulse
+ID: PR
+Pulse: 163
+syncT: 15808423866
+
+Master Sync
+Sync: 74
+
+Tag Pulse
+ID: BL
+Pulse: 120
+syncT: 15858153858
+
+Tag Pulse
+ID: NK
+Pulse: 4
+syncT: 15883491526
+
+Tag Pulse
+ID: PR
+Pulse: 164
+syncT: 15901409393
+
+Master Sync
+Sync: 75
+
+Tag Pulse
+ID: BL
+Pulse: 121
+syncT: 15950352501
+
+Tag Pulse
+ID: NK
+Pulse: 5
+syncT: 15976020185
+
+Tag Pulse
+ID: PR
+Pulse: 165
+syncT: 15994397353
+
+Master Sync
+Sync: 76
+
+Tag Pulse
+ID: BL
+Pulse: 122
+syncT: 16042548066
+
+Tag Pulse
+ID: NK
+Pulse: 6
+syncT: 16068547644
+
+Tag Pulse
+ID: PR
+Pulse: 166
+syncT: 16087389993
+
+Master Sync
+Sync: 77
+
+Tag Pulse
+ID: BL
+Pulse: 123
+syncT: 16134743299
+
+Tag Pulse
+ID: NK
+Pulse: 7
+syncT: 16161074726
+
+Tag Pulse
+ID: PR
+Pulse: 167
+syncT: 16180374745
+
+Master Sync
+Sync: 78
+
+Tag Pulse
+ID: BL
+Pulse: 124
+syncT: 16226939511
+
+Tag Pulse
+ID: NK
+Pulse: 8
+syncT: 16253603342
+
+Tag Pulse
+ID: PR
+Pulse: 168
+syncT: 16273400308
+
+Master Sync
+Sync: 79
+
+Tag Pulse
+ID: BL
+Pulse: 125
+syncT: 16319139463
+
+Tag Pulse
+ID: NK
+Pulse: 9
+syncT: 16346134207
+
+Tag Pulse
+ID: PR
+Pulse: 169
+syncT: 16366350660
+
+Master Sync
+Sync: 80
+
+Tag Pulse
+ID: BL
+Pulse: 126
+syncT: 16411334403
+
+Tag Pulse
+ID: NK
+Pulse: 10
+syncT: 16438666063
+
+Tag Pulse
+ID: PR
+Pulse: 170
+syncT: 16459337039
+
+Master Sync
+Sync: 81
+
+Tag Pulse
+ID: BL
+Pulse: 127
+syncT: 16503530982
+
+Tag Pulse
+ID: NK
+Pulse: 11
+syncT: 16531198717
+
+Tag Pulse
+ID: PR
+Pulse: 171
+syncT: 16552331083
+
+Master Sync
+Sync: 82
+
+Tag Pulse
+ID: BL
+Pulse: 128
+syncT: 16595729798
+
+Tag Pulse
+ID: NK
+Pulse: 12
+syncT: 16623727045
+
+Tag Pulse
+ID: PR
+Pulse: 172
+syncT: 16645324123
+
+Master Sync
+Sync: 83
+
+Tag Pulse
+ID: BL
+Pulse: 129
+syncT: 16687930058
+
+Tag Pulse
+ID: NK
+Pulse: 13
+syncT: 16716255715
+
+Tag Pulse
+ID: PR
+Pulse: 173
+syncT: 16738314212
+
+Tag Pulse
+ID: BL
+Pulse: 130
+syncT: 16780129918
+
+Tag Pulse
+ID: NK
+Pulse: 14
+syncT: 16808781956
+
+Tag Pulse
+ID: PR
+Pulse: 174
+syncT: 16831304192
+
+Tag Pulse
+ID: BL
+Pulse: 131
+syncT: 16872327688
+
+Master Sync
+Sync: 85
+
+Tag Pulse
+ID: NK
+Pulse: 15
+syncT: 16901308309
+
+Tag Pulse
+ID: PR
+Pulse: 175
+syncT: 16924296146
+
+Tag Pulse
+ID: BL
+Pulse: 132
+syncT: 16964560465
+
+Master Sync
+Sync: 86
+
+Tag Pulse
+ID: NK
+Pulse: 16
+syncT: 16993872720
+
+Tag Pulse
+ID: PR
+Pulse: 176
+syncT: 17017288177
+
+Tag Pulse
+ID: BL
+Pulse: 133
+syncT: 17056721820
+
+Master Sync
+Sync: 87
+
+Tag Pulse
+ID: NK
+Pulse: 17
+syncT: 17086359407
+
+Tag Pulse
+ID: PR
+Pulse: 177
+syncT: 17110279221
+
+Tag Pulse
+ID: BL
+Pulse: 134
+syncT: 17148918232
+
+Master Sync
+Sync: 88
+
+Tag Pulse
+ID: NK
+Pulse: 18
+syncT: 17178879940
+
+Tag Pulse
+ID: PR
+Pulse: 178
+syncT: 17203266254
+
+Tag Pulse
+ID: BL
+Pulse: 135
+syncT: 17233711256
+
+Master Sync
+Sync: 89
+
+Tag Pulse
+ID: NK
+Pulse: 19
+syncT: 64004897
+
+Tag Pulse
+ID: PR
+Pulse: 179
+syncT: 88859461
+
+Tag Pulse
+ID: BL
+Pulse: 136
+syncT: 125908796
+
+Master Sync
+Sync: 90
+
+Tag Pulse
+ID: NK
+Pulse: 20
+syncT: 156524181
+
+Tag Pulse
+ID: PR
+Pulse: 180
+syncT: 181851611
+
+Tag Pulse
+ID: BL
+Pulse: 137
+syncT: 218108211
+
+Master Sync
+Sync: 91
+
+Tag Pulse
+ID: NK
+Pulse: 21
+syncT: 249045075
+
+Tag Pulse
+ID: PR
+Pulse: 181
+syncT: 274843581
+
+Tag Pulse
+ID: BL
+Pulse: 138
+syncT: 310309205
+
+Master Sync
+Sync: 92
+
+Tag Pulse
+ID: NK
+Pulse: 22
+syncT: 341572996
+
+Tag Pulse
+ID: PR
+Pulse: 182
+syncT: 367840338
+
+Tag Pulse
+ID: BL
+Pulse: 139
+syncT: 402510179
+
+Master Sync
+Sync: 93
+
+Tag Pulse
+ID: NK
+Pulse: 23
+syncT: 434104067
+
+Tag Pulse
+ID: PR
+Pulse: 183
+syncT: 460832658
+
+Tag Pulse
+ID: BL
+Pulse: 140
+syncT: 494714737
+
+Master Sync
+Sync: 94
+
+Tag Pulse
+ID: NK
+Pulse: 24
+syncT: 526641765
+
+Tag Pulse
+ID: PR
+Pulse: 184
+syncT: 553825799
+
+Tag Pulse
+ID: BL
+Pulse: 141
+syncT: 586918573
+
+Master Sync
+Sync: 95
+
+Tag Pulse
+ID: NK
+Pulse: 25
+syncT: 619176318
+
+Tag Pulse
+ID: PR
+Pulse: 185
+syncT: 646817047
+
+Tag Pulse
+ID: BL
+Pulse: 142
+syncT: 679118957
+
+Master Sync
+Sync: 96
+
+Tag Pulse
+ID: NK
+Pulse: 26
+syncT: 711710405
+
+Tag Pulse
+ID: PR
+Pulse: 186
+syncT: 739808819
+
+Tag Pulse
+ID: BL
+Pulse: 143
+syncT: 771319327
+
+Master Sync
+Sync: 97
+
+Tag Pulse
+ID: NK
+Pulse: 27
+syncT: 804248750
+
+Tag Pulse
+ID: PR
+Pulse: 187
+syncT: 832799193
+
+Tag Pulse
+ID: BL
+Pulse: 144
+syncT: 863518780
+
+Master Sync
+Sync: 98
+
+Tag Pulse
+ID: NK
+Pulse: 28
+syncT: 896787618
+
+Tag Pulse
+ID: PR
+Pulse: 188
+syncT: 925823863
+
+Tag Pulse
+ID: BL
+Pulse: 145
+syncT: 955718844
+
+Master Sync
+Sync: 99
+
+Tag Pulse
+ID: NK
+Pulse: 29
+syncT: 989324569
+
+Tag Pulse
+ID: PR
+Pulse: 189
+syncT: 1018775519
+
+Tag Pulse
+ID: BL
+Pulse: 146
+syncT: 1047917109
+
+Master Sync
+Sync: 100
+
+Tag Pulse
+ID: NK
+Pulse: 30
+syncT: 1081857063
+
+Tag Pulse
+ID: PR
+Pulse: 190
+syncT: 1111767196
+
+Tag Pulse
+ID: BL
+Pulse: 147
+syncT: 1140114947
+
+Master Sync
+Sync: 101
+
+Tag Pulse
+ID: PR
+Pulse: 191
+syncT: 1204757485
+
+Tag Pulse
+ID: BL
+Pulse: 148
+syncT: 1232312440
+
+Tag Pulse
+ID: NK
+Pulse: 32
+syncT: 1266913951
+
+Master Sync
+Sync: 102
+
+Tag Pulse
+ID: PR
+Pulse: 192
+syncT: 1297748352
+
+Tag Pulse
+ID: BL
+Pulse: 149
+syncT: 1324508913
+
+Tag Pulse
+ID: NK
+Pulse: 33
+syncT: 1359440497
+
+Master Sync
+Sync: 103
+
+Tag Pulse
+ID: PR
+Pulse: 193
+syncT: 1390735709
+
+Tag Pulse
+ID: BL
+Pulse: 150
+syncT: 1416706966
+
+Tag Pulse
+ID: NK
+Pulse: 34
+syncT: 1451966237
+
+Master Sync
+Sync: 104
+
+Tag Pulse
+ID: PR
+Pulse: 194
+syncT: 1483725414
+
+Tag Pulse
+ID: BL
+Pulse: 151
+syncT: 1508906967
+
+Tag Pulse
+ID: NK
+Pulse: 35
+syncT: 1544497304
+
+Master Sync
+Sync: 105
+
+Tag Pulse
+ID: PR
+Pulse: 195
+syncT: 1576721638
+
+Tag Pulse
+ID: BL
+Pulse: 152
+syncT: 1601139869
+
+Tag Pulse
+ID: NK
+Pulse: 36
+syncT: 1637061526
+
+Master Sync
+Sync: 106
+
+Tag Pulse
+ID: PR
+Pulse: 196
+syncT: 1669712511
+
+Tag Pulse
+ID: BL
+Pulse: 153
+syncT: 1693297993
+
+Tag Pulse
+ID: NK
+Pulse: 37
+syncT: 1729556929
+
+Master Sync
+Sync: 107
+
+Tag Pulse
+ID: PR
+Pulse: 197
+syncT: 1762703357
+
+Tag Pulse
+ID: BL
+Pulse: 154
+syncT: 1785493792
+
+Tag Pulse
+ID: NK
+Pulse: 38
+syncT: 1822083974
+
+Master Sync
+Sync: 108
+
+Tag Pulse
+ID: PR
+Pulse: 198
+syncT: 1855697892
+
+Tag Pulse
+ID: BL
+Pulse: 155
+syncT: 1877688341
+
+Tag Pulse
+ID: NK
+Pulse: 39
+syncT: 1914612029
+
+Master Sync
+Sync: 109
+
+Tag Pulse
+ID: PR
+Pulse: 199
+syncT: 1948690102
+
+Tag Pulse
+ID: BL
+Pulse: 156
+syncT: 1969883626
+
+Tag Pulse
+ID: NK
+Pulse: 40
+syncT: 2007146746
+
+Master Sync
+Sync: 110
+
+Tag Pulse
+ID: PR
+Pulse: 200
+syncT: 2041683113
+
+Tag Pulse
+ID: BL
+Pulse: 157
+syncT: 2062078853
+
+Tag Pulse
+ID: NK
+Pulse: 41
+syncT: 2099679870
+
+Master Sync
+Sync: 111
+
+Tag Pulse
+ID: PR
+Pulse: 201
+syncT: 2134677366
+
+Tag Pulse
+ID: BL
+Pulse: 158
+syncT: 2154273197
+
+Tag Pulse
+ID: NK
+Pulse: 42
+syncT: 2192211307
+
+Master Sync
+Sync: 112
+
+Tag Pulse
+ID: PR
+Pulse: 202
+syncT: 2227671009
+
+Tag Pulse
+ID: BL
+Pulse: 159
+syncT: 2246466390
+
+Tag Pulse
+ID: NK
+Pulse: 43
+syncT: 2284738063
+
+Master Sync
+Sync: 113
+
+Tag Pulse
+ID: PR
+Pulse: 203
+syncT: 2320663336
+
+Tag Pulse
+ID: BL
+Pulse: 160
+syncT: 2338660075
+
+Tag Pulse
+ID: NK
+Pulse: 44
+syncT: 2377265101
+
+Master Sync
+Sync: 114
+
+Tag Pulse
+ID: PR
+Pulse: 204
+syncT: 2413655283
+
+Tag Pulse
+ID: BL
+Pulse: 161
+syncT: 2430855907
+
+Tag Pulse
+ID: NK
+Pulse: 45
+syncT: 2469791402
+
+Master Sync
+Sync: 115
+
+Tag Pulse
+ID: PR
+Pulse: 205
+syncT: 2506643402
+
+Tag Pulse
+ID: BL
+Pulse: 162
+syncT: 2523052315
+
+Tag Pulse
+ID: NK
+Pulse: 46
+syncT: 2562319916
+
+Master Sync
+Sync: 116
+
+Tag Pulse
+ID: PR
+Pulse: 206
+syncT: 2599635264
+
+Tag Pulse
+ID: BL
+Pulse: 163
+syncT: 2615247870
+
+Tag Pulse
+ID: NK
+Pulse: 47
+syncT: 2654849748
+
+Master Sync
+Sync: 117
+
+Tag Pulse
+ID: PR
+Pulse: 207
+syncT: 2692629573
+
+Tag Pulse
+ID: BL
+Pulse: 164
+syncT: 2707444117
+
+Tag Pulse
+ID: NK
+Pulse: 48
+syncT: 2747379366
+
+Master Sync
+Sync: 118
+
+Tag Pulse
+ID: PR
+Pulse: 208
+syncT: 2785658210
+
+Tag Pulse
+ID: BL
+Pulse: 165
+syncT: 2799645480
+
+Tag Pulse
+ID: NK
+Pulse: 49
+syncT: 2839907068
+
+Master Sync
+Sync: 119
+
+Tag Pulse
+ID: PR
+Pulse: 209
+syncT: 2878612571
+
+Tag Pulse
+ID: BL
+Pulse: 166
+syncT: 2891845916
+
+Tag Pulse
+ID: NK
+Pulse: 50
+syncT: 2932439851
+
+Master Sync
+Sync: 120
+
+Tag Pulse
+ID: PR
+Pulse: 210
+syncT: 2971602080
+
+Tag Pulse
+ID: BL
+Pulse: 167
+syncT: 2984043493
+
+Tag Pulse
+ID: NK
+Pulse: 51
+syncT: 3024972716
+
+Master Sync
+Sync: 121
+
+Tag Pulse
+ID: PR
+Pulse: 211
+syncT: 3064590773
+
+Tag Pulse
+ID: BL
+Pulse: 168
+syncT: 3076241181
+
+Tag Pulse
+ID: NK
+Pulse: 52
+syncT: 3117506979
+
+Master Sync
+Sync: 122
+
+Tag Pulse
+ID: PR
+Pulse: 212
+syncT: 3157578950
+
+Tag Pulse
+ID: BL
+Pulse: 169
+syncT: 3168436957
+
+Tag Pulse
+ID: NK
+Pulse: 53
+syncT: 3210040974
+
+Master Sync
+Sync: 123
+
+Tag Pulse
+ID: PR
+Pulse: 213
+syncT: 3250575375
+
+Tag Pulse
+ID: BL
+Pulse: 170
+syncT: 3260635898
+
+Tag Pulse
+ID: NK
+Pulse: 54
+syncT: 3302573127
+
+Master Sync
+Sync: 124
+
+Tag Pulse
+ID: PR
+Pulse: 214
+syncT: 3343572816
+
+Tag Pulse
+ID: BL
+Pulse: 171
+syncT: 3352832229
+
+Tag Pulse
+ID: NK
+Pulse: 55
+syncT: 3395106931
+
+Master Sync
+Sync: 125
+
+Tag Pulse
+ID: PR
+Pulse: 215
+syncT: 3436564333
+
+Tag Pulse
+ID: BL
+Pulse: 172
+syncT: 3445066090
+
+Tag Pulse
+ID: NK
+Pulse: 56
+syncT: 3487681225
+
+Master Sync
+Sync: 126
+
+Tag Pulse
+ID: PR
+Pulse: 216
+syncT: 3529554159
+
+Tag Pulse
+ID: BL
+Pulse: 173
+syncT: 3537227936
+
+Tag Pulse
+ID: NK
+Pulse: 57
+syncT: 3580170275
+
+Tag Pulse
+ID: PR
+Pulse: 217
+syncT: 3622545934
+
+Tag Pulse
+ID: BL
+Pulse: 174
+syncT: 3629424655
+
+Tag Pulse
+ID: NK
+Pulse: 58
+syncT: 3672694656
+
+Tag Pulse
+ID: PR
+Pulse: 218
+syncT: 3715532364
+
+Master Sync
+Sync: 128
+
+Tag Pulse
+ID: BL
+Pulse: 175
+syncT: 3721620282
+
+Tag Pulse
+ID: NK
+Pulse: 59
+syncT: 3765219930
+
+Tag Pulse
+ID: PR
+Pulse: 219
+syncT: 3808519705
+
+Master Sync
+Sync: 129
+
+Tag Pulse
+ID: BL
+Pulse: 176
+syncT: 3813818072
+
+Tag Pulse
+ID: NK
+Pulse: 60
+syncT: 3857751772
+
+Tag Pulse
+ID: PR
+Pulse: 220
+syncT: 3901508455
+
+Master Sync
+Sync: 130
+
+Tag Pulse
+ID: NK
+Pulse: 61
+syncT: 3950280143
+
+Tag Pulse
+ID: PR
+Pulse: 221
+syncT: 3994501752
+
+Tag Pulse
+ID: BL
+Pulse: 178
+syncT: 3998211211
+
+Master Sync
+Sync: 131
+
+Tag Pulse
+ID: NK
+Pulse: 62
+syncT: 4042809625
+
+Tag Pulse
+ID: PR
+Pulse: 222
+syncT: 4087495629
+
+Tag Pulse
+ID: BL
+Pulse: 179
+syncT: 4090409681
+
+Master Sync
+Sync: 132
+
+Tag Pulse
+ID: NK
+Pulse: 63
+syncT: 4135339456
+
+Tag Pulse
+ID: PR
+Pulse: 223
+syncT: 4180487542
+
+Tag Pulse
+ID: BL
+Pulse: 180
+syncT: 4182617053
+
+Master Sync
+Sync: 133
+
+Tag Pulse
+ID: NK
+Pulse: 64
+syncT: 4227866849
+
+Tag Pulse
+ID: PR
+Pulse: 224
+syncT: 4273479131
+
+Tag Pulse
+ID: BL
+Pulse: 181
+syncT: 4274825206
+
+Master Sync
+Sync: 134
+
+Tag Pulse
+ID: NK
+Pulse: 65
+syncT: 4320393606
+
+Tag Pulse
+ID: PR
+Pulse: 225
+syncT: 4366466101
+
+Master Sync
+Sync: 135
+
+Tag Pulse
+ID: NK
+Pulse: 66
+syncT: 4412919830
+
+Tag Pulse
+ID: BL
+Pulse: 183
+syncT: 4459235207
+
+Master Sync
+Sync: 136
+
+Tag Pulse
+ID: NK
+Pulse: 67
+syncT: 4505444661
+
+Tag Pulse
+ID: BL
+Pulse: 184
+syncT: 4551443085
+
+Tag Pulse
+ID: PR
+Pulse: 227
+syncT: 4552440920
+
+Master Sync
+Sync: 137
+
+Tag Pulse
+ID: NK
+Pulse: 68
+syncT: 4597971488
+
+Tag Pulse
+ID: BL
+Pulse: 185
+syncT: 4643651309
+
+Tag Pulse
+ID: PR
+Pulse: 228
+syncT: 4645465597
+
+Master Sync
+Sync: 138
+
+Tag Pulse
+ID: NK
+Pulse: 69
+syncT: 4690497894
+
+Tag Pulse
+ID: BL
+Pulse: 186
+syncT: 4735858605
+
+Tag Pulse
+ID: PR
+Pulse: 229
+syncT: 4738415177
+
+Master Sync
+Sync: 139
+
+Tag Pulse
+ID: NK
+Pulse: 70
+syncT: 4783026862
+
+Tag Pulse
+ID: BL
+Pulse: 187
+syncT: 4828066681
+
+Tag Pulse
+ID: PR
+Pulse: 230
+syncT: 4831399111
+
+Master Sync
+Sync: 140
+
+Tag Pulse
+ID: NK
+Pulse: 71
+syncT: 4875560331
+
+Tag Pulse
+ID: BL
+Pulse: 188
+syncT: 4920273954
+
+Tag Pulse
+ID: PR
+Pulse: 231
+syncT: 4924385271
+
+Master Sync
+Sync: 141
+
+Tag Pulse
+ID: NK
+Pulse: 72
+syncT: 4968097132
+
+Tag Pulse
+ID: BL
+Pulse: 189
+syncT: 5012475977
+
+Tag Pulse
+ID: PR
+Pulse: 232
+syncT: 5017370619
+
+Master Sync
+Sync: 142
+
+Tag Pulse
+ID: NK
+Pulse: 73
+syncT: 5060630808
+
+Tag Pulse
+ID: BL
+Pulse: 190
+syncT: 5104678498
+
+Tag Pulse
+ID: PR
+Pulse: 233
+syncT: 5110354355
+
+Master Sync
+Sync: 143
+
+Tag Pulse
+ID: NK
+Pulse: 74
+syncT: 5153166838
+
+Tag Pulse
+ID: BL
+Pulse: 191
+syncT: 5196885472
+
+Tag Pulse
+ID: PR
+Pulse: 234
+syncT: 5203339805
+
+Master Sync
+Sync: 144
+
+Tag Pulse
+ID: NK
+Pulse: 75
+syncT: 5245707623
+
+Tag Pulse
+ID: BL
+Pulse: 192
+syncT: 5289129230
+
+Tag Pulse
+ID: PR
+Pulse: 235
+syncT: 5296329560
+
+Master Sync
+Sync: 145
+
+Tag Pulse
+ID: NK
+Pulse: 76
+syncT: 5338280969
+
+Tag Pulse
+ID: BL
+Pulse: 193
+syncT: 5381296516
+
+Tag Pulse
+ID: PR
+Pulse: 236
+syncT: 5389319313
+
+Master Sync
+Sync: 146
+
+Tag Pulse
+ID: NK
+Pulse: 77
+syncT: 5430782854
+
+Tag Pulse
+ID: BL
+Pulse: 194
+syncT: 5473499287
+
+Tag Pulse
+ID: PR
+Pulse: 237
+syncT: 5482307599
+
+Master Sync
+Sync: 147
+
+Tag Pulse
+ID: NK
+Pulse: 78
+syncT: 5523322490
+
+Tag Pulse
+ID: BL
+Pulse: 195
+syncT: 5565703759
+
+Tag Pulse
+ID: PR
+Pulse: 238
+syncT: 5575294230
+
+Master Sync
+Sync: 148
+
+Tag Pulse
+ID: NK
+Pulse: 79
+syncT: 5615864126
+
+Tag Pulse
+ID: BL
+Pulse: 196
+syncT: 5657906385
+
+Tag Pulse
+ID: PR
+Pulse: 239
+syncT: 5668284011
+
+Master Sync
+Sync: 149
+
+Tag Pulse
+ID: NK
+Pulse: 80
+syncT: 5708400845
+
+Tag Pulse
+ID: BL
+Pulse: 197
+syncT: 5750109498
+
+Tag Pulse
+ID: PR
+Pulse: 240
+syncT: 5761274490
+
+Master Sync
+Sync: 150
+
+Tag Pulse
+ID: NK
+Pulse: 81
+syncT: 5800934068
+
+Tag Pulse
+ID: BL
+Pulse: 198
+syncT: 5842314047
+
+Tag Pulse
+ID: PR
+Pulse: 241
+syncT: 5854267254
+
+Master Sync
+Sync: 151
+
+Tag Pulse
+ID: NK
+Pulse: 82
+syncT: 5893467693
+
+Tag Pulse
+ID: BL
+Pulse: 199
+syncT: 5934519915
+
+Tag Pulse
+ID: PR
+Pulse: 242
+syncT: 5947259471
+
+Master Sync
+Sync: 152
+
+Tag Pulse
+ID: NK
+Pulse: 83
+syncT: 5985998776
+
+Tag Pulse
+ID: BL
+Pulse: 200
+syncT: 6026725886
+
+Tag Pulse
+ID: PR
+Pulse: 243
+syncT: 6040249550
+
+Master Sync
+Sync: 153
+
+Tag Pulse
+ID: NK
+Pulse: 84
+syncT: 6078525664
+
+Tag Pulse
+ID: BL
+Pulse: 201
+syncT: 6118931000
+
+Tag Pulse
+ID: PR
+Pulse: 244
+syncT: 6133239706
+
+Master Sync
+Sync: 154
+
+Tag Pulse
+ID: NK
+Pulse: 85
+syncT: 6171057233
+
+Tag Pulse
+ID: BL
+Pulse: 202
+syncT: 6211138140
+
