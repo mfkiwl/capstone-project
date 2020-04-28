@@ -106,9 +106,6 @@ def main(filestring,variableX, variableY):
     print("Stats of Direct Difference in Reception Timestamps between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
     .format(variableY,np.mean(y_diffs), np.median(y_diffs), np.std(y_diffs)))
 
-    print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
-    .format(variableY,np.mean(delta_y_diffs), np.median(delta_y_diffs), np.std(delta_y_diffs)))
-
     print("graphing the direct difference between ", variableY, "...\n")
     plt.scatter(np.arange(y_diffs.shape[0]) + y_diffs_calibration.size,y_diffs)
     plt.xlabel(variableX)
@@ -118,6 +115,9 @@ def main(filestring,variableX, variableY):
     plt.show()
 
     '''
+    print("Stats of Difference in Timestamp Deltas between Anchors, for {}: Mean = {}, Median = {}, St. Dev = {}"
+    .format(variableY,np.mean(delta_y_diffs), np.median(delta_y_diffs), np.std(delta_y_diffs)))
+
     print("graphing the corresponding difference between deltas of reception timestamps in", variableY, "...\n")
     plt.scatter(np.arange(delta_y_diffs.shape[0]),delta_y_diffs)
     plt.xlabel(variableX)

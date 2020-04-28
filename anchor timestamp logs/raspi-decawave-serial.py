@@ -101,6 +101,7 @@ def main(filename, serial_port, debug=0):
                         dT = -1
                         syncT = -1
                         tagID = "N/A"
+                        
                 except ValueError:
                     continue
 
