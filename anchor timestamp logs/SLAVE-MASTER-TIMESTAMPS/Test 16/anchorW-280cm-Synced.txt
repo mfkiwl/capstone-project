@@ -1,23 +1,3 @@
-Tag Pulse
-ID: N/A
-Pulse: -1
-syncT: -1
-
-Tag Pulse
-ID: PR
-Pulse: 110
-syncT: 4281292349
-
-Tag Pulse
-ID: BL
-Pulse: 64
-syncT: 4299343441
-
-Tag Pulse
-ID: NK
-Pulse: 205
-syncT: 4313594320
-
 Master Sync
 Sync: 25
 
@@ -6817,17 +6797,3 @@ Tag Pulse
 ID: PR
 Pulse: 244
 syncT: 6133239706
-
-Master Sync
-Sync: 154
-
-Tag Pulse
-ID: NK
-Pulse: 85
-syncT: 6171057233
-
-Tag Pulse
-ID: BL
-Pulse: 202
-syncT: 6211138140
-
