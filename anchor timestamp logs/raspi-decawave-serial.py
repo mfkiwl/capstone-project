@@ -23,6 +23,7 @@ def main(filename, serial_port):
             tMraw = -1
             R = -1
 
+            tagID = "N/A"
             DECAtime = -1
             dT = -1
             syncT = -1
@@ -37,6 +38,9 @@ def main(filename, serial_port):
                     switch = "Master"
                 if line.startswith("Tag"):  # Write data pulse from Tag 
                     switch = "Tag"
+
+                if line.startswith("ID"):
+                    tagID = line.split(":")[1].strip()
 
                 if line.startswith("Reception"): # Retrieve the frame number as an INT & 
                     receptionNum = int(line.split(":")[1].strip())
@@ -75,11 +79,10 @@ def main(filename, serial_port):
                         fh.write("Master Sync\nReception: {}\nSync: {}\ntS: {}\ntSnew: {}\ntM: {}\ntMnew: {}\ntMraw: {}\nR: {}\n\n".format(
                         receptionNum, syncNum, tS, tSnew, tM, tMnew, tMraw, R))
                     if (switch == "Tag"):
-                        fh.write("Tag Pulse\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
-                        receptionNum, pulseNum, DECAtime, dT, syncT))
+                        fh.write("Tag Pulse\nID: {}\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
+                        tagID, receptionNum, pulseNum, DECAtime, dT, syncT))
                     receptionNum = -1
                     pulseNum = -1
-                    RPItime = -1
                     tS = -1
                     tSnew = -1
                     tM = -1
@@ -89,7 +92,6 @@ def main(filename, serial_port):
                     DECAtime = -1
                     dT = -1
                     syncT = -1
-                    anchorID = "N/A"
                     tagID = "N/A"
 
     except KeyboardInterrupt:

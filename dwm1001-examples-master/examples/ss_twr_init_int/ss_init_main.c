@@ -71,6 +71,7 @@ static double dist = 2.8;
 
 static long long int rollover = 17.2 * 1e9;
 
+#define DEBUG 0 // set to 1 to enable debug print statements
 static long long tS, tM;
 static double R;
 static uint64 masterFramesReceived = 0;
@@ -163,15 +164,17 @@ int ss_init_run(void)
         R = (tempTM * 1.0) / (tempTS * 1.0);
 
         //Print values to serial
-        printf("Master Sync\r\n");
-        printf("Reception #: %d\r\n",rx_count);
-        printf("Sync #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
-        printf("tS: %lli\r\n",tS);
-        printf("tSnew: %lli\r\n",resp_rx_ts_nanosec);
-        printf("tM: %lli\r\n",tM);
-        printf("tMnew: %lli\r\n",tmN);
-        printf("tMraw: %lli\r\n",resp_tx_ts_nanosec);
-        printf("R: %ld\r\n",R);
+        if (DEBUG){
+          printf("Master Sync\r\n");
+          printf("Reception #: %d\r\n",rx_count);
+          printf("Sync #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
+          printf("tS: %lli\r\n",tS);
+          printf("tSnew: %lli\r\n",resp_rx_ts_nanosec);
+          printf("tM: %lli\r\n",tM);
+          printf("tMnew: %lli\r\n",tmN);
+          printf("tMraw: %lli\r\n",resp_tx_ts_nanosec);
+          printf("R: %ld\r\n",R);
+        }
       }
 
       tS = resp_rx_ts_nanosec;
@@ -193,10 +196,18 @@ int ss_init_run(void)
   
       //Print values to serial
       printf("Tag Pulse\r\n");
-      printf("Reception #: %d\r\n",rx_count);
+      printf("ID: %s\r\n",frameID);
+
+      if (DEBUG){
+        printf("Reception #: %d\r\n",rx_count);
+      }
+
       printf("Pulse #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
-      printf("T: %lli\r\n",resp_rx_ts_nanosec);
-      printf("dT: %lli\r\n",tempTS);
+
+      if (DEBUG){
+        printf("T: %lli\r\n",resp_rx_ts_nanosec);
+        printf("dT: %lli\r\n",tempTS);
+      }
       printf("syncT: %lli\r\n",syncT);
     }
     printf("END frame\r\n"); 
