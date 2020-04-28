@@ -4,7 +4,7 @@ import time
 import sys
 from timeit import timeit
 
-def main(filename, serial_port):
+def main(filename, serial_port, debug=0):
     fh = open(filename,'w+')
     print("filename opened!")
     switch = "Tag"
@@ -76,11 +76,17 @@ def main(filename, serial_port):
 
                 if line.startswith("END"): # Reached end of frame, write fields & reset 
                     if (switch == "Master"):
-                        fh.write("Master Sync\nReception: {}\nSync: {}\ntS: {}\ntSnew: {}\ntM: {}\ntMnew: {}\ntMraw: {}\nR: {}\n\n".format(
+                        if (debug):
+                            fh.write("Master Sync\nReception: {}\nSync: {}\ntS: {}\ntSnew: {}\ntM: {}\ntMnew: {}\ntMraw: {}\nR: {}\n\n".format(
                         receptionNum, syncNum, tS, tSnew, tM, tMnew, tMraw, R))
+                        else:
+                            fh.write("Master Sync\nSync: {}\n\n")
                     if (switch == "Tag"):
-                        fh.write("Tag Pulse\nID: {}\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
+                        if (debug):
+                            fh.write("Tag Pulse\nID: {}\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
                         tagID, receptionNum, pulseNum, DECAtime, dT, syncT))
+                        else:
+                            fh.write("Tag Pulse\nID: {}\nPulse: {}\nsyncT: {}\n\n".format(tagID, pulseNum, syncT))
                     receptionNum = -1
                     pulseNum = -1
                     tS = -1
@@ -100,5 +106,6 @@ def main(filename, serial_port):
 
 filename = str(sys.argv[1])
 serial_port = str(sys.argv[2])
-main(filename,serial_port)
+debug = int(sys.argv[3])
+main(filename,serial_port, debug=0)
 

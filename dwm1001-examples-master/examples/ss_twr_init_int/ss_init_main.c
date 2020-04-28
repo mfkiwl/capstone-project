@@ -163,11 +163,11 @@ int ss_init_run(void)
 
         R = (tempTM * 1.0) / (tempTS * 1.0);
 
+        printf("Master Sync\r\n");
+        printf("Sync #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
         //Print values to serial
         if (DEBUG){
-          printf("Master Sync\r\n");
           printf("Reception #: %d\r\n",rx_count);
-          printf("Sync #: %d\r\n",rx_buffer[ALL_MSG_SN_IDX]);
           printf("tS: %lli\r\n",tS);
           printf("tSnew: %lli\r\n",resp_rx_ts_nanosec);
           printf("tM: %lli\r\n",tM);
