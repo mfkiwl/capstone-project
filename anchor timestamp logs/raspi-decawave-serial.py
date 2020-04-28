@@ -88,20 +88,21 @@ def main(filename, serial_port, debug=0):
                             tagID, receptionNum, pulseNum, DECAtime, dT, syncT))
                             else:
                                 fh.write("Tag Pulse\nID: {}\nPulse: {}\nsyncT: {}\n\n".format(tagID, pulseNum, syncT))
-                    except:
-                        continue
-                    receptionNum = -1
-                    pulseNum = -1
-                    tS = -1
-                    tSnew = -1
-                    tM = -1
-                    tMnew = -1
-                    tMraw = -1
-                    R = -1
-                    DECAtime = -1
-                    dT = -1
-                    syncT = -1
-                    tagID = "N/A"
+                except ValueError:
+                    continue
+                
+                receptionNum = -1
+                pulseNum = -1
+                tS = -1
+                tSnew = -1
+                tM = -1
+                tMnew = -1
+                tMraw = -1
+                R = -1
+                DECAtime = -1
+                dT = -1
+                syncT = -1
+                tagID = "N/A"
 
     except KeyboardInterrupt:
         fh.close()
