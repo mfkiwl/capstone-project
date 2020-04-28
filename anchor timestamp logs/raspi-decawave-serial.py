@@ -88,9 +88,10 @@ def main(filename, serial_port, debug=0):
                             tagID, receptionNum, pulseNum, DECAtime, dT, syncT))
                             else:
                                 fh.write("Tag Pulse\nID: {}\nPulse: {}\nsyncT: {}\n\n".format(tagID, pulseNum, syncT))
+
                 except ValueError:
                     continue
-                
+
                 receptionNum = -1
                 pulseNum = -1
                 tS = -1
@@ -110,6 +111,7 @@ def main(filename, serial_port, debug=0):
 
 filename = str(sys.argv[1])
 serial_port = str(sys.argv[2])
-debug = int(sys.argv[3])
+if (len(sys.argv) > 3):
+    debug = int(sys.argv[3])
 main(filename,serial_port, debug=0)
 
