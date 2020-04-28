@@ -120,7 +120,7 @@ filename = str(sys.argv[1])
 serial_port = str(sys.argv[2])
 if (len(sys.argv) > 3):
     debug = int(sys.argv[3])
-if (len(sys.argv > 4)):
+if (len(sys.argv) > 4):
     pulseMax = int(sys.argv[4])
 main(filename,serial_port, debug=0,pulseMax=45)
 
