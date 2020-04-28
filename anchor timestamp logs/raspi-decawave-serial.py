@@ -4,7 +4,7 @@ import time
 import sys
 from timeit import timeit
 
-def main(filename, serial_port, debug=0):
+def main(filename, serial_port, debug=0,pulseMax=45):
     fh = open(filename,'w+')
     print("filename opened!")
     switch = "Tag"
@@ -27,6 +27,7 @@ def main(filename, serial_port, debug=0):
             DECAtime = -1
             dT = -1
             syncT = -1
+            pulsesRead = 0
 
             while True:
                 line = sio.readline()
@@ -82,6 +83,7 @@ def main(filename, serial_port, debug=0):
                             receptionNum, syncNum, tS, tSnew, tM, tMnew, tMraw, R))
                             else:
                                 fh.write("Master Sync\nSync: {}\n\n".format(syncNum))
+                            pulsesRead += 1
                         if (switch == "Tag"):
                             if (debug):
                                 fh.write("Tag Pulse\nID: {}\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
@@ -101,9 +103,14 @@ def main(filename, serial_port, debug=0):
                         dT = -1
                         syncT = -1
                         tagID = "N/A"
-                        
+                        if (pulsesRead > pulseMax):
+                            break
                 except ValueError:
                     continue
+                
+            fh.close()
+            print("Read {} pulses!".format(pulseMax))
+            print(filename + " closed!")
 
     except KeyboardInterrupt:
         fh.close()
@@ -113,5 +120,7 @@ filename = str(sys.argv[1])
 serial_port = str(sys.argv[2])
 if (len(sys.argv) > 3):
     debug = int(sys.argv[3])
-main(filename,serial_port, debug=0)
+if (len(sys.argv > 4)):
+    pulseMax = int(sys.argv[4])
+main(filename,serial_port, debug=0,pulseMax=45)
 
