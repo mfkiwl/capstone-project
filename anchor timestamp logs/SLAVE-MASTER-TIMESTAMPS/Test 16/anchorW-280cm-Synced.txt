@@ -1,24 +1,3 @@
-Tag Pulse
-ID: N/A
-Pulse: -1
-syncT: -1
-
-Tag Pulse
-ID: BL
-Pulse: 203
-syncT: 12576313542
-
-Master Sync
-Sync: 254
-
-Master Sync
-Sync: -1
-
-Tag Pulse
-ID: NK
-Pulse: 223
-syncT: 9978939332
-
 Master Sync
 Sync: 112
 
@@ -4330,50 +4309,3 @@ Tag Pulse
 ID: PR
 Pulse: 128
 syncT: 15670470172
-
-Master Sync
-Sync: 99
-
-Tag Pulse
-ID: BL
-Pulse: 183
-syncT: 15679157272
-
-Tag Pulse
-ID: NK
-Pulse: 215
-syncT: 15716855739
-
-Tag Pulse
-ID: PR
-Pulse: 129
-syncT: 15763429644
-
-Tag Pulse
-ID: BL
-Pulse: 184
-syncT: 15771386146
-
-Tag Pulse
-ID: NK
-Pulse: 216
-syncT: 15809375509
-
-Tag Pulse
-ID: PR
-Pulse: 130
-syncT: 15856424524
-
-Tag Pulse
-ID: BL
-Pulse: 185
-syncT: 15863540341
-
-Master Sync
-Sync: 101
-
-Tag Pulse
-ID: NK
-Pulse: 217
-syncT: 15901894083
-
