@@ -4,7 +4,7 @@ import time
 import sys
 from timeit import timeit
 
-def main(filename, serial_port, debug=0,pulseMax=450):
+def main(filename, serial_port, pulseMax, debug):
     fh = open(filename,'w+')
     print("filename opened!")
     switch = "Tag"
@@ -118,9 +118,6 @@ def main(filename, serial_port, debug=0,pulseMax=450):
 
 filename = str(sys.argv[1])
 serial_port = str(sys.argv[2])
-if (len(sys.argv) > 3):
-    debug = int(sys.argv[3])
-if (len(sys.argv) > 4): # number of pulses to read
-    pulseMax = int(sys.argv[4])
-main(filename,serial_port,debug,pulseMax)
+pulseMax = int(sys.argv[3])
+main(filename,serial_port,pulseMax,debug=0)
 
