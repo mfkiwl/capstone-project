@@ -109,7 +109,7 @@ def main(filename, serial_port, debug=0,pulseMax=450):
                     continue
                 
             fh.close()
-            print("Read {} pulses!".format(pulseMax))
+            print("Read {} pulses!".format(pulsesRead))
             print(filename + " closed!")
 
     except KeyboardInterrupt:
