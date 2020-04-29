@@ -122,5 +122,5 @@ if (len(sys.argv) > 3):
     debug = int(sys.argv[3])
 if (len(sys.argv) > 4): # number of pulses to read
     pulseMax = int(sys.argv[4])
-main(filename,serial_port, debug=0,pulseMax=450)
+main(filename,serial_port,debug,pulseMax)
 
