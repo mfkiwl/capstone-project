@@ -10,6 +10,7 @@ import sympy
 import matplotlib.pyplot as plt
 import random
 import csv
+import os
 pp = pprint.PrettyPrinter()
 ANCHORS = None 
 
@@ -61,11 +62,11 @@ def coordToGrid(x, y): #coord to row/col number
     return (int(feetY//FEET_IN_GRID), int(feetX//FEET_IN_GRID))
 
 def generateTestDesc(app):
-    pathDesc = app.getUserInput("Path Description?")
+    desc = app.getUserInput("Path Description?")
     if WITH_NOISE:
-        desc = f"{len(ANCHORS)}Anch-{NOISE_STD_DEV}nsNoise-{PULSE_FREQ}Freq-{pathDesc}"
+        desc = f"{len(ANCHORS)}Anch-{NOISE_STD_DEV}nsNoise-{PULSE_FREQ}Freq-{desc}"
     else:
-        desc = f"{len(ANCHORS)}Anch-noNoise-{PULSE_FREQ}Freq-{pathDesc}"
+        desc = f"{len(ANCHORS)}Anch-noNoise-{PULSE_FREQ}Freq-{desc}"
     return desc
 
 class Tag(object):
@@ -271,8 +272,8 @@ def appStarted(app):
     app.anchors.append(Anchor(app.rows-1, 0, 1))
     app.anchors.append(Anchor(0, app.cols-1, 2))
     app.anchors.append(Anchor(app.rows-1, app.cols-1, 3))
-    app.anchors.append(Anchor(0, app.cols//2, 4))
-    app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
+    # app.anchors.append(Anchor(0, app.cols//2, 4))
+    # app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
     global ANCHORS
     ANCHORS = [None]*len(app.anchors)
     app.xs = [None]*len(app.anchors)
@@ -288,8 +289,8 @@ def appStarted(app):
     app.taus = []
     app.times = []
     # app.court = app.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Basketball_court_fiba.svg/440px-Basketball_court_fiba.svg.png').transpose(Image.ROTATE_90).resize((1000,500))
-    # app.court = app.loadImage('https://raw.githubusercontent.com/savvastj/nbaPlayerTracking/master/fullcourt.png').resize((1000,500))
-    app.court = app.loadImage('decolored-court.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
+    # app.court = app.loadImage('https://raw.githubusercontent.com/savvastj/nbaPlayerTracking/master/fullcourt.png').resize((app.width-2*app.margin,app.height-2*app.margin))
+    app.court = app.loadImage('https://i.imgur.com/YBcbBFq.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
     initFilter(app)
     
 def keyPressed(app, event):
@@ -308,16 +309,9 @@ def rmse(errors):
 
 def appStopped(app):
     store = app.getUserInput("Do you want to store sim information?(y/n)")
-    if store=='y':
-        # write sim to file
-        with open(f"sim_logs/{generateTestDesc(app)}.csv", "w", newline='') as f:
-            cW = csv.writer(f)
-            cW.writerow(["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY"])
-            for i in range(len(app.realLocs)):
-                cW.writerow(list(map(lambda x: round(x, 4), [i, app.times[i]-app.times[0], app.realLocs[i][0], app.realLocs[i][1], app.linEstLocs[i][0], app.linEstLocs[i][1], app.nonLinEstLocs[i][0], app.nonLinEstLocs[i][1], app.filterEstLocs[i][0], app.filterEstLocs[i][1]])))
-
+    
     # create error reports after app is closed
-    print("*"*40, "\n"+"Error Report:")
+    print("*"*40, "\n"+"Error Report (RMSE in Meters):")
     linErrs = []
     nonLinErrs = []
     filterErrs = []
@@ -328,7 +322,18 @@ def appStopped(app):
         nonLinErrs.append(euclidDist(x, y, estX, estY))
         estX, estY = app.filterEstLocs[i]
         filterErrs.append(euclidDist(x, y, estX, estY))
-    x = np.arange(1, len(linErrs)+1)
+    
+    if store=='y':
+        # write sim to file
+        name = generateTestDesc(app)
+        with open(f"sim_logs/{name}.csv", "w", newline='') as f:
+            cW = csv.writer(f)
+            cW.writerow(["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY", "linErr", "hypErr", "filtErr"])
+            for i in range(len(app.realLocs)):
+                time.sleep(0.01)
+                cW.writerow(list(map(lambda x: round(x, 4), [i, app.times[i]-app.times[0], app.realLocs[i][0], app.realLocs[i][1], app.linEstLocs[i][0], app.linEstLocs[i][1], app.nonLinEstLocs[i][0], app.nonLinEstLocs[i][1], app.filterEstLocs[i][0], app.filterEstLocs[i][1]], linErrs[i], nonLinErrs[i], filterErrs[i])))
+    
+    x = np.arange(0, len(linErrs))
     linErrs = np.array(linErrs)
     nonLinErrs = np.array(nonLinErrs)
     filterErrs = np.array(filterErrs)
@@ -341,10 +346,10 @@ def appStopped(app):
     plt.plot(x, filterErrs, color=filterColor, marker='o', label="Kalman Filter Error")
     plt.legend()
 
-    print("Lin RMSE:", linRMSE)
-    print("nonLin RMSE:", nonLinRMSE)
-    print("filter RMSE:", filterRMSE)
-    print("nonLin / filter RMSE:", nonLinRMSE/filterRMSE)
+    print("Linear Lst Sq:", round(linRMSE,4))
+    print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
+    print("Ext. Kalman Filt:", round(filterRMSE, 4))
+    print("nonLin / filter RMSE:", round(nonLinRMSE/filterRMSE,4))
     print("END Report", "\n"+"*"*40)
 
     plt.show()
@@ -357,6 +362,7 @@ def drawX(canvas, cX, cY, w, color):
 def redrawAll(app, canvas):
     canvas.create_image(app.width//2, app.height//2, image=ImageTk.PhotoImage(app.court))
     canvas.create_text(app.width//2, app.margin//2, text=f"isCollecting:{app.isCollecting}")
+    canvas.create_text(app.width//2, app.height-app.margin//2, text=f"samples:{len(app.realLocs)}")
 
     for anchor in app.anchors:
         (x0, y0, x1, y1) = getCellBounds(app, anchor.row, anchor.col)

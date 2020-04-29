@@ -2,8 +2,6 @@
 # version 0.8.6
 
 # Pre-release for CMU 15-112-s20
-import module_manager
-module_manager.review()
 # Require Python 3.6 or later
 import sys
 if ((sys.version_info[0] != 3) or (sys.version_info[1] < 6)):
@@ -290,6 +288,11 @@ class App(object):
         else:
             image = Image.open(path)
         return image
+    
+    def loadFilePath(app):
+        path = filedialog.askopenfilename(initialdir=os.getcwd(), title='Select file: ',filetypes = (('CSV files','*.csv'),('all files','*.*')))
+        if (not path): return None
+        return path
 
     def scaleImage(app, image, scale, antialias=False):
         # antialiasing is higher-quality but slower
