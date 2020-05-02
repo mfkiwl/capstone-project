@@ -31,9 +31,8 @@ with serial.Serial(str(sys.argv[1]), 115200, timeout=1) as ser:
                 syncT = int(line.split(":")[1].strip())
 
             if line.startswith("END") and anchorPulse: # Reached end of frame, write fields & reset 
-                # print("anchor {} Pulse {} syncT {}\n".format(anchorID,pulseNum,syncT))
-                sys.stdout.write("anchor {} Pulse {} syncT {}\n".format(anchorID,pulseNum,syncT))
-                sys.stdout.flush()
+                print("anchor {} Pulse {} syncT {}\n".format(anchorID,pulseNum,syncT))
+                # sys.stdout.flush()
                 anchorID = ""
                 pulseNum = -1
                 syncT = -1
