@@ -26,6 +26,9 @@ ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
 WITH_SMOOTHING = False
 SMOOTHING_FACTOR = 1.3
+P = 1000
+R = 5000
+Q = 100
 WITH_CMA = True
 CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
 LINEAR_ON = False
@@ -46,7 +49,7 @@ in_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y]
 out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "velX", "velY", "linEstX", "linEstY", "hypEstX", "hypEstY", "filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc():
-    return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise"
+    return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise-{P}P-{R}R-{Q}Q"
 
 def estimateVelocityMedian(numPoints):
     if len(filterEstLocs) < numPoints:
@@ -213,11 +216,10 @@ class ExtKalmanFilter(object):
                              [0., 0., 1.,   0.],
                              [0., 0., 0.,   1.]])
         # Measurement function, values from linear localization
-        self.f.P = np.eye(4) * 1000                 # Covaraince, large number since our initial guess is (1, 1)
-        self.f.R = np.eye(len(ANCHORS)-1+2) * 5000  # Measurement uncertainty, making it high since noisy data
-        self.f.Q = np.eye(4) * 100                    # System noise, making it small since we're using a velocity estimation
-        #self.lastLoc = [1, 1]
-    
+        self.f.P = np.eye(4) * P                 # Covaraince, large number since our initial guess is (1, 1)
+        self.f.R = np.eye(len(ANCHORS)-1+2) * R  # Measurement uncertainty, making it high since noisy data
+        self.f.Q = np.eye(4) * Q                 # System noise, making it small since we're using a velocity estimation
+        
     def h(self, state):
         times = []
         x, y = state[0][0], state[1][0]
