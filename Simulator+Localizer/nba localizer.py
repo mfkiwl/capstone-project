@@ -18,11 +18,12 @@ pprint = pp.pprint
 WITH_NOISE = True
 NOISE_STD_DEV = 1.5 #nanoseconds
 ANCHOR_COUNT = 6
-MAX_SAMPLE_COUNT = 3000 # None if you want to process whole file
-CALIBRATION_SAMPLES = 10
+MAX_SAMPLE_COUNT = 500 # None if you want to process whole file
+CALIBRATION_SAMPLES = 100
 ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
+SMOOTHING_FACTOR = 3
 #######################################
 realColor = 'black'
 linColor = 'purple'
@@ -74,7 +75,7 @@ def estimateVelocityWindow(windowSize):
 def smooth(val, lastVal):
     newVal = []
     for i in range(2):
-        newVal.append((val[i] - lastVal[i]) / 1.5)
+        newVal.append(lastVal[i] + ((val[i] - lastVal[i]) / SMOOTHING_FACTOR))
     return newVal
 
 def localizeSinglePoint(dataPoint):
@@ -102,12 +103,16 @@ def localizeSinglePoint(dataPoint):
     nonLinEstLocs.append((nLinX, nLinY))
     
     velocity = estimateVelocityWindow(1)
-    smoothVel = smooth(velocity, realVels[-1])
-    realVels.append(smoothVel)
+    #smoothVel = smooth(velocity, realVels[-1])
+    realVels.append(velocity)
 
-    filtX, filtY = EKF.estimate(T, smoothVel)
-    #smoothX, smoothY = smooth(EKF.estimate(T, velocity))
-    filterEstLocs.append((filtX, filtY))
+    if len(filterEstLocs) == 0:
+        filtX, filtY = EKF.estimate(T, velocity)
+        filterEstLocs.append((filtX, filtY))
+    else:
+        lastLoc = filterEstLocs[-1]
+        smoothX, smoothY = smooth(EKF.estimate(T, velocity), filterEstLocs[-1])
+        filterEstLocs.append((smoothX, smoothY))
 
     # print("\nREPORT:")
     # print(f"Actual:", app.realLocs[-1][0], app.realLocs[-1][1])
@@ -209,7 +214,7 @@ class ExtKalmanFilter(object):
         # Measurement function, values from linear localization
         self.f.P = np.eye(4) * 1000                 # Covaraince, large number since our initial guess is (1, 1)
         self.f.R = np.eye(len(ANCHORS)-1+2) * 5000  # Measurement uncertainty, making it high since noisy data
-        self.f.Q = np.eye(4) * 100                  # System noise, making it small since we're using a velocity estimation
+        self.f.Q = np.eye(4) * 100                    # System noise, making it small since we're using a velocity estimation
         #self.lastLoc = [1, 1]
     
     def h(self, state):
