@@ -11,11 +11,13 @@ import matplotlib.pyplot as plt
 import random
 import csv
 import os
+from basketball_mapping import *
 pp = pprint.PrettyPrinter()
+pprint = pp.pprint
 ANCHORS = None 
 
 ##TEST SIMULATION PARAMETERS#########
-WITH_NOISE = True
+WITH_NOISE = False
 NOISE_STD_DEV = 1 #nanoseconds
 PULSE_FREQ = 5
 tagColor = 'black'
@@ -24,42 +26,7 @@ linColor = 'purple'
 nonLinColor = 'green'
 filterColor = 'blue'
 ##################################
-#CONSTANTS#
-METERS_IN_FOOT = 0.304800000
-FEET_IN_GRID = 1
-SPEED_OF_LIGHT = 299702547 # m/s in air
-#######################################
-
-
-def make2dList(rows, cols):
-    return [ ([None] * cols) for row in range(rows) ]
-
-def getCellBounds(app, row, col):
-    gridWidth  = app.width - 2*app.margin
-    gridHeight = app.height - 2*app.margin
-    x0 = app.margin + gridWidth * col / app.cols
-    x1 = app.margin + gridWidth * (col+1) / app.cols
-    y0 = app.margin + gridHeight * row / app.rows
-    y1 = app.margin + gridHeight * (row+1) / app.rows
-    return (x0, y0, x1, y1)
-
-def metersToPixel(app, x, y):
-    pixelWidth  = app.width - 2*app.margin
-    pixelHeight = app.height - 2*app.margin
-    pixelsInFootW = pixelWidth/100
-    pixelsInFootH = pixelHeight/50
-    pixX = x/METERS_IN_FOOT*pixelsInFootW+app.margin
-    pixY = y/METERS_IN_FOOT*pixelsInFootH+app.margin
-    return (pixX, pixY)
-    
-
-def gridToCoord(row, col):
-    return ((col * FEET_IN_GRID + FEET_IN_GRID/2) * METERS_IN_FOOT, (row * FEET_IN_GRID + FEET_IN_GRID/2) * METERS_IN_FOOT)
-
-def coordToGrid(x, y): #coord to row/col number
-    feetX = x/METERS_IN_FOOT
-    feetY = y/METERS_IN_FOOT
-    return (int(feetY//FEET_IN_GRID), int(feetX//FEET_IN_GRID))
+out_rows = ["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc(app):
     desc = app.getUserInput("Path Description?")
@@ -82,20 +49,6 @@ class Anchor(object):
         self.col = col
         self.color = color
         self.id = id
-
-def euclidDist(x1, y1, x2, y2):
-    return math.sqrt((x2-x1)**2+(y2-y1)**2)
-
-def distanceBetween(tag, anchor):
-    dRow = abs(tag.row - anchor.row)
-    dCol = abs(tag.col - anchor.col)
-    dXMeters = dRow*METERS_IN_FOOT
-    dYMeters = dCol*METERS_IN_FOOT
-    d = math.sqrt(dXMeters**2+dYMeters**2)
-    return d
-
-def metersToNanosec(d):
-    return (d/SPEED_OF_LIGHT)*10**9
 
 def pulseAndStamp(app):
     timeStampTuples = []
@@ -263,17 +216,17 @@ def runLocalization(app):
 def appStarted(app):
     app.timerDelay = 1000//PULSE_FREQ
     app.isCollecting = False
-    app.margin = 25
-    app.cols = 100//FEET_IN_GRID # 100 feet court width
-    app.rows = 50//FEET_IN_GRID  # 50 feet court height
+    app.margin = APP_MARGIN
+    app.cols = COURT_WIDTH_FEET//FEET_IN_GRID # 100 feet court width
+    app.rows = COURT_HEIGHT_FEET//FEET_IN_GRID  # 50 feet court height
     app.tag = Tag(app.rows//2, app.cols//2, "Player 1")
     app.anchors = []
     app.anchors.append(Anchor(0, 0, 0))
     app.anchors.append(Anchor(app.rows-1, 0, 1))
     app.anchors.append(Anchor(0, app.cols-1, 2))
     app.anchors.append(Anchor(app.rows-1, app.cols-1, 3))
-    # app.anchors.append(Anchor(0, app.cols//2, 4))
-    # app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
+    app.anchors.append(Anchor(0, app.cols//2, 4))
+    app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
     global ANCHORS
     ANCHORS = [None]*len(app.anchors)
     app.xs = [None]*len(app.anchors)
@@ -303,12 +256,9 @@ def keyPressed(app, event):
 def timerFired(app):
     runLocalization(app)
 
-def rmse(errors):
-    return np.sqrt(np.mean(errors**2))
-
-
 def appStopped(app):
-    store = app.getUserInput("Do you want to store sim information?(y/n)")
+    store = app.getUserInput("Do you want to log sim information?(y/n)")=='y'
+    graph = app.getUserInput("Do you want to show error graph? (y/n)")=='y'
     
     # create error reports after app is closed
     print("*"*40, "\n"+"Error Report (RMSE in Meters):")
@@ -323,28 +273,39 @@ def appStopped(app):
         estX, estY = app.filterEstLocs[i]
         filterErrs.append(euclidDist(x, y, estX, estY))
     
-    if store=='y':
+    x = np.arange(0, len(linErrs))
+    linNP = np.array(linErrs)
+    hypNP = np.array(nonLinErrs)
+    filtNP = np.array(filterErrs)
+    linRMSE = rmse(linNP)
+    nonLinRMSE = rmse(hypNP)
+    filterRMSE = rmse(filtNP)
+
+    if store:
         # write sim to file
         name = generateTestDesc(app)
         with open(f"sim_logs/{name}.csv", "w", newline='') as f:
             cW = csv.writer(f)
-            cW.writerow(["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY", "linErr", "hypErr", "filtErr"])
+            cW.writerow(out_rows)
             for i in range(len(app.realLocs)):
                 time.sleep(0.01)
-                cW.writerow(list(map(lambda x: round(x, 4), [i, app.times[i]-app.times[0], app.realLocs[i][0], app.realLocs[i][1], app.linEstLocs[i][0], app.linEstLocs[i][1], app.nonLinEstLocs[i][0], app.nonLinEstLocs[i][1], app.filterEstLocs[i][0], app.filterEstLocs[i][1]], linErrs[i], nonLinErrs[i], filterErrs[i])))
+                cW.writerow(list(map(lambda x: round(x, 4), [i,
+                                                            app.times[i]-app.times[0],
+                                                            app.realLocs[i][0],
+                                                            app.realLocs[i][1],
+                                                            app.linEstLocs[i][0],
+                                                            app.linEstLocs[i][1],
+                                                            app.nonLinEstLocs[i][0],
+                                                            app.nonLinEstLocs[i][1],
+                                                            app.filterEstLocs[i][0],
+                                                            app.filterEstLocs[i][1],
+                                                            linErrs[i],
+                                                            nonLinErrs[i],
+                                                            filterErrs[i],
+                                                            linRMSE,
+                                                            nonLinRMSE,
+                                                            filterRMSE])))
     
-    x = np.arange(0, len(linErrs))
-    linErrs = np.array(linErrs)
-    nonLinErrs = np.array(nonLinErrs)
-    filterErrs = np.array(filterErrs)
-    linRMSE = rmse(linErrs)
-    nonLinRMSE = rmse(nonLinErrs)
-    filterRMSE = rmse(filterErrs)
-
-    plt.plot(x, linErrs, color=linColor, marker='o', label="Linear Error")
-    plt.plot(x, nonLinErrs, color=nonLinColor, marker='o', label="Non-linear Error")
-    plt.plot(x, filterErrs, color=filterColor, marker='o', label="Kalman Filter Error")
-    plt.legend()
 
     print("Linear Lst Sq:", round(linRMSE,4))
     print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
@@ -352,7 +313,12 @@ def appStopped(app):
     print("nonLin / filter RMSE:", round(nonLinRMSE/filterRMSE,4))
     print("END Report", "\n"+"*"*40)
 
-    plt.show()
+    if graph:
+        plt.plot(x, linErrs, color=linColor, marker='o', label="Linear Error")
+        plt.plot(x, nonLinErrs, color=nonLinColor, marker='o', label="Non-linear Error")
+        plt.plot(x, filterErrs, color=filterColor, marker='o', label="Kalman Filter Error")
+        plt.legend()
+        plt.show()
 
 def drawX(canvas, cX, cY, w, color):
     x0, y0, x1, y1, x2, y2, x3, y3 = cX-w, cY-w, cX+w, cY-w, cX-w, cY+w, cX+w, cY+w
@@ -402,4 +368,4 @@ def redrawAll(app, canvas):
 
 
 
-runApp(width=1550, height=800)
+runApp(width=APP_WIDTH, height=APP_HEIGHT)
