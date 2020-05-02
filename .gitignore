@@ -1,5 +1,7 @@
 Simulator+Localizer/zoom_0.mp4
 *.pyc
 *.vscode
+*.pickle
 Simulator+Localizer/NBA Data/*
-Simulator+Localizer/test_data/*
+Simulator+Localizer/nba_sim_logs/*
+Simulator+Localizer/nba_train_logs/*
