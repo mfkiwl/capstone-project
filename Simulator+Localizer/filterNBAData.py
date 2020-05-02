@@ -18,7 +18,7 @@ max_clock = 720.0*4
 SAMPLE_INTERVAL = 100 #milliseconds
 
 def getPlayerString(pid):
-    return f"{players[player]['firstname']}_{players[player]['lastname']}_{players[player]['jersey']}_{players[player]['position']}"
+    return f"{pid}_{players[player]['firstname']}_{players[player]['lastname']}_{players[player]['jersey']}_{players[player]['position']}"
 startT = time.time()
 gameFile = "0021500003-NOPatGSW-2015-10-27"
 data = pickle.load(open(f"test_data/{gameFile}.pickle", "rb"))
