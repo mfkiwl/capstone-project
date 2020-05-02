@@ -54,6 +54,7 @@ def appStopped(app):pass
 
 def redrawAll(app, canvas):
     canvas.create_image(app.width//2, app.height//2, image=ImageTk.PhotoImage(app.court))
+    canvas.create_text(app.width//2, app.margin//2, text=app.logPath)
     
     for i, idx in enumerate(range(1+app.currSample, min(len(app.data.values()), 1+app.currSample+draw_sample_window))):
         if app.drawReal:
@@ -73,6 +74,7 @@ def redrawAll(app, canvas):
         if app.drawFilter:
             prevX, prevY = meterToPixel(app, float(app.data[idx-1]["filtEstX"]), float(app.data[idx-1]["filtEstY"]))
             currX, currY = meterToPixel(app, float(app.data[idx]["filtEstX"]), float(app.data[idx]["filtEstY"]))
-            canvas.create_line(prevX, prevY, currX, currY, fill=filterColor, activefill="red", width = 2)
+            yellow_gradient = rgbString(255, i*color_gradient, 0)
+            canvas.create_line(prevX, prevY, currX, currY, fill=yellow_gradient, activefill="purple", width = 2)
 
 runApp(width=APP_WIDTH, height=APP_HEIGHT)

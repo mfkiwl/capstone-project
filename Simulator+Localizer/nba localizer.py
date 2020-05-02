@@ -18,11 +18,12 @@ pprint = pp.pprint
 WITH_NOISE = True
 NOISE_STD_DEV = 1.5 #nanoseconds
 ANCHOR_COUNT = 6
-MAX_SAMPLE_COUNT = 300 # None if you want to process whole file
-CALIBRATION_SAMPLES = 10
+MAX_SAMPLE_COUNT = 500 # None if you want to process whole file
+CALIBRATION_SAMPLES = 100
 ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
+SMOOTHING_FACTOR = 3
 #######################################
 realColor = 'black'
 linColor = 'purple'
@@ -45,6 +46,37 @@ def generateTestDesc():
     else:
         desc = f"{desc}-{len(allData)}Samples-{ANCHOR_COUNT}Anch-noNoise"
     return desc
+
+def estimateVelocityMedian(numPoints):
+    if len(filterEstLocs) < numPoints:
+        return [0, 0]
+    loc = filterEstLocs[-1]
+    velocties = dict()
+    dt = 0.12
+    for i in range(numPoints-1):
+        compLoc = filterEstLocs[-2-i]
+        vX = (loc[0] - compLoc[0])/(dt * (i+1))
+        vY = (loc[1] - compLoc[1])/(dt * (i+1))
+        v = math.sqrt(vX**2 + vY**2)
+        velocties[v] = [vX, vY]
+    median = sorted(velocties.keys())[numPoints//2]
+    return velocties[median]
+
+def estimateVelocityWindow(windowSize):
+    if len(filterEstLocs) < windowSize+1:
+        return [0, 0]
+    dt = 0.12
+    loc = filterEstLocs[-1]
+    compLoc = filterEstLocs[-1-windowSize]
+    vX = (loc[0] - compLoc[0])/(dt * (windowSize))
+    vY = (loc[1] - compLoc[1])/(dt * (windowSize))
+    return [vX, vY]
+
+def smooth(val, lastVal):
+    newVal = []
+    for i in range(2):
+        newVal.append(lastVal[i] + ((val[i] - lastVal[i]) / SMOOTHING_FACTOR))
+    return newVal
 
 def localizeSinglePoint(dataPoint):
     simulatedData = pulseAndStamp(dataPoint)
@@ -70,8 +102,17 @@ def localizeSinglePoint(dataPoint):
     nLinX, nLinY = nonLinearLocalization(T, tau)
     nonLinEstLocs.append((nLinX, nLinY))
     
-    filtX, filtY = EKF.estimate(T)
-    filterEstLocs.append((filtX, filtY))
+    velocity = estimateVelocityWindow(1)
+    #smoothVel = smooth(velocity, realVels[-1])
+    realVels.append(velocity)
+
+    if len(filterEstLocs) == 0:
+        filtX, filtY = EKF.estimate(T, velocity)
+        filterEstLocs.append((filtX, filtY))
+    else:
+        lastLoc = filterEstLocs[-1]
+        smoothX, smoothY = smooth(EKF.estimate(T, velocity), filterEstLocs[-1])
+        filterEstLocs.append((smoothX, smoothY))
 
     # print("\nREPORT:")
     # print(f"Actual:", app.realLocs[-1][0], app.realLocs[-1][1])
@@ -159,17 +200,22 @@ def nonLinearLocalization(T, tau):
 
 class ExtKalmanFilter(object):
     def __init__(self):
-        self.f = ExtendedKalmanFilter(dim_x=2, dim_z=len(ANCHORS)-1)
+        self.f = ExtendedKalmanFilter(dim_x=4, dim_z=(len(ANCHORS)-1+2))
         # The estimate
         self.f.x = np.array([[1.],
-                            [1.]])
+                            [1.],
+                            [0.],
+                            [0.]])
         # State transition matrix, just use last position for now
-        self.f.F = np.array([[1., 0.],
-                            [0., 1.]])
+        self.f.F = np.array([[1., 0., 0.12, 0.],
+                             [0., 1., 0.,   0.12],
+                             [0., 0., 1.,   0.],
+                             [0., 0., 0.,   1.]])
         # Measurement function, values from linear localization
-        self.f.P = np.eye(2) * 1000              # Covaraince, large number since our initial guess is (1, 1)
-        self.f.R = np.eye(len(ANCHORS)-1) * 50   # Measurement uncertainty, making it low since we want to weight sensor data
-        self.f.Q = np.eye(2) * 1                 # System noise, making it big since we're just using the last location as our prediction
+        self.f.P = np.eye(4) * 1000                 # Covaraince, large number since our initial guess is (1, 1)
+        self.f.R = np.eye(len(ANCHORS)-1+2) * 5000  # Measurement uncertainty, making it high since noisy data
+        self.f.Q = np.eye(4) * 100                    # System noise, making it small since we're using a velocity estimation
+        #self.lastLoc = [1, 1]
     
     def h(self, state):
         times = []
@@ -181,10 +227,12 @@ class ExtKalmanFilter(object):
             D_n = math.sqrt(((anchor[0] - x) ** 2) + ((anchor[1] - y) ** 2))
             tau_0n = D_0 - D_n
             times.append([tau_0n / v])
+        times.append([state[2][0]])
+        times.append([state[3][0]])
         return np.array(times)
 
     def jacobian(self, state):
-        x, y = sympy.symbols('x, y')
+        x, y, vx, vy = sympy.symbols('x, y, vx, vy')
         h = []
         v = SPEED_OF_LIGHT / (10**9) # meters per nanosecond
         anchor_0 = ANCHORS[0]
@@ -193,24 +241,32 @@ class ExtKalmanFilter(object):
             D_n = sympy.sqrt(((anchor[0] - x) ** 2) + ((anchor[1] - y) ** 2))
             tau_0n = D_0 - D_n
             h.append([tau_0n / v])
+        h.append([vx])
+        h.append([vy])
         H = sympy.Matrix(h)
-        H = H.jacobian(sympy.Matrix([x, y]))
-        return np.array(H.subs([(x, state[0][0]), (y, state[1][0])])).astype(float)
+        H = H.jacobian(sympy.Matrix([x, y, vx, vy]))
+        return np.array(H.subs([(x, state[0][0]), (y, state[1][0]), (vx, state[2][0]), (vy, state[3][0])])).astype(float)
 
-    def estimate(self, T):
-        # z = np.array(timestamps)
-        # T = [None]*len(ANCHORS)
-        # for (id, stamp) in timestamps:
-        #     T[id] = stamp
+    def estimate(self, T, velocity):
         z = []
+        dt = 0.12       # Time between pulses
         for n in range(1, len(ANCHORS)):
             z.append([T[0] - T[n]])
+        # z.append([(self.f.x[0][0] - self.lastLoc[0]) / dt])
+        # z.append([(self.f.x[1][0] - self.lastLoc[1]) / dt])
+        z.append([velocity[0]])
+        z.append([velocity[1]])
         z = np.array(z)
+        # print("last location:", self.lastLoc[0], ",", self.lastLoc[1])
+        # print("current location:", self.f.x[0][0], ",", self.f.x[1][0])
+        # print("velocity:", z[-2][0], ",", z[-1][0])
+        self.lastLoc = [self.f.x[0][0], self.f.x[1][0]]
         self.f.predict()
         self.f.update(z, self.jacobian, self.h)
 
         estX = self.f.x[0][0]
         estY = self.f.x[1][0]
+        filterVels.append((self.f.x[2][0], self.f.x[3][0]))
         return (estX, estY)
 
 
@@ -234,6 +290,8 @@ realLocs = []
 linEstLocs = []
 nonLinEstLocs = []
 filterEstLocs = []
+realVels = [(0, 0)]
+filterVels = [(0, 0)]
 EKF = ExtKalmanFilter()
 
 fDesc = generateTestDesc()
@@ -311,7 +369,6 @@ print("*"*40, "\n"+"Error Report (RMSE in Meters):")
 print("Linear Lst Sq:", round(linRMSE,4))
 print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
 print("Ext. Kalman Filt:", round(filterRMSE, 4))
-print("nonLin / filter RMSE:", round(nonLinRMSE/filterRMSE,4))
 print("END Report", "\n"+"*"*40)
 
 if graphing:
