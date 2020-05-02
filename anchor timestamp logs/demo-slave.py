@@ -12,8 +12,12 @@ with serial.Serial(str(sys.argv[1]), 115200, timeout=1) as ser:
 
     while True:
         line = sio.readline()
-        if line.startswith("TimeOut"): continue
-        if "Error" in line: continue
+        if line.startswith("TimeOut"):
+            anchorPulse = False 
+            continue
+        if "Error" in line: 
+            anchorPulse = False 
+            continue
 
         try:
             if line.startswith("Anchor"):
@@ -33,8 +37,10 @@ with serial.Serial(str(sys.argv[1]), 115200, timeout=1) as ser:
                 anchorID = ""
                 pulseNum = -1
                 syncT = -1
+                anchorPulse = False
 
         except ValueError:
+            anchorPulse = False
             continue
                 
 
