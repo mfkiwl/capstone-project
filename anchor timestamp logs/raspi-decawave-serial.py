@@ -77,6 +77,7 @@ def main(filename, serial_port, pulseMax, debug):
                         syncT = int(line.split(":")[1].strip())
 
                     if line.startswith("END"): # Reached end of frame, write fields & reset 
+                        '''
                         if (switch == "Master"):
                             if (debug):
                                 fh.write("Master Sync\nReception: {}\nSync: {}\ntS: {}\ntSnew: {}\ntM: {}\ntMnew: {}\ntMraw: {}\nR: {}\n\n".format(
@@ -84,6 +85,7 @@ def main(filename, serial_port, pulseMax, debug):
                             else:
                                 fh.write("Master Sync\nSync: {}\n\n".format(syncNum))
                             pulsesRead += 1
+                        '''
                         if (switch == "Tag"):
                             if (debug):
                                 fh.write("Tag Pulse\nID: {}\nReception: {}\nPulse: {}\nanchorT: {}\ndT: {}\nsyncT: {}\n\n".format(
