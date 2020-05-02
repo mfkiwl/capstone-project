@@ -27,7 +27,7 @@ ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
 WITH_SMOOTHING = False
 SMOOTHING_FACTOR = 1.3
 WITH_CMA = True
-CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
+CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==6 else 7
 LINEAR_ON = False
 HYPERBOLA_ON = False
 #######################################
