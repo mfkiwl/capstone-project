@@ -12,8 +12,8 @@ realColor = 'black'
 linColor = 'purple'
 hypColor = 'green'
 filterColor = 'red'
-draw_sample_window = 200
-window_shift = 20
+draw_sample_window = 500
+window_shift = 400
 color_gradient = 255/draw_sample_window
 ##################################
 
@@ -32,12 +32,12 @@ def appStarted(app):
     app.currSample = 0
     app.drawLinear = app.drawHyper = app.drawFilter = app.drawVelocity = False
     app.drawReal = app.getUserInput("Draw Real Locations? (y/n)") == 'y'
-    if "velX" in app.data[1].keys():
-        app.drawVelocity = app.getUserInput("Draw Real Velocities? (y/n)") == 'y'
-    if "linEstX" in app.data[1].keys():
-        app.drawLinear = app.getUserInput("Draw Linear Estimation? (y/n)") == 'y'
-    if "hypEstX" in app.data[1].keys():
-        app.drawHyper = app.getUserInput("Draw Hyperbolic Estimation? (y/n)") == 'y'
+    # if "velX" in app.data[1].keys():
+    #     app.drawVelocity = app.getUserInput("Draw Real Velocities? (y/n)") == 'y'
+    # if "linEstX" in app.data[1].keys():
+    #     app.drawLinear = app.getUserInput("Draw Linear Estimation? (y/n)") == 'y'
+    # if "hypEstX" in app.data[1].keys():
+    #     app.drawHyper = app.getUserInput("Draw Hyperbolic Estimation? (y/n)") == 'y'
     if "filtEstX" in app.data[1].keys():
         app.drawFilter = app.getUserInput("Draw Kalman Filtered Estimation? (y/n)") == 'y'
 
@@ -76,6 +76,6 @@ def redrawAll(app, canvas):
             prevX, prevY = meterToPixel(app, float(app.data[idx-1]["filtEstX"]), float(app.data[idx-1]["filtEstY"]))
             currX, currY = meterToPixel(app, float(app.data[idx]["filtEstX"]), float(app.data[idx]["filtEstY"]))
             yellow_gradient = rgbString(255, i*color_gradient, 0)
-            canvas.create_line(prevX, prevY, currX, currY, fill=filterColor, activefill="red", width = 2)
+            canvas.create_line(prevX, prevY, currX, currY, fill=filterColor, activefill="green", width = 2)
 
 runApp(width=APP_WIDTH, height=APP_HEIGHT)

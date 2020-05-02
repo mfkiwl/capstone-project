@@ -30,7 +30,7 @@ P = 1000
 R = 5000
 Q = 100
 WITH_CMA = True
-CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
+CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==6 else 7
 LINEAR_ON = False
 HYPERBOLA_ON = False
 #######################################
