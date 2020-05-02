@@ -10,20 +10,26 @@ import matplotlib.pyplot as plt
 import random
 import csv
 import os
+import sys
 from basketball_mapping import *
 pp = pprint.PrettyPrinter()
 pprint = pp.pprint
 
 ##TEST SIMULATION PARAMETERS#########
-WITH_NOISE = False
+WITH_NOISE = True
 NOISE_STD_DEV = 1.5 #nanoseconds
 ANCHOR_COUNT = 4 # max of 6
-MAX_SAMPLE_COUNT = 500 # None if you want to process whole file
-CALIBRATION_SAMPLES = 10
+MAX_SAMPLE_COUNT = 4000 # None if you want to process whole file
+CALIBRATION_SAMPLES = 100
 ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
-SMOOTHING_FACTOR = 3
+WITH_SMOOTHING = False
+SMOOTHING_FACTOR = 1.3
+WITH_CMA = True
+CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
+LINEAR_ON = False
+HYPERBOLA_ON = False
 #######################################
 realColor = 'black'
 linColor = 'purple'
@@ -40,12 +46,7 @@ in_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y]
 out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "velX", "velY", "linEstX", "linEstY", "hypEstX", "hypEstY", "filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc():
-    desc = input("Path Description?")
-    if WITH_NOISE:
-        desc = f"{desc}-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{NOISE_STD_DEV}nsNoise"
-    else:
-        desc = f"{desc}-{len(allData)}Samples-{ANCHOR_COUNT}Anch-noNoise"
-    return desc
+    return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise"
 
 def estimateVelocityMedian(numPoints):
     if len(filterEstLocs) < numPoints:
@@ -73,6 +74,7 @@ def estimateVelocityWindow(windowSize):
     return [vX, vY]
 
 def smooth(val, lastVal):
+    if WITH_SMOOTHING==False: return val
     newVal = []
     for i in range(2):
         newVal.append(lastVal[i] + ((val[i] - lastVal[i]) / SMOOTHING_FACTOR))
@@ -95,10 +97,10 @@ def localizeSinglePoint(dataPoint):
     x, y = dataPoint[REAL_X], dataPoint[REAL_Y]
     realLocs.append((x, y))
     
-    linX, linY = linearLocalization(T, tau)
+    linX, linY = linearLocalization(T, tau) if LINEAR_ON else (0,0)
     linEstLocs.append((linX, linY))
     
-    nLinX, nLinY = nonLinearLocalization(T, tau)
+    nLinX, nLinY = nonLinearLocalization(T, tau) if HYPERBOLA_ON else (0,0)
     nonLinEstLocs.append((nLinX, nLinY))
     
     velocity = estimateVelocityWindow(1)
@@ -269,8 +271,29 @@ class ExtKalmanFilter(object):
         return (estX, estY)
 
 
+dataPath = f"test_data{os.sep}0021500003-NOPatGSW-2015-10-27"
+testSet = []
+try:
+    start, end = tuple(map(int, sys.argv[1:]))
+    print("Running tests for set:" + str(os.listdir(dataPath)[start:end]))
+    testSet.extend(os.listdir(dataPath)[start:end])
+except:
+    player = input("Pick a player name")
+    playerPath = list(filter(lambda p:player in p.lower(), os.listdir(dataPath)))[0].strip('.csv')
+    print("Running tests for set:" + str(playerPath))
+    testSet.append(playerPath)
+
+# for playerPath in testSet:
+#     playerPath = playerPath.strip('.csv')
+#     for a in [4, 6]:
+#         for sc in [4100, 8100]:
+#             ANCHORS
+#             MAX_SAMPLE_COUNT = sc
+#             CMA_WINDOW_SIZE = cma
+print(f"Simulating for dataset: {playerPath}")
+
 allData = []
-with open('test_data\stephDownSampled.csv', 'r') as f:
+with open(f'{dataPath}{os.sep}{playerPath}.csv', 'r') as f:
     cR = csv.DictReader(f)
     # next(cR) # skip header
     sampleCount = 0
@@ -293,11 +316,10 @@ realVels = [(0, 0)]
 filterVels = [(0, 0)]
 EKF = ExtKalmanFilter()
 
-
-logging = input("Log simulation results?(y/n)")=='y'
-if logging:
-    fDesc = generateTestDesc()
-graphing = input("Graph simulation results?(y/n)")=='y'
+# logging = input("Log simulation results?(y/n)")=='y'
+logging = True
+# graphing = input("Graph simulation results?(y/n)")=='y'
+graphin = False
 
 print("Starting to simulate samples")
 counter = 0
@@ -305,11 +327,17 @@ t = time.time()
 for sample in allData:
     localizeSinglePoint(sample)
     counter+=1
-    if counter%1000==0:
+    if counter%500==0:
         print(f"Simulated {counter} samples in {round(time.time()-t, 1)} seconds")
         t = time.time()
 
-print("Done simulating {counter} samples. Generating error reports now.")
+print(f"Done simulating {counter} samples. Generating error reports now.")
+
+# central moving average on filtered estimates
+if WITH_CMA:
+    for i in range(CMA_WINDOW_SIZE//2, len(filterEstLocs)):
+        xs, ys = zip(*filterEstLocs[i-CMA_WINDOW_SIZE//2:i-CMA_WINDOW_SIZE//2+CMA_WINDOW_SIZE])
+        filterEstLocs[i] = round(np.mean(xs), 4), round(np.mean(ys), 4)
 
 # remove samples that were part of calibration
 # for data in [allData, times, realLocs, linEstLocs, nonLinEstLocs, filterEstLocs]:
@@ -349,44 +377,47 @@ nonLinRMSE = rmse(hypNP)
 filterRMSE = rmse(filtNP)
 
 if logging:
-    print("Logging samples")
-    # write sim to file
-    with open(f"nba_sim_logs/{fDesc}.csv", "w", newline='') as f:
-        cW = csv.writer(f)
-        cW.writerow(out_headers)
-        for i in range(len(allData)):
-            # time.sleep(0.001)
-            cW.writerow(list(map(lambda x: round(x, 4), [i,
-                                                        times[i]-times[0],
-                                                        allData[i][GAME_TIME],
-                                                        allData[i][PLAYER_ID],
-                                                        realLocs[i][0],
-                                                        realLocs[i][1],
-                                                        vels[i][0],
-                                                        vels[i][1],
-                                                        linEstLocs[i][0],
-                                                        linEstLocs[i][1],
-                                                        nonLinEstLocs[i][0],
-                                                        nonLinEstLocs[i][1],
-                                                        filterEstLocs[i][0],
-                                                        filterEstLocs[i][1],
-                                                        linErrs[i],
-                                                        nonLinErrs[i],
-                                                        filterErrs[i],
-                                                        linRMSE,
-                                                        nonLinRMSE,
-                                                        filterRMSE])))
+                fDesc = generateTestDesc()
+                print("Logging samples")
+                # write sim to file
+                outDir = f"nba_train_logs/{playerPath}"
+                if not os.path.exists(outDir): os.makedirs(outDir)
+                with open(f"{outDir}{os.sep}{fDesc}.csv", "w", newline='') as f:
+                    cW = csv.writer(f)
+                    cW.writerow(out_headers)
+                    for i in range(len(allData)):
+                        # time.sleep(0.001)
+                        cW.writerow(list(map(lambda x: round(x, 4), [i,
+                                                                times[i]-times[0],
+                                                                allData[i][GAME_TIME],
+                                                                allData[i][PLAYER_ID],
+                                                                realLocs[i][0],
+                                                                realLocs[i][1],
+                                                                vels[i][0],
+                                                                vels[i][1],
+                                                                linEstLocs[i][0],
+                                                                linEstLocs[i][1],
+                                                                nonLinEstLocs[i][0],
+                                                                nonLinEstLocs[i][1],
+                                                                filterEstLocs[i][0],
+                                                                filterEstLocs[i][1],
+                                                                linErrs[i],
+                                                                nonLinErrs[i],
+                                                                filterErrs[i],
+                                                                linRMSE,
+                                                                nonLinRMSE,
+                                                                filterRMSE])))
 
-print("*"*40, "\n"+"Error Report (RMSE in Meters):")
-print("Linear Lst Sq:", round(linRMSE,4))
-print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
-print("Ext. Kalman Filt:", round(filterRMSE, 4))
-print("END Report", "\n"+"*"*40)
+# print("*"*40, "\n"+"Error Report (RMSE in Meters):")
+# print("Linear Lst Sq:", round(linRMSE,4))
+# print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
+# print("Ext. Kalman Filt:", round(filterRMSE, 4))
+# print("END Report", "\n"+"*"*40)
 
-if graphing:
-    x = np.arange(0, len(linNP))
-    plt.plot(x, linNP, color=linColor, marker='o', label="Linear Error")
-    plt.plot(x, hypNP, color=hypColor, marker='o', label="Non-linear Error")
-    plt.plot(x, filtNP, color=filterColor, marker='o', label="Kalman Filter Error")
-    plt.legend()
-    plt.show()
+# if graphing:
+#     x = np.arange(0, len(linNP))
+#     if LINEAR_ON: plt.plot(x, linNP, color=linColor, marker='o', label="Linear Error")
+#     if HYPERBOLA_ON: plt.plot(x, hypNP, color=hypColor, marker='o', label="Non-linear Error")
+#     plt.plot(x, filtNP, color=filterColor, marker='o', label="Kalman Filter Error")
+#     plt.legend()
+#     plt.show()
