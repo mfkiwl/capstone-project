@@ -26,6 +26,7 @@ with serial.Serial(str(sys.argv[1]), 115200, timeout=1) as ser:
 
             if line.startswith("END"): # Reached end of frame, write fields & reset 
                 sys.stdout.write("anchor {} Pulse {} syncT {}\n".format(anchorID,pulseNum,syncT))
+                sys.stdout.flush()
                 anchorID = ""
                 pulseNum = -1
                 syncT = -1
