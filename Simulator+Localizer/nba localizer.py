@@ -15,11 +15,11 @@ pp = pprint.PrettyPrinter()
 pprint = pp.pprint
 
 ##TEST SIMULATION PARAMETERS#########
-WITH_NOISE = True
+WITH_NOISE = False
 NOISE_STD_DEV = 1.5 #nanoseconds
-ANCHOR_COUNT = 6
+ANCHOR_COUNT = 4 # max of 6
 MAX_SAMPLE_COUNT = 500 # None if you want to process whole file
-CALIBRATION_SAMPLES = 100
+CALIBRATION_SAMPLES = 10
 ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
@@ -37,7 +37,7 @@ PLAYER_ID = "player_id"
 REAL_X = "realX"
 REAL_Y = "realY"
 in_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y]
-out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "linEstX", "linEstY", "hypEstX", "hypEstY", "filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
+out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "velX", "velY", "linEstX", "linEstY", "hypEstX", "hypEstY", "filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc():
     desc = input("Path Description?")
@@ -80,7 +80,6 @@ def smooth(val, lastVal):
 
 def localizeSinglePoint(dataPoint):
     simulatedData = pulseAndStamp(dataPoint)
-    justTimeStamps = list(map(lambda x: (x["anchID"], x["TOA"]), simulatedData))
 
     T = [None]*len(ANCHORS)
     for info in simulatedData:
@@ -294,8 +293,10 @@ realVels = [(0, 0)]
 filterVels = [(0, 0)]
 EKF = ExtKalmanFilter()
 
-fDesc = generateTestDesc()
+
 logging = input("Log simulation results?(y/n)")=='y'
+if logging:
+    fDesc = generateTestDesc()
 graphing = input("Graph simulation results?(y/n)")=='y'
 
 print("Starting to simulate samples")
@@ -331,6 +332,15 @@ for i, (x, y) in enumerate(realLocs):
     estX, estY = filterEstLocs[i]
     filterErrs.append(euclidDist(x, y, estX, estY))
 
+vels = [(0,0)]
+for i in range(1, len(realLocs)):
+    oldT, T = times[i-1], times[i]
+    oldX, oldY = realLocs[i-1]
+    X, Y = realLocs[i]
+    velX = (X-oldX)/(T-oldT)
+    velY = (Y-oldY)/(T-oldT)
+    vels.append((velX, velY))
+
 linNP = np.array(linErrs)
 hypNP = np.array(nonLinErrs)
 filtNP = np.array(filterErrs)
@@ -352,6 +362,8 @@ if logging:
                                                         allData[i][PLAYER_ID],
                                                         realLocs[i][0],
                                                         realLocs[i][1],
+                                                        vels[i][0],
+                                                        vels[i][1],
                                                         linEstLocs[i][0],
                                                         linEstLocs[i][1],
                                                         nonLinEstLocs[i][0],
