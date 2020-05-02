@@ -30,7 +30,7 @@ P = 1000
 R = 5000
 Q = 100
 WITH_CMA = True
-CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==6 else 7
+CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
 LINEAR_ON = False
 HYPERBOLA_ON = False
 #######################################
@@ -49,7 +49,7 @@ in_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y]
 out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "velX", "velY", "linEstX", "linEstY", "hypEstX", "hypEstY", "filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc():
-    return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise-{P}P-{R}R-{Q}Q"
+    return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{P}P-{R}R-{Q}Q-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise"
 
 def estimateVelocityMedian(numPoints):
     if len(filterEstLocs) < numPoints:
@@ -285,13 +285,21 @@ except:
     print("Running tests for set:" + str(playerPath))
     testSet.append(playerPath)
 
-# for playerPath in testSet:
-#     playerPath = playerPath.strip('.csv')
-#     for a in [4, 6]:
-#         for sc in [4100, 8100]:
-#             ANCHORS
-#             MAX_SAMPLE_COUNT = sc
-#             CMA_WINDOW_SIZE = cma
+parmValsEKF = [1, 10, 100, 1000, 10000, 100000]
+
+for playerPath in testSet:
+    playerPath = playerPath.strip('.csv')
+    for a in [4, 6]:
+        for sc in [4100, 8100]:
+            for p in parmValsEKF:
+                for r in parmValsEKF:
+                    for q in parmValsEKF:
+                        ANCHORS
+                        MAX_SAMPLE_COUNT = sc
+                        CMA_WINDOW_SIZE = cma
+                        P = p
+                        R = r
+                        Q = q
 print(f"Simulating for dataset: {playerPath}")
 
 allData = []
