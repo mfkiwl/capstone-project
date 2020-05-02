@@ -7,6 +7,7 @@ p3 = Popen(['python', 'demo-slave.py', "/dev/ttyACM3"], stdin=PIPE, stdout=PIPE,
 
 while True:
     out0 = p0.stdout.readline().decode('utf-8').split(" ")
+    print("out0: {}".format(out0))
     (anchor0,pulse0,syncT0) = (out0[1],out0[3],out0[5])
     out1 = p1.stdout.readline().decode('utf-8').split(" ")
     (anchor1,pulse1,syncT1) = (out1[1],out1[3],out1[5])
