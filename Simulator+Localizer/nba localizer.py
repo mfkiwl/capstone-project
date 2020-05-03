@@ -18,19 +18,19 @@ pprint = pp.pprint
 ##TEST SIMULATION PARAMETERS#########
 WITH_NOISE = True
 NOISE_STD_DEV = 1.5 #nanoseconds
-ANCHOR_COUNT = 4 # max of 6
-MAX_SAMPLE_COUNT = 4000 # None if you want to process whole file
-CALIBRATION_SAMPLES = 100
+ANCHOR_COUNT = 6 # max of 6
+MAX_SAMPLE_COUNT = None # None if you want to process whole file
+CALIBRATION_SAMPLES = 10
 ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
             (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
 WITH_SMOOTHING = False
-SMOOTHING_FACTOR = 1.3
-P = 1000
-R = 5000
-Q = 100
+SMOOTHING_FACTOR = 1.45
+P = 100
+R = 10000
+Q = 1000
 WITH_CMA = True
-CMA_WINDOW_SIZE = 5 if ANCHOR_COUNT==4 else 7
+CMA_WINDOW_SIZE = 7 if ANCHOR_COUNT==4 else 5
 LINEAR_ON = False
 HYPERBOLA_ON = False
 #######################################
@@ -50,6 +50,10 @@ out_headers = [SAMPLE_IDX, TIME, GAME_TIME, PLAYER_ID, REAL_X, REAL_Y, "velX", "
 
 def generateTestDesc():
     return f"{round(filterRMSE, 2)}RMSE-{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{P}P-{R}R-{Q}Q-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{len(allData)}Samples-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise"
+
+def generateTestDescParams():
+    return f"{CMA_WINDOW_SIZE if WITH_CMA else 'no'}CMA-{P}P-{R}R-{Q}Q-{SMOOTHING_FACTOR if WITH_SMOOTHING else 'no'}Smooth-{ANCHOR_COUNT}Anch-{str(NOISE_STD_DEV)+'ns' if WITH_NOISE else 'no'}Noise"
+
 
 def estimateVelocityMedian(numPoints):
     if len(filterEstLocs) < numPoints:
@@ -272,151 +276,149 @@ class ExtKalmanFilter(object):
         filterVels.append((self.f.x[2][0], self.f.x[3][0]))
         return (estX, estY)
 
-
-dataPath = f"test_data{os.sep}0021500003-NOPatGSW-2015-10-27"
+gameFile = "0021500003-NOPatGSW-2015-10-27"
+dataPath = f"test_data{os.sep}{gameFile}"
 testSet = []
 try:
     start, end = tuple(map(int, sys.argv[1:]))
     print("Running tests for set:" + str(os.listdir(dataPath)[start:end]))
     testSet.extend(os.listdir(dataPath)[start:end])
+    # pIndex, rVal = tuple(map(int, sys.argv[1:]))
 except:
     player = input("Pick a player name")
-    playerPath = list(filter(lambda p:player in p.lower(), os.listdir(dataPath)))[0].strip('.csv')
-    print("Running tests for set:" + str(playerPath))
-    testSet.append(playerPath)
+    playerFold = list(filter(lambda p:player in p.lower(), os.listdir(dataPath)))[0]
+    print("Running tests for set:" + str(playerFold))
+    testSet.append(playerFold)
 
-parmValsEKF = [1, 10, 100, 1000, 10000, 100000]
+# parmValsEKF = [1, 10, 100, 1000, 10000, 100000]
 
-for playerPath in testSet:
-    playerPath = playerPath.strip('.csv')
-    for a in [4, 6]:
-        for sc in [4100, 8100]:
-            for p in parmValsEKF:
-                for r in parmValsEKF:
-                    for q in parmValsEKF:
-                        ANCHORS
-                        MAX_SAMPLE_COUNT = sc
-                        CMA_WINDOW_SIZE = cma
-                        P = p
-                        R = r
-                        Q = q
-print(f"Simulating for dataset: {playerPath}")
+for playerFolder in testSet:
+    dirPath = f"{dataPath}{os.sep}{playerFolder}"
+    for playerPath in os.listdir(dirPath):
+        playerPath = playerPath.strip('.csv')
+        path = dirPath + os.sep + playerPath
+        print(f"Simulating for dataset: {playerPath}")
 
-allData = []
-with open(f'{dataPath}{os.sep}{playerPath}.csv', 'r') as f:
-    cR = csv.DictReader(f)
-    # next(cR) # skip header
-    sampleCount = 0
-    for r in cR:
-        if MAX_SAMPLE_COUNT!=None and sampleCount >= MAX_SAMPLE_COUNT: break
-        r[SAMPLE_IDX] = int(r[SAMPLE_IDX])
-        r[TIME] = int(r[TIME])
-        r[GAME_TIME] = float(r[GAME_TIME])
-        r[PLAYER_ID] = int(r[PLAYER_ID])
-        r[REAL_X], r[REAL_Y] = float(r[REAL_X]), float(r[REAL_Y])
-        allData.append(r)
-        sampleCount+=1
+        allData = []
+        with open(path+'.csv', 'r') as f:
+            cR = csv.DictReader(f)
+            # next(cR) # skip header
+            sampleCount = 0
+            for row in cR:
+                if MAX_SAMPLE_COUNT!=None and sampleCount >= MAX_SAMPLE_COUNT: break
+                row[SAMPLE_IDX] = int(row[SAMPLE_IDX])
+                row[TIME] = int(row[TIME])
+                row[GAME_TIME] = float(row[GAME_TIME])
+                row[PLAYER_ID] = int(row[PLAYER_ID])
+                row[REAL_X], row[REAL_Y] = float(row[REAL_X]), float(row[REAL_Y])
+                allData.append(row)
+                sampleCount+=1
 
-times = []
-realLocs = []
-linEstLocs = []
-nonLinEstLocs = []
-filterEstLocs = []
-realVels = [(0, 0)]
-filterVels = [(0, 0)]
-EKF = ExtKalmanFilter()
+        times = []
+        realLocs = []
+        linEstLocs = []
+        nonLinEstLocs = []
+        filterEstLocs = []
+        realVels = [(0, 0)]
+        filterVels = [(0, 0)]
+        EKF = ExtKalmanFilter()
 
-# logging = input("Log simulation results?(y/n)")=='y'
-logging = True
-# graphing = input("Graph simulation results?(y/n)")=='y'
-graphin = False
+        # logging = input("Log simulation results?(y/n)")=='y'
+        logging = True
+        # graphing = input("Graph simulation results?(y/n)")=='y'
+        graphing = False
 
-print("Starting to simulate samples")
-counter = 0
-t = time.time()
-for sample in allData:
-    localizeSinglePoint(sample)
-    counter+=1
-    if counter%500==0:
-        print(f"Simulated {counter} samples in {round(time.time()-t, 1)} seconds")
+        # print("Starting to simulate samples")
+        counter = 0
         t = time.time()
+        for sample in allData:
+            localizeSinglePoint(sample)
+            counter+=1
+            if counter%100==0:
+                # print(f"Simulated {counter} samples in {round(time.time()-t, 1)} seconds")
+                t = time.time()
 
-print(f"Done simulating {counter} samples. Generating error reports now.")
+        print(f"Done simulating samples.")
 
-# central moving average on filtered estimates
-if WITH_CMA:
-    for i in range(CMA_WINDOW_SIZE//2, len(filterEstLocs)):
-        xs, ys = zip(*filterEstLocs[i-CMA_WINDOW_SIZE//2:i-CMA_WINDOW_SIZE//2+CMA_WINDOW_SIZE])
-        filterEstLocs[i] = round(np.mean(xs), 4), round(np.mean(ys), 4)
+        # central moving average on filtered estimates
+        if WITH_CMA:
+            for i in range(CMA_WINDOW_SIZE//2, len(filterEstLocs)):
+                xs, ys = zip(*filterEstLocs[i-CMA_WINDOW_SIZE//2:i-CMA_WINDOW_SIZE//2+CMA_WINDOW_SIZE])
+                filterEstLocs[i] = round(np.mean(xs), 4), round(np.mean(ys), 4)
 
-# remove samples that were part of calibration
-# for data in [allData, times, realLocs, linEstLocs, nonLinEstLocs, filterEstLocs]:
-#     data = data[CALIBRATION_SAMPLES:]
-allData = allData[CALIBRATION_SAMPLES:]
-times = times[CALIBRATION_SAMPLES:]
-realLocs = realLocs[CALIBRATION_SAMPLES:]
-linEstLocs = linEstLocs[CALIBRATION_SAMPLES:]
-nonLinEstLocs = nonLinEstLocs[CALIBRATION_SAMPLES:]
-filterEstLocs = filterEstLocs[CALIBRATION_SAMPLES:]
+        # remove samples that were part of calibration
+        # for data in [allData, times, realLocs, linEstLocs, nonLinEstLocs, filterEstLocs]:
+        #     data = data[CALIBRATION_SAMPLES:]
+        allData = allData[CALIBRATION_SAMPLES:]
+        times = times[CALIBRATION_SAMPLES:]
+        realLocs = realLocs[CALIBRATION_SAMPLES:]
+        linEstLocs = linEstLocs[CALIBRATION_SAMPLES:]
+        nonLinEstLocs = nonLinEstLocs[CALIBRATION_SAMPLES:]
+        filterEstLocs = filterEstLocs[CALIBRATION_SAMPLES:]
 
-linErrs = []
-nonLinErrs = []
-filterErrs = []
-for i, (x, y) in enumerate(realLocs):
-    estX, estY = linEstLocs[i]
-    linErrs.append(euclidDist(x, y, estX, estY))
-    estX, estY = nonLinEstLocs[i]
-    nonLinErrs.append(euclidDist(x, y, estX, estY))
-    estX, estY = filterEstLocs[i]
-    filterErrs.append(euclidDist(x, y, estX, estY))
+        linErrs = []
+        nonLinErrs = []
+        filterErrs = []
+        for i, (x, y) in enumerate(realLocs):
+            estX, estY = linEstLocs[i]
+            linErrs.append(euclidDist(x, y, estX, estY))
+            estX, estY = nonLinEstLocs[i]
+            nonLinErrs.append(euclidDist(x, y, estX, estY))
+            estX, estY = filterEstLocs[i]
+            filterErrs.append(euclidDist(x, y, estX, estY))
 
-vels = [(0,0)]
-for i in range(1, len(realLocs)):
-    oldT, T = times[i-1], times[i]
-    oldX, oldY = realLocs[i-1]
-    X, Y = realLocs[i]
-    velX = (X-oldX)/(T-oldT)
-    velY = (Y-oldY)/(T-oldT)
-    vels.append((velX, velY))
+        vels = [(0,0)]
+        for i in range(1, len(realLocs)):
+            oldT, T = times[i-1], times[i]
+            oldX, oldY = realLocs[i-1]
+            X, Y = realLocs[i]
+            velX = (X-oldX)/(T-oldT)
+            velY = (Y-oldY)/(T-oldT)
+            vels.append((velX, velY))
 
-linNP = np.array(linErrs)
-hypNP = np.array(nonLinErrs)
-filtNP = np.array(filterErrs)
-linRMSE = rmse(linNP)
-nonLinRMSE = rmse(hypNP)
-filterRMSE = rmse(filtNP)
+        linNP = np.array(linErrs)
+        hypNP = np.array(nonLinErrs)
+        filtNP = np.array(filterErrs)
+        linRMSE = rmse(linNP)
+        nonLinRMSE = rmse(hypNP)
+        filterRMSE = rmse(filtNP)
 
-if logging:
-                fDesc = generateTestDesc()
-                print("Logging samples")
-                # write sim to file
-                outDir = f"nba_train_logs/{playerPath}"
-                if not os.path.exists(outDir): os.makedirs(outDir)
-                with open(f"{outDir}{os.sep}{fDesc}.csv", "w", newline='') as f:
-                    cW = csv.writer(f)
-                    cW.writerow(out_headers)
-                    for i in range(len(allData)):
-                        # time.sleep(0.001)
-                        cW.writerow(list(map(lambda x: round(x, 4), [i,
-                                                                times[i]-times[0],
-                                                                allData[i][GAME_TIME],
-                                                                allData[i][PLAYER_ID],
-                                                                realLocs[i][0],
-                                                                realLocs[i][1],
-                                                                vels[i][0],
-                                                                vels[i][1],
-                                                                linEstLocs[i][0],
-                                                                linEstLocs[i][1],
-                                                                nonLinEstLocs[i][0],
-                                                                nonLinEstLocs[i][1],
-                                                                filterEstLocs[i][0],
-                                                                filterEstLocs[i][1],
-                                                                linErrs[i],
-                                                                nonLinErrs[i],
-                                                                filterErrs[i],
-                                                                linRMSE,
-                                                                nonLinRMSE,
-                                                                filterRMSE])))
+        if logging:
+            fDesc = generateTestDesc()
+            # print("Logging samples")
+            # write sim to file
+            locDir = "nba_train_logs"
+            outDir = f"{locDir}{os.sep}{gameFile}{os.sep}{playerFolder}{os.sep}{playerPath}"
+            if not os.path.exists(outDir): os.makedirs(outDir)
+            with open(f"{outDir}{os.sep}{fDesc}.csv", "w", newline='') as f:
+                cW = csv.writer(f)
+                cW.writerow(out_headers)
+                for i in range(len(allData)):
+                    # time.sleep(0.001)
+                    cW.writerow(list(map(lambda x: round(x, 4), [i,
+                                                            times[i]-times[0],
+                                                            allData[i][GAME_TIME],
+                                                            allData[i][PLAYER_ID],
+                                                            realLocs[i][0],
+                                                            realLocs[i][1],
+                                                            vels[i][0],
+                                                            vels[i][1],
+                                                            linEstLocs[i][0],
+                                                            linEstLocs[i][1],
+                                                            nonLinEstLocs[i][0],
+                                                            nonLinEstLocs[i][1],
+                                                            filterEstLocs[i][0],
+                                                            filterEstLocs[i][1],
+                                                            linErrs[i],
+                                                            nonLinErrs[i],
+                                                            filterErrs[i],
+                                                            linRMSE,
+                                                            nonLinRMSE,
+                                                            filterRMSE])))
+            fComb = generateTestDescParams()
+            f = open(f"{locDir}{os.sep}0_{fComb}.txt", "a")  # append mode 
+            f.write(f"{round(filterRMSE, 4)}\n")
+            f.close()
 
 # print("*"*40, "\n"+"Error Report (RMSE in Meters):")
 # print("Linear Lst Sq:", round(linRMSE,4))

@@ -12,8 +12,8 @@ realColor = 'black'
 linColor = 'purple'
 hypColor = 'green'
 filterColor = 'red'
-draw_sample_window = 500
-window_shift = 400
+draw_sample_window = 200
+window_shift = 100
 color_gradient = 255/draw_sample_window
 ##################################
 
@@ -57,6 +57,8 @@ def appStopped(app):pass
 def redrawAll(app, canvas):
     canvas.create_image(app.width//2, app.height//2, image=ImageTk.PhotoImage(app.court))
     canvas.create_text(app.width//2, app.margin//2, text=app.logPath)
+    canvas.create_text(app.width//2, app.height-app.margin//2, text=str((app.currSample, app.currSample+draw_sample_window)))
+    
     for i, idx in enumerate(range(1+app.currSample, min(len(app.data.values()), 1+app.currSample+draw_sample_window))):
         if app.drawReal:
             prevX, prevY = meterToPixel(app, float(app.data[idx-1]["realX"]), float(app.data[idx-1]["realY"]))
