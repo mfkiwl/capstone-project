@@ -8,7 +8,7 @@ SPEED_OF_LIGHT = 299702547 # m/s in air
 COURT_WIDTH_FEET = 94
 COURT_HEIGHT_FEET = 50
 APP_HEIGHT = 800
-APP_MARGIN = 25
+APP_MARGIN = 50
 APP_WIDTH = int((800-2*APP_MARGIN)*COURT_WIDTH_FEET/COURT_HEIGHT_FEET+APP_MARGIN*2)
 #######################################
 
@@ -33,6 +33,15 @@ def getCellBounds(app, row, col):
     y0 = app.margin + gridHeight * row / app.rows
     y1 = app.margin + gridHeight * (row+1) / app.rows
     return (x0, y0, x1, y1)
+
+def pixelToMeter(app, pixX, pixY):
+    pixelWidth  = app.width - 2*app.margin
+    pixelHeight = app.height - 2*app.margin
+    pixelsInFootW = pixelWidth/COURT_WIDTH_FEET
+    pixelsInFootH = pixelHeight/COURT_HEIGHT_FEET
+    x = (pixX-app.margin)*METERS_IN_FOOT/pixelsInFootW
+    y = (pixY-app.margin)*METERS_IN_FOOT/pixelsInFootH
+    return (x,y)
 
 def metersToPixel(app, x, y):
     pixelWidth  = app.width - 2*app.margin
@@ -72,14 +81,6 @@ def coordToGrid(x, y): #coord to row/col number
 
 def euclidDist(x1, y1, x2, y2):
     return math.sqrt((x2-x1)**2+(y2-y1)**2)
-
-def distanceBetween(tag, anchor):
-    dRow = abs(tag.row - anchor.row)
-    dCol = abs(tag.col - anchor.col)
-    dXMeters = dRow*METERS_IN_FOOT
-    dYMeters = dCol*METERS_IN_FOOT
-    d = math.sqrt(dXMeters**2+dYMeters**2)
-    return d
 
 def metersToNanosec(d):
     return (d/SPEED_OF_LIGHT)*10**9
