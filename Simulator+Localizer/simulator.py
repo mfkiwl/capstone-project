@@ -17,8 +17,8 @@ pprint = pp.pprint
 ANCHORS = None 
 
 ##TEST SIMULATION PARAMETERS#########
-WITH_NOISE = False
-NOISE_STD_DEV = 1 #nanoseconds
+WITH_NOISE = True
+NOISE_STD_DEV = 1.5 #nanoseconds
 PULSE_FREQ = 5
 tagColor = 'black'
 anchorColor = 'red'
@@ -26,6 +26,10 @@ linColor = 'purple'
 nonLinColor = 'green'
 filterColor = 'blue'
 ##################################
+ANCHOR_COUNT = 6
+ANCHORS = [(0,0), (0, footToMeter(COURT_HEIGHT_FEET)),
+            (footToMeter(COURT_WIDTH_FEET), 0), (footToMeter(COURT_WIDTH_FEET), footToMeter(COURT_HEIGHT_FEET)),
+            (footToMeter(COURT_WIDTH_FEET//2), 0), (footToMeter(COURT_WIDTH_FEET//2), footToMeter(COURT_HEIGHT_FEET))][:ANCHOR_COUNT]
 out_rows = ["Sample_idx", "sample_time", "realX", "realY", "linEstX", "linEstY", "hypEstX", "hypEstY","filtEstX", "filtEstY", "linErr", "hypErr", "filtErr", "linRMSE", "hypRMSE", "filtRMSE"]
 
 def generateTestDesc(app):
@@ -37,25 +41,19 @@ def generateTestDesc(app):
     return desc
 
 class Tag(object):
-    def __init__(self, row, col, id, color=tagColor):
-        self.row = row
-        self.col = col
+    def __init__(self, x, y, id, color=tagColor):
+        self.x = x
+        self.y = y
         self.id = id
         self.color = color
-
-class Anchor(object):
-    def __init__(self, row, col, id, color=anchorColor):
-        self.row = row
-        self.col = col
-        self.color = color
-        self.id = id
 
 def pulseAndStamp(app):
     timeStampTuples = []
     anchorSyncTime = time.time_ns()
     # print(f"syncTime:{anchorSyncTime}")
-    for anchor in app.anchors:
-        d = distanceBetween(app.tag, anchor)
+    for anchID, anchor in enumerate(app.anchors):
+        d = euclidDist(app.tag.x, app.tag.y, anchor[0], anchor[1])
+        # d = distanceBetween(app.tag, anchor)
         t = metersToNanosec(d)
         noise = 0
         if WITH_NOISE:
@@ -63,7 +61,7 @@ def pulseAndStamp(app):
         tof=round(t+noise)
         info = dict()
         info['tagID'] = app.tag.id
-        info['anchID'] = anchor.id
+        info['anchID'] = anchID
         info['syncTime'] = anchorSyncTime
         info['actTOF'] = round(t)
         info['noise'] = noise
@@ -194,7 +192,8 @@ def runLocalization(app):
         if tau[id]==0: tau[id] = 1*10**-9
     app.taus.append(tau)
     # print(tau)
-    x, y = gridToCoord(app.tag.row, app.tag.col)
+    # x, y = gridToCoord(app.tag.row, app.tag.col)
+    x, y = app.tag.x, app.tag.y
     linX, linY = linearLocalization(app, T, tau)
     nLinX, nLinY = nonLinearLocalization(app, T, tau)
     filtX, filtY = extendedKalmanEst(app, justTimeStamps)
@@ -204,36 +203,29 @@ def runLocalization(app):
         app.linEstLocs.append((linX, linY))
         app.nonLinEstLocs.append((nLinX, nLinY))
         app.filterEstLocs.append((filtX, filtY))
-
-        print("\nREPORT:")
-        print(f"Actual:", app.realLocs[-1][0], app.realLocs[-1][1])
-        print(f"Linear:", app.linEstLocs[-1][0], app.linEstLocs[-1][1])
-        print(f"Non-Linear:", app.nonLinEstLocs[-1][0], app.nonLinEstLocs[-1][1])
-        print(f"Extended Kalman Filter:", app.filterEstLocs[-1][0], app.filterEstLocs[-1][1])
-        print("End Report:\n")
+        # print("\nREPORT:")
+        # print(f"Actual:", app.realLocs[-1][0], app.realLocs[-1][1])
+        # print(f"Linear:", app.linEstLocs[-1][0], app.linEstLocs[-1][1])
+        # print(f"Non-Linear:", app.nonLinEstLocs[-1][0], app.nonLinEstLocs[-1][1])
+        # print(f"Extended Kalman Filter:", app.filterEstLocs[-1][0], app.filterEstLocs[-1][1])
+        # print("End Report:\n")
 
 
 def appStarted(app):
-    app.timerDelay = 1000//PULSE_FREQ
+    app.pulseInterval = 1000//PULSE_FREQ
+    app.counter=0
+    app.time = 0
+    app.timerDelay = 50
     app.isCollecting = False
     app.margin = APP_MARGIN
     app.cols = COURT_WIDTH_FEET//FEET_IN_GRID # 100 feet court width
     app.rows = COURT_HEIGHT_FEET//FEET_IN_GRID  # 50 feet court height
-    app.tag = Tag(app.rows//2, app.cols//2, "Player 1")
-    app.anchors = []
-    app.anchors.append(Anchor(0, 0, 0))
-    app.anchors.append(Anchor(app.rows-1, 0, 1))
-    app.anchors.append(Anchor(0, app.cols-1, 2))
-    app.anchors.append(Anchor(app.rows-1, app.cols-1, 3))
-    app.anchors.append(Anchor(0, app.cols//2, 4))
-    app.anchors.append(Anchor(app.rows-1, app.cols//2, 5))
-    global ANCHORS
-    ANCHORS = [None]*len(app.anchors)
+    app.tag = Tag(footToMeter(COURT_WIDTH_FEET/2), footToMeter(COURT_HEIGHT_FEET/2), "Player 1")
+    app.anchors = ANCHORS
     app.xs = [None]*len(app.anchors)
     app.ys = [None]*len(app.anchors)
-    for anchor in app.anchors:
-        app.xs[anchor.id], app.ys[anchor.id] = gridToCoord(anchor.row, anchor.col)
-        ANCHORS[anchor.id] = (app.xs[anchor.id], app.ys[anchor.id])
+    for anchid, anchor in enumerate(app.anchors):
+        app.xs[anchid], app.ys[anchid] = anchor[0], anchor[1]
 
     app.realLocs = []
     app.linEstLocs = []
@@ -243,18 +235,28 @@ def appStarted(app):
     app.times = []
     # app.court = app.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Basketball_court_fiba.svg/440px-Basketball_court_fiba.svg.png').transpose(Image.ROTATE_90).resize((1000,500))
     # app.court = app.loadImage('https://raw.githubusercontent.com/savvastj/nbaPlayerTracking/master/fullcourt.png').resize((app.width-2*app.margin,app.height-2*app.margin))
-    app.court = app.loadImage('https://i.imgur.com/YBcbBFq.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
+    # app.court = app.loadImage('https://i.imgur.com/YBcbBFq.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
+    app.court = app.loadImage('decolored-court.png').transpose(Image.ROTATE_90).resize((app.width-2*app.margin,app.height-2*app.margin))
+    app.court.putalpha(50)
     initFilter(app)
     
 def keyPressed(app, event):
-    if (event.key == 'Up'):      app.tag.row -= 1
-    elif (event.key == 'Down'):  app.tag.row += 1
-    elif (event.key == 'Left'):  app.tag.col -= 1
-    elif (event.key == 'Right'): app.tag.col += 1
+    if (event.key == 'Up'):      app.tag.y -= 0.2
+    elif (event.key == 'Down'):  app.tag.y += 0.2
+    elif (event.key == 'Left'):  app.tag.x -= 0.2
+    elif (event.key == 'Right'): app.tag.x += 0.2
     elif (event.key == 'Space'): app.isCollecting = not app.isCollecting
 
+def mouseDragged(app, event):
+    app.tag.x, app.tag.y = pixelToMeter(app, event.x, event.y)
+
 def timerFired(app):
-    runLocalization(app)
+    app.time += app.timerDelay
+    if app.time%app.pulseInterval==0:
+        app.counter+=1
+        t=time.time()
+        runLocalization(app)
+        print(f"Ran {app.counter} localization at {app.time/1000}! Took {time.time()-t} seconds")
 
 def appStopped(app):
     store = app.getUserInput("Do you want to log sim information?(y/n)")=='y'
@@ -307,10 +309,10 @@ def appStopped(app):
                                                             filterRMSE])))
     
 
-    print("Linear Lst Sq:", round(linRMSE,4))
-    print("Hyperbolic Lst Sq:", round(nonLinRMSE, 4))
-    print("Ext. Kalman Filt:", round(filterRMSE, 4))
-    print("nonLin / filter RMSE:", round(nonLinRMSE/filterRMSE,4))
+    print("Linear Lst Sq:", round(meterToFoot(linRMSE),4))
+    print("Hyperbolic Lst Sq:", round(meterToFoot(nonLinRMSE), 4))
+    print("Ext. Kalman Filt:", round(meterToFoot(filterRMSE), 4))
+    # print("nonLin / filter RMSE:", round(nonLinRMSE/filterRMSE,4))
     print("END Report", "\n"+"*"*40)
 
     if graph:
@@ -330,17 +332,17 @@ def redrawAll(app, canvas):
     canvas.create_text(app.width//2, app.margin//2, text=f"isCollecting:{app.isCollecting}")
     canvas.create_text(app.width//2, app.height-app.margin//2, text=f"samples:{len(app.realLocs)}")
 
-    for anchor in app.anchors:
-        (x0, y0, x1, y1) = getCellBounds(app, anchor.row, anchor.col)
-        canvas.create_rectangle(x0, y0, x1, y1, fill=anchor.color)
-        canvas.create_text((x0+x1)/2, (y0+y1)//2, text=f'{anchor.id}')
+    for id, anchor in enumerate(app.anchors):
+        r = 10
+        cx, cy = metersToPixel(app, anchor[0], anchor[1])
+        canvas.create_rectangle(cx-r, cy-r, cx+r, cy+r, fill="red")
+        canvas.create_text(cx, cy, text=f'{id}')
 
     # draw tags
-    (x0, y0, x1, y1) = getCellBounds(app, app.tag.row, app.tag.col)
-    r = min(x1-x0, y1-y0)/2
-    cX, cY = (x0+x1)/2, (y0+y1)/2
+    r = 8
+    cX, cY = meterToPixel(app, app.tag.x, app.tag.y)
     canvas.create_oval(cX-r, cY-r, cX+r, cY+r, fill=None, outline=app.tag.color, width = 3)
-    r = min(x1-x0, y1-y0)/4
+    r = 3
     
     if len(app.linEstLocs)>0:
         estX, estY = app.linEstLocs[-1]
