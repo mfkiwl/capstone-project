@@ -1,0 +1,3689 @@
+# SEGGER J-Link RTT Viewer V6.70c Terminal Log File
+# Compiled: 15:13:04 on Apr  7 2020
+# Logging started @ 09 Apr 2020 00:53:57
+Transmission # : 49
+resp_tx_ts: ECA62400
+resp_tx_ts_sec: 4.431202
+resp_tx_ts_nanosec: 4431202195
+tag id: 'B L'
+
+Transmission # : 50
+resp_tx_ts: 4BCA3A00
+resp_tx_ts_sec: 4.523399
+resp_tx_ts_nanosec: 4523399206
+tag id: 'B L'
+
+Transmission # : 51
+resp_tx_ts: AAE92E00
+resp_tx_ts_sec: 4.615591
+resp_tx_ts_nanosec: 4615590953
+tag id: 'B L'
+
+Transmission # : 52
+resp_tx_ts: A0B1200
+resp_tx_ts_sec: 4.707786
+resp_tx_ts_nanosec: 4707785713
+tag id: 'B L'
+
+Transmission # : 53
+resp_tx_ts: 692E0E00
+resp_tx_ts_sec: 4.799982
+resp_tx_ts_nanosec: 4799981594
+tag id: 'B L'
+
+Transmission # : 54
+resp_tx_ts: C8565E00
+resp_tx_ts_sec: 4.892183
+resp_tx_ts_nanosec: 4892182940
+tag id: 'B L'
+
+Transmission # : 55
+resp_tx_ts: 277D5600
+resp_tx_ts_sec: 4.984383
+resp_tx_ts_nanosec: 4984382908
+tag id: 'B L'
+
+Transmission # : 56
+resp_tx_ts: 86A5D000
+resp_tx_ts_sec: 5.076584
+resp_tx_ts_nanosec: 5076584423
+tag id: 'B L'
+
+Transmission # : 57
+resp_tx_ts: E5CCC200
+resp_tx_ts_sec: 5.168784
+resp_tx_ts_nanosec: 5168784366
+tag id: 'B L'
+
+Transmission # : 58
+resp_tx_ts: 44F3F000
+resp_tx_ts_sec: 5.260984
+resp_tx_ts_nanosec: 5260984551
+tag id: 'B L'
+
+Transmission # : 59
+resp_tx_ts: A41A9600
+resp_tx_ts_sec: 5.353184
+resp_tx_ts_nanosec: 5353184190
+tag id: 'B L'
+
+Transmission # : 60
+resp_tx_ts: 3416A00
+resp_tx_ts_sec: 5.445384
+resp_tx_ts_nanosec: 5445384014
+tag id: 'B L'
+
+Transmission # : 61
+resp_tx_ts: 628A1E00
+resp_tx_ts_sec: 5.537619
+resp_tx_ts_nanosec: 5537618581
+tag id: 'B L'
+
+Transmission # : 62
+resp_tx_ts: C18E9200
+resp_tx_ts_sec: 5.629783
+resp_tx_ts_nanosec: 5629783149
+tag id: 'B L'
+
+Transmission # : 63
+resp_tx_ts: 20B58C00
+resp_tx_ts_sec: 5.721983
+resp_tx_ts_nanosec: 5721983125
+tag id: 'B L'
+
+Transmission # : 64
+resp_tx_ts: 7FDFA800
+resp_tx_ts_sec: 5.814186
+resp_tx_ts_nanosec: 5814186314
+tag id: 'B L'
+
+Transmission # : 65
+resp_tx_ts: DF0A7E00
+resp_tx_ts_sec: 5.906390
+resp_tx_ts_nanosec: 5906390248
+tag id: 'B L'
+
+Transmission # : 66
+resp_tx_ts: 3E35F400
+resp_tx_ts_sec: 5.998595
+resp_tx_ts_nanosec: 5998594823
+tag id: 'B L'
+
+Transmission # : 67
+resp_tx_ts: 9D5C3800
+resp_tx_ts_sec: 6.090794
+resp_tx_ts_nanosec: 6090794070
+tag id: 'B L'
+
+Transmission # : 68
+resp_tx_ts: FC831C00
+resp_tx_ts_sec: 6.182994
+resp_tx_ts_nanosec: 6182993958
+tag id: 'B L'
+
+Transmission # : 69
+resp_tx_ts: 5BACDC00
+resp_tx_ts_sec: 6.275197
+resp_tx_ts_nanosec: 6275196778
+tag id: 'B L'
+
+Transmission # : 70
+resp_tx_ts: BAD3E600
+resp_tx_ts_sec: 6.367397
+resp_tx_ts_nanosec: 6367396818
+tag id: 'B L'
+
+Transmission # : 71
+resp_tx_ts: 19FE3A00
+resp_tx_ts_sec: 6.459600
+resp_tx_ts_nanosec: 6459600232
+tag id: 'B L'
+
+Transmission # : 72
+resp_tx_ts: 79296400
+resp_tx_ts_sec: 6.551805
+resp_tx_ts_nanosec: 6551804503
+tag id: 'B L'
+
+Transmission # : 73
+resp_tx_ts: D8538400
+resp_tx_ts_sec: 6.644008
+resp_tx_ts_nanosec: 6644007708
+tag id: 'B L'
+
+Transmission # : 74
+resp_tx_ts: 377E3600
+resp_tx_ts_sec: 6.736211
+resp_tx_ts_nanosec: 6736211498
+tag id: 'B L'
+
+Transmission # : 75
+resp_tx_ts: 96AC5000
+resp_tx_ts_sec: 6.828419
+resp_tx_ts_nanosec: 6828418782
+tag id: 'B L'
+
+Transmission # : 76
+resp_tx_ts: F5D6AE00
+resp_tx_ts_sec: 6.920622
+resp_tx_ts_nanosec: 6920622235
+tag id: 'B L'
+
+Transmission # : 77
+resp_tx_ts: 5500EC00
+resp_tx_ts_sec: 7.012825
+resp_tx_ts_nanosec: 7012825560
+tag id: 'B L'
+
+Transmission # : 78
+resp_tx_ts: B42BF000
+resp_tx_ts_sec: 7.105030
+resp_tx_ts_nanosec: 7105029679
+tag id: 'B L'
+
+Transmission # : 79
+resp_tx_ts: 1355E400
+resp_tx_ts_sec: 7.197233
+resp_tx_ts_nanosec: 7197232708
+tag id: 'B L'
+
+Transmission # : 80
+resp_tx_ts: 72811E00
+resp_tx_ts_sec: 7.289437
+resp_tx_ts_nanosec: 7289437043
+tag id: 'B L'
+
+Transmission # : 81
+resp_tx_ts: D1D1F600
+resp_tx_ts_sec: 7.381680
+resp_tx_ts_nanosec: 7381679959
+tag id: 'B L'
+
+Transmission # : 82
+resp_tx_ts: 30D92E00
+resp_tx_ts_sec: 7.473847
+resp_tx_ts_nanosec: 7473847363
+tag id: 'B L'
+
+Transmission # : 83
+resp_tx_ts: 90051A00
+resp_tx_ts_sec: 7.566052
+resp_tx_ts_nanosec: 7566052411
+tag id: 'B L'
+
+Transmission # : 84
+resp_tx_ts: EF2FF600
+resp_tx_ts_sec: 7.658257
+resp_tx_ts_nanosec: 7658256370
+tag id: 'B L'
+
+Transmission # : 85
+resp_tx_ts: 4E59FA00
+resp_tx_ts_sec: 7.750460
+resp_tx_ts_nanosec: 7750459463
+tag id: 'B L'
+
+Transmission # : 86
+resp_tx_ts: AD82F200
+resp_tx_ts_sec: 7.842661
+resp_tx_ts_nanosec: 7842661482
+tag id: 'B L'
+
+Transmission # : 87
+resp_tx_ts: CAC6E00
+resp_tx_ts_sec: 7.934864
+resp_tx_ts_nanosec: 7934864030
+tag id: 'B L'
+
+Transmission # : 88
+resp_tx_ts: 6BD80400
+resp_tx_ts_sec: 8.027070
+resp_tx_ts_nanosec: 8027068733
+tag id: 'B L'
+
+Transmission # : 89
+resp_tx_ts: CB032200
+resp_tx_ts_sec: 8.119274
+resp_tx_ts_nanosec: 8119272956
+tag id: 'B L'
+
+Transmission # : 90
+resp_tx_ts: 2A2F4000
+resp_tx_ts_sec: 8.211479
+resp_tx_ts_nanosec: 8211478205
+tag id: 'B L'
+
+Transmission # : 91
+resp_tx_ts: 895C2000
+resp_tx_ts_sec: 8.303685
+resp_tx_ts_nanosec: 8303684230
+tag id: 'B L'
+
+Transmission # : 92
+resp_tx_ts: E88CC800
+resp_tx_ts_sec: 8.395895
+resp_tx_ts_nanosec: 8395894134
+tag id: 'B L'
+
+Transmission # : 93
+resp_tx_ts: 47BC9E00
+resp_tx_ts_sec: 8.488103
+resp_tx_ts_nanosec: 8488103197
+tag id: 'B L'
+
+Transmission # : 94
+resp_tx_ts: A6ED8E00
+resp_tx_ts_sec: 8.580314
+resp_tx_ts_nanosec: 8580313389
+tag id: 'B L'
+
+Transmission # : 95
+resp_tx_ts: 61BF200
+resp_tx_ts_sec: 8.672521
+resp_tx_ts_nanosec: 8672520969
+tag id: 'B L'
+
+Transmission # : 96
+resp_tx_ts: 65480200
+resp_tx_ts_sec: 8.764726
+resp_tx_ts_nanosec: 8764726161
+tag id: 'B L'
+
+Transmission # : 97
+resp_tx_ts: C474B200
+resp_tx_ts_sec: 8.856932
+resp_tx_ts_nanosec: 8856931995
+tag id: 'B L'
+
+Transmission # : 98
+resp_tx_ts: 23A00C00
+resp_tx_ts_sec: 8.949137
+resp_tx_ts_nanosec: 8949136458
+tag id: 'B L'
+
+Transmission # : 99
+resp_tx_ts: 82C7E400
+resp_tx_ts_sec: 9.041337
+resp_tx_ts_nanosec: 9041337323
+tag id: 'B L'
+
+Transmission # : 100
+resp_tx_ts: E1F2D000
+resp_tx_ts_sec: 9.133542
+resp_tx_ts_nanosec: 9133541346
+tag id: 'B L'
+
+Transmission # : 101
+resp_tx_ts: 413FF200
+resp_tx_ts_sec: 9.225781
+resp_tx_ts_nanosec: 9225780456
+tag id: 'B L'
+
+Transmission # : 102
+resp_tx_ts: A0461800
+resp_tx_ts_sec: 9.317947
+resp_tx_ts_nanosec: 9317946762
+tag id: 'B L'
+
+Transmission # : 103
+resp_tx_ts: FF6F7C00
+resp_tx_ts_sec: 9.410150
+resp_tx_ts_nanosec: 9410149214
+tag id: 'B L'
+
+Transmission # : 104
+resp_tx_ts: 5E981600
+resp_tx_ts_sec: 9.502351
+resp_tx_ts_nanosec: 9502350857
+tag id: 'B L'
+
+Transmission # : 105
+resp_tx_ts: BDC1CC00
+resp_tx_ts_sec: 9.594554
+resp_tx_ts_nanosec: 9594553637
+tag id: 'B L'
+
+Transmission # : 106
+resp_tx_ts: 1CEE1400
+resp_tx_ts_sec: 9.686759
+resp_tx_ts_nanosec: 9686759054
+tag id: 'B L'
+
+Transmission # : 107
+resp_tx_ts: 7C175C00
+resp_tx_ts_sec: 9.778962
+resp_tx_ts_nanosec: 9778961394
+tag id: 'B L'
+
+Transmission # : 108
+resp_tx_ts: DB40C600
+resp_tx_ts_sec: 9.871165
+resp_tx_ts_nanosec: 9871163870
+tag id: 'B L'
+
+Transmission # : 109
+resp_tx_ts: 3A6BB000
+resp_tx_ts_sec: 9.963368
+resp_tx_ts_nanosec: 9963367884
+tag id: 'B L'
+
+Transmission # : 110
+resp_tx_ts: 99944800
+resp_tx_ts_sec: 10.055570
+resp_tx_ts_nanosec: 10055569519
+tag id: 'B L'
+
+Transmission # : 111
+resp_tx_ts: F8BC8E00
+resp_tx_ts_sec: 10.147771
+resp_tx_ts_nanosec: 10147770825
+tag id: 'B L'
+
+Transmission # : 112
+resp_tx_ts: 57E64E00
+resp_tx_ts_sec: 10.239974
+resp_tx_ts_nanosec: 10239973645
+tag id: 'B L'
+
+Transmission # : 113
+resp_tx_ts: B7121E00
+resp_tx_ts_sec: 10.332179
+resp_tx_ts_nanosec: 10332178581
+tag id: 'B L'
+
+Transmission # : 114
+resp_tx_ts: 1641C400
+resp_tx_ts_sec: 10.424387
+resp_tx_ts_nanosec: 10424387451
+tag id: 'B L'
+
+Transmission # : 115
+resp_tx_ts: 7571B000
+resp_tx_ts_sec: 10.516597
+resp_tx_ts_nanosec: 10516596602
+tag id: 'B L'
+
+Transmission # : 116
+resp_tx_ts: D49D2A00
+resp_tx_ts_sec: 10.608801
+resp_tx_ts_nanosec: 10608801193
+tag id: 'B L'
+
+Transmission # : 117
+resp_tx_ts: 33CB7A00
+resp_tx_ts_sec: 10.701009
+resp_tx_ts_nanosec: 10701008693
+tag id: 'B L'
+
+Transmission # : 118
+resp_tx_ts: 92FBC400
+resp_tx_ts_sec: 10.793219
+resp_tx_ts_nanosec: 10793218221
+tag id: 'B L'
+
+Transmission # : 119
+resp_tx_ts: F2267200
+resp_tx_ts_sec: 10.885422
+resp_tx_ts_nanosec: 10885421995
+tag id: 'B L'
+
+Transmission # : 120
+resp_tx_ts: 5154D800
+resp_tx_ts_sec: 10.977630
+resp_tx_ts_nanosec: 10977629583
+tag id: 'B L'
+
+Transmission # : 121
+resp_tx_ts: B0A92400
+resp_tx_ts_sec: 11.069876
+resp_tx_ts_nanosec: 11069876041
+tag id: 'B L'
+
+Transmission # : 122
+resp_tx_ts: FB47C00
+resp_tx_ts_sec: 11.162048
+resp_tx_ts_nanosec: 11162047676
+tag id: 'B L'
+
+Transmission # : 123
+resp_tx_ts: 6EE0F600
+resp_tx_ts_sec: 11.254254
+resp_tx_ts_nanosec: 11254253293
+tag id: 'B L'
+
+Transmission # : 124
+resp_tx_ts: CE0DD200
+resp_tx_ts_sec: 11.346460
+resp_tx_ts_nanosec: 11346459302
+tag id: 'B L'
+
+Transmission # : 125
+resp_tx_ts: 2D383C00
+resp_tx_ts_sec: 11.438663
+resp_tx_ts_nanosec: 11438662804
+tag id: 'B L'
+
+Transmission # : 126
+resp_tx_ts: 8C60EC00
+resp_tx_ts_sec: 11.530865
+resp_tx_ts_nanosec: 11530864535
+tag id: 'B L'
+
+Transmission # : 127
+resp_tx_ts: EB88A000
+resp_tx_ts_sec: 11.623065
+resp_tx_ts_nanosec: 11623065256
+tag id: 'B L'
+
+Transmission # : 128
+resp_tx_ts: 4AB10600
+resp_tx_ts_sec: 11.715267
+resp_tx_ts_nanosec: 11715266690
+tag id: 'B L'
+
+Transmission # : 129
+resp_tx_ts: A9D99C00
+resp_tx_ts_sec: 11.807469
+resp_tx_ts_nanosec: 11807468317
+tag id: 'B L'
+
+Transmission # : 130
+resp_tx_ts: 902C000
+resp_tx_ts_sec: 11.899671
+resp_tx_ts_nanosec: 11899670512
+tag id: 'B L'
+
+Transmission # : 131
+resp_tx_ts: 682CAC00
+resp_tx_ts_sec: 11.991874
+resp_tx_ts_nanosec: 11991873509
+tag id: 'B L'
+
+Transmission # : 132
+resp_tx_ts: C7550C00
+resp_tx_ts_sec: 12.084075
+resp_tx_ts_nanosec: 12084074919
+tag id: 'B L'
+
+Transmission # : 133
+resp_tx_ts: 267FE200
+resp_tx_ts_sec: 12.176280
+resp_tx_ts_nanosec: 12176278854
+tag id: 'B L'
+
+Transmission # : 134
+resp_tx_ts: 85A63600
+resp_tx_ts_sec: 12.268479
+resp_tx_ts_nanosec: 12268478165
+tag id: 'B L'
+
+Transmission # : 135
+resp_tx_ts: E4CBE200
+resp_tx_ts_sec: 12.360677
+resp_tx_ts_nanosec: 12360676802
+tag id: 'B L'
+
+Transmission # : 136
+resp_tx_ts: 43F44800
+resp_tx_ts_sec: 12.452878
+resp_tx_ts_nanosec: 12452878237
+tag id: 'B L'
+
+Transmission # : 137
+resp_tx_ts: A31EE800
+resp_tx_ts_sec: 12.545083
+resp_tx_ts_nanosec: 12545081955
+tag id: 'B L'
+
+Transmission # : 138
+resp_tx_ts: 2486800
+resp_tx_ts_sec: 12.637285
+resp_tx_ts_nanosec: 12637284519
+tag id: 'B L'
+
+Transmission # : 139
+resp_tx_ts: 6172C200
+resp_tx_ts_sec: 12.729489
+resp_tx_ts_nanosec: 12729487956
+tag id: 'B L'
+
+Transmission # : 140
+resp_tx_ts: C09A1800
+resp_tx_ts_sec: 12.821689
+resp_tx_ts_nanosec: 12821688301
+tag id: 'B L'
+
+Transmission # : 141
+resp_tx_ts: 1FE64200
+resp_tx_ts_sec: 12.913927
+resp_tx_ts_nanosec: 12913926418
+tag id: 'B L'
+
+Transmission # : 142
+resp_tx_ts: 7EEB6A00
+resp_tx_ts_sec: 13.006093
+resp_tx_ts_nanosec: 13006091706
+tag id: 'B L'
+
+Transmission # : 143
+resp_tx_ts: DE164C00
+resp_tx_ts_sec: 13.098297
+resp_tx_ts_nanosec: 13098295689
+tag id: 'B L'
+
+Transmission # : 144
+resp_tx_ts: 3D3EF600
+resp_tx_ts_sec: 13.190498
+resp_tx_ts_nanosec: 13190497395
+tag id: 'B L'
+
+Transmission # : 145
+resp_tx_ts: 9C67B800
+resp_tx_ts_sec: 13.282700
+resp_tx_ts_nanosec: 13282699198
+tag id: 'B L'
+
+Transmission # : 146
+resp_tx_ts: FB91CA00
+resp_tx_ts_sec: 13.374903
+resp_tx_ts_nanosec: 13374902347
+tag id: 'B L'
+
+Transmission # : 147
+resp_tx_ts: 5ABD0C00
+resp_tx_ts_sec: 13.467107
+resp_tx_ts_nanosec: 13467106714
+tag id: 'B L'
+
+Transmission # : 148
+resp_tx_ts: B9E8BE00
+resp_tx_ts_sec: 13.559312
+resp_tx_ts_nanosec: 13559311530
+tag id: 'B L'
+
+Transmission # : 149
+resp_tx_ts: 1914AA00
+resp_tx_ts_sec: 13.651517
+resp_tx_ts_nanosec: 13651516578
+tag id: 'B L'
+
+Transmission # : 150
+resp_tx_ts: 783E5C00
+resp_tx_ts_sec: 13.743720
+resp_tx_ts_nanosec: 13743719342
+tag id: 'B L'
+
+Transmission # : 151
+resp_tx_ts: D76AFA00
+resp_tx_ts_sec: 13.835926
+resp_tx_ts_nanosec: 13835925104
+tag id: 'B L'
+
+Transmission # : 152
+resp_tx_ts: 36973200
+resp_tx_ts_sec: 13.928131
+resp_tx_ts_nanosec: 13928130456
+tag id: 'B L'
+
+Transmission # : 153
+resp_tx_ts: 95C3E000
+resp_tx_ts_sec: 14.020337
+resp_tx_ts_nanosec: 14020336282
+tag id: 'B L'
+
+Transmission # : 154
+resp_tx_ts: F4EEF200
+resp_tx_ts_sec: 14.112541
+resp_tx_ts_nanosec: 14112540456
+tag id: 'B L'
+
+Transmission # : 155
+resp_tx_ts: 541C3200
+resp_tx_ts_sec: 14.204748
+resp_tx_ts_nanosec: 14204746866
+tag id: 'B L'
+
+Transmission # : 156
+resp_tx_ts: B34B9E00
+resp_tx_ts_sec: 14.296956
+resp_tx_ts_nanosec: 14296955504
+tag id: 'B L'
+
+Transmission # : 157
+resp_tx_ts: 127A9C00
+resp_tx_ts_sec: 14.389164
+resp_tx_ts_nanosec: 14389163701
+tag id: 'B L'
+
+Transmission # : 158
+resp_tx_ts: 71A8E400
+resp_tx_ts_sec: 14.481371
+resp_tx_ts_nanosec: 14481371169
+tag id: 'B L'
+
+Transmission # : 159
+resp_tx_ts: D0D6E000
+resp_tx_ts_sec: 14.573578
+resp_tx_ts_nanosec: 14573578333
+tag id: 'B L'
+
+Transmission # : 160
+resp_tx_ts: 3003A200
+resp_tx_ts_sec: 14.665784
+resp_tx_ts_nanosec: 14665784238
+tag id: 'B L'
+
+Transmission # : 161
+resp_tx_ts: 8F561E00
+resp_tx_ts_sec: 14.758029
+resp_tx_ts_nanosec: 14758028838
+tag id: 'B L'
+
+Transmission # : 162
+resp_tx_ts: EE5CEA00
+resp_tx_ts_sec: 14.850196
+resp_tx_ts_nanosec: 14850195809
+tag id: 'B L'
+
+Transmission # : 163
+resp_tx_ts: 4D8AF800
+resp_tx_ts_sec: 14.942403
+resp_tx_ts_nanosec: 14942403044
+tag id: 'B L'
+
+Transmission # : 164
+resp_tx_ts: ACB61A00
+resp_tx_ts_sec: 15.034607
+resp_tx_ts_nanosec: 15034607283
+tag id: 'B L'
+
+Transmission # : 165
+resp_tx_ts: BDF5000
+resp_tx_ts_sec: 15.126810
+resp_tx_ts_nanosec: 15126809551
+tag id: 'B L'
+
+Transmission # : 166
+resp_tx_ts: 6B097200
+resp_tx_ts_sec: 15.219014
+resp_tx_ts_nanosec: 15219012764
+tag id: 'B L'
+
+Transmission # : 167
+resp_tx_ts: CA382000
+resp_tx_ts_sec: 15.311221
+resp_tx_ts_nanosec: 15311220641
+tag id: 'B L'
+
+Transmission # : 168
+resp_tx_ts: 29656400
+resp_tx_ts_sec: 15.403428
+resp_tx_ts_nanosec: 15403427067
+tag id: 'B L'
+
+Transmission # : 169
+resp_tx_ts: 88928800
+resp_tx_ts_sec: 15.495634
+resp_tx_ts_nanosec: 15495633365
+tag id: 'B L'
+
+Transmission # : 170
+resp_tx_ts: E7BD5800
+resp_tx_ts_sec: 15.587838
+resp_tx_ts_nanosec: 15587837275
+tag id: 'B L'
+
+Transmission # : 171
+resp_tx_ts: 46EF0A00
+resp_tx_ts_sec: 15.680048
+resp_tx_ts_nanosec: 15680048245
+tag id: 'B L'
+
+Transmission # : 172
+resp_tx_ts: A61E4200
+resp_tx_ts_sec: 15.772257
+resp_tx_ts_nanosec: 15772256674
+tag id: 'B L'
+
+Transmission # : 173
+resp_tx_ts: 54A2200
+resp_tx_ts_sec: 15.864462
+resp_tx_ts_nanosec: 15864461674
+tag id: 'B L'
+
+Transmission # : 174
+resp_tx_ts: 64763A00
+resp_tx_ts_sec: 15.956667
+resp_tx_ts_nanosec: 15956666899
+tag id: 'B L'
+
+Transmission # : 175
+resp_tx_ts: C3A3E000
+resp_tx_ts_sec: 16.048873
+resp_tx_ts_nanosec: 16048873717
+tag id: 'B L'
+
+Transmission # : 176
+resp_tx_ts: 22CEF600
+resp_tx_ts_sec: 16.141077
+resp_tx_ts_nanosec: 16141077908
+tag id: 'B L'
+
+Transmission # : 177
+resp_tx_ts: 81F81A00
+resp_tx_ts_sec: 16.233280
+resp_tx_ts_nanosec: 16233280104
+tag id: 'B L'
+
+Transmission # : 178
+resp_tx_ts: E122E000
+resp_tx_ts_sec: 16.325483
+resp_tx_ts_nanosec: 16325483974
+tag id: 'B L'
+
+Transmission # : 179
+resp_tx_ts: 404FB400
+resp_tx_ts_sec: 16.417690
+resp_tx_ts_nanosec: 16417689951
+tag id: 'B L'
+
+Transmission # : 180
+resp_tx_ts: 9F796400
+resp_tx_ts_sec: 16.509893
+resp_tx_ts_nanosec: 16509892708
+tag id: 'B L'
+
+Transmission # : 181
+resp_tx_ts: FECBA200
+resp_tx_ts_sec: 16.602136
+resp_tx_ts_nanosec: 16602137059
+tag id: 'B L'
+
+Transmission # : 182
+resp_tx_ts: 5DD65400
+resp_tx_ts_sec: 16.694307
+resp_tx_ts_nanosec: 16694308028
+tag id: 'B L'
+
+Transmission # : 183
+resp_tx_ts: BD090600
+resp_tx_ts_sec: 16.786520
+resp_tx_ts_nanosec: 16786520024
+tag id: 'B L'
+
+Transmission # : 184
+resp_tx_ts: 1C3C7200
+resp_tx_ts_sec: 16.878732
+resp_tx_ts_nanosec: 16878732764
+tag id: 'B L'
+
+Transmission # : 185
+resp_tx_ts: 7B6DC800
+resp_tx_ts_sec: 16.970943
+resp_tx_ts_nanosec: 16970943365
+tag id: 'B L'
+
+Transmission # : 186
+resp_tx_ts: DAA08800
+resp_tx_ts_sec: 17.063156
+resp_tx_ts_nanosec: 17063155416
+tag id: 'B L'
+
+Transmission # : 187
+resp_tx_ts: 39D25400
+resp_tx_ts_sec: 17.155366
+resp_tx_ts_nanosec: 17155366490
+tag id: 'B L'
+
+Transmission # : 188
+resp_tx_ts: 99020600
+resp_tx_ts_sec: 0.040174
+resp_tx_ts_nanosec: 40174383
+tag id: 'B L'
+
+Transmission # : 189
+resp_tx_ts: F82F4800
+resp_tx_ts_sec: 0.132381
+resp_tx_ts_nanosec: 132380801
+tag id: 'B L'
+
+Transmission # : 190
+resp_tx_ts: 57603600
+resp_tx_ts_sec: 0.224591
+resp_tx_ts_nanosec: 224590985
+tag id: 'B L'
+
+Transmission # : 191
+resp_tx_ts: B6907C00
+resp_tx_ts_sec: 0.316801
+resp_tx_ts_nanosec: 316800496
+tag id: 'B L'
+
+Transmission # : 192
+resp_tx_ts: 15BE7000
+resp_tx_ts_sec: 0.409008
+resp_tx_ts_nanosec: 409007628
+tag id: 'B L'
+
+Transmission # : 193
+resp_tx_ts: 74EBD000
+resp_tx_ts_sec: 0.501214
+resp_tx_ts_nanosec: 501214166
+tag id: 'B L'
+
+Transmission # : 194
+resp_tx_ts: D41BB600
+resp_tx_ts_sec: 0.593423
+resp_tx_ts_nanosec: 593423293
+tag id: 'B L'
+
+Transmission # : 195
+resp_tx_ts: 334BAE00
+resp_tx_ts_sec: 0.685632
+resp_tx_ts_nanosec: 685632491
+tag id: 'B L'
+
+Transmission # : 196
+resp_tx_ts: 927A4000
+resp_tx_ts_sec: 0.777840
+resp_tx_ts_nanosec: 777840256
+tag id: 'B L'
+
+Transmission # : 197
+resp_tx_ts: F1A8B400
+resp_tx_ts_sec: 0.870048
+resp_tx_ts_nanosec: 870047900
+tag id: 'B L'
+
+Transmission # : 198
+resp_tx_ts: 50D76000
+resp_tx_ts_sec: 0.962256
+resp_tx_ts_nanosec: 962255769
+tag id: 'B L'
+
+Transmission # : 199
+resp_tx_ts: B0077000
+resp_tx_ts_sec: 1.054465
+resp_tx_ts_nanosec: 1054465064
+tag id: 'B L'
+
+Transmission # : 200
+resp_tx_ts: F372C00
+resp_tx_ts_sec: 1.146674
+resp_tx_ts_nanosec: 1146674022
+tag id: 'B L'
+
+Transmission # : 201
+resp_tx_ts: 6E8C1000
+resp_tx_ts_sec: 1.238921
+resp_tx_ts_nanosec: 1238921089
+tag id: 'B L'
+
+Transmission # : 202
+resp_tx_ts: CD982400
+resp_tx_ts_sec: 1.331093
+resp_tx_ts_nanosec: 1331093477
+tag id: 'B L'
+
+Transmission # : 203
+resp_tx_ts: 2CC39200
+resp_tx_ts_sec: 1.423298
+resp_tx_ts_nanosec: 1423298020
+tag id: 'B L'
+
+Transmission # : 204
+resp_tx_ts: 8BF1E000
+resp_tx_ts_sec: 1.515506
+resp_tx_ts_nanosec: 1515505512
+tag id: 'B L'
+
+Transmission # : 205
+resp_tx_ts: EB1FD400
+resp_tx_ts_sec: 1.607713
+resp_tx_ts_nanosec: 1607712644
+tag id: 'B L'
+
+Transmission # : 206
+resp_tx_ts: 4A4D6400
+resp_tx_ts_sec: 1.699919
+resp_tx_ts_nanosec: 1699919375
+tag id: 'B L'
+
+Transmission # : 207
+resp_tx_ts: A97E2600
+resp_tx_ts_sec: 1.792129
+resp_tx_ts_nanosec: 1792129383
+tag id: 'B L'
+
+Transmission # : 208
+resp_tx_ts: 8AE2800
+resp_tx_ts_sec: 1.884339
+resp_tx_ts_nanosec: 1884338621
+tag id: 'B L'
+
+Transmission # : 209
+resp_tx_ts: 67DCA200
+resp_tx_ts_sec: 1.976546
+resp_tx_ts_nanosec: 1976546290
+tag id: 'B L'
+
+Transmission # : 210
+resp_tx_ts: C70A3800
+resp_tx_ts_sec: 2.068753
+resp_tx_ts_nanosec: 2068753044
+tag id: 'B L'
+
+Transmission # : 211
+resp_tx_ts: 26373A00
+resp_tx_ts_sec: 2.160959
+resp_tx_ts_nanosec: 2160959206
+tag id: 'B L'
+
+Transmission # : 212
+resp_tx_ts: 85624400
+resp_tx_ts_sec: 2.253163
+resp_tx_ts_nanosec: 2253163349
+tag id: 'B L'
+
+Transmission # : 213
+resp_tx_ts: E48E1200
+resp_tx_ts_sec: 2.345368
+resp_tx_ts_nanosec: 2345368277
+tag id: 'B L'
+
+Transmission # : 214
+resp_tx_ts: 43BB2000
+resp_tx_ts_sec: 2.437574
+resp_tx_ts_nanosec: 2437574487
+tag id: 'B L'
+
+Transmission # : 215
+resp_tx_ts: A2E75000
+resp_tx_ts_sec: 2.529780
+resp_tx_ts_nanosec: 2529779807
+tag id: 'B L'
+
+Transmission # : 216
+resp_tx_ts: 211DA00
+resp_tx_ts_sec: 2.621984
+resp_tx_ts_nanosec: 2621983437
+tag id: 'B L'
+
+Transmission # : 217
+resp_tx_ts: 613BD200
+resp_tx_ts_sec: 2.714186
+resp_tx_ts_nanosec: 2714186482
+tag id: 'B L'
+
+Transmission # : 218
+resp_tx_ts: C0691000
+resp_tx_ts_sec: 2.806393
+resp_tx_ts_nanosec: 2806392884
+tag id: 'B L'
+
+Transmission # : 219
+resp_tx_ts: 1F959000
+resp_tx_ts_sec: 2.898598
+resp_tx_ts_nanosec: 2898598525
+tag id: 'B L'
+
+Transmission # : 220
+resp_tx_ts: 7EC0A400
+resp_tx_ts_sec: 2.990803
+resp_tx_ts_nanosec: 2990802708
+tag id: 'B L'
+
+Transmission # : 221
+resp_tx_ts: DE112800
+resp_tx_ts_sec: 3.083045
+resp_tx_ts_nanosec: 3083045288
+tag id: 'B L'
+
+Transmission # : 222
+resp_tx_ts: 3D1ABA00
+resp_tx_ts_sec: 3.175215
+resp_tx_ts_nanosec: 3175215104
+tag id: 'B L'
+
+Transmission # : 223
+resp_tx_ts: 9C487600
+resp_tx_ts_sec: 3.267422
+resp_tx_ts_nanosec: 3267422011
+tag id: 'B L'
+
+Transmission # : 224
+resp_tx_ts: FB777E00
+resp_tx_ts_sec: 3.359630
+resp_tx_ts_nanosec: 3359630248
+tag id: 'B L'
+
+Transmission # : 225
+resp_tx_ts: 5AA59A00
+resp_tx_ts_sec: 3.451838
+resp_tx_ts_nanosec: 3451837540
+tag id: 'B L'
+
+Transmission # : 226
+resp_tx_ts: B9D72200
+resp_tx_ts_sec: 3.544048
+resp_tx_ts_nanosec: 3544048341
+tag id: 'B L'
+
+Transmission # : 227
+resp_tx_ts: 1904C000
+resp_tx_ts_sec: 3.636255
+resp_tx_ts_nanosec: 3636255128
+tag id: 'B L'
+
+Transmission # : 228
+resp_tx_ts: 782F5A00
+resp_tx_ts_sec: 3.728459
+resp_tx_ts_nanosec: 3728458822
+tag id: 'B L'
+
+Transmission # : 229
+resp_tx_ts: D75C0800
+resp_tx_ts_sec: 3.820665
+resp_tx_ts_nanosec: 3820664647
+tag id: 'B L'
+
+Transmission # : 230
+resp_tx_ts: 368C6000
+resp_tx_ts_sec: 3.912874
+resp_tx_ts_nanosec: 3912874230
+tag id: 'B L'
+
+Transmission # : 231
+resp_tx_ts: 95B82A00
+resp_tx_ts_sec: 4.005079
+resp_tx_ts_nanosec: 4005079142
+tag id: 'B L'
+
+Transmission # : 232
+resp_tx_ts: F4E51A00
+resp_tx_ts_sec: 4.097285
+resp_tx_ts_nanosec: 4097285232
+tag id: 'B L'
+
+Transmission # : 233
+resp_tx_ts: 5412C800
+resp_tx_ts_sec: 4.189492
+resp_tx_ts_nanosec: 4189492083
+tag id: 'B L'
+
+Transmission # : 234
+resp_tx_ts: B3401400
+resp_tx_ts_sec: 4.281699
+resp_tx_ts_nanosec: 4281698541
+tag id: 'B L'
+
+Transmission # : 235
+resp_tx_ts: 126AB400
+resp_tx_ts_sec: 4.373902
+resp_tx_ts_nanosec: 4373902259
+tag id: 'B L'
+
+Transmission # : 236
+resp_tx_ts: 7196C800
+resp_tx_ts_sec: 4.466107
+resp_tx_ts_nanosec: 4466107467
+tag id: 'B L'
+
+Transmission # : 237
+resp_tx_ts: D0C40400
+resp_tx_ts_sec: 4.558314
+resp_tx_ts_nanosec: 4558313862
+tag id: 'B L'
+
+Transmission # : 238
+resp_tx_ts: 2FF47000
+resp_tx_ts_sec: 4.650524
+resp_tx_ts_nanosec: 4650523525
+tag id: 'B L'
+
+Transmission # : 239
+resp_tx_ts: 8F203A00
+resp_tx_ts_sec: 4.742728
+resp_tx_ts_nanosec: 4742728437
+tag id: 'B L'
+
+Transmission # : 240
+resp_tx_ts: EE4BE000
+resp_tx_ts_sec: 4.834933
+resp_tx_ts_nanosec: 4834933205
+tag id: 'B L'
+
+Transmission # : 241
+resp_tx_ts: 4D9D5200
+resp_tx_ts_sec: 4.927177
+resp_tx_ts_nanosec: 4927176738
+tag id: 'B L'
+
+Transmission # : 242
+resp_tx_ts: ACA48400
+resp_tx_ts_sec: 5.019344
+resp_tx_ts_nanosec: 5019344118
+tag id: 'B L'
+
+Transmission # : 243
+resp_tx_ts: BCEDC00
+resp_tx_ts_sec: 5.111547
+resp_tx_ts_nanosec: 5111547548
+tag id: 'B L'
+
+Transmission # : 244
+resp_tx_ts: 6AFC0E00
+resp_tx_ts_sec: 5.203754
+resp_tx_ts_nanosec: 5203753902
+tag id: 'B L'
+
+Transmission # : 245
+resp_tx_ts: CA281200
+resp_tx_ts_sec: 5.295959
+resp_tx_ts_nanosec: 5295959046
+tag id: 'B L'
+
+Transmission # : 246
+resp_tx_ts: 29540800
+resp_tx_ts_sec: 5.388164
+resp_tx_ts_nanosec: 5388164134
+tag id: 'B L'
+
+Transmission # : 247
+resp_tx_ts: 88818C00
+resp_tx_ts_sec: 5.480371
+resp_tx_ts_nanosec: 5480370817
+tag id: 'B L'
+
+Transmission # : 248
+resp_tx_ts: E7AE3A00
+resp_tx_ts_sec: 5.572577
+resp_tx_ts_nanosec: 5572576642
+tag id: 'B L'
+
+Transmission # : 249
+resp_tx_ts: 46DB5800
+resp_tx_ts_sec: 5.664783
+resp_tx_ts_nanosec: 5664782916
+tag id: 'B L'
+
+Transmission # : 250
+resp_tx_ts: A606EC00
+resp_tx_ts_sec: 5.756988
+resp_tx_ts_nanosec: 5756987612
+tag id: 'B L'
+
+Transmission # : 251
+resp_tx_ts: 532B600
+resp_tx_ts_sec: 5.849193
+resp_tx_ts_nanosec: 5849192524
+tag id: 'B L'
+
+Transmission # : 252
+resp_tx_ts: 645CE000
+resp_tx_ts_sec: 5.941396
+resp_tx_ts_nanosec: 5941395769
+tag id: 'B L'
+
+Transmission # : 253
+resp_tx_ts: C3876E00
+resp_tx_ts_sec: 6.033599
+resp_tx_ts_nanosec: 6033599415
+tag id: 'B L'
+
+Transmission # : 254
+resp_tx_ts: 22B07600
+resp_tx_ts_sec: 6.125802
+resp_tx_ts_nanosec: 6125801498
+tag id: 'B L'
+
+Transmission # : 255
+resp_tx_ts: 81DAA600
+resp_tx_ts_sec: 6.218005
+resp_tx_ts_nanosec: 6218004767
+tag id: 'B L'
+
+Transmission # : 256
+resp_tx_ts: E1082C00
+resp_tx_ts_sec: 6.310212
+resp_tx_ts_nanosec: 6310211458
+tag id: 'B L'
+
+Transmission # : 257
+resp_tx_ts: 40364000
+resp_tx_ts_sec: 6.402419
+resp_tx_ts_nanosec: 6402418717
+tag id: 'B L'
+
+Transmission # : 258
+resp_tx_ts: 9F635C00
+resp_tx_ts_sec: 6.494625
+resp_tx_ts_nanosec: 6494624983
+tag id: 'B L'
+
+Transmission # : 259
+resp_tx_ts: FE901800
+resp_tx_ts_sec: 6.586831
+resp_tx_ts_nanosec: 6586830865
+tag id: 'B L'
+
+Transmission # : 260
+resp_tx_ts: 5DBD7A00
+resp_tx_ts_sec: 6.679038
+resp_tx_ts_nanosec: 6679037411
+tag id: 'B L'
+
+Transmission # : 261
+resp_tx_ts: BD0F1800
+resp_tx_ts_sec: 6.771281
+resp_tx_ts_nanosec: 6771281121
+tag id: 'B L'
+
+Transmission # : 262
+resp_tx_ts: 1C181200
+resp_tx_ts_sec: 6.863451
+resp_tx_ts_nanosec: 6863450328
+tag id: 'B L'
+
+Transmission # : 263
+resp_tx_ts: 7B468800
+resp_tx_ts_sec: 6.955658
+resp_tx_ts_nanosec: 6955657980
+tag id: 'B L'
+
+Transmission # : 264
+resp_tx_ts: DA732C00
+resp_tx_ts_sec: 7.047864
+resp_tx_ts_nanosec: 7047863766
+tag id: 'B L'
+
+Transmission # : 265
+resp_tx_ts: 39A21200
+resp_tx_ts_sec: 7.140072
+resp_tx_ts_nanosec: 7140071866
+tag id: 'B L'
+
+Transmission # : 266
+resp_tx_ts: 98D1C000
+resp_tx_ts_sec: 7.232281
+resp_tx_ts_nanosec: 7232280769
+tag id: 'B L'
+
+Transmission # : 267
+resp_tx_ts: F7FC7200
+resp_tx_ts_sec: 7.324484
+resp_tx_ts_nanosec: 7324484559
+tag id: 'B L'
+
+Transmission # : 268
+resp_tx_ts: 572A2400
+resp_tx_ts_sec: 7.416691
+resp_tx_ts_nanosec: 7416691426
+tag id: 'B L'
+
+Transmission # : 269
+resp_tx_ts: B658A000
+resp_tx_ts_sec: 7.508899
+resp_tx_ts_nanosec: 7508899102
+tag id: 'B L'
+
+Transmission # : 270
+resp_tx_ts: 15872800
+resp_tx_ts_sec: 7.601107
+resp_tx_ts_nanosec: 7601106826
+tag id: 'B L'
+
+Transmission # : 271
+resp_tx_ts: 74B6E600
+resp_tx_ts_sec: 7.693316
+resp_tx_ts_nanosec: 7693315793
+tag id: 'B L'
+
+Transmission # : 272
+resp_tx_ts: D3E58600
+resp_tx_ts_sec: 7.785523
+resp_tx_ts_nanosec: 7785523613
+tag id: 'B L'
+
+Transmission # : 273
+resp_tx_ts: 33136E00
+resp_tx_ts_sec: 7.877731
+resp_tx_ts_nanosec: 7877730697
+tag id: 'B L'
+
+Transmission # : 274
+resp_tx_ts: 92404C00
+resp_tx_ts_sec: 7.969937
+resp_tx_ts_nanosec: 7969936714
+tag id: 'B L'
+
+Transmission # : 275
+resp_tx_ts: F16DFC00
+resp_tx_ts_sec: 8.062144
+resp_tx_ts_nanosec: 8062143573
+tag id: 'B L'
+
+Transmission # : 276
+resp_tx_ts: 509DEE00
+resp_tx_ts_sec: 8.154354
+resp_tx_ts_nanosec: 8154352748
+tag id: 'B L'
+
+Transmission # : 277
+resp_tx_ts: AFCBB800
+resp_tx_ts_sec: 8.246561
+resp_tx_ts_nanosec: 8246559711
+tag id: 'B L'
+
+Transmission # : 278
+resp_tx_ts: EF81200
+resp_tx_ts_sec: 8.338766
+resp_tx_ts_nanosec: 8338765200
+tag id: 'B L'
+
+Transmission # : 279
+resp_tx_ts: 6E272800
+resp_tx_ts_sec: 8.430974
+resp_tx_ts_nanosec: 8430973493
+tag id: 'B L'
+
+Transmission # : 280
+resp_tx_ts: CD57B600
+resp_tx_ts_sec: 8.523183
+resp_tx_ts_nanosec: 8523183293
+tag id: 'B L'
+
+Transmission # : 281
+resp_tx_ts: 2CA7FA00
+resp_tx_ts_sec: 8.615427
+resp_tx_ts_nanosec: 8615425616
+tag id: 'B L'
+
+Transmission # : 282
+resp_tx_ts: 8BB02400
+resp_tx_ts_sec: 8.707594
+resp_tx_ts_nanosec: 8707593990
+tag id: 'B L'
+
+Transmission # : 283
+resp_tx_ts: EADBB400
+resp_tx_ts_sec: 8.799799
+resp_tx_ts_nanosec: 8799798669
+tag id: 'B L'
+
+Transmission # : 284
+resp_tx_ts: 4A09A000
+resp_tx_ts_sec: 8.892006
+resp_tx_ts_nanosec: 8892005769
+tag id: 'B L'
+
+Transmission # : 285
+resp_tx_ts: A9346A00
+resp_tx_ts_sec: 8.984210
+resp_tx_ts_nanosec: 8984209655
+tag id: 'B L'
+
+Transmission # : 286
+resp_tx_ts: 8603000
+resp_tx_ts_sec: 9.076415
+resp_tx_ts_nanosec: 9076414551
+tag id: 'B L'
+
+Transmission # : 287
+resp_tx_ts: 678C3600
+resp_tx_ts_sec: 9.168621
+resp_tx_ts_nanosec: 9168619703
+tag id: 'B L'
+
+Transmission # : 288
+resp_tx_ts: C6BC7600
+resp_tx_ts_sec: 9.260829
+resp_tx_ts_nanosec: 9260829190
+tag id: 'B L'
+
+Transmission # : 289
+resp_tx_ts: 25EA2400
+resp_tx_ts_sec: 9.353036
+resp_tx_ts_nanosec: 9353036041
+tag id: 'B L'
+
+Transmission # : 290
+resp_tx_ts: 85197600
+resp_tx_ts_sec: 9.445245
+resp_tx_ts_nanosec: 9445244575
+tag id: 'B L'
+
+Transmission # : 291
+resp_tx_ts: E4459800
+resp_tx_ts_sec: 9.537450
+resp_tx_ts_nanosec: 9537449839
+tag id: 'B L'
+
+Transmission # : 292
+resp_tx_ts: 436F3000
+resp_tx_ts_sec: 9.629653
+resp_tx_ts_nanosec: 9629652500
+tag id: 'B L'
+
+Transmission # : 293
+resp_tx_ts: A29A1200
+resp_tx_ts_sec: 9.721857
+resp_tx_ts_nanosec: 9721856482
+tag id: 'B L'
+
+Transmission # : 294
+resp_tx_ts: 1C67400
+resp_tx_ts_sec: 9.814063
+resp_tx_ts_nanosec: 9814062003
+tag id: 'B L'
+
+Transmission # : 295
+resp_tx_ts: 60F61800
+resp_tx_ts_sec: 9.906271
+resp_tx_ts_nanosec: 9906270865
+tag id: 'B L'
+
+Transmission # : 296
+resp_tx_ts: C024E000
+resp_tx_ts_sec: 9.998479
+resp_tx_ts_nanosec: 9998478846
+tag id: 'B L'
+
+Transmission # : 297
+resp_tx_ts: 1F53C400
+resp_tx_ts_sec: 10.090687
+resp_tx_ts_nanosec: 10090686939
+tag id: 'B L'
+
+Transmission # : 298
+resp_tx_ts: 7E83E000
+resp_tx_ts_sec: 10.182897
+resp_tx_ts_nanosec: 10182896282
+tag id: 'B L'
+
+Transmission # : 299
+resp_tx_ts: DDB40A00
+resp_tx_ts_sec: 10.275106
+resp_tx_ts_nanosec: 10275105681
+tag id: 'B L'
+
+Transmission # : 300
+resp_tx_ts: 3CE48C00
+resp_tx_ts_sec: 10.367316
+resp_tx_ts_nanosec: 10367315432
+tag id: 'B L'
+
+Transmission # : 301
+resp_tx_ts: 9C3A8E00
+resp_tx_ts_sec: 10.459564
+resp_tx_ts_nanosec: 10459563645
+tag id: 'B L'
+
+Transmission # : 302
+resp_tx_ts: FB482C00
+resp_tx_ts_sec: 10.551738
+resp_tx_ts_nanosec: 10551737612
+tag id: 'B L'
+
+Transmission # : 303
+resp_tx_ts: 5A79B400
+resp_tx_ts_sec: 10.643949
+resp_tx_ts_nanosec: 10643948413
+tag id: 'B L'
+
+Transmission # : 304
+resp_tx_ts: B9AA6800
+resp_tx_ts_sec: 10.736159
+resp_tx_ts_nanosec: 10736158365
+tag id: 'B L'
+
+Transmission # : 305
+resp_tx_ts: 18DB6400
+resp_tx_ts_sec: 10.828369
+resp_tx_ts_nanosec: 10828368605
+tag id: 'B L'
+
+Transmission # : 306
+resp_tx_ts: 780B6800
+resp_tx_ts_sec: 10.920578
+resp_tx_ts_nanosec: 10920577852
+tag id: 'B L'
+
+Transmission # : 307
+resp_tx_ts: D73D3800
+resp_tx_ts_sec: 11.012789
+resp_tx_ts_nanosec: 11012788942
+tag id: 'B L'
+
+Transmission # : 308
+resp_tx_ts: 366E1A00
+resp_tx_ts_sec: 11.105000
+resp_tx_ts_nanosec: 11104999078
+tag id: 'B L'
+
+Transmission # : 309
+resp_tx_ts: 959AE800
+resp_tx_ts_sec: 11.197205
+resp_tx_ts_nanosec: 11197205032
+tag id: 'B L'
+
+Transmission # : 310
+resp_tx_ts: F4CA1000
+resp_tx_ts_sec: 11.289414
+resp_tx_ts_nanosec: 11289413397
+tag id: 'B L'
+
+Transmission # : 311
+resp_tx_ts: 53FA0600
+resp_tx_ts_sec: 11.381623
+resp_tx_ts_nanosec: 11381622588
+tag id: 'B L'
+
+Transmission # : 312
+resp_tx_ts: B3275C00
+resp_tx_ts_sec: 11.473830
+resp_tx_ts_nanosec: 11473829086
+tag id: 'B L'
+
+Transmission # : 313
+resp_tx_ts: 12538600
+resp_tx_ts_sec: 11.566035
+resp_tx_ts_nanosec: 11566034383
+tag id: 'B L'
+
+Transmission # : 314
+resp_tx_ts: 71845C00
+resp_tx_ts_sec: 11.658245
+resp_tx_ts_nanosec: 11658244471
+tag id: 'B L'
+
+Transmission # : 315
+resp_tx_ts: D0B28000
+resp_tx_ts_sec: 11.750453
+resp_tx_ts_nanosec: 11750451794
+tag id: 'B L'
+
+Transmission # : 316
+resp_tx_ts: 2FE06A00
+resp_tx_ts_sec: 11.842659
+resp_tx_ts_nanosec: 11842658886
+tag id: 'B L'
+
+Transmission # : 317
+resp_tx_ts: 8F135A00
+resp_tx_ts_sec: 11.934871
+resp_tx_ts_nanosec: 11934871129
+tag id: 'B L'
+
+Transmission # : 318
+resp_tx_ts: EE435400
+resp_tx_ts_sec: 12.027081
+resp_tx_ts_nanosec: 12027080336
+tag id: 'B L'
+
+Transmission # : 319
+resp_tx_ts: 4D6C8E00
+resp_tx_ts_sec: 12.119283
+resp_tx_ts_nanosec: 12119282620
+tag id: 'B L'
+
+Transmission # : 320
+resp_tx_ts: AC95B200
+resp_tx_ts_sec: 12.211485
+resp_tx_ts_nanosec: 12211484815
+tag id: 'B L'
+
+Transmission # : 321
+resp_tx_ts: BE66A00
+resp_tx_ts_sec: 12.303728
+resp_tx_ts_nanosec: 12303727604
+tag id: 'B L'
+
+Transmission # : 322
+resp_tx_ts: 6AEED800
+resp_tx_ts_sec: 12.395896
+resp_tx_ts_nanosec: 12395896250
+tag id: 'B L'
+
+Transmission # : 323
+resp_tx_ts: CA18EA00
+resp_tx_ts_sec: 12.488100
+resp_tx_ts_nanosec: 12488099399
+tag id: 'B L'
+
+Transmission # : 324
+resp_tx_ts: 2940C400
+resp_tx_ts_sec: 12.580301
+resp_tx_ts_nanosec: 12580300272
+tag id: 'B L'
+
+Transmission # : 325
+resp_tx_ts: 88683E00
+resp_tx_ts_sec: 12.672501
+resp_tx_ts_nanosec: 12672500761
+tag id: 'B L'
+
+Transmission # : 326
+resp_tx_ts: E7929600
+resp_tx_ts_sec: 12.764704
+resp_tx_ts_nanosec: 12764704190
+tag id: 'B L'
+
+Transmission # : 327
+resp_tx_ts: 46BA5200
+resp_tx_ts_sec: 12.856905
+resp_tx_ts_nanosec: 12856904943
+tag id: 'B L'
+
+Transmission # : 328
+resp_tx_ts: A5E9CC00
+resp_tx_ts_sec: 12.949114
+resp_tx_ts_nanosec: 12949113637
+tag id: 'B L'
+
+Transmission # : 329
+resp_tx_ts: 5170800
+resp_tx_ts_sec: 13.041320
+resp_tx_ts_nanosec: 13041320032
+tag id: 'B L'
+
+Transmission # : 330
+resp_tx_ts: 64431400
+resp_tx_ts_sec: 13.133525
+resp_tx_ts_nanosec: 13133525208
+tag id: 'B L'
+
+Transmission # : 331
+resp_tx_ts: C36F9400
+resp_tx_ts_sec: 13.225731
+resp_tx_ts_nanosec: 13225730849
+tag id: 'B L'
+
+Transmission # : 332
+resp_tx_ts: 22991800
+resp_tx_ts_sec: 13.317934
+resp_tx_ts_nanosec: 13317933429
+tag id: 'B L'
+
+Transmission # : 333
+resp_tx_ts: 81C1DC00
+resp_tx_ts_sec: 13.410136
+resp_tx_ts_nanosec: 13410135240
+tag id: 'B L'
+
+Transmission # : 334
+resp_tx_ts: E0EE6A00
+resp_tx_ts_sec: 13.502342
+resp_tx_ts_nanosec: 13502340937
+tag id: 'B L'
+
+Transmission # : 335
+resp_tx_ts: 4017DE00
+resp_tx_ts_sec: 13.594544
+resp_tx_ts_nanosec: 13594543453
+tag id: 'B L'
+
+Transmission # : 336
+resp_tx_ts: 9F463400
+resp_tx_ts_sec: 13.686752
+resp_tx_ts_nanosec: 13686750977
+tag id: 'B L'
+
+Transmission # : 337
+resp_tx_ts: FE6FA200
+resp_tx_ts_sec: 13.778954
+resp_tx_ts_nanosec: 13778953469
+tag id: 'B L'
+
+Transmission # : 338
+resp_tx_ts: 5D99B000
+resp_tx_ts_sec: 13.871157
+resp_tx_ts_nanosec: 13871156602
+tag id: 'B L'
+
+Transmission # : 339
+resp_tx_ts: BCC8EC00
+resp_tx_ts_sec: 13.963365
+resp_tx_ts_nanosec: 13963365048
+tag id: 'B L'
+
+Transmission # : 340
+resp_tx_ts: 1BF9BC00
+resp_tx_ts_sec: 14.055576
+resp_tx_ts_nanosec: 14055575112
+tag id: 'B L'
+
+Transmission # : 341
+resp_tx_ts: 7B4E0A00
+resp_tx_ts_sec: 14.147822
+resp_tx_ts_nanosec: 14147821578
+tag id: 'B L'
+
+Transmission # : 342
+resp_tx_ts: DA598E00
+resp_tx_ts_sec: 14.239994
+resp_tx_ts_nanosec: 14239993389
+tag id: 'B L'
+
+Transmission # : 343
+resp_tx_ts: 39844E00
+resp_tx_ts_sec: 14.332198
+resp_tx_ts_nanosec: 14332197235
+tag id: 'B L'
+
+Transmission # : 344
+resp_tx_ts: 98B04C00
+resp_tx_ts_sec: 14.424403
+resp_tx_ts_nanosec: 14424402355
+tag id: 'B L'
+
+Transmission # : 345
+resp_tx_ts: F7D85C00
+resp_tx_ts_sec: 14.516604
+resp_tx_ts_nanosec: 14516603445
+tag id: 'B L'
+
+Transmission # : 346
+resp_tx_ts: 57033600
+resp_tx_ts_sec: 14.608808
+resp_tx_ts_nanosec: 14608807395
+tag id: 'B L'
+
+Transmission # : 347
+resp_tx_ts: B62FFE00
+resp_tx_ts_sec: 14.701014
+resp_tx_ts_nanosec: 14701013325
+tag id: 'B L'
+
+Transmission # : 348
+resp_tx_ts: 155DD600
+resp_tx_ts_sec: 14.793221
+resp_tx_ts_nanosec: 14793220344
+tag id: 'B L'
+
+Transmission # : 349
+resp_tx_ts: 748BF400
+resp_tx_ts_sec: 14.885428
+resp_tx_ts_nanosec: 14885427644
+tag id: 'B L'
+
+Transmission # : 350
+resp_tx_ts: D3BB3000
+resp_tx_ts_sec: 14.977637
+resp_tx_ts_nanosec: 14977636089
+tag id: 'B L'
+
+Transmission # : 351
+resp_tx_ts: 32EB5400
+resp_tx_ts_sec: 15.069846
+resp_tx_ts_nanosec: 15069845464
+tag id: 'B L'
+
+Transmission # : 352
+resp_tx_ts: 921C6400
+resp_tx_ts_sec: 15.162056
+resp_tx_ts_nanosec: 15162055785
+tag id: 'B L'
+
+Transmission # : 353
+resp_tx_ts: F14F3000
+resp_tx_ts_sec: 15.254268
+resp_tx_ts_nanosec: 15254267884
+tag id: 'B L'
+
+Transmission # : 354
+resp_tx_ts: 507E6800
+resp_tx_ts_sec: 15.346477
+resp_tx_ts_nanosec: 15346476314
+tag id: 'B L'
+
+Transmission # : 355
+resp_tx_ts: AFAF8C00
+resp_tx_ts_sec: 15.438687
+resp_tx_ts_nanosec: 15438686714
+tag id: 'B L'
+
+Transmission # : 356
+resp_tx_ts: EE05200
+resp_tx_ts_sec: 15.530898
+resp_tx_ts_nanosec: 15530896738
+tag id: 'B L'
+
+Transmission # : 357
+resp_tx_ts: 6E0FFA00
+resp_tx_ts_sec: 15.623106
+resp_tx_ts_nanosec: 15623105616
+tag id: 'B L'
+
+Transmission # : 358
+resp_tx_ts: CD3F5000
+resp_tx_ts_sec: 15.715314
+resp_tx_ts_nanosec: 15715314166
+tag id: 'B L'
+
+Transmission # : 359
+resp_tx_ts: 2C6FE800
+resp_tx_ts_sec: 15.807524
+resp_tx_ts_nanosec: 15807524006
+tag id: 'B L'
+
+Transmission # : 360
+resp_tx_ts: 8B9BAA00
+resp_tx_ts_sec: 15.899729
+resp_tx_ts_nanosec: 15899728886
+tag id: 'B L'
+
+Transmission # : 361
+resp_tx_ts: EAEC7C00
+resp_tx_ts_sec: 15.991972
+resp_tx_ts_nanosec: 15991971778
+tag id: 'B L'
+
+Transmission # : 362
+resp_tx_ts: 49F68000
+resp_tx_ts_sec: 16.084142
+resp_tx_ts_nanosec: 16084142051
+tag id: 'B L'
+
+Transmission # : 363
+resp_tx_ts: A9245400
+resp_tx_ts_sec: 16.176349
+resp_tx_ts_nanosec: 16176349054
+tag id: 'B L'
+
+Transmission # : 364
+resp_tx_ts: 8509000
+resp_tx_ts_sec: 16.268554
+resp_tx_ts_nanosec: 16268554423
+tag id: 'B L'
+
+Transmission # : 365
+resp_tx_ts: 677FF800
+resp_tx_ts_sec: 16.360763
+resp_tx_ts_nanosec: 16360763044
+tag id: 'B L'
+
+Transmission # : 366
+resp_tx_ts: C6ADA600
+resp_tx_ts_sec: 16.452970
+resp_tx_ts_nanosec: 16452969895
+tag id: 'B L'
+
+Transmission # : 367
+resp_tx_ts: 25DBDC00
+resp_tx_ts_sec: 16.545177
+resp_tx_ts_nanosec: 16545177291
+tag id: 'B L'
+
+Transmission # : 368
+resp_tx_ts: 85093800
+resp_tx_ts_sec: 16.637384
+resp_tx_ts_nanosec: 16637383814
+tag id: 'B L'
+
+Transmission # : 369
+resp_tx_ts: E4337400
+resp_tx_ts_sec: 16.729587
+resp_tx_ts_nanosec: 16729587131
+tag id: 'B L'
+
+Transmission # : 370
+resp_tx_ts: 435A2E00
+resp_tx_ts_sec: 16.821786
+resp_tx_ts_nanosec: 16821786850
+tag id: 'B L'
+
+Transmission # : 371
+resp_tx_ts: A2857200
+resp_tx_ts_sec: 16.913991
+resp_tx_ts_nanosec: 16913991225
+tag id: 'B L'
+
+Transmission # : 372
+resp_tx_ts: 1AFC400
+resp_tx_ts_sec: 17.006195
+resp_tx_ts_nanosec: 17006194631
+tag id: 'B L'
+
+Transmission # : 373
+resp_tx_ts: 60DBA600
+resp_tx_ts_sec: 17.098400
+resp_tx_ts_nanosec: 17098399639
+tag id: 'B L'
+
+Transmission # : 374
+resp_tx_ts: C0084800
+resp_tx_ts_sec: 17.190605
+resp_tx_ts_nanosec: 17190605416
+tag id: 'B L'
+
+Transmission # : 375
+resp_tx_ts: 1F33C200
+resp_tx_ts_sec: 0.075409
+resp_tx_ts_nanosec: 75408982
+tag id: 'B L'
+
+Transmission # : 376
+resp_tx_ts: 7E60A600
+resp_tx_ts_sec: 0.167615
+resp_tx_ts_nanosec: 167615024
+tag id: 'B L'
+
+Transmission # : 377
+resp_tx_ts: DD8EE400
+resp_tx_ts_sec: 0.259822
+resp_tx_ts_nanosec: 259822451
+tag id: 'B L'
+
+Transmission # : 378
+resp_tx_ts: 3CB8C600
+resp_tx_ts_sec: 0.352025
+resp_tx_ts_nanosec: 352025408
+tag id: 'B L'
+
+Transmission # : 379
+resp_tx_ts: 9BDBFE00
+resp_tx_ts_sec: 0.444222
+resp_tx_ts_nanosec: 444221530
+tag id: 'B L'
+
+Transmission # : 380
+resp_tx_ts: FB01DC00
+resp_tx_ts_sec: 0.536420
+resp_tx_ts_nanosec: 536420368
+tag id: 'B L'
+
+Transmission # : 381
+resp_tx_ts: 5A4BDA00
+resp_tx_ts_sec: 0.628656
+resp_tx_ts_nanosec: 628656258
+tag id: 'B L'
+
+Transmission # : 382
+resp_tx_ts: B94FA200
+resp_tx_ts_sec: 0.720820
+resp_tx_ts_nanosec: 720820136
+tag id: 'B L'
+
+Transmission # : 383
+resp_tx_ts: 187B1E00
+resp_tx_ts_sec: 0.813025
+resp_tx_ts_nanosec: 813024735
+tag id: 'B L'
+
+Transmission # : 384
+resp_tx_ts: 77A1BC00
+resp_tx_ts_sec: 0.905224
+resp_tx_ts_nanosec: 905224342
+tag id: 'B L'
+
+Transmission # : 385
+resp_tx_ts: D6C8BE00
+resp_tx_ts_sec: 0.997424
+resp_tx_ts_nanosec: 997424350
+tag id: 'B L'
+
+Transmission # : 386
+resp_tx_ts: 35EE3C00
+resp_tx_ts_sec: 1.089623
+resp_tx_ts_nanosec: 1089622804
+tag id: 'B L'
+
+Transmission # : 387
+resp_tx_ts: 95125200
+resp_tx_ts_sec: 1.181820
+resp_tx_ts_nanosec: 1181819815
+tag id: 'B L'
+
+Transmission # : 388
+resp_tx_ts: F4370800
+resp_tx_ts_sec: 1.274017
+resp_tx_ts_nanosec: 1274017467
+tag id: 'B L'
+
+Transmission # : 389
+resp_tx_ts: 535A2C00
+resp_tx_ts_sec: 1.366214
+resp_tx_ts_nanosec: 1366213509
+tag id: 'B L'
+
+Transmission # : 390
+resp_tx_ts: B27A2800
+resp_tx_ts_sec: 1.458406
+resp_tx_ts_nanosec: 1458406314
+tag id: 'B L'
+
+Transmission # : 391
+resp_tx_ts: 119E2200
+resp_tx_ts_sec: 1.550603
+resp_tx_ts_nanosec: 1550603213
+tag id: 'B L'
+
+Transmission # : 392
+resp_tx_ts: 70C31800
+resp_tx_ts_sec: 1.642801
+resp_tx_ts_nanosec: 1642801121
+tag id: 'B L'
+
+Transmission # : 393
+resp_tx_ts: CFE9D800
+resp_tx_ts_sec: 1.735001
+resp_tx_ts_nanosec: 1735000865
+tag id: 'B L'
+
+Transmission # : 394
+resp_tx_ts: 2F109000
+resp_tx_ts_sec: 1.827201
+resp_tx_ts_nanosec: 1827200576
+tag id: 'B L'
+
+Transmission # : 395
+resp_tx_ts: 8E3E4600
+resp_tx_ts_sec: 1.919407
+resp_tx_ts_nanosec: 1919407459
+tag id: 'B L'
+
+Transmission # : 396
+resp_tx_ts: ED6A3A00
+resp_tx_ts_sec: 2.011613
+resp_tx_ts_nanosec: 2011612540
+tag id: 'B L'
+
+Transmission # : 397
+resp_tx_ts: 4C970800
+resp_tx_ts_sec: 2.103818
+resp_tx_ts_nanosec: 2103818493
+tag id: 'B L'
+
+Transmission # : 398
+resp_tx_ts: ABC4EC00
+resp_tx_ts_sec: 2.196026
+resp_tx_ts_nanosec: 2196025560
+tag id: 'B L'
+
+Transmission # : 399
+resp_tx_ts: AF52C00
+resp_tx_ts_sec: 2.288235
+resp_tx_ts_nanosec: 2288235048
+tag id: 'B L'
+
+Transmission # : 400
+resp_tx_ts: 6A234800
+resp_tx_ts_sec: 2.380442
+resp_tx_ts_nanosec: 2380442339
+tag id: 'B L'
+
+Transmission # : 401
+resp_tx_ts: C9759E00
+resp_tx_ts_sec: 2.472687
+resp_tx_ts_nanosec: 2472686786
+tag id: 'B L'
+
+Transmission # : 402
+resp_tx_ts: 287F2000
+resp_tx_ts_sec: 2.564857
+resp_tx_ts_nanosec: 2564856538
+tag id: 'B L'
+
+Transmission # : 403
+resp_tx_ts: 87AC6E00
+resp_tx_ts_sec: 2.657063
+resp_tx_ts_nanosec: 2657063004
+tag id: 'B L'
+
+Transmission # : 404
+resp_tx_ts: E6DC9C00
+resp_tx_ts_sec: 2.749272
+resp_tx_ts_nanosec: 2749272419
+tag id: 'B L'
+
+Transmission # : 405
+resp_tx_ts: 46090E00
+resp_tx_ts_sec: 2.841478
+resp_tx_ts_nanosec: 2841478004
+tag id: 'B L'
+
+Transmission # : 406
+resp_tx_ts: A53BAC00
+resp_tx_ts_sec: 2.933690
+resp_tx_ts_nanosec: 2933689919
+tag id: 'B L'
+
+Transmission # : 407
+resp_tx_ts: 46F8600
+resp_tx_ts_sec: 3.025903
+resp_tx_ts_nanosec: 3025903100
+tag id: 'B L'
+
+Transmission # : 408
+resp_tx_ts: 639F9E00
+resp_tx_ts_sec: 3.118112
+resp_tx_ts_nanosec: 3118112427
+tag id: 'B L'
+
+Transmission # : 409
+resp_tx_ts: C2CFEE00
+resp_tx_ts_sec: 3.210322
+resp_tx_ts_nanosec: 3210321979
+tag id: 'B L'
+
+Transmission # : 410
+resp_tx_ts: 21FFBC00
+resp_tx_ts_sec: 3.302531
+resp_tx_ts_nanosec: 3302531009
+tag id: 'B L'
+
+Transmission # : 411
+resp_tx_ts: 81310C00
+resp_tx_ts_sec: 3.394742
+resp_tx_ts_nanosec: 3394741586
+tag id: 'B L'
+
+Transmission # : 412
+resp_tx_ts: E0614800
+resp_tx_ts_sec: 3.486951
+resp_tx_ts_nanosec: 3486951057
+tag id: 'B L'
+
+Transmission # : 413
+resp_tx_ts: 3F913000
+resp_tx_ts_sec: 3.579160
+resp_tx_ts_nanosec: 3579160192
+tag id: 'B L'
+
+Transmission # : 414
+resp_tx_ts: 9EBF2000
+resp_tx_ts_sec: 3.671367
+resp_tx_ts_nanosec: 3671367307
+tag id: 'B L'
+
+Transmission # : 415
+resp_tx_ts: FDF0C800
+resp_tx_ts_sec: 3.763578
+resp_tx_ts_nanosec: 3763578237
+tag id: 'B L'
+
+Transmission # : 416
+resp_tx_ts: 5D222200
+resp_tx_ts_sec: 3.855789
+resp_tx_ts_nanosec: 3855788854
+tag id: 'B L'
+
+Transmission # : 417
+resp_tx_ts: BC52BA00
+resp_tx_ts_sec: 3.947999
+resp_tx_ts_nanosec: 3947998693
+tag id: 'B L'
+
+Transmission # : 418
+resp_tx_ts: 1B821E00
+resp_tx_ts_sec: 4.040207
+resp_tx_ts_nanosec: 4040207299
+tag id: 'B L'
+
+Transmission # : 419
+resp_tx_ts: 7AB27A00
+resp_tx_ts_sec: 4.132417
+resp_tx_ts_nanosec: 4132416899
+tag id: 'B L'
+
+Transmission # : 420
+resp_tx_ts: D9E19A00
+resp_tx_ts_sec: 4.224625
+resp_tx_ts_nanosec: 4224625232
+tag id: 'B L'
+
+Transmission # : 421
+resp_tx_ts: 3939FE00
+resp_tx_ts_sec: 4.316876
+resp_tx_ts_nanosec: 4316875889
+tag id: 'B L'
+
+Transmission # : 422
+resp_tx_ts: 98479600
+resp_tx_ts_sec: 4.409050
+resp_tx_ts_nanosec: 4409049831
+tag id: 'B L'
+
+Transmission # : 423
+resp_tx_ts: F778FC00
+resp_tx_ts_sec: 4.501260
+resp_tx_ts_nanosec: 4501260496
+tag id: 'B L'
+
+Transmission # : 424
+resp_tx_ts: 56AC6200
+resp_tx_ts_sec: 4.593473
+resp_tx_ts_nanosec: 4593473213
+tag id: 'B L'
+
+Transmission # : 425
+resp_tx_ts: B5DFA000
+resp_tx_ts_sec: 4.685686
+resp_tx_ts_nanosec: 4685685769
+tag id: 'B L'
+
+Transmission # : 426
+resp_tx_ts: 150EF000
+resp_tx_ts_sec: 4.777895
+resp_tx_ts_nanosec: 4777894294
+tag id: 'B L'
+
+Transmission # : 427
+resp_tx_ts: 743D9E00
+resp_tx_ts_sec: 4.870102
+resp_tx_ts_nanosec: 4870102171
+tag id: 'B L'
+
+Transmission # : 428
+resp_tx_ts: D36D0600
+resp_tx_ts_sec: 4.962311
+resp_tx_ts_nanosec: 4962310793
+tag id: 'B L'
+
+Transmission # : 429
+resp_tx_ts: 32982E00
+resp_tx_ts_sec: 5.054515
+resp_tx_ts_nanosec: 5054515056
+tag id: 'B L'
+
+Transmission # : 430
+resp_tx_ts: 91C56400
+resp_tx_ts_sec: 5.146721
+resp_tx_ts_nanosec: 5146721426
+tag id: 'B L'
+
+Transmission # : 431
+resp_tx_ts: F0F32600
+resp_tx_ts_sec: 5.238928
+resp_tx_ts_nanosec: 5238928357
+tag id: 'B L'
+
+Transmission # : 432
+resp_tx_ts: 50244400
+resp_tx_ts_sec: 5.331139
+resp_tx_ts_nanosec: 5331138733
+tag id: 'B L'
+
+Transmission # : 433
+resp_tx_ts: AF51BE00
+resp_tx_ts_sec: 5.423346
+resp_tx_ts_nanosec: 5423345376
+tag id: 'B L'
+
+Transmission # : 434
+resp_tx_ts: E7CEA00
+resp_tx_ts_sec: 5.515550
+resp_tx_ts_nanosec: 5515549655
+tag id: 'B L'
+
+Transmission # : 435
+resp_tx_ts: 6DA9B000
+resp_tx_ts_sec: 5.607756
+resp_tx_ts_nanosec: 5607755576
+tag id: 'B L'
+
+Transmission # : 436
+resp_tx_ts: CCD96200
+resp_tx_ts_sec: 5.699965
+resp_tx_ts_nanosec: 5699964495
+tag id: 'B L'
+
+Transmission # : 437
+resp_tx_ts: 2C05AC00
+resp_tx_ts_sec: 5.792170
+resp_tx_ts_nanosec: 5792169919
+tag id: 'B L'
+
+Transmission # : 438
+resp_tx_ts: 8B32B800
+resp_tx_ts_sec: 5.884376
+resp_tx_ts_nanosec: 5884376121
+tag id: 'B L'
+
+Transmission # : 439
+resp_tx_ts: EA601200
+resp_tx_ts_sec: 5.976583
+resp_tx_ts_nanosec: 5976582636
+tag id: 'B L'
+
+Transmission # : 440
+resp_tx_ts: 498FB800
+resp_tx_ts_sec: 6.068791
+resp_tx_ts_nanosec: 6068791506
+tag id: 'B L'
+
+Transmission # : 441
+resp_tx_ts: A8E25200
+resp_tx_ts_sec: 6.161036
+resp_tx_ts_nanosec: 6161036225
+tag id: 'B L'
+
+Transmission # : 442
+resp_tx_ts: 7E78400
+resp_tx_ts_sec: 6.253201
+resp_tx_ts_nanosec: 6253201554
+tag id: 'B L'
+
+Transmission # : 443
+resp_tx_ts: 67144C00
+resp_tx_ts_sec: 6.345407
+resp_tx_ts_nanosec: 6345407483
+tag id: 'B L'
+
+Transmission # : 444
+resp_tx_ts: C63DEC00
+resp_tx_ts_sec: 6.437610
+resp_tx_ts_nanosec: 6437610176
+tag id: 'B L'
+
+Transmission # : 445
+resp_tx_ts: 25644000
+resp_tx_ts_sec: 6.529809
+resp_tx_ts_nanosec: 6529809487
+tag id: 'B L'
+
+Transmission # : 446
+resp_tx_ts: 848C4400
+resp_tx_ts_sec: 6.622011
+resp_tx_ts_nanosec: 6622010528
+tag id: 'B L'
+
+Transmission # : 447
+resp_tx_ts: E3B1A600
+resp_tx_ts_sec: 6.714209
+resp_tx_ts_nanosec: 6714208870
+tag id: 'B L'
+
+Transmission # : 448
+resp_tx_ts: 42D4E200
+resp_tx_ts_sec: 6.806405
+resp_tx_ts_nanosec: 6806405008
+tag id: 'B L'
+
+Transmission # : 449
+resp_tx_ts: A1F63200
+resp_tx_ts_sec: 6.898599
+resp_tx_ts_nanosec: 6898599174
+tag id: 'B L'
+
+Transmission # : 450
+resp_tx_ts: 11B5200
+resp_tx_ts_sec: 6.990797
+resp_tx_ts_nanosec: 6990797251
+tag id: 'B L'
+
+Transmission # : 451
+resp_tx_ts: 6043AC00
+resp_tx_ts_sec: 7.082999
+resp_tx_ts_nanosec: 7082998637
+tag id: 'B L'
+
+Transmission # : 452
+resp_tx_ts: BF6A6E00
+resp_tx_ts_sec: 7.175199
+resp_tx_ts_nanosec: 7175198389
+tag id: 'B L'
+
+Transmission # : 453
+resp_tx_ts: 1E8FE200
+resp_tx_ts_sec: 7.267397
+resp_tx_ts_nanosec: 7267396802
+tag id: 'B L'
+
+Transmission # : 454
+resp_tx_ts: 7DB2F800
+resp_tx_ts_sec: 7.359593
+resp_tx_ts_nanosec: 7359592788
+tag id: 'B L'
+
+Transmission # : 455
+resp_tx_ts: DCD69600
+resp_tx_ts_sec: 7.451789
+resp_tx_ts_nanosec: 7451789318
+tag id: 'B L'
+
+Transmission # : 456
+resp_tx_ts: 3BFAC600
+resp_tx_ts_sec: 7.543986
+resp_tx_ts_nanosec: 7543986434
+tag id: 'B L'
+
+Transmission # : 457
+resp_tx_ts: 9B1BC600
+resp_tx_ts_sec: 7.636180
+resp_tx_ts_nanosec: 7636180280
+tag id: 'B L'
+
+Transmission # : 458
+resp_tx_ts: FA422A00
+resp_tx_ts_sec: 7.728380
+resp_tx_ts_nanosec: 7728379655
+tag id: 'B L'
+
+Transmission # : 459
+resp_tx_ts: 5968A400
+resp_tx_ts_sec: 7.820579
+resp_tx_ts_nanosec: 7820579118
+tag id: 'B L'
+
+Transmission # : 460
+resp_tx_ts: B88C3A00
+resp_tx_ts_sec: 7.912776
+resp_tx_ts_nanosec: 7912775616
+tag id: 'B L'
+
+Transmission # : 461
+resp_tx_ts: 17D43E00
+resp_tx_ts_sec: 8.005010
+resp_tx_ts_nanosec: 8005009479
+tag id: 'B L'
+
+Transmission # : 462
+resp_tx_ts: 76D24200
+resp_tx_ts_sec: 8.097167
+resp_tx_ts_nanosec: 8097167443
+tag id: 'B L'
+
+Transmission # : 463
+resp_tx_ts: D5F80E00
+resp_tx_ts_sec: 8.189367
+resp_tx_ts_nanosec: 8189366209
+tag id: 'B L'
+
+Transmission # : 464
+resp_tx_ts: 351FDE00
+resp_tx_ts_sec: 8.281567
+resp_tx_ts_nanosec: 8281567043
+tag id: 'B L'
+
+Transmission # : 465
+resp_tx_ts: 94473800
+resp_tx_ts_sec: 8.373768
+resp_tx_ts_nanosec: 8373767403
+tag id: 'B L'
+
+Transmission # : 466
+resp_tx_ts: F36E4200
+resp_tx_ts_sec: 8.465968
+resp_tx_ts_nanosec: 8465967443
+tag id: 'B L'
+
+Transmission # : 467
+resp_tx_ts: 52922400
+resp_tx_ts_sec: 8.558165
+resp_tx_ts_nanosec: 8558164246
+tag id: 'B L'
+
+Transmission # : 468
+resp_tx_ts: B1B69800
+resp_tx_ts_sec: 8.650362
+resp_tx_ts_nanosec: 8650361634
+tag id: 'B L'
+
+Transmission # : 469
+resp_tx_ts: 10DADC00
+resp_tx_ts_sec: 8.742559
+resp_tx_ts_nanosec: 8742558830
+tag id: 'B L'
+
+Transmission # : 470
+resp_tx_ts: 6FFFEA00
+resp_tx_ts_sec: 8.834757
+resp_tx_ts_nanosec: 8834756834
+tag id: 'B L'
+
+Transmission # : 471
+resp_tx_ts: CF247E00
+resp_tx_ts_sec: 8.926955
+resp_tx_ts_nanosec: 8926954350
+tag id: 'B L'
+
+Transmission # : 472
+resp_tx_ts: 2E4C9600
+resp_tx_ts_sec: 9.019156
+resp_tx_ts_nanosec: 9019155472
+tag id: 'B L'
+
+Transmission # : 473
+resp_tx_ts: 8D714000
+resp_tx_ts_sec: 9.111353
+resp_tx_ts_nanosec: 9111353076
+tag id: 'B L'
+
+Transmission # : 474
+resp_tx_ts: EC968800
+resp_tx_ts_sec: 9.203552
+resp_tx_ts_nanosec: 9203551314
+tag id: 'B L'
+
+Transmission # : 475
+resp_tx_ts: 4BB90200
+resp_tx_ts_sec: 9.295747
+resp_tx_ts_nanosec: 9295746674
+tag id: 'B L'
+
+Transmission # : 476
+resp_tx_ts: AADC4800
+resp_tx_ts_sec: 9.387944
+resp_tx_ts_nanosec: 9387942852
+tag id: 'B L'
+
+Transmission # : 477
+resp_tx_ts: 9FFB800
+resp_tx_ts_sec: 9.480139
+resp_tx_ts_nanosec: 9480139198
+tag id: 'B L'
+
+Transmission # : 478
+resp_tx_ts: 69248200
+resp_tx_ts_sec: 9.572338
+resp_tx_ts_nanosec: 9572336931
+tag id: 'B L'
+
+Transmission # : 479
+resp_tx_ts: C8483200
+resp_tx_ts_sec: 9.664534
+resp_tx_ts_nanosec: 9664533533
+tag id: 'B L'
+
+Transmission # : 480
+resp_tx_ts: 276EB400
+resp_tx_ts_sec: 9.756733
+resp_tx_ts_nanosec: 9756733028
+tag id: 'B L'
+
+Transmission # : 481
+resp_tx_ts: 86B76E00
+resp_tx_ts_sec: 9.848968
+resp_tx_ts_nanosec: 9848967620
+tag id: 'B L'
+
+Transmission # : 482
+resp_tx_ts: E5B5B800
+resp_tx_ts_sec: 9.941126
+resp_tx_ts_nanosec: 9941125865
+tag id: 'B L'
+
+Transmission # : 483
+resp_tx_ts: 44D99000
+resp_tx_ts_sec: 10.033323
+resp_tx_ts_nanosec: 10033322628
+tag id: 'B L'
+
+Transmission # : 484
+resp_tx_ts: A3FAAC00
+resp_tx_ts_sec: 10.125517
+resp_tx_ts_nanosec: 10125516586
+tag id: 'B L'
+
+Transmission # : 485
+resp_tx_ts: 31D1800
+resp_tx_ts_sec: 10.217712
+resp_tx_ts_nanosec: 10217711891
+tag id: 'B L'
+
+Transmission # : 486
+resp_tx_ts: 6240F000
+resp_tx_ts_sec: 10.309909
+resp_tx_ts_nanosec: 10309908653
+tag id: 'B L'
+
+Transmission # : 487
+resp_tx_ts: C1663000
+resp_tx_ts_sec: 10.402108
+resp_tx_ts_nanosec: 10402106858
+tag id: 'B L'
+
+Transmission # : 488
+resp_tx_ts: 208B1000
+resp_tx_ts_sec: 10.494305
+resp_tx_ts_nanosec: 10494304679
+tag id: 'B L'
+
+Transmission # : 489
+resp_tx_ts: 7FAEF800
+resp_tx_ts_sec: 10.586502
+resp_tx_ts_nanosec: 10586501506
+tag id: 'B L'
+
+Transmission # : 490
+resp_tx_ts: DED45200
+resp_tx_ts_sec: 10.678700
+resp_tx_ts_nanosec: 10678699815
+tag id: 'B L'
+
+Transmission # : 491
+resp_tx_ts: 3DF7BA00
+resp_tx_ts_sec: 10.770896
+resp_tx_ts_nanosec: 10770896129
+tag id: 'B L'
+
+Transmission # : 492
+resp_tx_ts: 9D1AFA00
+resp_tx_ts_sec: 10.863093
+resp_tx_ts_nanosec: 10863092283
+tag id: 'B L'
+
+Transmission # : 493
+resp_tx_ts: FC3EF800
+resp_tx_ts_sec: 10.955289
+resp_tx_ts_nanosec: 10955289198
+tag id: 'B L'
+
+Transmission # : 494
+resp_tx_ts: 5B64E600
+resp_tx_ts_sec: 11.047489
+resp_tx_ts_nanosec: 11047488100
+tag id: 'B L'
+
+Transmission # : 495
+resp_tx_ts: BA885C00
+resp_tx_ts_sec: 11.139685
+resp_tx_ts_nanosec: 11139684471
+tag id: 'B L'
+
+Transmission # : 496
+resp_tx_ts: 19ACFE00
+resp_tx_ts_sec: 11.231883
+resp_tx_ts_nanosec: 11231882043
+tag id: 'B L'
+
+Transmission # : 497
+resp_tx_ts: 78D40E00
+resp_tx_ts_sec: 11.324083
+resp_tx_ts_nanosec: 11324082107
+tag id: 'B L'
+
+Transmission # : 498
+resp_tx_ts: D7F76600
+resp_tx_ts_sec: 11.416278
+resp_tx_ts_nanosec: 11416278357
+tag id: 'B L'
+
+Transmission # : 499
+resp_tx_ts: 37188A00
+resp_tx_ts_sec: 11.508473
+resp_tx_ts_nanosec: 11508472347
+tag id: 'B L'
+
+Transmission # : 500
+resp_tx_ts: 9639F600
+resp_tx_ts_sec: 11.600667
+resp_tx_ts_nanosec: 11600666626
+tag id: 'B L'
+
+Transmission # : 501
+resp_tx_ts: F5831C00
+resp_tx_ts_sec: 11.692902
+resp_tx_ts_nanosec: 11692901650
+tag id: 'B L'
+
+Transmission # : 502
+resp_tx_ts: 54870600
+resp_tx_ts_sec: 11.785066
+resp_tx_ts_nanosec: 11785065665
+tag id: 'B L'
+
+Transmission # : 503
+resp_tx_ts: B3AF6000
+resp_tx_ts_sec: 11.877267
+resp_tx_ts_nanosec: 11877267051
+tag id: 'B L'
+
+Transmission # : 504
+resp_tx_ts: 12D4E000
+resp_tx_ts_sec: 11.969466
+resp_tx_ts_nanosec: 11969465512
+tag id: 'B L'
+
+Transmission # : 505
+resp_tx_ts: 71FB8800
+resp_tx_ts_sec: 12.061666
+resp_tx_ts_nanosec: 12061665160
+tag id: 'B L'
+
+Transmission # : 506
+resp_tx_ts: D11E5A00
+resp_tx_ts_sec: 12.153862
+resp_tx_ts_nanosec: 12153860873
+tag id: 'B L'
+
+Transmission # : 507
+resp_tx_ts: 3041CA00
+resp_tx_ts_sec: 12.246058
+resp_tx_ts_nanosec: 12246057219
+tag id: 'B L'
+
+Transmission # : 508
+resp_tx_ts: 8F66CC00
+resp_tx_ts_sec: 12.338255
+resp_tx_ts_nanosec: 12338255176
+tag id: 'B L'
+
+Transmission # : 509
+resp_tx_ts: EE8DDE00
+resp_tx_ts_sec: 12.430456
+resp_tx_ts_nanosec: 12430455248
+tag id: 'B L'
+
+Transmission # : 510
+resp_tx_ts: 4DB1C600
+resp_tx_ts_sec: 12.522652
+resp_tx_ts_nanosec: 12522652075
+tag id: 'B L'
+
+Transmission # : 511
+resp_tx_ts: ACD55400
+resp_tx_ts_sec: 12.614849
+resp_tx_ts_nanosec: 12614848541
+tag id: 'B L'
+
+Transmission # : 512
+resp_tx_ts: BF8E000
+resp_tx_ts_sec: 12.707045
+resp_tx_ts_nanosec: 12707045000
+tag id: 'B L'
+
+Transmission # : 513
+resp_tx_ts: 6B1AE000
+resp_tx_ts_sec: 12.799241
+resp_tx_ts_nanosec: 12799239871
+tag id: 'B L'
+
+Transmission # : 514
+resp_tx_ts: CA41DE00
+resp_tx_ts_sec: 12.891440
+resp_tx_ts_nanosec: 12891439863
+tag id: 'B L'
+
+Transmission # : 515
+resp_tx_ts: 2968F400
+resp_tx_ts_sec: 12.983640
+resp_tx_ts_nanosec: 12983639951
+tag id: 'B L'
+
+Transmission # : 516
+resp_tx_ts: 88944A00
+resp_tx_ts_sec: 13.075845
+resp_tx_ts_nanosec: 13075844399
+tag id: 'B L'
+
+Transmission # : 517
+resp_tx_ts: E7C02400
+resp_tx_ts_sec: 13.168050
+resp_tx_ts_nanosec: 13168049375
+tag id: 'B L'
+
+Transmission # : 518
+resp_tx_ts: 46ECB800
+resp_tx_ts_sec: 13.260255
+resp_tx_ts_nanosec: 13260255096
+tag id: 'B L'
+
+Transmission # : 519
+resp_tx_ts: A61A1E00
+resp_tx_ts_sec: 13.352462
+resp_tx_ts_nanosec: 13352461658
+tag id: 'B L'
+
+Transmission # : 520
+resp_tx_ts: 545D800
+resp_tx_ts_sec: 13.444667
+resp_tx_ts_nanosec: 13444666506
+tag id: 'B L'
+
+Transmission # : 521
+resp_tx_ts: 64942E00
+resp_tx_ts_sec: 13.536908
+resp_tx_ts_nanosec: 13536906850
+tag id: 'B L'
+
+Transmission # : 522
+resp_tx_ts: C39B3A00
+resp_tx_ts_sec: 13.629075
+resp_tx_ts_nanosec: 13629074078
+tag id: 'B L'
+
+Transmission # : 523
+resp_tx_ts: 22C5F000
+resp_tx_ts_sec: 13.721279
+resp_tx_ts_nanosec: 13721277884
+tag id: 'B L'
+
+Transmission # : 524
+resp_tx_ts: 81F3FC00
+resp_tx_ts_sec: 13.813486
+resp_tx_ts_nanosec: 13813485112
+tag id: 'B L'
+
+Transmission # : 525
+resp_tx_ts: E1224200
+resp_tx_ts_sec: 13.905693
+resp_tx_ts_nanosec: 13905692572
+tag id: 'B L'
+
+Transmission # : 526
+resp_tx_ts: 404FC600
+resp_tx_ts_sec: 13.997900
+resp_tx_ts_nanosec: 13997899254
+tag id: 'B L'
+
+Transmission # : 527
+resp_tx_ts: 9F7CD000
+resp_tx_ts_sec: 14.090106
+resp_tx_ts_nanosec: 14090105448
+tag id: 'B L'
+
+Transmission # : 528
+resp_tx_ts: FEA9F400
+resp_tx_ts_sec: 14.182312
+resp_tx_ts_nanosec: 14182311746
+tag id: 'B L'
+
+Transmission # : 529
+resp_tx_ts: 5DD8A600
+resp_tx_ts_sec: 14.274520
+resp_tx_ts_nanosec: 14274519639
+tag id: 'B L'
+
+Transmission # : 530
+resp_tx_ts: BD045200
+resp_tx_ts_sec: 14.366724
+resp_tx_ts_nanosec: 14366724431
+tag id: 'B L'
+
+Transmission # : 531
+resp_tx_ts: 1C360600
+resp_tx_ts_sec: 14.458936
+resp_tx_ts_nanosec: 14458935408
+tag id: 'B L'
+
+Transmission # : 532
+resp_tx_ts: 7B608E00
+resp_tx_ts_sec: 14.551139
+resp_tx_ts_nanosec: 14551139030
+tag id: 'B L'
+
+Transmission # : 533
+resp_tx_ts: DA8A6A00
+resp_tx_ts_sec: 14.643343
+resp_tx_ts_nanosec: 14643341963
+tag id: 'B L'
+
+Transmission # : 534
+resp_tx_ts: 39B59000
+resp_tx_ts_sec: 14.735547
+resp_tx_ts_nanosec: 14735546217
+tag id: 'B L'
+
+Transmission # : 535
+resp_tx_ts: 98DDA800
+resp_tx_ts_sec: 14.827748
+resp_tx_ts_nanosec: 14827747339
+tag id: 'B L'
+
+Transmission # : 536
+resp_tx_ts: F8037600
+resp_tx_ts_sec: 14.919946
+resp_tx_ts_nanosec: 14919946113
+tag id: 'B L'
+
+Transmission # : 537
+resp_tx_ts: 572B4200
+resp_tx_ts_sec: 15.012147
+resp_tx_ts_nanosec: 15012146931
+tag id: 'B L'
+
+Transmission # : 538
+resp_tx_ts: B6538600
+resp_tx_ts_sec: 15.104349
+resp_tx_ts_nanosec: 15104348229
+tag id: 'B L'
+
+Transmission # : 539
+resp_tx_ts: 157AE400
+resp_tx_ts_sec: 15.196549
+resp_tx_ts_nanosec: 15196548605
+tag id: 'B L'
+
+Transmission # : 540
+resp_tx_ts: 74A15600
+resp_tx_ts_sec: 15.288748
+resp_tx_ts_nanosec: 15288748036
+tag id: 'B L'
+
+Transmission # : 541
+resp_tx_ts: D3ED5E00
+resp_tx_ts_sec: 15.380987
+resp_tx_ts_nanosec: 15380986017
+tag id: 'B L'
+
+Transmission # : 542
+resp_tx_ts: 32EFBA00
+resp_tx_ts_sec: 15.473149
+resp_tx_ts_nanosec: 15473148437
+tag id: 'B L'
+
+Transmission # : 543
+resp_tx_ts: 92160200
+resp_tx_ts_sec: 15.565348
+resp_tx_ts_nanosec: 15565347700
+tag id: 'B L'
+
+Transmission # : 544
+resp_tx_ts: F1416600
+resp_tx_ts_sec: 15.657552
+resp_tx_ts_nanosec: 15657552203
+tag id: 'B L'
+
+Transmission # : 545
+resp_tx_ts: 506C3400
+resp_tx_ts_sec: 15.749756
+resp_tx_ts_nanosec: 15749756105
+tag id: 'B L'
+
+Transmission # : 546
+resp_tx_ts: AF94EC00
+resp_tx_ts_sec: 15.841959
+resp_tx_ts_nanosec: 15841957868
+tag id: 'B L'
+
+Transmission # : 547
+resp_tx_ts: EC02E00
+resp_tx_ts_sec: 15.934163
+resp_tx_ts_nanosec: 15934162235
+tag id: 'B L'
+
+Transmission # : 548
+resp_tx_ts: 6DE8C400
+resp_tx_ts_sec: 16.026363
+resp_tx_ts_nanosec: 16026363862
+tag id: 'B L'
+
+Transmission # : 549
+resp_tx_ts: CD0FAE00
+resp_tx_ts_sec: 16.118564
+resp_tx_ts_nanosec: 16118563774
+tag id: 'B L'
+
+Transmission # : 550
+resp_tx_ts: 2C369C00
+resp_tx_ts_sec: 16.210763
+resp_tx_ts_nanosec: 16210763701
+tag id: 'B L'
+
+Transmission # : 551
+resp_tx_ts: 8B604000
+resp_tx_ts_sec: 16.302967
+resp_tx_ts_nanosec: 16302966410
+tag id: 'B L'
+
+Transmission # : 552
+resp_tx_ts: EA8A8C00
+resp_tx_ts_sec: 16.395170
+resp_tx_ts_nanosec: 16395169791
+tag id: 'B L'
+
+Transmission # : 553
+resp_tx_ts: 49B5EE00
+resp_tx_ts_sec: 16.487373
+resp_tx_ts_nanosec: 16487374286
+tag id: 'B L'
+
+Transmission # : 554
+resp_tx_ts: A8E27E00
+resp_tx_ts_sec: 16.579580
+resp_tx_ts_nanosec: 16579579991
+tag id: 'B L'
+
+Transmission # : 555
+resp_tx_ts: 80F6A00
+resp_tx_ts_sec: 16.671785
+resp_tx_ts_nanosec: 16671786065
+tag id: 'B L'
+
+Transmission # : 556
+resp_tx_ts: 673CF600
+resp_tx_ts_sec: 16.763992
+resp_tx_ts_nanosec: 16763992780
+tag id: 'B L'
+
+Transmission # : 557
+resp_tx_ts: C6697A00
+resp_tx_ts_sec: 16.856199
+resp_tx_ts_nanosec: 16856198437
+tag id: 'B L'
+
+Transmission # : 558
+resp_tx_ts: 25959000
+resp_tx_ts_sec: 16.948404
+resp_tx_ts_nanosec: 16948403653
+tag id: 'B L'
+
+Transmission # : 559
+resp_tx_ts: 84BEBE00
+resp_tx_ts_sec: 17.040605
+resp_tx_ts_nanosec: 17040605889
+tag id: 'B L'
+
+Transmission # : 560
+resp_tx_ts: E3EAF400
+resp_tx_ts_sec: 17.132810
+resp_tx_ts_nanosec: 17132811233
+tag id: 'B L'
+
+Transmission # : 561
+resp_tx_ts: 43399200
+resp_tx_ts_sec: 0.017651
+resp_tx_ts_nanosec: 17650841
+tag id: 'B L'
+
+Transmission # : 562
+resp_tx_ts: A23AAE00
+resp_tx_ts_sec: 0.109812
+resp_tx_ts_nanosec: 109811979
+tag id: 'B L'
+
+Transmission # : 563
+resp_tx_ts: 1643600
+resp_tx_ts_sec: 0.202015
+resp_tx_ts_nanosec: 202014575
+tag id: 'B L'
+
+Transmission # : 564
+resp_tx_ts: 608BEC00
+resp_tx_ts_sec: 0.294215
+resp_tx_ts_nanosec: 294215304
+tag id: 'B L'
+
+Transmission # : 565
+resp_tx_ts: BFB37600
+resp_tx_ts_sec: 0.386416
+resp_tx_ts_nanosec: 386415857
+tag id: 'B L'
+
+Transmission # : 566
+resp_tx_ts: 1EDDA800
+resp_tx_ts_sec: 0.478619
+resp_tx_ts_nanosec: 478619134
+tag id: 'B L'
+
+Transmission # : 567
+resp_tx_ts: 7E059E00
+resp_tx_ts_sec: 0.570820
+resp_tx_ts_nanosec: 570820120
+tag id: 'B L'
+
+Transmission # : 568
+resp_tx_ts: DD2D6600
+resp_tx_ts_sec: 0.663021
+resp_tx_ts_nanosec: 663020921
+tag id: 'B L'
+
+Transmission # : 569
+resp_tx_ts: 3C581200
+resp_tx_ts_sec: 0.755225
+resp_tx_ts_nanosec: 755224687
+tag id: 'B L'
+
+Transmission # : 570
+resp_tx_ts: 9B81DE00
+resp_tx_ts_sec: 0.847428
+resp_tx_ts_nanosec: 847427556
+tag id: 'B L'
+
+Transmission # : 571
+resp_tx_ts: FAA99000
+resp_tx_ts_sec: 0.939628
+resp_tx_ts_nanosec: 939628269
+tag id: 'B L'
+
+Transmission # : 572
+resp_tx_ts: 59CF8E00
+resp_tx_ts_sec: 1.031827
+resp_tx_ts_nanosec: 1031827235
+tag id: 'B L'
+
+Transmission # : 573
+resp_tx_ts: B8F8DC00
+resp_tx_ts_sec: 1.124030
+resp_tx_ts_nanosec: 1124029599
+tag id: 'B L'
+
+Transmission # : 574
+resp_tx_ts: 18249C00
+resp_tx_ts_sec: 1.216234
+resp_tx_ts_nanosec: 1216234471
+tag id: 'B L'
+
+Transmission # : 575
+resp_tx_ts: 774BB400
+resp_tx_ts_sec: 1.308435
+resp_tx_ts_nanosec: 1308434567
+tag id: 'B L'
+
+Transmission # : 576
+resp_tx_ts: D6720A00
+resp_tx_ts_sec: 1.400634
+resp_tx_ts_nanosec: 1400633886
+tag id: 'B L'
+
+Transmission # : 577
+resp_tx_ts: 35998E00
+resp_tx_ts_sec: 1.492834
+resp_tx_ts_nanosec: 1492834415
+tag id: 'B L'
+
+Transmission # : 578
+resp_tx_ts: 94C1A800
+resp_tx_ts_sec: 1.585036
+resp_tx_ts_nanosec: 1585035544
+tag id: 'B L'
+
+Transmission # : 579
+resp_tx_ts: F3EC9200
+resp_tx_ts_sec: 1.677240
+resp_tx_ts_nanosec: 1677239559
+tag id: 'B L'
+
+Transmission # : 580
+resp_tx_ts: 53179A00
+resp_tx_ts_sec: 1.769444
+resp_tx_ts_nanosec: 1769443693
+tag id: 'B L'
+
+Transmission # : 581
+resp_tx_ts: B2645600
+resp_tx_ts_sec: 1.861682
+resp_tx_ts_nanosec: 1861682395
+tag id: 'B L'
+
+Transmission # : 582
+resp_tx_ts: 116B4400
+resp_tx_ts_sec: 1.953850
+resp_tx_ts_nanosec: 1953849503
+tag id: 'B L'
+
+Transmission # : 583
+resp_tx_ts: 70951200
+resp_tx_ts_sec: 2.046052
+resp_tx_ts_nanosec: 2046052379
+tag id: 'B L'
+
+Transmission # : 584
+resp_tx_ts: CFBEE400
+resp_tx_ts_sec: 2.138255
+resp_tx_ts_nanosec: 2138255272
+tag id: 'B L'
+
+Transmission # : 585
+resp_tx_ts: 2EE6D400
+resp_tx_ts_sec: 2.230456
+resp_tx_ts_nanosec: 2230456233
+tag id: 'B L'
+
+Transmission # : 586
+resp_tx_ts: 8E144600
+resp_tx_ts_sec: 2.322663
+resp_tx_ts_nanosec: 2322662844
+tag id: 'B L'
+
+Transmission # : 587
+resp_tx_ts: ED3ED600
+resp_tx_ts_sec: 2.414866
+resp_tx_ts_nanosec: 2414866498
+tag id: 'B L'
+
+Transmission # : 588
+resp_tx_ts: 4C6A6600
+resp_tx_ts_sec: 2.507071
+resp_tx_ts_nanosec: 2507071177
+tag id: 'B L'
+
+Transmission # : 589
+resp_tx_ts: AB948000
+resp_tx_ts_sec: 2.599274
+resp_tx_ts_nanosec: 2599274358
+tag id: 'B L'
+
+Transmission # : 590
+resp_tx_ts: ABE7600
+resp_tx_ts_sec: 2.691477
+resp_tx_ts_nanosec: 2691477395
+tag id: 'B L'
+
+Transmission # : 591
+resp_tx_ts: 69E99A00
+resp_tx_ts_sec: 2.783682
+resp_tx_ts_nanosec: 2783681642
+tag id: 'B L'
+
+Transmission # : 592
+resp_tx_ts: C9144000
+resp_tx_ts_sec: 2.875885
+resp_tx_ts_nanosec: 2875885384
+tag id: 'B L'
+
+Transmission # : 593
+resp_tx_ts: 283F6A00
+resp_tx_ts_sec: 2.968090
+resp_tx_ts_nanosec: 2968089655
+tag id: 'B L'
+
+Transmission # : 594
+resp_tx_ts: 876B2200
+resp_tx_ts_sec: 3.060294
+resp_tx_ts_nanosec: 3060294495
+tag id: 'B L'
+
+Transmission # : 595
+resp_tx_ts: E6977E00
+resp_tx_ts_sec: 3.152500
+resp_tx_ts_nanosec: 3152499991
+tag id: 'B L'
+
+Transmission # : 596
+resp_tx_ts: 45C81400
+resp_tx_ts_sec: 3.244710
+resp_tx_ts_nanosec: 3244709823
+tag id: 'B L'
+
+Transmission # : 597
+resp_tx_ts: A4F5E000
+resp_tx_ts_sec: 3.336917
+resp_tx_ts_nanosec: 3336916794
+tag id: 'B L'
+
+Transmission # : 598
+resp_tx_ts: 426CC00
+resp_tx_ts_sec: 3.429127
+resp_tx_ts_nanosec: 3429126971
+tag id: 'B L'
+
+Transmission # : 599
+resp_tx_ts: 635A4200
+resp_tx_ts_sec: 3.521340
+resp_tx_ts_nanosec: 3521339751
+tag id: 'B L'
+
+Transmission # : 600
+resp_tx_ts: C28EB600
+resp_tx_ts_sec: 3.613554
+resp_tx_ts_nanosec: 3613553549
+tag id: 'B L'
+
+Transmission # : 601
+resp_tx_ts: 21E3F000
+resp_tx_ts_sec: 3.705801
+resp_tx_ts_nanosec: 3705800961
+tag id: 'B L'
+
+Transmission # : 602
+resp_tx_ts: 80ED9C00
+resp_tx_ts_sec: 3.797971
+resp_tx_ts_nanosec: 3797970881
+tag id: 'B L'
+
+Transmission # : 603
+resp_tx_ts: E01B8A00
+resp_tx_ts_sec: 3.890178
+resp_tx_ts_nanosec: 3890177988
+tag id: 'B L'
+
+Transmission # : 604
+resp_tx_ts: 3F457400
+resp_tx_ts_sec: 3.982381
+resp_tx_ts_nanosec: 3982380977
+tag id: 'B L'
+
+Transmission # : 605
+resp_tx_ts: 9E6E4E00
+resp_tx_ts_sec: 4.074583
+resp_tx_ts_nanosec: 4074582876
+tag id: 'B L'
+
+Transmission # : 606
+resp_tx_ts: FD99A000
+resp_tx_ts_sec: 4.166787
+resp_tx_ts_nanosec: 4166787307
+tag id: 'B L'
+
+Transmission # : 607
+resp_tx_ts: 5CC93000
+resp_tx_ts_sec: 4.258996
+resp_tx_ts_nanosec: 4258996089
+tag id: 'B L'
+
+Transmission # : 608
+resp_tx_ts: BBF7FA00
+resp_tx_ts_sec: 4.351204
+resp_tx_ts_nanosec: 4351204078
+tag id: 'B L'
+
+Transmission # : 609
+resp_tx_ts: 1B231E00
+resp_tx_ts_sec: 4.443408
+resp_tx_ts_nanosec: 4443408325
+tag id: 'B L'
+
+Transmission # : 610
+resp_tx_ts: 7A518C00
+resp_tx_ts_sec: 4.535616
+resp_tx_ts_nanosec: 4535615945
+tag id: 'B L'
+
+Transmission # : 611
+resp_tx_ts: D97C9000
+resp_tx_ts_sec: 4.627820
+resp_tx_ts_nanosec: 4627820064
+tag id: 'B L'
+
+Transmission # : 612
+resp_tx_ts: 38A33400
+resp_tx_ts_sec: 4.720020
+resp_tx_ts_nanosec: 4720019695
+tag id: 'B L'
+
+Transmission # : 613
+resp_tx_ts: 97CE1800
+resp_tx_ts_sec: 4.812224
+resp_tx_ts_nanosec: 4812223685
+tag id: 'B L'
+
+Transmission # : 614
+resp_tx_ts: F6F69600
+resp_tx_ts_sec: 4.904425
+resp_tx_ts_nanosec: 4904425216
+tag id: 'B L'
+
+Transmission # : 615
+resp_tx_ts: 56214200
+resp_tx_ts_sec: 4.996629
+resp_tx_ts_nanosec: 4996628982
+tag id: 'B L'
+
+Transmission # : 616
+resp_tx_ts: B54F5A00
+resp_tx_ts_sec: 5.088836
+resp_tx_ts_nanosec: 5088836258
+tag id: 'B L'
+
+Transmission # : 617
+resp_tx_ts: 147A2A00
+resp_tx_ts_sec: 5.181040
+resp_tx_ts_nanosec: 5181040168
+tag id: 'B L'
+
+Transmission # : 618
+resp_tx_ts: 73A33C00
+resp_tx_ts_sec: 5.273242
+resp_tx_ts_nanosec: 5273242291
+tag id: 'B L'
+
+Transmission # : 619
+resp_tx_ts: D2CFC800
+resp_tx_ts_sec: 5.365448
+resp_tx_ts_nanosec: 5365447980
+tag id: 'B L'
+
+Transmission # : 620
+resp_tx_ts: 31FC7E00
+resp_tx_ts_sec: 5.457654
+resp_tx_ts_nanosec: 5457653838
+tag id: 'B L'
+
+Transmission # : 621
+resp_tx_ts: 914DE800
+resp_tx_ts_sec: 5.549897
+resp_tx_ts_nanosec: 5549897339
+tag id: 'B L'
+
+Transmission # : 622
+resp_tx_ts: F054B600
+resp_tx_ts_sec: 5.642064
+resp_tx_ts_nanosec: 5642064318
+tag id: 'B L'
+
+Transmission # : 623
+resp_tx_ts: 4F807A00
+resp_tx_ts_sec: 5.734269
+resp_tx_ts_nanosec: 5734269206
+tag id: 'B L'
+
+Transmission # : 624
+resp_tx_ts: AEABFC00
+resp_tx_ts_sec: 5.826474
+resp_tx_ts_nanosec: 5826473830
+tag id: 'B L'
+
+Transmission # : 625
+resp_tx_ts: DD48400
+resp_tx_ts_sec: 5.918675
+resp_tx_ts_nanosec: 5918675400
+tag id: 'B L'
+
+Transmission # : 626
+resp_tx_ts: 6D00C600
+resp_tx_ts_sec: 6.010881
+resp_tx_ts_nanosec: 6010880793
+tag id: 'B L'
+
+Transmission # : 627
+resp_tx_ts: CC2BAC00
+resp_tx_ts_sec: 6.103085
+resp_tx_ts_nanosec: 6103084791
+tag id: 'B L'
+
+Transmission # : 628
+resp_tx_ts: 2B594C00
+resp_tx_ts_sec: 6.195292
+resp_tx_ts_nanosec: 6195291586
+tag id: 'B L'
+
+Transmission # : 629
+resp_tx_ts: 8A8CE600
+resp_tx_ts_sec: 6.287505
+resp_tx_ts_nanosec: 6287504511
+tag id: 'B L'
+
+Transmission # : 630
+resp_tx_ts: E9B97E00
+resp_tx_ts_sec: 6.379710
+resp_tx_ts_nanosec: 6379710248
+tag id: 'B L'
+
+Transmission # : 631
+resp_tx_ts: 48E94600
+resp_tx_ts_sec: 6.471919
+resp_tx_ts_nanosec: 6471919254
+tag id: 'B L'
+
+Transmission # : 632
+resp_tx_ts: A817B600
+resp_tx_ts_sec: 6.564127
+resp_tx_ts_nanosec: 6564126883
+tag id: 'B L'
+
+Transmission # : 633
+resp_tx_ts: 746AE00
+resp_tx_ts_sec: 6.656335
+resp_tx_ts_nanosec: 6656335056
+tag id: 'B L'
+
+Transmission # : 634
+resp_tx_ts: 6675A400
+resp_tx_ts_sec: 6.748543
+resp_tx_ts_nanosec: 6748543221
+tag id: 'B L'
+
+Transmission # : 635
+resp_tx_ts: C5A71600
+resp_tx_ts_sec: 6.840754
+resp_tx_ts_nanosec: 6840753934
+tag id: 'B L'
+
+Transmission # : 636
+resp_tx_ts: 24D69800
+resp_tx_ts_sec: 6.932963
+resp_tx_ts_nanosec: 6932962660
+tag id: 'B L'
+
+Transmission # : 637
+resp_tx_ts: 8402E200
+resp_tx_ts_sec: 7.025168
+resp_tx_ts_nanosec: 7025168084
+tag id: 'B L'
+
+Transmission # : 638
+resp_tx_ts: E32F6600
+resp_tx_ts_sec: 7.117374
+resp_tx_ts_nanosec: 7117373741
+tag id: 'B L'
+
+Transmission # : 639
+resp_tx_ts: 425A5000
+resp_tx_ts_sec: 7.209578
+resp_tx_ts_nanosec: 7209577756
+tag id: 'B L'
+
+Transmission # : 640
+resp_tx_ts: A187B600
+resp_tx_ts_sec: 7.301785
+resp_tx_ts_nanosec: 7301784318
+tag id: 'B L'
+
+Transmission # : 641
+resp_tx_ts: D9F000
+resp_tx_ts_sec: 7.394029
+resp_tx_ts_nanosec: 7394028653
+tag id: 'B L'
+
+Transmission # : 642
+resp_tx_ts: 5FDF8200
+resp_tx_ts_sec: 7.486194
+resp_tx_ts_nanosec: 7486194366
+tag id: 'B L'
+
+Transmission # : 643
+resp_tx_ts: BF09C600
+resp_tx_ts_sec: 7.578398
+resp_tx_ts_nanosec: 7578397716
+tag id: 'B L'
+
+Transmission # : 644
+resp_tx_ts: 1E347E00
+resp_tx_ts_sec: 7.670601
+resp_tx_ts_nanosec: 7670601530
+tag id: 'B L'
+
+Transmission # : 645
+resp_tx_ts: 7D604800
+resp_tx_ts_sec: 7.762806
+resp_tx_ts_nanosec: 7762806442
+tag id: 'B L'
+
+Transmission # : 646
+resp_tx_ts: DC8B8000
+resp_tx_ts_sec: 7.855011
+resp_tx_ts_nanosec: 7855010769
+tag id: 'B L'
+
+Transmission # : 647
+resp_tx_ts: 3BB97200
+resp_tx_ts_sec: 7.947218
+resp_tx_ts_nanosec: 7947217892
+tag id: 'B L'
+
+Transmission # : 648
+resp_tx_ts: 9AE49C00
+resp_tx_ts_sec: 8.039422
+resp_tx_ts_nanosec: 8039422163
+tag id: 'B L'
+
+Transmission # : 649
+resp_tx_ts: FA130A00
+resp_tx_ts_sec: 8.131630
+resp_tx_ts_nanosec: 8131629783
+tag id: 'B L'
+
+Transmission # : 650
+resp_tx_ts: 5942FA00
+resp_tx_ts_sec: 8.223839
+resp_tx_ts_nanosec: 8223838950
+tag id: 'B L'
+
+Transmission # : 651
+resp_tx_ts: B86F9800
+resp_tx_ts_sec: 8.316045
+resp_tx_ts_nanosec: 8316044711
+tag id: 'B L'
+
+Transmission # : 652
+resp_tx_ts: 179E3E00
+resp_tx_ts_sec: 8.408253
+resp_tx_ts_nanosec: 8408252556
+tag id: 'B L'
+
+Transmission # : 653
+resp_tx_ts: 76CBC600
+resp_tx_ts_sec: 8.500460
+resp_tx_ts_nanosec: 8500459254
+tag id: 'B L'
+
+Transmission # : 654
+resp_tx_ts: D5F6B000
+resp_tx_ts_sec: 8.592663
+resp_tx_ts_nanosec: 8592663269
+tag id: 'B L'
+
+Transmission # : 655
+resp_tx_ts: 35203A00
+resp_tx_ts_sec: 8.684866
+resp_tx_ts_nanosec: 8684865873
+tag id: 'B L'
+
+Transmission # : 656
+resp_tx_ts: 9449DC00
+resp_tx_ts_sec: 8.777069
+resp_tx_ts_nanosec: 8777068573
+tag id: 'B L'
+
+Transmission # : 657
+resp_tx_ts: F3779A00
+resp_tx_ts_sec: 8.869276
+resp_tx_ts_nanosec: 8869275488
+tag id: 'B L'
+
+Transmission # : 658
+resp_tx_ts: 52A2BA00
+resp_tx_ts_sec: 8.961481
+resp_tx_ts_nanosec: 8961479719
+tag id: 'B L'
+
+Transmission # : 659
+resp_tx_ts: B1CD9A00
+resp_tx_ts_sec: 9.053684
+resp_tx_ts_nanosec: 9053683693
+tag id: 'B L'
+
+Transmission # : 660
+resp_tx_ts: 10FA2E00
+resp_tx_ts_sec: 9.145890
+resp_tx_ts_nanosec: 9145889415
+tag id: 'B L'
+
+Transmission # : 661
+resp_tx_ts: 704E7600
+resp_tx_ts_sec: 9.238137
+resp_tx_ts_nanosec: 9238135857
+tag id: 'B L'
+
+Transmission # : 662
+resp_tx_ts: CF59A200
+resp_tx_ts_sec: 9.330307
+resp_tx_ts_nanosec: 9330307315
+tag id: 'B L'
+
+
+# Logging stopped @  9 Apr 2020  0:54:49
